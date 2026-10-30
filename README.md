@@ -2,7 +2,7 @@
 
 > *"That I may know him, and the power of his resurrection, and the fellowship of his sufferings, being conformed to his death."* — Philippians 3:10
 
-**Know Him More** is a mobile-first, installable Progressive Web App (PWA) designed for deep daily devotion, Bible study, and scripture memorization. Across 365 days, users journey through the biblical storyline by exploring the lives of men and women across Scripture—not merely collecting Bible trivia, but getting to know God's character, heart, and redemptive ways.
+**Know Him More** is a mobile-first, installable Progressive Web App (PWA) designed for deep daily devotion, Bible study, and scripture memorization. All **365 days of complete, uncurtailed content** are generated and bundled directly into the app—no live AI or API calls required. Across 365 days, users journey through the biblical storyline by exploring the lives of men and women across Scripture—not merely collecting Bible trivia, but getting to know God's character, heart, and redemptive ways.
 
 ---
 

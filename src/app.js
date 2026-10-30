@@ -736,7 +736,7 @@
     el.prevDayBtn.disabled = (dayNum <= 1);
     el.nextDayBtn.disabled = (dayNum >= 365);
 
-    // Check if day exists in Days 1 to 7 content
+    // Check if day exists in Days 1 to 365 full content
     const fullContent = (window.DAYS_CONTENT || {})[dayNum];
 
     if (fullContent) {

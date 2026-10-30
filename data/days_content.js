@@ -1,4 +1,4 @@
-// Know Him More - Complete Days 1 to 337 Content (Batches 1 to 11 Complete)
+// Know Him More - Complete 365 Days Devotional Content (All Batches 1 to 12 Complete)
 window.DAYS_CONTENT = {
   "1": {
     "day": 1,
@@ -73158,6 +73158,5677 @@ window.DAYS_CONTENT = {
       "guidedPrayer": "O God of all grace, You have called me to Your eternal glory in Christ Jesus! Today I take the crushing, suffocating weight of all my worries, financial fears, family concerns, and health anxieties, and I hurl them with both hands into Your loving arms! You care for me with infinite tenderness. Forgive me for proud self-reliance that tries to carry loads You never designed me to bear. Clothe me with the humble apron of a servant. Make me sober and vigilant against the prowling enemy. Anchor my soul in the glorious promise that after I have suffered a little while, You Yourself will restore, confirm, strengthen, and settle me forever!",
       "versePrayerLine": "“casting all your worries on him, because he cares for you.”",
       "prompt": "Take every single burden on your mind right now and actively throw it onto Jesus, whispering: 'Lord, You care for me!'"
+    }
+  },
+  "338": {
+    "day": 338,
+    "character": "Peter",
+    "title": "Growing in Grace and Holy Expectation",
+    "theme": "Living with holy diligence in light of Christ's return, continually expanding in grace and spiritual knowledge.",
+    "scripture": [
+      {
+        "reference": "2 Peter 1",
+        "title": "Partakers of Divine Nature and Diligent Growth",
+        "verses": [
+          {
+            "number": 2,
+            "text": "Grace to you and peace be multiplied in the knowledge of God and of Jesus our Lord,"
+          },
+          {
+            "number": 3,
+            "text": "seeing that his divine power has granted to us all things that pertain to life and godliness, through the knowledge of him who called us by his own glory and virtue;"
+          },
+          {
+            "number": 4,
+            "text": "by which he has granted to us his precious and exceedingly great promises; that through these you may become partakers of the divine nature, having escaped from the corruption that is in the world by lust."
+          },
+          {
+            "number": 5,
+            "text": "Yes, and for this very cause adding on your part all diligence, in your faith supply moral excellence; and in moral excellence, knowledge;"
+          },
+          {
+            "number": 6,
+            "text": "and in knowledge, self-control; and in self-control, perseverance; and in perseverance, godliness;"
+          },
+          {
+            "number": 7,
+            "text": "and in godliness, brotherly affection; and in brotherly affection, love."
+          }
+        ]
+      },
+      {
+        "reference": "2 Peter 3",
+        "title": "The Day of the Lord and Patient Longsuffering",
+        "verses": [
+          {
+            "number": 8,
+            "text": "But don't forget this one thing, beloved, that one day is with the Lord as a thousand years, and a thousand years as one day."
+          },
+          {
+            "number": 9,
+            "text": "The Lord is not slow concerning his promise, as some count slowness; but he is patient with us, not wishing the any should perish, but that all should come to repentance."
+          },
+          {
+            "number": 10,
+            "text": "But the day of the Lord will come as a thief in the night; in which the heavens will pass away with a great noise, and the elements will be dissolved with fervent heat, and the earth and the works that are in it will be burned up."
+          },
+          {
+            "number": 11,
+            "text": "Therefore since all these things will be destroyed like this, what kind of people ought you to be in holy living and godliness,"
+          },
+          {
+            "number": 14,
+            "text": "Therefore, beloved, seeing that you look for these things, be diligent to be found in peace, without blemish and blameless in his sight."
+          },
+          {
+            "number": 18,
+            "text": "But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory both now and forever. Amen."
+          }
+        ]
+      }
+    ],
+    "memoryVerse": {
+      "reference": "2 Peter 3:18",
+      "text": "But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory both now and forever. Amen.",
+      "whyItMatters": "Never settle into spiritual complacency; keep growing daily in the grace and intimate knowledge of your Savior.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "grow",
+          "grace",
+          "knowledge",
+          "Lord",
+          "Savior",
+          "glory",
+          "forever"
+        ],
+        "firstLetters": "B g i t g a k o o L a S J C T h b t g b n a f A"
+      }
+    },
+    "profile": {
+      "title": "Simon Peter - The Aged Apostle Urging Perpetual Growth",
+      "who": "Fisherman turned pillar apostle of Jesus Christ, writing his farewell testament before facing martyrdom under Nero.",
+      "whenAndWhere": "Circa 65-68 AD, written from Rome ('Babylon') to scattered believers across Asia Minor.",
+      "family": "Brother of Andrew, husband, spiritual father to John Mark, co-laborer with Paul and Silas.",
+      "keyMoments": [
+        "Walking with Jesus on the Sea of Galilee and witnessing the Transfiguration on the holy mount.",
+        "Suffering bitter collapse upon denying Christ, followed by resurrection restoration by Lake Tiberias.",
+        "Writing his final apostolic warning against deceptive scoffers and urging unrelenting moral vigilance."
+      ],
+      "strengths": "Fierce pastoral urgency, tender love for believers, steadfast anchoring in prophetic Scripture.",
+      "failures": "Early impetuous self-confidence, historical compromise at Antioch overcome through rebuke."
+    },
+    "whatGodIsSaying": {
+      "headline": "Divine Power Provides All Things for Life, Calling You to Never Cease Growing",
+      "reflection": "In this final epistle penned under the shadow of his impending execution, Peter does not retreat into sentimentality; he sounds a bugle call for spiritual momentum. God's divine power has already deposited inside you everything necessary for an authentic, overcoming life—you lack no essential heavenly grace. Yet divine sufficiency does not invite human laziness. Peter calls you to 'add to your faith' with earnest diligence: moral excellence, knowledge, self-control, endurance, brotherly affection, and self-giving love. In a culture full of cynicism and moral erosion, the believer's safety is found in forward motion. If you are not actively growing in grace and intimacy with Jesus, you are slowly drifting. Christ's patience in delaying His return is not slackness; it is lavish mercy providing space for repentance. Guard your soul with expectant hope, and make your life an altar of continual expansion in His love."
+    },
+    "lessons": [
+      {
+        "lesson": "Divine Power Supplies Full Equipment",
+        "verse": "2 Peter 1:3",
+        "detail": "God has already granted you everything needed for life and godliness through knowing Christ; you are never spiritually impoverished.",
+        "question": "In what difficult situation today do you need to claim God's complete spiritual provision rather than complaining of weakness?"
+      },
+      {
+        "lesson": "Spiritual Growth Requires Intentional Diligence",
+        "verse": "2 Peter 1:5-7",
+        "detail": "Faith is the foundation, but mature character requires conscious discipline in self-control, perseverance, and agape love.",
+        "question": "Which quality in Peter's ladder of virtues (virtue, knowledge, self-control, patience, brotherly love) requires your deliberate focus?"
+      },
+      {
+        "lesson": "God's Slowness Is Gracious Longsuffering",
+        "verse": "2 Peter 3:9",
+        "detail": "The delay of judgment is not divine indifference; God holds open the door of mercy so men and women might turn and be saved.",
+        "question": "How can you reflect God's patient heart toward someone in your life who seems slow to respond to the gospel?"
+      },
+      {
+        "lesson": "Anticipating Eternity Inspires Holy Conduct",
+        "verse": "2 Peter 3:11, 14",
+        "detail": "Knowing that temporal systems will melt away reorients priorities, inspiring peaceful, blameless, spotless living today.",
+        "question": "If you genuinely believed Jesus might return before this week ends, what habit or worry would you release immediately?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "According to 2 Peter 1:3, how has God granted believers all things pertaining to life and godliness?",
+        "options": [
+          "Through human legal obedience and ascetic isolation",
+          "Through His divine power and the intimate knowledge of Jesus who called us",
+          "Through philosophical contemplation and secret knowledge",
+          "Through political influence and ecclesiastical wealth"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Peter 1:3",
+        "explanation": "Peter declares that God's divine power has granted us all things for life and godliness through the knowledge of Him who called us by His own glory."
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "What is the primary reason Peter gives for why the Lord has not yet brought the final day of judgment?",
+        "options": [
+          "God has forgotten His ancient promises",
+          "He is patient, not wishing that any should perish but that all should reach repentance",
+          "The universe is governed by arbitrary cosmic cycles without purpose",
+          "Believers have not built enough cathedrals to welcome Him"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Peter 3:9",
+        "explanation": "God is not slow as men count slowness, but patient toward us, desiring that all should come to repentance."
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "question": "True or False: Peter teaches that because God supplies divine promises, believers do not need to apply personal diligence or discipline.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Peter 1:5",
+        "explanation": "False. Peter explicitly commands: 'adding on your part all diligence, in your faith supply moral excellence...' Grace inspires earnest pursuit, not sloth."
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "Which virtue sits as the crown at the culmination of Peter's progressive list in 2 Peter 1:5-7?",
+        "options": [
+          "Love (agape)",
+          "Financial prosperity",
+          "Ecclesiastical authority",
+          "Prophetic speculation"
+        ],
+        "correctIndex": 0,
+        "reference": "2 Peter 1:7",
+        "explanation": "The progression moves from faith to virtue, knowledge, self-control, perseverance, godliness, brotherly affection, and finally divine love."
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "What is Peter's parting command in 2 Peter 3:18?",
+        "options": [
+          "Flee from the cities into hidden mountain caverns",
+          "Grow in the grace and knowledge of our Lord and Savior Jesus Christ",
+          "Form armies to defend against Roman persecutors",
+          "Cease writing letters and wait silently"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Peter 3:18",
+        "explanation": "Peter's final recorded words to the church are: 'But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory both now and forever. Amen.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, I thank You that Your divine power has deposited in my life every grace and resource needed to walk in holiness. Forgive me for the seasons where I have grown complacent, distracted by the passing attractions of a world destined to fade. Today I offer You my heart's earnest diligence. Cultivate inside me self-control, endurance, brotherly tenderness, and unfeigned love. Keep my eyes fixed upon Your promised return, and let every passing hour draw me deeper into Your beauty.",
+      "versePrayerLine": "Grant that I may continually grow in the grace and knowledge of my Lord and Savior Jesus Christ, to whom belongs all glory forever.",
+      "prompt": "Offer up one area of your daily routine where spiritual lethargy has set in, asking the Holy Spirit for fresh discipline and zeal."
+    }
+  },
+  "339": {
+    "day": 339,
+    "character": "John the Elder",
+    "title": "Walking in the Light and Abiding in Fellowship",
+    "theme": "Transparent communion in the light invites the ongoing cleansing blood of Jesus and deep fellowship.",
+    "scripture": [
+      {
+        "reference": "1 John 1",
+        "title": "The Word of Life and Walking in the Light",
+        "verses": [
+          {
+            "number": 1,
+            "text": "That which was from the beginning, that which we have heard, that which we have seen with our eyes, that which we saw, and our hands touched, concerning the Word of life"
+          },
+          {
+            "number": 2,
+            "text": "(and the life was revealed, and we have seen, and testify, and declare to you the life, the eternal life, which was with the Father, and was revealed to us);"
+          },
+          {
+            "number": 3,
+            "text": "that which we have seen and heard we declare to you, that you also may have fellowship with us. Yes, and our fellowship is with the Father, and with his Son, Jesus Christ."
+          },
+          {
+            "number": 5,
+            "text": "This is the message which we have heard from him and announce to you, that God is light, and in him is no darkness at all."
+          },
+          {
+            "number": 7,
+            "text": "If we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus Christ, his Son, cleanses us from all sin."
+          },
+          {
+            "number": 9,
+            "text": "If we confess our sins, he is faithful and righteous to forgive us our sins, and to cleanse us from all unrighteousness."
+          }
+        ]
+      },
+      {
+        "reference": "1 John 2",
+        "title": "Our Heavenly Advocate and the Command to Love",
+        "verses": [
+          {
+            "number": 1,
+            "text": "My little children, I write these things to you so that you may not sin. If anyone sins, we have an Advocate with the Father, Jesus Christ, the righteous."
+          },
+          {
+            "number": 2,
+            "text": "And he is the atoning sacrifice for our sins, and not for ours only, but also for the whole world."
+          },
+          {
+            "number": 9,
+            "text": "He who says he is in the light and hates his brother is in the darkness even until now."
+          },
+          {
+            "number": 10,
+            "text": "He who loves his brother remains in the light, and there is no occasion for stumbling in him."
+          },
+          {
+            "number": 15,
+            "text": "Don't love the world, neither the things that are in the world. If anyone loves the world, the Father's love isn't in him."
+          },
+          {
+            "number": 17,
+            "text": "The world is passing away with its lusts, but he who does the will of God remains forever."
+          }
+        ]
+      }
+    ],
+    "memoryVerse": {
+      "reference": "1 John 1:7",
+      "text": "If we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus Christ, his Son, cleanses us from all sin.",
+      "whyItMatters": "Step out of hiding into the honest light of confession; Jesus' blood continually cleanses and creates true fellowship.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "walk",
+          "light",
+          "fellowship",
+          "blood",
+          "cleanses",
+          "sin"
+        ],
+        "firstLetters": "I w w i t l a h i i t l w h f w o a a t b o J C h S c u f a s"
+      }
+    },
+    "profile": {
+      "title": "Apostle John - The Beloved Disciple and Elder of Ephesus",
+      "who": "Son of Zebedee, disciple whom Jesus loved, author of the Fourth Gospel, three epistles, and the Apocalypse.",
+      "whenAndWhere": "Circa 85-95 AD, ministering from Ephesus to churches throughout the Roman province of Asia.",
+      "family": "Son of Zebedee and Salome, younger brother of James the martyr, close companion of Peter.",
+      "keyMoments": [
+        "Reclining beside Jesus at the Last Supper and standing steadfast at the foot of Calvary.",
+        "Entrusted by the dying Savior with the care of Mary, Jesus' mother.",
+        "Writing in serene apostolic authority to combat Gnostic heresies denying Christ's real humanity."
+      ],
+      "strengths": "Profound intimacy with Christ, absolute moral clarity, tender pastoral affection for believers.",
+      "failures": "Early vengeful impulse asking to call down fire on Samaritan villages (Luke 9:54)."
+    },
+    "whatGodIsSaying": {
+      "headline": "God Is Pure Light: True Safety Lies in Transparent Exposure Before Him",
+      "reflection": "Ever since Genesis 3, human instinct has responded to guilt by running into the shadows, stitching together fig leaves of rationalization and concealment. John radically reverses this fallen instinct. God is not darkness to be dreaded; God is pure, radiant light, and in Him there is no shadow whatsoever. Walking in the light does not mean living with artificial, sinless perfection—John immediately adds that if we say we have no sin, we deceive ourselves. Walking in the light means living in unvarnished honesty. It means refusing to hide your flaws, bringing your brokenness, failures, and doubts directly into the open presence of Christ. The moment you step into the light, two supernatural realities take place: genuine, deep-hearted fellowship opens up with your brothers and sisters, and the cleansing blood of Jesus continuously purifies your soul. You have an Advocate standing before the Father—Jesus the Righteous One. You do not need to hide anymore."
+    },
+    "lessons": [
+      {
+        "lesson": "Honest Exposure Trumps Defensive Hiding",
+        "verse": "1 John 1:7, 9",
+        "detail": "Sin festers in dark secrecy, but loses its tyrannical grip when dragged into the light through humble, specific confession.",
+        "question": "Is there a private habit, bitterness, or failure you have tried to hide that needs to be confessed into the light?"
+      },
+      {
+        "lesson": "Christ Stands as Your Eternal Advocate",
+        "verse": "1 John 2:1-2",
+        "detail": "When you stumble, heaven's courtroom is not empty; Jesus Christ pleads His own shed blood on your behalf before the Father.",
+        "question": "How does knowing Jesus advocates for you quiet the condemning accusations of your enemy?"
+      },
+      {
+        "lesson": "Love for Others Is the Acid Test of Walking in Light",
+        "verse": "1 John 2:9-10",
+        "detail": "No amount of theological orthodoxy compensates for harboring contempt or malice toward a fellow believer.",
+        "question": "Does your interaction with difficult people prove that you are abiding in Christ's radiant light?"
+      },
+      {
+        "lesson": "Worldly Desires Fade, but Obedience Abides",
+        "verse": "1 John 2:17",
+        "detail": "All flashy worldly ambitions are on a timer; only lives aligned with the eternal will of God endure forever.",
+        "question": "What worldly pursuit is competing for your ultimate affections and needs to be dethroned today?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "According to 1 John 1:5, what is the central message John heard from Christ and announced to the church?",
+        "options": [
+          "God is an austere judge who demands endless ritual sacrifice",
+          "God is light, and in Him is no darkness at all",
+          "God remains hidden and entirely unknowable to humans",
+          "God values intellectual status above moral purity"
+        ],
+        "correctIndex": 1,
+        "reference": "1 John 1:5",
+        "explanation": "John announces the foundational truth: 'God is light, and in him is no darkness at all.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "What happens when we walk in the light as He is in the light, according to 1 John 1:7?",
+        "options": [
+          "We become immune to all earthly sickness and poverty",
+          "We have fellowship with one another, and the blood of Jesus cleanses us from all sin",
+          "We no longer need the presence of the Holy Spirit",
+          "We gain legal dominion over Roman magistrates"
+        ],
+        "correctIndex": 1,
+        "reference": "1 John 1:7",
+        "explanation": "Walking in the light produces mutual fellowship and ongoing purification through the blood of Jesus Christ."
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "question": "True or False: John states that a person who claims to be in the light while hating their brother is actually walking in darkness.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 0,
+        "reference": "1 John 2:9",
+        "explanation": "True. 'He who says he is in the light and hates his brother is in the darkness even until now.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "Who does John identify as our Advocate before the Father when we sin?",
+        "options": [
+          "The archangel Gabriel",
+          "Jesus Christ, the righteous",
+          "Moses and Elijah",
+          "The high priest in Jerusalem"
+        ],
+        "correctIndex": 1,
+        "reference": "1 John 2:1",
+        "explanation": "John writes: 'If anyone sins, we have an Advocate with the Father, Jesus Christ, the righteous.'"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "What contrast does John make regarding the world and the person who does God's will in 1 John 2:17?",
+        "options": [
+          "The world endures forever, while the righteous quickly vanish",
+          "The world passes away with its lusts, but he who does God's will remains forever",
+          "Both worldly systems and spiritual obedience will be annihilated equally",
+          "Earthly kings will conquer all spiritual kingdoms"
+        ],
+        "correctIndex": 1,
+        "reference": "1 John 2:17",
+        "explanation": "John declares: 'The world is passing away with its lusts, but he who does the will of God remains forever.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Heavenly Father, You are pure, unapproachable light, yet through Jesus You invite me into warm, unhindered communion. Forgive me for every time I have retreated into the shadows of rationalization, fear, or self-defense. I step into the light of Your presence right now, bringing my sins, weaknesses, and secret struggles before You. Wash me afresh in the precious blood of Your Son. Silence the voice of shame with the advocacy of Jesus, and fill my heart with genuine, tender love for every brother and sister in Your family.",
+      "versePrayerLine": "Lord, help me to walk continually in the light, resting in the cleansing power of the blood of Jesus Christ.",
+      "prompt": "Practice radical transparency right now by confessing one specific struggle or hidden fear to God in simple, direct words."
+    }
+  },
+  "340": {
+    "day": 340,
+    "character": "John the Elder",
+    "title": "Lavished Love and the Overcoming Life",
+    "theme": "The lavish love of the Father confers sacred identity as children of God, overcoming the world through faith.",
+    "scripture": [
+      {
+        "reference": "1 John 3",
+        "title": "Children of God and Love in Action",
+        "verses": [
+          {
+            "number": 1,
+            "text": "See what kind of love the Father has given to us, that we should be called children of God; and that is what we are. For this cause the world doesn't know us, because it didn't know him."
+          },
+          {
+            "number": 2,
+            "text": "Beloved, now we are children of God, and it is not yet revealed what we will be. But we know that when he is revealed, we will be like him; for we will see him just as he is."
+          },
+          {
+            "number": 3,
+            "text": "Everyone who has this hope set on him purifies himself, even as he is pure."
+          },
+          {
+            "number": 16,
+            "text": "By this we know love, because he laid down his life for us. And we ought to lay down our lives for the brothers."
+          },
+          {
+            "number": 18,
+            "text": "My little children, let's not love in word only, neither with the tongue only, but in deed and in truth."
+          },
+          {
+            "number": 22,
+            "text": "and whatever we ask, we receive from him, because we keep his commandments and do the things that are pleasing in his sight."
+          }
+        ]
+      },
+      {
+        "reference": "1 John 5",
+        "title": "Overcoming the World and the Assurance of Eternal Life",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Whoever believes that Jesus is the Christ is born of God. Whoever loves the father also loves the child who is born of him."
+          },
+          {
+            "number": 4,
+            "text": "For whatever is born of God overcomes the world. This is the victory that has overcome the world: your faith."
+          },
+          {
+            "number": 5,
+            "text": "Who is he who overcomes the world, but he who believes that Jesus is the Son of God?"
+          },
+          {
+            "number": 11,
+            "text": "The testimony is this, that God gave to us eternal life, and this life is in his Son."
+          },
+          {
+            "number": 12,
+            "text": "He who has the Son has the life. He who doesn't have God's Son doesn't have the life."
+          },
+          {
+            "number": 13,
+            "text": "These things I have written to you who believe in the name of the Son of God, that you may know that you have eternal life, and that you may continue to believe in the name of the Son of God."
+          }
+        ]
+      }
+    ],
+    "memoryVerse": {
+      "reference": "1 John 3:1",
+      "text": "See what kind of love the Father has given to us, that we should be called children of God; and that is what we are.",
+      "whyItMatters": "You are not an insecure orphan; the Father has lavished His extravagant love to adopt you forever as His child.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "love",
+          "Father",
+          "called",
+          "children",
+          "God"
+        ],
+        "firstLetters": "S w k o l t F h g t u t w s b c c o G a t i w w a"
+      }
+    },
+    "profile": {
+      "title": "Apostle John - The Apostle of Divine Love and Eternal Life",
+      "who": "The seasoned spiritual father of Asia Minor, articulating the bedrock security of divine adoption and victorious faith.",
+      "whenAndWhere": "Late first century, Ephesus, ministering to second-generation Christians wrestling with doubts and false teachers.",
+      "family": "Son of Zebedee; called 'Son of Thunder' (Boanerges) alongside his martyred brother James.",
+      "keyMoments": [
+        "Experiencing the Father's unconditional love through decades of walking with Christ.",
+        "Writing his epistles so believers would not live under agonizing doubt, but 'know that you have eternal life.'",
+        "Surviving fierce persecutions in Ephesus and standing unshakeable against early Docetic heresies."
+      ],
+      "strengths": "Relentless pastoral warmth, deep conviction of divine adoption, fierce hatred of spiritual pretension.",
+      "failures": "Early ambition seeking seat of preeminence at Christ's right hand in Matthew 20:20-24."
+    },
+    "whatGodIsSaying": {
+      "headline": "You Are Not an Outcast: The Sovereign God Has Adopted You as His Precious Child",
+      "reflection": "John halts his writing with a gasp of holy awe: 'Behold what manner of love the Father has bestowed upon us!' In classical Greek, the phrase implies love from an entirely foreign realm—otherworldly, unmerited, and staggering. God did not merely drop crumbs of pardon to rescue you from condemnation; He brought you into His royal living room and called you His child. 'And that is what we are!' This is not a legal fiction or polite metaphor; it is your truest spiritual reality. Because you are born of God, you possess heaven's DNA. The world may fail to recognize your true dignity, just as it failed to recognize Jesus, but your future is radiant with glory: when He appears, you will be transformed to be like Him, seeing Him in unveiled majesty. Furthermore, this birth confers supernatural resilience. Whatever is born of God overcomes the world. Your faith is not a fragile wish; it is the victor's badge that triumphs over intimidation, temptation, and despair."
+    },
+    "lessons": [
+      {
+        "lesson": "Adoption Defines Your Core Identity",
+        "verse": "1 John 3:1",
+        "detail": "You do not labor to earn God's acceptance; you live from the secure baseline of being His beloved son or daughter.",
+        "question": "How would your internal peace change if you treated divine adoption as your most foundational identity?"
+      },
+      {
+        "lesson": "True Love Is Measured by Concrete Sacrifice",
+        "verse": "1 John 3:16, 18",
+        "detail": "Christ demonstrated love by laying down His life; Christian love moves beyond poetic speech into tangible deeds and truth.",
+        "question": "What practical, hands-on sacrifice can you make this week for a brother or sister in need?"
+      },
+      {
+        "lesson": "Faith in Jesus Overcomes the World's Pressure",
+        "verse": "1 John 5:4-5",
+        "detail": "Believers are not victims destined to succumb to societal corruption; our faith in the Son of God is an overcoming power.",
+        "question": "Where does the world feel overwhelmingly intimidating right now, and how does faith in Jesus shift your stance?"
+      },
+      {
+        "lesson": "Eternal Life Is a Present Reality Found in Christ",
+        "verse": "1 John 5:11-13",
+        "detail": "Eternal life is not merely a future destination; it is an active person. If you possess Jesus Christ, you possess life today.",
+        "question": "Do you enjoy confident assurance of eternal life, or are you still relying on your personal performance?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What title does 1 John 3:1 declare that the Father's love has bestowed upon believers?",
+        "options": [
+          "Hired servants of the temple",
+          "Children of God",
+          "Philosophers of spiritual wisdom",
+          "Mortal tenants of the earth"
+        ],
+        "correctIndex": 1,
+        "reference": "1 John 3:1",
+        "explanation": "John celebrates the extravagant love of the Father: 'that we should be called children of God; and that is what we are.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "According to 1 John 3:18, how are believers commanded to love?",
+        "options": [
+          "Only within private contemplative meditation",
+          "In word only, through eloquent speeches and songs",
+          "Not in word or tongue only, but in deed and in truth",
+          "Exclusively toward people who share our exact social status"
+        ],
+        "correctIndex": 2,
+        "reference": "1 John 3:18",
+        "explanation": "John instructs: 'My little children, let's not love in word only, neither with the tongue only, but in deed and in truth.'"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "question": "True or False: According to 1 John 5:4, the victory that overcomes the world is our human willpower and political power.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "1 John 5:4",
+        "explanation": "False. John affirms: 'This is the victory that has overcome the world: your faith.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What does John state as the purpose of writing his first epistle in 1 John 5:13?",
+        "options": [
+          "To create complex ceremonial laws for the Asian churches",
+          "That you who believe in the name of the Son of God may know that you have eternal life",
+          "To predict the exact calendar year of Rome's destruction",
+          "To establish himself as an earthly monarch"
+        ],
+        "correctIndex": 1,
+        "reference": "1 John 5:13",
+        "explanation": "John writes so that those who believe in Jesus 'may know that you have eternal life.'"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "According to 1 John 5:12, who possesses genuine eternal life?",
+        "options": [
+          "He who has the Son",
+          "He who memorizes the entire Levitical code",
+          "He who performs public penance in sackcloth",
+          "He who achieves high standing in Roman society"
+        ],
+        "correctIndex": 0,
+        "reference": "1 John 5:12",
+        "explanation": "Scripture is crystal clear: 'He who has the Son has the life. He who doesn't have God's Son doesn't have the life.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Father of mercies, my mind is overwhelmed by the sheer magnitude of Your love. You did not treat me as a despised rebel; You adopted me into Your royal family and named me Your beloved child. I reject the orphan spirit that whispers I am unloved, overlooked, or abandoned. Teach me to love my brothers and sisters not merely in sentimental words, but through sacrificial, practical deeds. Infuse my spirit with overcoming faith, so that in every conflict with the world, I walk as more than a conqueror through Jesus Christ.",
+      "versePrayerLine": "How deep and boundless is Your love, O Father, that has made me Your child forever.",
+      "prompt": "Rest for a moment in the silence of your room, whispering 'Abba, Father,' thanking Him for welcoming you as His child."
+    }
+  },
+  "341": {
+    "day": 341,
+    "character": "The Elect Lady & Gaius",
+    "title": "Walking in Truth and Gospel Hospitality",
+    "theme": "Walking in truth combines theological vigilance against deceivers with generous hospitality to traveling workers.",
+    "scripture": [
+      {
+        "reference": "2 John 1",
+        "title": "Truth, Love, and Guarding the Home Against Deceivers",
+        "verses": [
+          {
+            "number": 1,
+            "text": "The elder, to the chosen lady and her children, whom I love in truth; and not I only, but also all those who know the truth;"
+          },
+          {
+            "number": 2,
+            "text": "for the truth's sake, which remains in us, and it will be with us forever:"
+          },
+          {
+            "number": 4,
+            "text": "I rejoice greatly that I have found some of your children walking in truth, even as we have been commanded by the Father."
+          },
+          {
+            "number": 5,
+            "text": "Now I beg you, dear lady, not as though I wrote to you a new commandment, but that which we had from the beginning, that we love one another."
+          },
+          {
+            "number": 6,
+            "text": "This is love, that we should walk according to his commandments. This is the commandment, even as you heard from the beginning, that you should walk in it."
+          },
+          {
+            "number": 7,
+            "text": "For many deceivers have gone out into the world, those who don't confess that Jesus Christ came in the flesh. This is the deceiver and the Antichrist."
+          }
+        ]
+      },
+      {
+        "reference": "3 John 1",
+        "title": "Faithful Gaius, Proud Diotrephes, and Good Demetrius",
+        "verses": [
+          {
+            "number": 1,
+            "text": "The elder to Gaius the beloved, whom I love in truth."
+          },
+          {
+            "number": 2,
+            "text": "Beloved, I pray that you may prosper in all things and be in health, even as your soul prospers."
+          },
+          {
+            "number": 4,
+            "text": "I have no greater joy than this: to hear about my children walking in truth."
+          },
+          {
+            "number": 5,
+            "text": "Beloved, you do a faithful work in whatever you accomplish for those who are brothers and strangers,"
+          },
+          {
+            "number": 8,
+            "text": "We therefore ought to receive such, that we may be fellow workers for the truth."
+          },
+          {
+            "number": 9,
+            "text": "I wrote to the assembly, but Diotrephes, who loves to be first among them, doesn't accept what we say."
+          },
+          {
+            "number": 11,
+            "text": "Beloved, don't imitate that which is evil, but that which is good. He who does good is of God. He who does evil hasn't seen God."
+          }
+        ]
+      }
+    ],
+    "memoryVerse": {
+      "reference": "3 John 1:4",
+      "text": "I have no greater joy than this: to hear about my children walking in truth.",
+      "whyItMatters": "There is no higher spiritual joy than watching those you disciple walk steadily in the truth and hospitality of Christ.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "greater",
+          "joy",
+          "hear",
+          "children",
+          "walking",
+          "truth"
+        ],
+        "firstLetters": "I h n g j t t t h a m c w i t"
+      }
+    },
+    "profile": {
+      "title": "The Elect Lady and Gaius - Keepers of Truth and Hospitality",
+      "who": "An esteemed Christian matron (or local congregation) and Gaius, a generous, hospitable disciple praised by Apostle John.",
+      "whenAndWhere": "Circa 90 AD, Roman province of Asia Minor.",
+      "family": "The Elect Lady raised faithful children; Gaius stood in contrast to church boss Diotrephes.",
+      "keyMoments": [
+        "The Elect Lady receiving apostolic guidance to protect her home from wandering heretics denying Christ's incarnation.",
+        "Gaius welcoming traveling missionaries and sending them forward on their journey in a manner worthy of God.",
+        "Facing down Diotrephes' toxic church authoritarianism through quiet, persevering righteousness."
+      ],
+      "strengths": "Vigilant fidelity to doctrine, selfless generosity to traveling gospel workers, radiant character.",
+      "failures": "Vulnerable to abuse by wolves in sheep's clothing, requiring apostolic discernment."
+    },
+    "whatGodIsSaying": {
+      "headline": "Truth and Love Must Never Be Separated: Discernment Protects, Hospitality Builds",
+      "reflection": "In these two brief, intimate postcards from antiquity, Apostle John addresses the dual engine of Christian discipleship: uncompromised doctrinal truth and generous brotherly love. To the Elect Lady, John issues a solemn warning: do not let false teachers who deny the true humanity and deity of Jesus weaponize Christian kindness to infiltrate your home. Love is not naive tolerance of toxic deception; love walks in the commandments of truth. Conversely, to Gaius, John writes with uncontainable joy: Gaius uses his home and resources to lodge traveling itinerant evangelists whom he has never met before. By blessing these faithful laborers, Gaius becomes a 'fellow worker for the truth.' Meanwhile, Diotrephes shows the ugly opposite: an arrogant, insecure church leader who 'loves to be first,' slandering apostolic leaders and excommunicating generous saints. Your life is called to emulate Gaius—humble, open-handed, and passionately committed to truth without seeking the spotlight."
+    },
+    "lessons": [
+      {
+        "lesson": "Truth and Love Are Inseparable Twins",
+        "verse": "2 John 1:3-5",
+        "detail": "Truth without love turns harsh and legalistic; love without truth devolves into sentimentality that embraces deadly heresy.",
+        "question": "Do you tend to lean more toward harsh correction without love, or comfortable tolerance without truth?"
+      },
+      {
+        "lesson": "Support for Gospel Workers Makes You a Co-Laborer",
+        "verse": "3 John 1:5-8",
+        "detail": "When you house, feed, or financially support those carrying the gospel, God credits you as a full partner in their fruit.",
+        "question": "Which missionary or local ministry can you actively support this month to become a fellow worker for the truth?"
+      },
+      {
+        "lesson": "Beware the Spirit of Diotrephes",
+        "verse": "3 John 1:9",
+        "detail": "Pride craves preeminence, control, and applause; it poisons fellowship and gossips against servant leaders.",
+        "question": "Is there any area of ministry where your ego secretly desires recognition rather than Christ's glory?"
+      },
+      {
+        "lesson": "Passing on the Faith Brings Incomparable Joy",
+        "verse": "3 John 1:4",
+        "detail": "No earthly trophy or bank balance compares to the spiritual thrill of seeing those you mentor walking faithfully in the truth.",
+        "question": "Whom are you intentionally investing in so that they will walk securely in God's truth?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What is John's greatest joy according to 3 John 1:4?",
+        "options": [
+          "Receiving financial gifts from European churches",
+          "To hear that his children are walking in truth",
+          "Seeing Roman legions convert en masse to Christianity",
+          "Building large brick meeting houses across Asia"
+        ],
+        "correctIndex": 1,
+        "reference": "3 John 1:4",
+        "explanation": "John writes: 'I have no greater joy than this: to hear about my children walking in truth.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "In 2 John 1:7, what defining characteristic marks the deceiver and antichrist?",
+        "options": [
+          "They wear rough camel-hair coats",
+          "They do not confess that Jesus Christ came in the flesh",
+          "They refuse to pay taxes to Caesar",
+          "They eat meals without washing their hands"
+        ],
+        "correctIndex": 1,
+        "reference": "2 John 1:7",
+        "explanation": "The deceivers denied the real incarnation of the Son of God: 'those who don't confess that Jesus Christ came in the flesh.'"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "question": "True or False: Diotrephes was praised by John for his exceptional hospitality toward visiting apostolic messengers.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "3 John 1:9-10",
+        "explanation": "False. Diotrephes loved to be first, refused to welcome John's messengers, slandered with wicked words, and cast hospitable believers out of the assembly."
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "Why did John say believers ought to welcome and support faithful traveling brothers in 3 John 1:8?",
+        "options": [
+          "To earn salvation through good works",
+          "That we may be fellow workers for the truth",
+          "To avoid being fined by local city magistrates",
+          "Because traveling ministers have magic powers"
+        ],
+        "correctIndex": 1,
+        "reference": "3 John 1:8",
+        "explanation": "John explains that receiving faithful ministers makes us 'fellow workers for the truth.'"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "What prayer did John pray for Gaius' health in 3 John 1:2?",
+        "options": [
+          "That he may prosper and be in health, even as his soul prospers",
+          "That he would never experience a single day of physical trial",
+          "That he would acquire immense earthly political influence",
+          "That he would immediately depart this world for heaven"
+        ],
+        "correctIndex": 0,
+        "reference": "3 John 1:2",
+        "explanation": "John prayed: 'Beloved, I pray that you may prosper in all things and be in health, even as your soul prospers.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord God of truth and love, thank You for the examples of the Elect Lady and faithful Gaius. Guard my home and my mind against subtle, flattering deceptions that distort the gospel of Jesus Christ. Fill my spirit with spiritual discernment to recognize false teaching, yet preserve in me a heart overflowing with generous hospitality. Deliver me from the pride of Diotrephes that seeks prominence and control. Make me a servant like Gaius, using whatever resources You provide to strengthen Your workers and advance Your truth across the earth.",
+      "versePrayerLine": "Grant me the profound joy of walking steadfastly in Your truth every day of my earthly pilgrimage.",
+      "prompt": "Ask the Lord how you can practice hospitality or support a gospel worker this month, even in a small, practical way."
+    }
+  },
+  "342": {
+    "day": 342,
+    "character": "Jude",
+    "title": "Contending for the Faith and Kept from Stumbling",
+    "theme": "Contending earnestly for the apostolic faith while resting in the God who keeps us from stumbling.",
+    "scripture": [
+      {
+        "reference": "Jude 1",
+        "title": "Contending for the Faith Once Delivered",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Jude, a servant of Jesus Christ, and brother of James, to those who are called, sanctified by God the Father, and kept for Jesus Christ:"
+          },
+          {
+            "number": 3,
+            "text": "Beloved, while I was very eager to write to you about our common salvation, I was constrained to write to you exhorting you to contend earnestly for the faith which was once for all delivered to the saints."
+          },
+          {
+            "number": 4,
+            "text": "For there are certain men who crept in secretly, even those who were long ago written about for this condemnation: ungodly men, turning the grace of our God into indecency, and denying our only Master, God, and Lord, Jesus Christ."
+          },
+          {
+            "number": 20,
+            "text": "But you, beloved, keep building up yourselves on your most holy faith, praying in the Holy Spirit."
+          },
+          {
+            "number": 21,
+            "text": "Keep yourselves in God's love, looking for the mercy of our Lord Jesus Christ to eternal life."
+          },
+          {
+            "number": 24,
+            "text": "Now to him who is able to keep you from stumbling, and to present you faultless before the presence of his glory with exceeding joy,"
+          },
+          {
+            "number": 25,
+            "text": "to the only God our Savior, through Jesus Christ our Lord, be glory, majesty, dominion, and power, before all time, and now, and forever. Amen."
+          }
+        ]
+      },
+      {
+        "reference": "2 Peter 2",
+        "title": "Warning Against False Prophets and Corrupt Teachers",
+        "verses": [
+          {
+            "number": 1,
+            "text": "But false prophets also arose among the people, as false teachers will also be among you, who will secretly bring in destructive heresies, denying even the Master who bought them,"
+          },
+          {
+            "number": 2,
+            "text": "Many will follow their immoral ways, and as a result, the way of the truth will be maligned."
+          },
+          {
+            "number": 9,
+            "text": "The Lord knows how to deliver the godly out of temptation and to keep the unrighteous under punishment for the day of judgment;"
+          },
+          {
+            "number": 17,
+            "text": "These are wells without water, clouds driven by a storm; for whom the blackness of darkness has been reserved forever."
+          },
+          {
+            "number": 19,
+            "text": "promising them liberty, while they themselves are bondservants of corruption; for a man is brought into bondage by whoever overcomes him."
+          }
+        ]
+      }
+    ],
+    "memoryVerse": {
+      "reference": "Jude 1:24-25",
+      "text": "Now to him who is able to keep you from stumbling, and to present you faultless before the presence of his glory with exceeding joy, to the only God our Savior... be glory and majesty...",
+      "whyItMatters": "In an era of apostasy and compromise, rest in the One who has the sovereign power to keep you from falling.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "able",
+          "keep",
+          "stumbling",
+          "present",
+          "faultless",
+          "glory",
+          "Savior"
+        ],
+        "firstLetters": "N t h w i a t k y f s a t p y f b t p o h g w e j t t o G o S b g a m"
+      }
+    },
+    "profile": {
+      "title": "Jude - Brother of the Lord and Valiant Defender of Truth",
+      "who": "Half-brother of Jesus Christ and brother of James the Just, humble servant who sounded the alarm against grace-abusing antinomianism.",
+      "whenAndWhere": "Circa 65-80 AD, Judea / Eastern Mediterranean churches.",
+      "family": "Son of Mary and Joseph, physical brother of Jesus, James, Joses, and Simon (Mark 6:3).",
+      "keyMoments": [
+        "Early skepticism alongside his brothers regarding Jesus' messianic ministry (John 7:5).",
+        "Transforming encounter with the risen Christ, gathering in the Upper Room in Acts 1:14.",
+        "Compelled by the Holy Spirit to set aside a treatise on common salvation to write a fiery defense of apostolic truth."
+      ],
+      "strengths": "Humility calling himself a 'servant of Jesus Christ' rather than boasting of bloodlines, fearless defense of truth.",
+      "failures": "Initial unbelief during Jesus' earthly ministry, thoroughly redeemed by resurrection power."
+    },
+    "whatGodIsSaying": {
+      "headline": "Contend for the Undiluted Gospel While Resting in the God Who Keeps You Standing",
+      "reflection": "Jude opens his letter with unusual candor: his original intention was to write a serene, uplifting meditation on 'our common salvation.' But the Holy Spirit redirected his pen into an emergency trumpet blast. Wolves had crept into congregations unnoticed—licentious men who perverted God's grace into a license for moral filth and denied the lordship of Jesus Christ. Jude summons every everyday believer to 'contend earnestly for the faith once for all delivered to the saints.' Notice the finality: the apostolic gospel is not subject to progressive redefinition by cultural trends; it was delivered 'once for all.' Yet how do believers survive in a culture awash with apostasy? Jude does not leave us panicking. He gives a fourfold strategy: build yourselves up on your most holy faith, pray in the Holy Spirit, keep yourselves in the love of God, and look eagerly for Christ's mercy. Then he closes with one of the greatest doxologies in all literature. Your preservation does not depend on the strength of your grip on God; it rests on the almighty grip of God on you. He is able to keep you from stumbling and present you radiant, spotless, and joyful before His throne."
+    },
+    "lessons": [
+      {
+        "lesson": "The Faith Has Been Delivered Once for All",
+        "verse": "Jude 1:3",
+        "detail": "Core biblical truth is an unalterable sacred trust; believers must courageously defend it against cultural compromises.",
+        "question": "Where are you tempted to compromise biblical truth to avoid friction with contemporary culture?"
+      },
+      {
+        "lesson": "Beware of Grace Being Perverted into License",
+        "verse": "Jude 1:4",
+        "detail": "True grace frees us from the penalty and power of sin; false grace excuses ongoing habitual immorality.",
+        "question": "Do you treat God's forgiving grace as a covering for careless living or as a catalyst for holy transformation?"
+      },
+      {
+        "lesson": "Active Spiritual Disciplines Keep You Centered",
+        "verse": "Jude 1:20-21",
+        "detail": "Feeding on Scripture, praying in the Holy Spirit, and abiding in God's love provide daily armor against spiritual drift.",
+        "question": "How vibrant is your practice of praying under the guidance and power of the Holy Spirit?"
+      },
+      {
+        "lesson": "God Possesses Sovereign Power to Keep You Standing",
+        "verse": "Jude 1:24-25",
+        "detail": "Even in an unstable world, the Lord is able to hold you securely, protect you from falling away, and present you blameless.",
+        "question": "Does anxiety about the future rob you of the peace that God is able to keep your footing firm?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "How does Jude identify himself in the opening verse of his epistle?",
+        "options": [
+          "The reigning bishop of Jerusalem and heir of David",
+          "A servant of Jesus Christ, and brother of James",
+          "The supreme apostle of the Mediterranean",
+          "A wealthy patron of the Roman diaspora"
+        ],
+        "correctIndex": 1,
+        "reference": "Jude 1:1",
+        "explanation": "With striking humility, Jude does not boast of being Jesus' half-brother; he calls himself 'a servant of Jesus Christ, and brother of James.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "What were ungodly men doing that compelled Jude to urge believers to contend earnestly?",
+        "options": [
+          "They were refusing to sing traditional Hebrew psalms",
+          "They were turning the grace of our God into indecency and denying Jesus Christ",
+          "They were eating meals without ceremonial washing",
+          "They were studying Greek philosophy in public squares"
+        ],
+        "correctIndex": 1,
+        "reference": "Jude 1:4",
+        "explanation": "Jude exposes that certain men 'turned the grace of our God into indecency, and denying our only Master, God, and Lord, Jesus Christ.'"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "question": "True or False: According to 2 Peter 2:9, the Lord does not know how to rescue the godly from temptation.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Peter 2:9",
+        "explanation": "False. Peter explicitly proclaims: 'The Lord knows how to deliver the godly out of temptation and to keep the unrighteous under punishment...'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "In Jude 1:20, what are believers instructed to do alongside praying in the Holy Spirit?",
+        "options": [
+          "Build up yourselves on your most holy faith",
+          "Establish monastic colonies in the desert",
+          "Seek political alliances with Roman governors",
+          "Debate endlessly on social platforms"
+        ],
+        "correctIndex": 0,
+        "reference": "Jude 1:20",
+        "explanation": "Jude charges: 'keep building up yourselves on your most holy faith, praying in the Holy Spirit.'"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "What glorious promise does the doxology of Jude 1:24 declare about God's ability?",
+        "options": [
+          "He is able to grant earthly riches without moral effort",
+          "He is able to keep you from stumbling, and present you faultless with exceeding joy",
+          "He will guarantee you never face hardship or misunderstanding",
+          "He will erase human free choice entirely"
+        ],
+        "correctIndex": 1,
+        "reference": "Jude 1:24",
+        "explanation": "Jude praises God who 'is able to keep you from stumbling, and to present you faultless before the presence of his glory with exceeding joy.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Sovereign Lord, You are the only wise God our Savior. In an age of moral confusion, theological drift, and noisy deceit, grant me courage to contend earnestly for the unchanging apostolic gospel. Forgive me whenever I have minimized sin or taken Your grace for granted. Build me up today on my most holy faith. Teach me to pray with power in the Holy Spirit and abide faithfully in Your love. I entrust my soul entirely to Your hands, knowing You have power to hold me fast against every snare of the enemy.",
+      "versePrayerLine": "Now to You who are able to keep me from stumbling and present me faultless before Your glory with exceeding joy, be all honor and dominion forever.",
+      "prompt": "Surrender your fear of falling into backsliding or failure, thanking the Lord who is actively keeping your feet from stumbling."
+    }
+  },
+  "343": {
+    "day": 343,
+    "character": "Abel, Enoch & Noah (Hebrews 11)",
+    "title": "Ancient Faith in the Unseen God",
+    "theme": "Faith anchors the soul in unseen realities, commending ancient witnesses who walked with God.",
+    "scripture": [
+      {
+        "reference": "Hebrews 11",
+        "title": "The Meaning of Faith and the Antediluvian Heroes",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Now faith is the assurance of things hoped for, proof of things not seen."
+          },
+          {
+            "number": 2,
+            "text": "For by this, the elders obtained testimony."
+          },
+          {
+            "number": 3,
+            "text": "By faith, we understand that the universe has been framed by the word of God, so that what is seen has not been made out of things which appear."
+          },
+          {
+            "number": 4,
+            "text": "By faith, Abel offered to God a more excellent sacrifice than Cain, through which he had testimony given to him that he was righteous, God testifying with respect to his gifts; and through it he, being dead, still speaks."
+          },
+          {
+            "number": 5,
+            "text": "By faith, Enoch was taken away, so that he wouldn't see death, and he was not found, because God had taken him away. For he has had testimony given to him that before his translation he had been well pleasing to God."
+          },
+          {
+            "number": 6,
+            "text": "Without faith it is impossible to be well pleasing to him, for he who comes to God must believe that he exists, and that he is a rewarder of those who seek him."
+          },
+          {
+            "number": 7,
+            "text": "By faith, Noah, being warned about things not yet seen, moved with godly fear, prepared an ark for the saving of his house, through which he condemned the world, and became heir of the righteousness which is according to faith."
+          }
+        ]
+      },
+      {
+        "reference": "Genesis 4",
+        "title": "Abel's Acceptable Sacrifice and Cain's Rebellion",
+        "verses": [
+          {
+            "number": 3,
+            "text": "As time passed, Cain brought an offering to Yahweh from the fruit of the ground."
+          },
+          {
+            "number": 4,
+            "text": "Abel also brought some of the firstborn of his flock and of its fat. Yahweh respected Abel and his offering,"
+          },
+          {
+            "number": 5,
+            "text": "but he didn't respect Cain and his offering. Cain was very angry, and the expression on his face fell."
+          },
+          {
+            "number": 7,
+            "text": "If you do well, won't it be accepted? If you don't do well, sin crouches at the door. Its desire is for you, but you must rule over it."
+          },
+          {
+            "number": 10,
+            "text": "Yahweh said, 'What have you done? The voice of your brother's blood cries to me from the ground.'"
+          }
+        ]
+      }
+    ],
+    "memoryVerse": {
+      "reference": "Hebrews 11:1",
+      "text": "Now faith is the assurance of things hoped for, proof of things not seen.",
+      "whyItMatters": "Faith is not wishful thinking; it is the concrete title-deed of heaven's invisible realities.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "faith",
+          "assurance",
+          "things",
+          "hoped",
+          "proof",
+          "seen"
+        ],
+        "firstLetters": "N f i t a o t h f p o t n s"
+      }
+    },
+    "profile": {
+      "title": "Abel, Enoch, and Noah - Patriarchs of the Antediluvian Dawn",
+      "who": "The foundational triad of Hebrews' Hall of Faith, demonstrating worship, intimacy, and obedience in a fallen pre-flood civilization.",
+      "whenAndWhere": "From the dawn of human history through the Great Deluge, Mesopotamia.",
+      "family": "Abel (son of Adam and Eve), Enoch (seventh from Adam, father of Methuselah), Noah (son of Lamech).",
+      "keyMoments": [
+        "Abel offering the firstborn of his flock by faith, his blood still testifying through the centuries.",
+        "Enoch walking in intimate, steady communion with God in an era of wickedness until God took him home without seeing death.",
+        "Noah spending over a century building a gigantic vessel on dry land, heeding God's warning of things not yet seen."
+      ],
+      "strengths": "Worship grounded in faith (Abel), unrelenting personal intimacy (Enoch), perseverance against mockery (Noah).",
+      "failures": "Noah later succumbed to wine and exposure in Genesis 9, proving even the faithful need sovereign grace."
+    },
+    "whatGodIsSaying": {
+      "headline": "Faith Operates by Unseen Reality: Without It, Pleasing God Is Impossible",
+      "reflection": "The writer to the Hebrews gives us the classic definition of biblical faith: it is the substance (title-deed) of things hoped for, the conviction of realities not visible to human eyes. Faith is not blind optimism or irrational superstition; it is the soul taking God at His word and ordering life around His unseen truth. Look at the ancient witnesses. Abel worshiped by faith, offering his best sacrifice rather than self-serving scraps; though slain, his life still speaks. Enoch walked with God in unhurried, daily companionship; his testimony was simple and sublime: he pleased God. Noah operated on faith regarding rain and floodwaters nobody had ever witnessed before; for decades he swung his hammer in godly fear, braving the ridicule of his generation to build the ark. 'Without faith it is impossible to be well pleasing to him, for he who comes to God must believe that he exists, and that he is a rewarder of those who seek him.' God does not ask you to navigate life by sight. He invites you to step out onto His promises, knowing He rewards every seeker."
+    },
+    "lessons": [
+      {
+        "lesson": "True Worship Offers God Our First and Best",
+        "verse": "Hebrews 11:4",
+        "detail": "Abel offered the firstborn and best portions by faith; God looks at the heart behind our offerings, rejecting careless remnants.",
+        "question": "Are you giving God the firstfruits of your time and resources, or merely what is leftover after your personal plans?"
+      },
+      {
+        "lesson": "Walking with God Pleases His Heart",
+        "verse": "Hebrews 11:5-6",
+        "detail": "Enoch's greatest achievement was not military triumph or public architecture, but a quiet, pleasing walk of fellowship with God.",
+        "question": "How can you cultivate a quieter, deeper walk of daily fellowship with God amidst your busy schedule?"
+      },
+      {
+        "lesson": "Faith Obeys Before Circumstances Make Sense",
+        "verse": "Hebrews 11:7",
+        "detail": "Noah built an ocean liner on dry ground because God said judgment was coming; faith acts before visible proof arrives.",
+        "question": "Is God asking you to obey a command or make a life adjustment that doesn't make sense to worldly observers?"
+      },
+      {
+        "lesson": "God Diligently Rewards Those Who Seek Him",
+        "verse": "Hebrews 11:6",
+        "detail": "Seeking God is never a futile waste of energy; the Creator Himself promises to be the eternal reward of every sincere heart.",
+        "question": "When seeking God feels dry or unproductive, how does Hebrews 11:6 rekindle your resolve to keep pursuing Him?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "How does Hebrews 11:1 define faith?",
+        "options": [
+          "A wishful fantasy invented to escape worldly pain",
+          "The assurance of things hoped for, proof of things not seen",
+          "A human philosophy based entirely on empirical observation",
+          "An emotional trance experienced during corporate singing"
+        ],
+        "correctIndex": 1,
+        "reference": "Hebrews 11:1",
+        "explanation": "Hebrews 11:1 establishes: 'Now faith is the assurance of things hoped for, proof of things not seen.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "According to Hebrews 11:6, what two things must anyone believe who comes to God?",
+        "options": [
+          "That God exists, and that He is a rewarder of those who seek Him",
+          "That all humans are inherently divine and need no savior",
+          "That wealth is proof of godliness and sickness is proof of failure",
+          "That angels control the destiny of human souls"
+        ],
+        "correctIndex": 0,
+        "reference": "Hebrews 11:6",
+        "explanation": "Scripture declares: 'he who comes to God must believe that he exists, and that he is a rewarder of those who seek him.'"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "question": "True or False: According to Hebrews 11:4, Abel's life and faith ceased to speak the moment Cain took his life.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Hebrews 11:4",
+        "explanation": "False. Hebrews 11:4 states: 'and through it he, being dead, still speaks.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What distinguished Enoch before he was taken away by God without seeing death?",
+        "options": [
+          "He built the greatest empire in the ancient Near East",
+          "He had testimony that he had been well pleasing to God",
+          "He wrote hundreds of scrolls on military tactics",
+          "He was the wealthiest merchant of his generation"
+        ],
+        "correctIndex": 1,
+        "reference": "Hebrews 11:5",
+        "explanation": "Before his translation, Enoch had the testimony that 'he had been well pleasing to God.'"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "What motivated Noah to construct the ark when warned about things not yet seen?",
+        "options": [
+          "Fear of Roman soldiers",
+          "Godly fear and faith in God's warning",
+          "Desire to start a global shipping enterprise",
+          "Curiosity about marine carpentry"
+        ],
+        "correctIndex": 1,
+        "reference": "Hebrews 11:7",
+        "explanation": "Noah was 'moved with godly fear, prepared an ark for the saving of his house, through which he condemned the world, and became heir of the righteousness which is according to faith.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord God of the ages, I praise You as the Maker of all things, who framed the worlds out of unseen power. Forgive me for measuring reality solely by what my physical eyes can see or touch. Give me the worshipful heart of Abel, to offer You my best; give me the steady intimacy of Enoch, to walk with You every ordinary day; give me the holy resolve of Noah, to build according to Your Word even when the world mocks. I believe that You exist, and that You actively reward those who earnestly seek Your face.",
+      "versePrayerLine": "Anchor my soul in true faith—the assurance of things hoped for and the conviction of unseen realities.",
+      "prompt": "Identify one unseen promise of God that you need to cling to today, thanking Him before you see the physical outcome."
+    }
+  },
+  "344": {
+    "day": 344,
+    "character": "Abraham & Sarah (Hebrews 11)",
+    "title": "Pilgrims Desiring a Heavenly Homeland",
+    "theme": "Living as pilgrims on earth, the patriarchs kept their eyes set on the heavenly city prepared by God.",
+    "scripture": [
+      {
+        "reference": "Hebrews 11",
+        "title": "The Pilgrimage and Sacrificial Faith of Abraham and Sarah",
+        "verses": [
+          {
+            "number": 8,
+            "text": "By faith, Abraham, when he was called to go out to a place which he was to receive for an inheritance, obeyed. He went out, not knowing where he went."
+          },
+          {
+            "number": 9,
+            "text": "By faith, he lived as an alien in the land of promise, as in a land not his own, dwelling in tents with Isaac and Jacob, the heirs with him of the same promise;"
+          },
+          {
+            "number": 10,
+            "text": "for he looked for the city which has the foundations, whose builder and maker is God."
+          },
+          {
+            "number": 11,
+            "text": "By faith, even Sarah herself received power to conceive, and she bore a child when she was past age, since she counted him faithful who had promised."
+          },
+          {
+            "number": 13,
+            "text": "These all died in faith, not having received the promises, but having seen them and greeted them from afar, and having confessed that they were strangers and pilgrims on the earth."
+          },
+          {
+            "number": 16,
+            "text": "But now they desire a better country, that is, a heavenly one. Therefore God is not ashamed of them, to be called their God, for he has prepared a city for them."
+          },
+          {
+            "number": 17,
+            "text": "By faith, Abraham, being tested, offered up Isaac. Yes, he who had gladly received the promises was offering up his one and only son,"
+          },
+          {
+            "number": 19,
+            "text": "accounting that God is able to raise up even from the dead. From there he also received him back as a figure."
+          }
+        ]
+      },
+      {
+        "reference": "Genesis 15",
+        "title": "God's Covenant with Abraham and Justification by Faith",
+        "verses": [
+          {
+            "number": 1,
+            "text": "After these things Yahweh's word came to Abram in a vision, saying, 'Don't be afraid, Abram. I am your shield, your exceedingly great reward.'"
+          },
+          {
+            "number": 5,
+            "text": "Yahweh brought him outside, and said, 'Look now toward the sky, and count the stars, if you are able to count them.' He said to him, 'So your offspring will be.'"
+          },
+          {
+            "number": 6,
+            "text": "He believed in Yahweh, and he credited it to him for righteousness."
+          },
+          {
+            "number": 18,
+            "text": "In that day Yahweh made a covenant with Abram, saying, 'I have given this land to your offspring, from the river of Egypt to the great river, the river Euphrates.'"
+          }
+        ]
+      }
+    ],
+    "memoryVerse": {
+      "reference": "Hebrews 11:13",
+      "text": "These all died in faith, not having received the promises, but having seen them and greeted them from afar, and having confessed that they were strangers and pilgrims on the earth.",
+      "whyItMatters": "Do not treat this fallen earth as your permanent home; live as a pilgrim whose citizenship is in heaven.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "died",
+          "faith",
+          "promises",
+          "greeted",
+          "strangers",
+          "pilgrims",
+          "earth"
+        ],
+        "firstLetters": "T a d i f n h r t p b h s t a g t f a a h c t t w s a p o t e"
+      }
+    },
+    "profile": {
+      "title": "Abraham and Sarah - Patriarch and Matriarch of the Promise",
+      "who": "Husband and wife called out of Ur of the Chaldees to journey into Canaan, receiving the covenant of universal blessing.",
+      "whenAndWhere": "Circa 2000 BC, Ur, Haran, Canaan, and Egypt.",
+      "family": "Son of Terah, husband of Sarah, father of Isaac and Ishmael, ancestor of Jesus Christ.",
+      "keyMoments": [
+        "Departing civilized Ur without knowing his geographic destination, trusting only God's voice.",
+        "Believing God's promise beneath the starlit sky of Genesis 15, reckoned righteous by faith.",
+        "Sarah receiving supernatural power to conceive Isaac in extreme old age because she judged God faithful.",
+        "Mount Moriah: willingly offering Isaac, confident that God could raise him from the dead."
+      ],
+      "strengths": "Radical obedience, perseverance through decades of barrenness, resurrection-level confidence in God.",
+      "failures": "Lying twice about Sarah being his sister (Genesis 12 & 20), turning to Hagar out of impatience (Genesis 16)."
+    },
+    "whatGodIsSaying": {
+      "headline": "You Are a Pilgrim on Earth: God Has Prepared an Unshakeable City for You",
+      "reflection": "Abraham was wealthy, yet he lived in lightweight, moveable tents in the very land God had promised him. Why? Because his ultimate gaze was fixed far beyond dusty Canaan: 'he looked for the city which has foundations, whose builder and maker is God.' Sarah, too, though initially laughing in skeptical disbelief, reached a place where 'she counted Him faithful who had promised.' The hallmark of genuine faith is not having every promise materialized in your hands before you die. Verse 13 delivers one of the most poignant tributes in Scripture: these all died in faith without holding the full physical realization, but they saw the promises from afar, greeted them with joy, and confessed that they were merely travelers passing through. Because they refused to settle for earthly substitutes, God is not embarrassed to be called their God! He has constructed a permanent metropolis for them. When you hold your earthly possessions loosely and set your affections on heaven, your life brings glory to the God who is your shield and exceedingly great reward."
+    },
+    "lessons": [
+      {
+        "lesson": "Faith Steps Out Before Seeing the Map",
+        "verse": "Hebrews 11:8",
+        "detail": "Abraham obeyed God's call to go out, 'not knowing where he went'; faith follows the Guide rather than demanding the itinerary.",
+        "question": "Are you waiting for complete certainty before you obey what God has clearly commanded you to do?"
+      },
+      {
+        "lesson": "God's Faithfulness Outweighs Human Impossibilities",
+        "verse": "Hebrews 11:11",
+        "detail": "Sarah received miraculous strength to conceive past age because she anchored herself in the character of the Promiser.",
+        "question": "What dead circumstance in your life seems biologically or practically impossible for God to revive?"
+      },
+      {
+        "lesson": "Pilgrim Mentality Protects from Earthly Entanglement",
+        "verse": "Hebrews 11:13-16",
+        "detail": "When you view yourself as a stranger and temporary resident, this world's fleeting treasures lose their intoxicating grip.",
+        "question": "In what ways have you settled down too comfortably in worldly culture, forgetting your heavenly citizenship?"
+      },
+      {
+        "lesson": "Surrender Rests on God's Resurrection Power",
+        "verse": "Hebrews 11:17-19",
+        "detail": "Abraham placed Isaac on the altar because he believed God had power even to raise the dead; ultimate surrender trusts God's power.",
+        "question": "What precious dream or person do you need to surrender to God, trusting Him to handle the outcome?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "According to Hebrews 11:8, what was remarkable about Abraham's departure when called by God?",
+        "options": [
+          "He took an army of thousands of chariot soldiers",
+          "He obeyed and went out, not knowing where he was going",
+          "He demanded that God give him an exact map before stepping forward",
+          "He only moved to the neighboring suburb"
+        ],
+        "correctIndex": 1,
+        "reference": "Hebrews 11:8",
+        "explanation": "Hebrews 11:8 records: 'He went out, not knowing where he went.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "Why did Abraham dwell in temporary tents even while living in the land of promise?",
+        "options": [
+          "Because he was too poor to purchase stone or timber",
+          "For he looked for the city which has foundations, whose builder and maker is God",
+          "Because Canaanite law strictly forbade tents from being replaced",
+          "He was afraid of building foundations"
+        ],
+        "correctIndex": 1,
+        "reference": "Hebrews 11:10",
+        "explanation": "Abraham looked beyond Canaan to 'the city which has the foundations, whose builder and maker is God.'"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "question": "True or False: According to Hebrews 11:16, God is ashamed to be called the God of those who live as pilgrims desiring a heavenly country.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Hebrews 11:16",
+        "explanation": "False. 'Therefore God is not ashamed of them, to be called their God, for he has prepared a city for them.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What theological conclusion did Abraham reach when he prepared to offer up Isaac in Hebrews 11:19?",
+        "options": [
+          "That God had canceled the promise of descendants",
+          "Accounting that God is able to raise up even from the dead",
+          "That Isaac was not the child of promise after all",
+          "That human sacrifice would please Egyptian idols"
+        ],
+        "correctIndex": 1,
+        "reference": "Hebrews 11:19",
+        "explanation": "Abraham accounted 'that God is able to raise up even from the dead. From there he also received him back as a figure.'"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "What was credited to Abram as righteousness in Genesis 15:6?",
+        "options": [
+          "His victory over the four Mesopotamian kings",
+          "He believed in Yahweh, and it was credited to him for righteousness",
+          "His vast wealth in cattle and silver",
+          "His building of massive altars throughout Haran"
+        ],
+        "correctIndex": 1,
+        "reference": "Genesis 15:6",
+        "explanation": "Genesis 15:6 is the great foundation of justification: 'He believed in Yahweh, and he credited it to him for righteousness.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord God of Abraham and Sarah, You are my shield and my exceedingly great reward. Thank You that my citizenship is not chained to the passing kingdoms of this earth, but anchored in the heavenly city You have built. Forgive me for holding tightly to temporal comforts and clinging to earthly securities. Grant me Abraham's willingness to follow Your voice into the unknown, Sarah's faith in Your unchanging promise, and the courage to lay my dearest treasures on Your altar, knowing You are the God of resurrection life.",
+      "versePrayerLine": "Teach me to live unashamedly as a pilgrim and stranger on earth, setting my eyes upon the heavenly city You have prepared.",
+      "prompt": "Examine what earthly possession or plan you are clutching too tightly, mentally releasing it into God's eternal keeping."
+    }
+  },
+  "345": {
+    "day": 345,
+    "character": "Moses & The Faithful (Hebrews 11)",
+    "title": "Choosing Reproach with Christ Over Egyptian Treasures",
+    "theme": "Valuing the reproach of Christ above all worldly kingdoms anchors the heart to endure as seeing Him who is invisible.",
+    "scripture": [
+      {
+        "reference": "Hebrews 11",
+        "title": "The Radical Choices and Enduring Faith of Moses and the Saints",
+        "verses": [
+          {
+            "number": 23,
+            "text": "By faith, Moses, when he was born, was hidden for three months by his parents, because they saw that he was a beautiful child, and they were not afraid of the king's commandment."
+          },
+          {
+            "number": 24,
+            "text": "By faith, Moses, when he had grown up, refused to be called the son of Pharaoh's daughter,"
+          },
+          {
+            "number": 25,
+            "text": "choosing rather to share ill treatment with God's people, than to enjoy the pleasures of sin for a short season;"
+          },
+          {
+            "number": 26,
+            "text": "accounting the reproach of Christ greater riches than the treasures of Egypt; for he looked to the reward."
+          },
+          {
+            "number": 27,
+            "text": "By faith, he left Egypt, not fearing the wrath of the king; for he endured, as seeing him who is invisible."
+          },
+          {
+            "number": 28,
+            "text": "By faith, he instituted the Passover, and the sprinkling of the blood, that the destroyer of the firstborn should not touch them."
+          },
+          {
+            "number": 29,
+            "text": "By faith, they passed through the Red Sea as on dry land. When the Egyptians tried to do so, they were swallowed up."
+          }
+        ]
+      },
+      {
+        "reference": "Exodus 2",
+        "title": "The Birth, Rescue, and Early Choices of Moses",
+        "verses": [
+          {
+            "number": 2,
+            "text": "The woman conceived, and bore a son. When she saw that he was a fine child, she hid him three months."
+          },
+          {
+            "number": 3,
+            "text": "When she could no longer hide him, she took a papyrus basket for him, coated it with tar and with pitch, and put the child in it, and laid it among the reeds by the river's bank."
+          },
+          {
+            "number": 10,
+            "text": "The child grew, and she brought him to Pharaoh's daughter, and he became her son. She named him Moses, and said, 'Because I drew him out of the water.'"
+          },
+          {
+            "number": 11,
+            "text": "In those days, when Moses had grown up, he went out to his brothers, and looked on their burdens. He saw an Egyptian striking a Hebrew, one of his brothers."
+          }
+        ]
+      }
+    ],
+    "memoryVerse": {
+      "reference": "Hebrews 11:26",
+      "text": "Accounting the reproach of Christ greater riches than the treasures of Egypt; for he looked to the reward.",
+      "whyItMatters": "Renounce the temporary, poisonous sweets of compromise; enduring hardship with Christ yields eternal riches.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "Accounting",
+          "reproach",
+          "Christ",
+          "greater",
+          "riches",
+          "treasures",
+          "Egypt",
+          "reward"
+        ],
+        "firstLetters": "A t r o C g r t t t o E f h l t t r"
+      }
+    },
+    "profile": {
+      "title": "Moses - Prince Turned Emancipator Through Consecrated Choice",
+      "who": "Deliverer, lawgiver, and prophet of Israel who chose solidarity with enslaved Hebrews over the royal palaces of Pharaoh.",
+      "whenAndWhere": "Circa 1526-1406 BC, Royal Thebes and Goshen in Egypt, Midian desert, Mount Sinai.",
+      "family": "Son of Amram and Jochebed, younger brother of Miriam and Aaron, adopted by Pharaoh's daughter.",
+      "keyMoments": [
+        "Preserved in a pitch-covered papyrus ark upon the waters of the Nile through maternal faith.",
+        "Renouncing his royal Egyptian princely title upon reaching maturity to identify with enslaved God-fearers.",
+        "Fleeing into Midian exile for 40 years of sheep-tending humility after striking down an Egyptian oppressor.",
+        "Leading the Exodus and instituting the Passover lamb whose blood shields from the destroyer."
+      ],
+      "strengths": "Peerless meekness (Numbers 12:3), prophetic intimacy talking face-to-face with God, holy values.",
+      "failures": "Early reliance on carnal violence in killing the Egyptian; later striking the rock in anger at Meribah."
+    },
+    "whatGodIsSaying": {
+      "headline": "True Greatness Renounces Passing Pleasures to Stand with the Invisible King",
+      "reflection": "Moses had at his fingertips everything the ancient superpower of Egypt could bestow: unlimited wealth, elite education, political power, and every sensual indulgence. Yet Scripture summarizes his life by three monumental verbs of holy defiance: he refused, he chose, and he endured. He refused to be domesticated by Egyptian royalty; he chose ill-treatment with the afflicted people of God over the fleeting sweets of sin; and he endured the wrath of furious monarchs because he fixed his inner gaze upon 'Him who is invisible.' The author of Hebrews uses a startling phrase: Moses considered 'the reproach of Christ'—the stigma of identifying with God's anointed purpose—far more valuable than all the vaults of gold in Egypt. Moses knew an eternal truth that our modern culture forgets: worldly pleasure is real, but it is strictly 'for a short season.' Sin always has an expiration date, followed by bankruptcy. But when you tie your identity to Christ, no mockery, sacrifice, or temporary hardship can diminish your eternal inheritance."
+    },
+    "lessons": [
+      {
+        "lesson": "Identity Determines Your Allegiance",
+        "verse": "Hebrews 11:24-25",
+        "detail": "Moses refused to let Pharaoh's court define him; knowing he belonged to Yahweh broke the spell of Egyptian prestige.",
+        "question": "What worldly status or approval are you clinging to that hinders your total identification with Christ?"
+      },
+      {
+        "lesson": "Sin's Pleasures Are Real but Short-Lived",
+        "verse": "Hebrews 11:25",
+        "detail": "Scripture does not deny that sin brings temporary pleasure; it exposes the tragedy that its duration is fleeting and leaves ruin.",
+        "question": "When tempted by compromise, how can you remind yourself of sin's deceptive brevity and bitter aftermath?"
+      },
+      {
+        "lesson": "The Reproach of Christ Surpasses Worldly Wealth",
+        "verse": "Hebrews 11:26",
+        "detail": "Carrying Christ's cross and enduring cultural contempt is not a loss; it is a sacred investment yielding unshakeable heavenly wealth.",
+        "question": "Have you experienced social or professional awkwardness because of your faith, and do you view it as treasure?"
+      },
+      {
+        "lesson": "Endurance Comes by Seeing the Invisible God",
+        "verse": "Hebrews 11:27",
+        "detail": "You cannot outlast intense opposition with human willpower; endurance is fueled by setting the eyes of faith on the living God.",
+        "question": "How can you practice seeing the invisible presence of God when surrounded by threatening circumstances?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "According to Hebrews 11:24-25, what did Moses refuse to be called when he had grown up?",
+        "options": [
+          "Commander of the chariot legions of Goshen",
+          "The son of Pharaoh's daughter",
+          "The high priest of the Nile temple",
+          "A wanderer of the Sinai wilderness"
+        ],
+        "correctIndex": 1,
+        "reference": "Hebrews 11:24",
+        "explanation": "Moses 'refused to be called the son of Pharaoh's daughter, choosing rather to share ill treatment with God's people.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "What did Moses account as greater riches than all the treasures of Egypt in Hebrews 11:26?",
+        "options": [
+          "The reproach of Christ",
+          "The marble quarries of Nubia",
+          "The scrolls of Babylonian philosophy",
+          "The friendship of Midianite sheikhs"
+        ],
+        "correctIndex": 0,
+        "reference": "Hebrews 11:26",
+        "explanation": "Hebrews 11:26 declares Moses was 'accounting the reproach of Christ greater riches than the treasures of Egypt.'"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "question": "True or False: According to Hebrews 11:27, Moses was able to endure opposition because he saw Him who is invisible.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 0,
+        "reference": "Hebrews 11:27",
+        "explanation": "True. 'for he endured, as seeing him who is invisible.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "Why did Moses' parents hide him for three months according to Hebrews 11:23?",
+        "options": [
+          "Because they saw he was a beautiful child, and they were not afraid of the king's commandment",
+          "Because they intended to sell him to passing merchants",
+          "Because an angel told them to flee immediately to Rome",
+          "Because they were ashamed of his Hebrew heritage"
+        ],
+        "correctIndex": 0,
+        "reference": "Hebrews 11:23",
+        "explanation": "Moses' parents acted in courageous faith: 'because they saw that he was a beautiful child, and they were not afraid of the king's commandment.'"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "What ordinance did Moses institute by faith so that the destroyer would not touch Israel's firstborn?",
+        "options": [
+          "The Feast of Tabernacles with palm branches",
+          "The Passover, and the sprinkling of the blood",
+          "The year of Jubilee liberation",
+          "The construction of the golden ark"
+        ],
+        "correctIndex": 1,
+        "reference": "Hebrews 11:28",
+        "explanation": "Hebrews 11:28 records: 'By faith, he instituted the Passover, and the sprinkling of the blood...'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Living God, break the hypnotic spell of this world's fleeting pleasures over my soul. Like Moses, grant me the spiritual vision to choose ill-treatment with Your people rather than the temporary comfort of compromise. Let me never sell my birthright for the trinkets and applause of an Egyptian culture destined to perish. Open my spiritual eyes every day to see You who are invisible. When I face misunderstanding or reproach for Jesus' name, remind my heart that Your reproach is richer than all earthly gold.",
+      "versePrayerLine": "Enable me to account the reproach of Christ as greater riches than all the treasures this world can offer.",
+      "prompt": "Identify one area where the fear of human disapproval is tempting you to compromise, asking God for holy boldness to stand firm."
+    }
+  },
+  "346": {
+    "day": 346,
+    "character": "The Cloud of Witnesses & Looking to Jesus",
+    "title": "Stripping Weights and Fixing Eyes on Jesus",
+    "theme": "Surrounded by ancient witnesses, we shed hindrances and run our race with endurance, fixing our gaze on Jesus.",
+    "scripture": [
+      {
+        "reference": "Hebrews 12",
+        "title": "Running the Race, Fixing Gaze on Jesus, and Enduring Fatherly Discipline",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Therefore let's also, seeing we are surrounded by so great a cloud of witnesses, lay aside every weight and the sin which so easily entangles us, and let's run with perseverance the race that is set before us,"
+          },
+          {
+            "number": 2,
+            "text": "looking to Jesus, the author and perfecter of faith, who for the joy that was set before him endured the cross, despising its shame, and has sat down at the right hand of the throne of God."
+          },
+          {
+            "number": 3,
+            "text": "For consider him who has endured such hostility of sinners against himself, that you don't grow weary, fainting in your souls."
+          },
+          {
+            "number": 5,
+            "text": "You have forgotten the exhortation which reasons with you as with children, 'My son, don't take lightly the chastening of the Lord, nor faint when you are reproved by him;"
+          },
+          {
+            "number": 6,
+            "text": "For whom the Lord loves, he disciplines, and chastises every son whom he receives.'"
+          },
+          {
+            "number": 14,
+            "text": "Follow after peace with all men, and the sanctification without which no one will see the Lord,"
+          }
+        ]
+      },
+      {
+        "reference": "Romans 12",
+        "title": "Living Sacrifices and Transformed Minds",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Therefore I urge you, brothers, by the mercies of God, to present your bodies a living sacrifice, holy, acceptable to God, which is your spiritual service."
+          },
+          {
+            "number": 2,
+            "text": "Don't be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what is the good, well-pleasing, and perfect will of God."
+          },
+          {
+            "number": 9,
+            "text": "Let love be without hypocrisy. Abhor that which is evil. Cling to that which is good."
+          },
+          {
+            "number": 12,
+            "text": "Rejoicing in hope; enduring in troubles; continuing steadfastly in prayer;"
+          },
+          {
+            "number": 21,
+            "text": "Don't be overcome by evil, but overcome evil with good."
+          }
+        ]
+      }
+    ],
+    "memoryVerse": {
+      "reference": "Hebrews 12:1-2",
+      "text": "Therefore let’s also, seeing we are surrounded by so great a cloud of witnesses, lay aside every weight and the sin which so easily entangles us, and let’s run with perseverance the race that is set before us, looking to Jesus, the author and perfecter of faith...",
+      "whyItMatters": "Strip off every unnecessary burden and entangling sin; fix your eyes on Jesus and run your assigned lane.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "surrounded",
+          "cloud",
+          "witnesses",
+          "weight",
+          "sin",
+          "entangles",
+          "perseverance",
+          "looking",
+          "Jesus"
+        ],
+        "firstLetters": "T l a s w a s b s g a c o w l a e w a t s w s e e u a l r w p t r t i s b u l t J t a a p o f"
+      }
+    },
+    "profile": {
+      "title": "The Cloud of Witnesses - Triumphant Runners in Heaven's Grandstands",
+      "who": "The collective assembly of Old and New Testament saints who finished their earthly course and now testify that God is faithful.",
+      "whenAndWhere": "From Abel to the apostles, crowned in heaven, cheering the pilgrim church onward.",
+      "family": "The eternal household of God, united under the singular Headship of Jesus Christ.",
+      "keyMoments": [
+        "Abel, Abraham, Rahab, David, the prophets, and martyrs completing their earthly marathon.",
+        "Standing as a great stadium of witnesses cheering on current believers who run their assigned generation.",
+        "Looking to Jesus, who spearheaded the race, despised the cross's shame, and sat down at the right hand of majesty."
+      ],
+      "strengths": "Unswerving endurance through torture, ridicule, and exile; absolute vindication through resurrection.",
+      "failures": "All were imperfect mortals redeemed exclusively through the blood and grace of the promised Messiah."
+    },
+    "whatGodIsSaying": {
+      "headline": "You Are Not Running Alone: Cast Off Every Encumbrance and Fasten Your Eyes on Jesus",
+      "reflection": "The writer to the Hebrews paints a breathtaking visual metaphor: you are an athlete in an ancient stadium. In the grandstands sits a colossal cloud of witnesses—Abel, Abraham, Moses, Gideon, and the martyrs—not watching as detached critics, but testifying by their finished lives: 'God can be trusted! Keep running! The crown is real!' In a marathon, no runner carries heavy backpacks or wears trailing robes. You are commanded to do two things: lay aside 'every weight' (things that are not necessarily sins, but heavy baggage that slows you down) and 'the sin that so easily entangles' (the recurring snare that trips your feet). Then run with fierce, dogged perseverance. How do you avoid collapse? 'Looking unto Jesus.' Turn your eyes away from your competitors, away from the mocking crowd, and away even from your own exhaustion. Jesus did not endure the agonizing shame of the cross in grim resignation; He saw 'the joy set before Him'—the redeemed bride He would welcome home. Keep your eyes on Him until you cross the finish line."
+    },
+    "lessons": [
+      {
+        "lesson": "Distinguish Between Sins and Weights",
+        "verse": "Hebrews 12:1",
+        "detail": "Weights are non-sinful distractions, anxieties, or habits that drain your spiritual stamina; wise runners lay them aside.",
+        "question": "What is one 'weight' in your life right now that isn't evil in itself, but is draining your spiritual focus?"
+      },
+      {
+        "lesson": "Sin Must Be Ruthlessly Stripped Away",
+        "verse": "Hebrews 12:1",
+        "detail": "Entangling sins wrap around an athlete's feet to guarantee a catastrophic fall; confession and repentance untie the snare.",
+        "question": "Which persistent, repetitive sin has been tripping you up, and what boundary will you put in place today?"
+      },
+      {
+        "lesson": "Looking to Jesus Sustains Exhausted Souls",
+        "verse": "Hebrews 12:2-3",
+        "detail": "When weary and discouraged by hostility, meditating on Jesus' suffering and triumphant enthronement restores inner strength.",
+        "question": "When you feel spiritually burned out, do you isolate in self-pity or gaze at the triumphant Savior?"
+      },
+      {
+        "lesson": "Fatherly Discipline Proves Genuine Sonship",
+        "verse": "Hebrews 12:5-6",
+        "detail": "God does not discipline you in vindictive fury; He prunes and trains you because He fiercely loves you as His true child.",
+        "question": "How can viewing your current hardship through the lens of loving divine training bring peace to your heart?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What are believers commanded to lay aside before running their assigned race in Hebrews 12:1?",
+        "options": [
+          "All physical money and personal clothing",
+          "Every weight and the sin which so easily entangles us",
+          "Their natural families and native languages",
+          "Their desire to see others saved"
+        ],
+        "correctIndex": 1,
+        "reference": "Hebrews 12:1",
+        "explanation": "Hebrews 12:1 instructs us to 'lay aside every weight and the sin which so easily entangles us, and let's run with perseverance the race that is set before us.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "What enabled Jesus to endure the agony of the cross and despise its shame in Hebrews 12:2?",
+        "options": [
+          "The promise of earthly military conquest",
+          "The joy that was set before Him",
+          "He felt no physical sensation of pain",
+          "Angelic armies fought His battles"
+        ],
+        "correctIndex": 1,
+        "reference": "Hebrews 12:2",
+        "explanation": "Jesus endured the cross 'for the joy that was set before him... despising its shame, and has sat down at the right hand of the throne of God.'"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "question": "True or False: According to Hebrews 12:6, the Lord disciplines those He rejects and hates.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Hebrews 12:6",
+        "explanation": "False. Scripture explicitly says: 'For whom the Lord loves, he disciplines, and chastises every son whom he receives.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What is Jesus called in relation to our faith in Hebrews 12:2?",
+        "options": [
+          "The author and perfecter of faith",
+          "The spectator of our faith",
+          "The distant critic of our faith",
+          "The temporary helper of our faith"
+        ],
+        "correctIndex": 0,
+        "reference": "Hebrews 12:2",
+        "explanation": "Jesus is 'the author and perfecter of faith' (or pioneer and finisher)."
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "According to Romans 12:1-2, how do believers offer their spiritual service to God?",
+        "options": [
+          "By conforming to popular cultural trends",
+          "By presenting their bodies as a living sacrifice and renewing their minds",
+          "By offering bulls and goats at the Jerusalem altar",
+          "By withdrawing into solitary desert silence"
+        ],
+        "correctIndex": 1,
+        "reference": "Romans 12:1-2",
+        "explanation": "Paul urges us 'to present your bodies a living sacrifice, holy, acceptable to God... Don't be conformed to this world, but be transformed by the renewing of your mind.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, pioneer and finisher of my faith, I lift my tired eyes away from the noise of this world to gaze upon You. Thank You for enduring the horrific shame of the cross for the joy of saving my soul. Forgive me for running with heavy baggage—unnecessary worries, vain ambitions, and repetitive sins that entangle my steps. Today I strip them off at the foot of Your cross. Fill me with holy perseverance. Remind me that the great cloud of witnesses is testifying to Your faithfulness. When fatherly discipline stings, let me receive it as proof of Your fierce, purifying love.",
+      "versePrayerLine": "Help me run with joyful perseverance the race set before me, keeping my eyes fixed steadfastly on Jesus.",
+      "prompt": "Name one specific weight or recurring entanglement you will consciously drop before God today so you can run freely."
+    }
+  },
+  "347": {
+    "day": 347,
+    "character": "Melchizedek & Jesus",
+    "title": "The Superior Priesthood and Uttermost Salvation",
+    "theme": "Christ's unchangeable, eternal priesthood provides complete, uttermost salvation through His perpetual intercession.",
+    "scripture": [
+      {
+        "reference": "Hebrews 5",
+        "title": "The Order of Melchizedek and Christ's Reverent Submission",
+        "verses": [
+          {
+            "number": 1,
+            "text": "For every high priest, being taken from among men, is appointed for men in things pertaining to God, that he may offer both gifts and sacrifices for sins."
+          },
+          {
+            "number": 5,
+            "text": "So also Christ didn't glorify himself to be made a high priest, but it was said to him, 'You are my Son. Today I have become your father.'"
+          },
+          {
+            "number": 6,
+            "text": "As he says also in another place, 'You are a priest forever, after the order of Melchizedek.'"
+          },
+          {
+            "number": 7,
+            "text": "He, in the days of his flesh, having offered up prayers and petitions with strong crying and tears to him who was able to save him from death, and having been heard for his godly fear,"
+          },
+          {
+            "number": 8,
+            "text": "though he was a Son, yet learned obedience by the things which he suffered."
+          },
+          {
+            "number": 9,
+            "text": "Having been made perfect, he became to all of those who obey him the author of eternal salvation,"
+          },
+          {
+            "number": 10,
+            "text": "named by God a high priest after the order of Melchizedek."
+          }
+        ]
+      },
+      {
+        "reference": "Hebrews 7",
+        "title": "Melchizedek's Greatness and Christ's Ever-Living Intercession",
+        "verses": [
+          {
+            "number": 1,
+            "text": "For this Melchizedek, king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings and blessed him,"
+          },
+          {
+            "number": 2,
+            "text": "to whom also Abraham divided a tenth part of all (being first, by interpretation, 'king of righteousness', and then also 'king of Salem', which is 'king of peace',"
+          },
+          {
+            "number": 23,
+            "text": "Many, indeed, have been made priests, because they are hindered from continuing by death."
+          },
+          {
+            "number": 24,
+            "text": "But he, because he lives forever, has his priesthood unchangeable."
+          },
+          {
+            "number": 25,
+            "text": "Therefore he is also able to save to the uttermost those who draw near to God through him, seeing that he lives forever to make intercession for them."
+          },
+          {
+            "number": 26,
+            "text": "For such a high priest was fitting for us: holy, guiltless, undefiled, separated from sinners, and made higher than the heavens;"
+          }
+        ]
+      }
+    ],
+    "memoryVerse": {
+      "reference": "Hebrews 7:25",
+      "text": "Therefore he is also able to save to the uttermost those who draw near to God through him, seeing that he lives forever to make intercession for them.",
+      "whyItMatters": "Jesus never stops praying for you; His eternal priesthood guarantees total, uttermost salvation for all who come to Him.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "able",
+          "save",
+          "uttermost",
+          "draw",
+          "near",
+          "lives",
+          "forever",
+          "intercession"
+        ],
+        "firstLetters": "T h i a a t s t t u t w d n t G t h s t h l f t m i f t"
+      }
+    },
+    "profile": {
+      "title": "Melchizedek & Jesus - King of Righteousness and Eternal Priest",
+      "who": "Melchizedek was the enigmatic king-priest of Salem who blessed Abraham; Jesus Christ fulfills his royal, deathless priesthood forever.",
+      "whenAndWhere": "Salem (ancient Jerusalem) circa 2080 BC; Jesus resurrected and ascended at the right hand of the Father.",
+      "family": "Melchizedek appears without recorded genealogy; Jesus is the eternal only-begotten Son of God.",
+      "keyMoments": [
+        "Melchizedek bringing bread and wine to victorious Abraham, receiving a tithe of the spoils.",
+        "Psalm 110:4 prophesying that Messiah would be an eternal priest after the order of Melchizedek.",
+        "Jesus offering tears and prayers in Gethsemane, learning obedience through suffering.",
+        "Jesus entering the true heavenly sanctuary with His own blood, establishing an unchangeable priesthood."
+      ],
+      "strengths": "Dual office of King and Priest, bringing righteousness and peace, unending life of intercession.",
+      "failures": "None; Jesus was tested in all points yet remained without sin, holy, harmless, and undefiled."
+    },
+    "whatGodIsSaying": {
+      "headline": "Christ's Priesthood Is Eternal: He Never Ceases Interceding to Save You Completely",
+      "reflection": "The Levitical priesthood under the Mosaic law was fragile and temporary because every priest eventually died. Graves lined the history of Aaron's line, meaning each generation needed a replacement who was himself a sinner. But in Jesus Christ, God inaugurated a priesthood of a completely different order—the royal order of Melchizedek, whose name means 'King of Righteousness' and 'King of Peace.' Because Jesus conquered death and lives forever, His priesthood is permanently untransferable. And what is Jesus doing right now at the right hand of the Father? He is not sitting in aloof detachment. 'He lives forever to make intercession for them!' Every time you face temptation, every time Satan accuses you, every time your strength fails, Jesus Christ is speaking Your name before the Father, presenting the infinite value of His shed blood. Because His intercession never ends, His saving power is limitless: He is able to save 'to the uttermost' (completely, eternally, through all circumstances) everyone who draws near to God through Him."
+    },
+    "lessons": [
+      {
+        "lesson": "Jesus Combines Righteousness and Peace",
+        "verse": "Hebrews 7:1-2",
+        "detail": "Like Melchizedek, Jesus first establishes perfect righteousness at the cross, which then produces genuine, unshakeable peace.",
+        "question": "Are you seeking emotional peace while compromising personal righteousness, or allowing Christ's righteousness to birth true peace?"
+      },
+      {
+        "lesson": "Jesus Understands the Agony of Human Suffering",
+        "verse": "Hebrews 5:7-8",
+        "detail": "In Gethsemane, Jesus prayed with loud crying and tears; our High Priest is not emotionally distant from our pain.",
+        "question": "How does Jesus' heartfelt weeping in Gethsemane give you confidence to pour out your raw grief to Him?"
+      },
+      {
+        "lesson": "You Are Saved to the Uttermost",
+        "verse": "Hebrews 7:25",
+        "detail": "Uttermost salvation means complete deliverance from sin's guilt, present power, and ultimate presence; nothing can thwart it.",
+        "question": "Do you harbor doubts that your past sins are too severe for Christ's uttermost salvation to redeem?"
+      },
+      {
+        "lesson": "Continuous Intercession Guarantees Your Arrival",
+        "verse": "Hebrews 7:25",
+        "detail": "You do not preserve yourself by your own willpower; you are upheld by the unceasing prayers of the risen Son of God.",
+        "question": "How does realizing that Jesus is praying for you right now strengthen your courage for today's battles?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What two royal titles are signified by the name and city of Melchizedek in Hebrews 7:2?",
+        "options": [
+          "King of war and king of gold",
+          "King of righteousness and king of peace",
+          "King of Egypt and king of Babylon",
+          "King of philosophy and king of commerce"
+        ],
+        "correctIndex": 1,
+        "reference": "Hebrews 7:2",
+        "explanation": "Melchizedek means 'king of righteousness', and King of Salem means 'king of peace'."
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "Why could the Levitical priests under the Old Covenant not continue indefinitely according to Hebrews 7:23?",
+        "options": [
+          "They were continually hindered from continuing by death",
+          "They were exiled to Rome every seven years",
+          "The temple ran out of incense",
+          "King David abolished the tribe of Levi"
+        ],
+        "correctIndex": 0,
+        "reference": "Hebrews 7:23",
+        "explanation": "The Old Covenant priests were mortal: 'they are hindered from continuing by death.'"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "question": "True or False: Because Jesus lives forever, His priesthood is temporary and constantly passed to earthly bishops.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Hebrews 7:24",
+        "explanation": "False. 'But he, because he lives forever, has his priesthood unchangeable.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "According to Hebrews 7:25, to what extent is Jesus able to save those who draw near to God through Him?",
+        "options": [
+          "Only partially, depending on their penance",
+          "To the uttermost, seeing that He lives forever to make intercession for them",
+          "Only until they commit their first adult blunder",
+          "Exclusively for members of the Levitical tribe"
+        ],
+        "correctIndex": 1,
+        "reference": "Hebrews 7:25",
+        "explanation": "Scripture declares: 'Therefore he is also able to save to the uttermost those who draw near to God through him, seeing that he lives forever to make intercession for them.'"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "How did Jesus learn obedience in the days of His flesh according to Hebrews 5:8?",
+        "options": [
+          "By reading Greek academy treatises",
+          "By the things which He suffered",
+          "By commanding legions of angels to remove all trial",
+          "By avoiding every contact with fallen humanity"
+        ],
+        "correctIndex": 1,
+        "reference": "Hebrews 5:8",
+        "explanation": "Hebrews 5:8 states: 'though he was a Son, yet learned obedience by the things which he suffered.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus, my Great High Priest, King of Righteousness and King of Peace, I bow before Your eternal throne. Thank You that Your priesthood never expires, never falters, and never fails. When accusations assault my mind, I rest in the truth that You are actively praying for me before the Father. You understand my tears, for You wept in Gethsemane; You understand my struggles, for You learned obedience through suffering. Save me to the uttermost today—cleanse my guilty conscience, break the power of sin, and keep my heart drawing near to God.",
+      "versePrayerLine": "Blessed Savior, I praise You because You live forever to make intercession for me, saving me to the uttermost.",
+      "prompt": "Rest for sixty seconds in the comforting reality that Jesus is personally interceding for you right now by name in heaven."
+    }
+  },
+  "348": {
+    "day": 348,
+    "character": "Jesus the Mediator of the New Covenant",
+    "title": "Bold Access Through the Torn Veil",
+    "theme": "The blood of Jesus provides confident, unfiltered access into the innermost presence of the Living God.",
+    "scripture": [
+      {
+        "reference": "Hebrews 10",
+        "title": "One Perfect Offering and Holy Boldness to Enter the Sanctuary",
+        "verses": [
+          {
+            "number": 10,
+            "text": "by which will we have been sanctified through the offering of the body of Jesus Christ once for all."
+          },
+          {
+            "number": 12,
+            "text": "but he, when he had offered one sacrifice for sins forever, sat down on the right hand of God,"
+          },
+          {
+            "number": 14,
+            "text": "For by one offering he has perfected forever those who are being sanctified."
+          },
+          {
+            "number": 19,
+            "text": "Having therefore, brothers, boldness to enter into the holy place by the blood of Jesus,"
+          },
+          {
+            "number": 20,
+            "text": "by the way which he dedicated for us, a new and living way, through the veil, that is to say, his flesh;"
+          },
+          {
+            "number": 21,
+            "text": "and having a great priest over the house of God,"
+          },
+          {
+            "number": 22,
+            "text": "let's draw near with a true heart in fullness of faith, having our hearts sprinkled from an evil conscience, and having our body washed with pure water."
+          },
+          {
+            "number": 23,
+            "text": "Let's hold fast the confession of our hope without wavering; for he who promised is faithful."
+          }
+        ]
+      },
+      {
+        "reference": "Exodus 24",
+        "title": "The Old Covenant Confirmed with Blood",
+        "verses": [
+          {
+            "number": 6,
+            "text": "Moses took half of the blood and put it in basins, and half of the blood he sprinkled on the altar."
+          },
+          {
+            "number": 7,
+            "text": "He took the book of the covenant and read it in the hearing of the people, and they said, 'All that Yahweh has spoken will we do, and be obedient.'"
+          },
+          {
+            "number": 8,
+            "text": "Moses took the blood, and sprinkled it on the people, and said, 'Look, this is the blood of the covenant, which Yahweh has made with you concerning all these words.'"
+          }
+        ]
+      }
+    ],
+    "memoryVerse": {
+      "reference": "Hebrews 10:19-20",
+      "text": "Having therefore, brothers, boldness to enter into the holy place by the blood of Jesus, by the way which he dedicated for us, a new and living way, through the veil, that is to say, his flesh...",
+      "whyItMatters": "Never cower in fear; approach the throne of the Almighty with holy boldness through the shed blood of Jesus.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "boldness",
+          "enter",
+          "holy",
+          "place",
+          "blood",
+          "Jesus",
+          "veil",
+          "flesh"
+        ],
+        "firstLetters": "H t b b t e i t h p b t b o J b t w w h d f u a n a l w t t v t i t s h f"
+      }
+    },
+    "profile": {
+      "title": "Jesus Christ - Mediator and Seal of the New Covenant",
+      "who": "The Son of God whose once-for-all sacrifice permanently tore the temple veil and reconciled humanity to the Holy God.",
+      "whenAndWhere": "Calvary, outside the walls of Jerusalem, circa 33 AD; seated at the right hand of majesty in heaven.",
+      "family": "The eternal Word made flesh, descendant of David according to the flesh, head of the church.",
+      "keyMoments": [
+        "Instituting the Lord's Supper with the cup: 'This is my blood of the new covenant, poured out for many.'",
+        "Bearing the wrath and curse of sin on Golgotha; tearing the massive temple curtain in two from top to bottom.",
+        "Sitting down at the Father's right hand—a posture of completed work, unlike Levitical priests who never sat.",
+        "Inviting every believer into the Holy of Holies with unfiltered boldness and a cleansed conscience."
+      ],
+      "strengths": "Infinite worth of His sacrifice, total eradication of sin's guilt, perpetual faithfulness.",
+      "failures": "None; entirely without sin, spot, or defect."
+    },
+    "whatGodIsSaying": {
+      "headline": "The Veil Is Torn: Step Into the Holy of Holies with Clean Hands and Pure Faith",
+      "reflection": "In the Old Covenant tabernacle, the Most Holy Place was concealed behind a thick, impenetrable curtain. Only one man—the high priest—could slip behind it once a year on the Day of Atonement, carrying blood with trembling dread, lest he be struck down. But when Jesus died on Calvary, that massive curtain was violently ripped apart from top to bottom by the hand of God! The way into the intimate presence of God was blown wide open. In Hebrews 10, the author uses a staggering word: 'Having therefore, brothers, boldness to enter into the holy place by the blood of Jesus.' Boldness! Not arrogance or casual flippancy, but joyful, unshakeable confidence. You do not have to tiptoe into prayer like an unwanted beggar hoping God won't notice your flaws. By one single offering, Jesus has perfected forever those who are being sanctified. His blood has cleansed your evil conscience. Draw near today with full assurance of faith, for He who promised is faithful."
+    },
+    "lessons": [
+      {
+        "lesson": "One Offering Accomplished Complete Cleansing",
+        "verse": "Hebrews 10:12, 14",
+        "detail": "Levitical priests stood daily repeating identical sacrifices; Jesus sat down because His single sacrifice finished the work forever.",
+        "question": "Do you live as though Christ's sacrifice was 99% complete, needing your performance to finish the remaining 1%?"
+      },
+      {
+        "lesson": "The Blood of Jesus Grants Confident Boldness",
+        "verse": "Hebrews 10:19",
+        "detail": "Believers do not enter God's presence based on personal goodness; our passport is exclusively the precious blood of Jesus.",
+        "question": "Does a sense of personal unworthiness keep you from praying with holy boldness and confidence?"
+      },
+      {
+        "lesson": "Draw Near with a Cleansed Conscience",
+        "verse": "Hebrews 10:22",
+        "detail": "Christ's blood cleanses the conscience from recurring guilt, freeing us from the debilitating memory of forgiven sins.",
+        "question": "Are you carrying an evil, accusing conscience regarding past sins that God has already washed clean?"
+      },
+      {
+        "lesson": "Hold Fast Without Wavering Because God Is Faithful",
+        "verse": "Hebrews 10:23",
+        "detail": "Our security is not based on the strength of our confession, but on the unshakeable character of the Promiser.",
+        "question": "In what promise of God do you need to stop wavering, planting your feet firmly on His trustworthiness?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What posture did Jesus assume after offering one sacrifice for sins forever according to Hebrews 10:12?",
+        "options": [
+          "He paced anxiously outside the temple gate",
+          "He sat down at the right hand of God",
+          "He continued to slaughter bulls and goats",
+          "He returned to the tomb to sleep"
+        ],
+        "correctIndex": 1,
+        "reference": "Hebrews 10:12",
+        "explanation": "Hebrews 10:12 states: 'he, when he had offered one sacrifice for sins forever, sat down on the right hand of God.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "According to Hebrews 10:19-20, what gives believers boldness to enter into the holy place?",
+        "options": [
+          "Our personal record of fasting and charitable deeds",
+          "The blood of Jesus and the new, living way through the veil of His flesh",
+          "Membership in ancient priestly genealogies",
+          "Political decrees from the Roman senate"
+        ],
+        "correctIndex": 1,
+        "reference": "Hebrews 10:19-20",
+        "explanation": "We have boldness to enter the holy place 'by the blood of Jesus, by the way which he dedicated for us... through the veil, that is to say, his flesh.'"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "question": "True or False: According to Hebrews 10:14, believers need new animal sacrifices each week to renew their salvation.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Hebrews 10:14",
+        "explanation": "False. 'For by one offering he has perfected forever those who are being sanctified.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What reason is given in Hebrews 10:23 for holding fast the confession of our hope without wavering?",
+        "options": [
+          "Because our willpower is infallible",
+          "Because he who promised is faithful",
+          "Because all earthly religions are identical",
+          "Because life on earth is completely free of trials"
+        ],
+        "correctIndex": 1,
+        "reference": "Hebrews 10:23",
+        "explanation": "Hebrews 10:23 anchors our hope: 'for he who promised is faithful.'"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "What did Moses sprinkle on the people to confirm the Old Covenant in Exodus 24:8?",
+        "options": [
+          "Water mixed with cedar ashes",
+          "The blood of the covenant",
+          "Fine dust from Mount Sinai",
+          "Sweet myrrh and cinnamon"
+        ],
+        "correctIndex": 1,
+        "reference": "Exodus 24:8",
+        "explanation": "Moses took the blood, sprinkled it on the people, and said: 'Look, this is the blood of the covenant, which Yahweh has made with you...'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, I stand amazed at the wonder of the torn veil. Through the sacrifice of Your holy flesh and the pouring out of Your precious blood, You have opened a new and living way directly into the Father's presence. I step past the threshold of fear, guilt, and shame today with joyful boldness. Sprinkle my conscience clean from every lingering accusation of the adversary. Help me to draw near with a true heart in full assurance of faith, and hold fast my confession without wavering, knowing that You who promised are faithful.",
+      "versePrayerLine": "Thank You, precious Lord, for giving me boldness to enter the holy place through Your blood and Your torn veil.",
+      "prompt": "Take a deep breath and spend a moment in silence speaking directly to the Father with filial boldness, knowing nothing separates you."
+    }
+  },
+  "349": {
+    "day": 349,
+    "character": "John on the Island of Patmos",
+    "title": "The Blazing Glory of the Living Christ",
+    "theme": "The glorified Lord of the church appears in blazing majesty, holding the keys of death and Hades.",
+    "scripture": [
+      {
+        "reference": "Revelation 1",
+        "title": "The Vision of the Glorified Son of Man on Patmos",
+        "verses": [
+          {
+            "number": 9,
+            "text": "I, John, your brother and partner with you in oppression, kingdom, and endurance in Christ Jesus, was on the isle that is called Patmos because of God's Word and the testimony of Jesus Christ."
+          },
+          {
+            "number": 10,
+            "text": "I was in the Spirit on the Lord's day, and I heard behind me a loud voice, like a trumpet"
+          },
+          {
+            "number": 12,
+            "text": "I turned to see the voice that spoke with me. Having turned, I saw seven golden lampstands."
+          },
+          {
+            "number": 13,
+            "text": "And among the lampstands was one like a son of man, clothed with a robe reaching down to his feet, and with a golden sash around his chest."
+          },
+          {
+            "number": 14,
+            "text": "His head and his hair were white as white wool, like snow. His eyes were like a flame of fire."
+          },
+          {
+            "number": 15,
+            "text": "His feet were like burnished brass, as if it had been refined in a furnace. His voice was like the voice of many waters."
+          },
+          {
+            "number": 16,
+            "text": "He had seven stars in his right hand. Out of his mouth proceeded a sharp two-edged sword. His face was like the sun shining in its strength."
+          },
+          {
+            "number": 17,
+            "text": "When I saw him, I fell at his feet like a dead man. He laid his right hand on me, saying, 'Don't be afraid. I am the first and the last,'"
+          },
+          {
+            "number": 18,
+            "text": "'and the Living one. I was dead, and behold, I am alive forever and ever. Amen. I have the keys of Death and of Hades.'"
+          }
+        ]
+      },
+      {
+        "reference": "Daniel 7",
+        "title": "The Ancient of Days and the Son of Man",
+        "verses": [
+          {
+            "number": 9,
+            "text": "I watched until thrones were placed, and one who was ancient of days sat. His clothing was white as snow, and the hair of his head like pure wool. His throne was fiery flames, and its wheels burning fire."
+          },
+          {
+            "number": 13,
+            "text": "I saw in the night visions, and behold, there came with the clouds of the sky one like a son of man, and he came even to the ancient of days, and they brought him near before him."
+          },
+          {
+            "number": 14,
+            "text": "Dominion was given him, and glory, and a kingdom, that all the peoples, nations, and languages should serve him. His dominion is an everlasting dominion, which will not pass away, and his kingdom one which will not be destroyed."
+          }
+        ]
+      }
+    ],
+    "memoryVerse": {
+      "reference": "Revelation 1:17-18",
+      "text": "When I saw him, I fell at his feet like a dead man. He laid his right hand on me, saying, 'Don’t be afraid. I am the first and the last, and the Living one. I was dead, and behold, I am alive forever and ever. Amen. I have the keys of Death and of Hades.'",
+      "whyItMatters": "Fall prostrate before the glorified King; His right hand lifts you up and assures you He holds the keys over death.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "saw",
+          "fell",
+          "feet",
+          "dead",
+          "afraid",
+          "first",
+          "last",
+          "Living",
+          "alive",
+          "keys",
+          "Death"
+        ],
+        "firstLetters": "W I s h I f a h f l a d m H l h r h o m s D b a I a t f a t l a t L o I w d a b I a a f a e A I h t k o D a o H"
+      }
+    },
+    "profile": {
+      "title": "Apostle John - Exiled Prophet on the Isle of Patmos",
+      "who": "The aged apostle exiled by Emperor Domitian to the penal rocky island of Patmos for preaching God's Word.",
+      "whenAndWhere": "Circa 95 AD, Patmos, an Aegean volcanic penal colony off the coast of Asia Minor.",
+      "family": "Son of Zebedee; brother in tribulation, kingdom, and patience with all persecuted saints.",
+      "keyMoments": [
+        "Exiled to backbreaking rock quarries for his uncompromising testimony of Jesus Christ.",
+        "Being swept up 'in the Spirit on the Lord's Day' and hearing a voice like a trumpet blast.",
+        "Seeing the glorified Jesus walking among seven golden lampstands with blazing eyes of fire.",
+        "Collapsing in holy terror like a corpse, only to feel Christ's comforting right hand restoring him."
+      ],
+      "strengths": "Unyielding faithfulness under Roman tyranny, profound prophetic sensitivity, reverent humility.",
+      "failures": "Initially overwhelmed by the majesty of the vision, falling as though dead until touched by grace."
+    },
+    "whatGodIsSaying": {
+      "headline": "Jesus Is the Victorious Lord of History: He Holds the Keys of Death and Hades",
+      "reflection": "John was exiled to Patmos, a desolate rock quarry where Rome dumped political convicts. Caesar Domitian believed he had silenced the last surviving apostle of Jesus Christ. But earthly tyrants cannot imprison the Holy Spirit. On the Lord's Day, John is caught up in prophetic vision, and turns to see Jesus—not as the bruised, humble Galilean carpenter, but as the reigning Lord of the cosmos! His hair shines white with eternal wisdom; His eyes blaze like flames of holy discernment; His voice roars like cascading waterfalls; out of His mouth comes the sharp two-edged sword of divine truth; and His face blazes like the noonday sun. John, who once leaned his head against Jesus' chest at the Last Supper, now collapses at His feet like a dead man. The holiness is terrifying. But watch the tender majesty of Jesus: He places His authoritative right hand upon John and whispers: 'Do not be afraid. I am the First and the Last, and the Living One. I was dead, and behold, I am alive forever and ever! And I hold the keys of Death and of Hades.' Caesar did not hold the keys to John's destiny; Jesus holds them. Christ holds the keys to your life, your health, your future, and your grave. Fear nothing!"
+    },
+    "lessons": [
+      {
+        "lesson": "Exile Cannot Block Heavenly Communion",
+        "verse": "Revelation 1:9-10",
+        "detail": "Isolation, imprisonment, or suffering cannot prevent the Holy Spirit from visiting faithful believers with transcendent revelation.",
+        "question": "Is your current isolation or difficulty causing you to despair, or are you tuning your ear to hear Christ's voice?"
+      },
+      {
+        "lesson": "True Encounter with Jesus Inspires Holy Awe",
+        "verse": "Revelation 1:17",
+        "detail": "A shallow view of Jesus breeds casual irreverence; seeing Him in His glorified majesty brings us humbly to our knees.",
+        "question": "Has familiarity with religious routines dulled your reverent awe of the holy, blazing Lord Jesus?"
+      },
+      {
+        "lesson": "Christ's Right Hand Banishes Paralyzing Dread",
+        "verse": "Revelation 1:17",
+        "detail": "The same terrifying Lord who commands galaxies reaches down with personal tenderness to comfort His trembling servants.",
+        "question": "What deep-seated fear in your heart needs to be touched and silenced by Jesus' compassionate right hand?"
+      },
+      {
+        "lesson": "Jesus Possesses the Ultimate Authority Over Death",
+        "verse": "Revelation 1:18",
+        "detail": "Death and the grave are not sovereign forces; Jesus took their keys when He walked out of the tomb, and He reigns forever.",
+        "question": "How does knowing that Jesus holds the keys to your physical and eternal destiny dispel your anxiety?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "Why was the Apostle John on the island of Patmos according to Revelation 1:9?",
+        "options": [
+          "On a vacation retreat with church leaders",
+          "Because of God's Word and the testimony of Jesus Christ",
+          "To establish a new naval trade route for Ephesus",
+          "He was searching for ancient gold mines"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 1:9",
+        "explanation": "John explains he was on Patmos 'because of God's Word and the testimony of Jesus Christ.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "How did John react when he turned and saw the glorified Son of Man in Revelation 1:17?",
+        "options": [
+          "He began arguing theological points",
+          "He fell at His feet like a dead man",
+          "He immediately ran away into the sea",
+          "He took out a parchment to draft a legal contract"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 1:17",
+        "explanation": "Overwhelmed by the majesty of the vision, John records: 'When I saw him, I fell at his feet like a dead man.'"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "question": "True or False: According to Revelation 1:18, Jesus holds the keys of Death and of Hades.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 0,
+        "reference": "Revelation 1:18",
+        "explanation": "True. Jesus proclaimed: 'I was dead, and behold, I am alive forever and ever. Amen. I have the keys of Death and of Hades.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What proceeded out of the mouth of the glorified Son of Man in Revelation 1:16?",
+        "options": [
+          "Streams of golden oil",
+          "A sharp two-edged sword",
+          "Seven silver trumpets",
+          "Incense smoke from the altar"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 1:16",
+        "explanation": "John witnessed that 'out of his mouth proceeded a sharp two-edged sword.'"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "In Daniel 7:13-14, what was given to the one like a Son of Man who came before the Ancient of Days?",
+        "options": [
+          "A small earthly province for a limited century",
+          "Everlasting dominion, glory, and an indestructible kingdom",
+          "A fleet of Roman triremes",
+          "A brief tenure as high priest"
+        ],
+        "correctIndex": 1,
+        "reference": "Daniel 7:14",
+        "explanation": "Daniel foresaw that 'dominion was given him, and glory, and a kingdom... His dominion is an everlasting dominion, which will not pass away.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, Alpha and Omega, First and the Last, Living King! You are clothed in unapproachable splendor, with eyes like blazing fire and a voice like roaring waters. I fall before You in holy adoration. Forgive me for treating You with shallow familiarity. I rejoice that You were dead, but are alive forevermore, holding the keys of death and Hades. No tyrant, no sickness, and no demonic power can snatch me from Your hands. Lay Your gentle, mighty right hand upon my shoulder today, and whisper to my spirit: 'Do not be afraid.'",
+      "versePrayerLine": "You are the Living One who was dead and is alive forever, holding all keys of authority in heaven and earth.",
+      "prompt": "Bow your head in silence for a moment, picturing the glorified Lord laying His comforting hand on you, casting out all fear."
+    }
+  },
+  "350": {
+    "day": 350,
+    "character": "The Overcomers of Ephesus & Smyrna",
+    "title": "Rekindling First Love and Fearless Fidelity",
+    "theme": "Christ calls His church to rekindle early passion and remain fearless in the face of suffering and poverty.",
+    "scripture": [
+      {
+        "reference": "Revelation 2",
+        "title": "Letters to the Churches at Ephesus and Smyrna",
+        "verses": [
+          {
+            "number": 1,
+            "text": "To the angel of the assembly in Ephesus write: 'He who holds the seven stars in his right hand, he who walks among the seven golden lampstands says these things:"
+          },
+          {
+            "number": 2,
+            "text": "I know your works, and your toil and perseverance, and that you can't tolerate evil men, and have tested those who call themselves apostles, and they are not, and found them false."
+          },
+          {
+            "number": 4,
+            "text": "But I have this against you, that you left your first love."
+          },
+          {
+            "number": 5,
+            "text": "Remember therefore from where you have fallen, and repent and do the first works; or else I am coming to you swiftly, and will move your lampstand out of its place, unless you repent."
+          },
+          {
+            "number": 8,
+            "text": "To the angel of the assembly in Smyrna write: 'The first and the last, who was dead, and has come to life says these things:"
+          },
+          {
+            "number": 9,
+            "text": "I know your works, oppression, and your poverty (but you are rich), and the blasphemy of those who say they are Jews, and they are not, but are a synagogue of Satan."
+          },
+          {
+            "number": 10,
+            "text": "Don't be afraid of the things which you are about to suffer. Behold, the devil is about to throw some of you into prison, that you may be tested... Be faithful to death, and I will give you the crown of life.'"
+          }
+        ]
+      },
+      {
+        "reference": "Acts 19",
+        "title": "Paul's Revival and Spiritual Warfare at Ephesus",
+        "verses": [
+          {
+            "number": 11,
+            "text": "God worked special miracles by the hands of Paul,"
+          },
+          {
+            "number": 18,
+            "text": "Many also of those who had believed came, confessing, and declaring their deeds."
+          },
+          {
+            "number": 19,
+            "text": "Many of those who practiced magical arts brought their books together and burned them in the sight of all. They counted the price of them, and found it to be fifty thousand pieces of silver."
+          },
+          {
+            "number": 20,
+            "text": "So the word of the Lord was growing and prevailing mightily."
+          }
+        ]
+      }
+    ],
+    "memoryVerse": {
+      "reference": "Revelation 2:4-5",
+      "text": "But I have this against you, that you left your first love. Remember therefore from where you have fallen, and repent and do the first works...",
+      "whyItMatters": "Doctrine and hard work cannot replace intimate affection; rekindle your burning first love for Jesus today.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "against",
+          "left",
+          "first",
+          "love",
+          "Remember",
+          "fallen",
+          "repent",
+          "works"
+        ],
+        "firstLetters": "B I h t a y t y l y f l R t f w y h f a r a d t f w"
+      }
+    },
+    "profile": {
+      "title": "The Overcomers of Ephesus and Smyrna - Tested by Orthodoxy and Fire",
+      "who": "Two frontline apostolic churches in Asia Minor: Ephesus, orthodox but cooling in affection; Smyrna, poor and persecuted yet spiritually wealthy.",
+      "whenAndWhere": "Circa 95 AD, western coast of Asia Minor (modern Turkey).",
+      "family": "Sister congregations founded under Paul and John's apostolic ministries.",
+      "keyMoments": [
+        "Ephesus undergoing massive revival in Acts 19, burning occult books worth 50,000 silver coins in passionate devotion.",
+        "Ephesus forty years later: doctrinally vigilant against wolves, tirelessly working, yet forfeiting their intimate first love for Jesus.",
+        "Smyrna facing crushing economic poverty, slander from hostile synagogues, and impending ten-day imperial imprisonment.",
+        "Smyrna receiving not a single word of rebuke from Jesus—only the promise of the crown of life for enduring faithfulness unto death."
+      ],
+      "strengths": "Ephesus: doctrinal purity and endurance; Smyrna: heroic fidelity under economic boycotts and martyrdom.",
+      "failures": "Ephesus allowed mechanical orthodoxy and busyness to replace tender, passionate communion with Jesus."
+    },
+    "whatGodIsSaying": {
+      "headline": "Jesus Values Your Heart's Love Above Cold Duty, and Treasures the Faithful Sufferer",
+      "reflection": "The letters to Ephesus and Smyrna present a powerful contrast in spiritual vitality. The Ephesian church had an impressive resume: they worked tirelessly, endured hardship without fainting, and ferociously unmasked false apostles. Yet the King of the church looks straight into their core and identifies a fatal leak: 'You have left your first love.' Orthodoxy without affection is dead religion. Jesus does not merely want your theology straight; He wants your heart blazing with adoration! His remedy is threefold: remember where you were, repent of the drift, and do the first works of intimate pursuit. By contrast, look at Smyrna. They had no wealth, no political protection, and were slandered and starved. Yet Jesus whispers to them: 'I know your poverty—but you are rich!' Heaven's currency is entirely different from earth's. And to Smyrna facing execution, Jesus says: 'Do not fear what you are about to suffer... Be faithful unto death, and I will give you the crown of life.' Whether you are battling the subtle chill of routine busyness or the heat of intense persecution, Christ summons you to overcome."
+    },
+    "lessons": [
+      {
+        "lesson": "Doctrinal Correctness Cannot Substitute for Love",
+        "verse": "Revelation 2:2-4",
+        "detail": "You can be doctrinally sound, morally upright, and tirelessly active in church work, yet spiritually cold toward Jesus.",
+        "question": "Has your relationship with Christ become a checklist of religious duties rather than a romance of love?"
+      },
+      {
+        "lesson": "The Three-Step Path Back to First Love",
+        "verse": "Revelation 2:5",
+        "detail": "Recovery begins with remembrance (recalling earlier intimacy), repentance (confessing coldness), and repeating early devotions.",
+        "question": "What 'first works' (unhurried prayer, fervent Bible study, joyful witness) do you need to resume today?"
+      },
+      {
+        "lesson": "Earthly Poverty Can Mask Spiritual Riches",
+        "verse": "Revelation 2:9",
+        "detail": "Believers who suffer economic lack for Christ's sake often carry the greatest spiritual wealth in heaven's bank accounts.",
+        "question": "Do you measure your spiritual health by your financial bank account or by your faith and fidelity?"
+      },
+      {
+        "lesson": "Faithfulness Unto Death Wins the Crown of Life",
+        "verse": "Revelation 2:10",
+        "detail": "Jesus does not always promise escape from suffering; He promises eternal reward and resurrection glory to those who remain faithful.",
+        "question": "Are you willing to stay loyal to Jesus even when obedience brings financial loss, social rejection, or physical threat?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What serious rebuke did Jesus bring against the hardworking church at Ephesus in Revelation 2:4?",
+        "options": [
+          "They had embraced the worship of golden calves",
+          "They had left their first love",
+          "They refused to collect money for the poor",
+          "They had stopped meeting together entirely"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 2:4",
+        "explanation": "Despite their tireless toil and doctrinal discernment, Jesus told them: 'But I have this against you, that you left your first love.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "What three actions does Jesus prescribe in Revelation 2:5 to restore the Ephesian church?",
+        "options": [
+          "Remember, repent, and do the first works",
+          "Fast forty days, build a new temple, and remain silent",
+          "Pay tribute to Rome, elect new elders, and disperse",
+          "Debate opponents, write philosophical essays, and travel"
+        ],
+        "correctIndex": 0,
+        "reference": "Revelation 2:5",
+        "explanation": "Jesus commands: 'Remember therefore from where you have fallen, and repent and do the first works...'"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "question": "True or False: Jesus told the church in Smyrna that their poverty made them spiritually worthless in the sight of God.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 2:9",
+        "explanation": "False. Jesus told them: 'I know your works, oppression, and your poverty (but you are rich).'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What reward did Jesus promise to the believers of Smyrna if they remained faithful to death?",
+        "options": [
+          "A palace in Rome with marble courtyards",
+          "The crown of life",
+          "Exemption from all physical labor on earth",
+          "Unlimited earthly gold and rubies"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 2:10",
+        "explanation": "Jesus promised: 'Be faithful to death, and I will give you the crown of life.'"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "What occurred during the early days of the Ephesian revival in Acts 19:19?",
+        "options": [
+          "Believers burned their magic scrolls valued at 50,000 pieces of silver",
+          "The temple of Artemis was turned into a Roman garrison",
+          "Paul was crowned emperor of Asia",
+          "The church disbanded out of fear of riots"
+        ],
+        "correctIndex": 0,
+        "reference": "Acts 19:19",
+        "explanation": "In passionate initial love, believers brought magical books and burned them, worth 50,000 pieces of silver."
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus, search the deepest corridors of my heart today. I do not want to offer You mechanical service, cold doctrine, or loveless activity. Forgive me for leaving my first love. I remember the joy, tears, and wonder of the days when You first set me free. Today I repent of spiritual lukewarmness and apathy. Rekindle inside me a burning, holy passion for Your presence. And give me the steadfast grit of Smyrna: if trials, poverty, or persecution come my way, make me fearless and faithful unto death, keeping my eyes fixed on the crown of life.",
+      "versePrayerLine": "Lord, restore my heart to its first love, and grant me grace to do the works of joyful devotion.",
+      "prompt": "Spend two minutes telling Jesus simply and sincerely how much you love Him, thanking Him for saving your soul."
+    }
+  },
+  "351": {
+    "day": 351,
+    "character": "The Church at Pergamum & Thyatira",
+    "title": "Refusing Balaam and Jezebel's Compromise",
+    "theme": "Refusing worldly compromise secures the hidden manna of Christ and the white stone of vindication.",
+    "scripture": [
+      {
+        "reference": "Revelation 2",
+        "title": "Letters to the Compromised Churches of Pergamum and Thyatira",
+        "verses": [
+          {
+            "number": 12,
+            "text": "To the angel of the assembly in Pergamum write: 'He who has the sharp two-edged sword says these things:"
+          },
+          {
+            "number": 13,
+            "text": "I know your works and where you dwell, where Satan's throne is. You hold firmly to my name, and didn't deny my faith in the days of Antipas my witness, my faithful one, who was killed among you, where Satan dwells."
+          },
+          {
+            "number": 14,
+            "text": "But I have a few things against you, because you have there some who hold the teaching of Balaam, who taught Balak to throw a stumbling block before the children of Israel, to eat things sacrificed to idols, and to commit sexual immorality."
+          },
+          {
+            "number": 16,
+            "text": "Repent therefore, or else I am coming to you quickly, and I will make war against them with the sword of my mouth."
+          },
+          {
+            "number": 17,
+            "text": "To him who overcomes, to him I will give of the hidden manna, and I will give him a white stone, and on the stone a new name written, which no one knows but he who receives it."
+          },
+          {
+            "number": 18,
+            "text": "To the angel of the assembly in Thyatira write: 'The Son of God, who has his eyes like a flame of fire, and his feet are like burnished brass says these things:"
+          },
+          {
+            "number": 20,
+            "text": "But I have this against you, that you tolerate your woman, Jezebel, who calls herself a prophetess. She teaches and seduces my servants to commit sexual immorality, and to eat things sacrificed to idols."
+          }
+        ]
+      },
+      {
+        "reference": "Numbers 25",
+        "title": "Israel's Tragic Fall at Baal Peor through Balaam's Counsel",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Israel stayed in Shittim; and the people began to play the prostitute with the daughters of Moab;"
+          },
+          {
+            "number": 2,
+            "text": "for they called the people to the sacrifices of their gods. The people ate and bowed down to their gods."
+          },
+          {
+            "number": 3,
+            "text": "Israel joined himself to Baal Peor, and Yahweh's anger burned against Israel."
+          },
+          {
+            "number": 5,
+            "text": "Moses said to the judges of Israel, 'Everyone kill his men who have joined themselves to Baal Peor.'"
+          }
+        ]
+      }
+    ],
+    "memoryVerse": {
+      "reference": "Revelation 2:17",
+      "text": "To him who overcomes, to him I will give of the hidden manna, and I will give him a white stone, and on the stone a new name written, which no one knows but he who receives it.",
+      "whyItMatters": "Refuse to tolerate cultural compromise in the sanctuary; overcomers receive secret communion and the white stone of acceptance.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "overcomes",
+          "give",
+          "hidden",
+          "manna",
+          "white",
+          "stone",
+          "name",
+          "receives"
+        ],
+        "firstLetters": "T h w o t h I w g o t h m a I w g h a w s a o t s a n n w w n o k b h w r i"
+      }
+    },
+    "profile": {
+      "title": "Churches of Pergamum & Thyatira - Battlegrounds of Doctrinal Compromise",
+      "who": "Two cities of Asia Minor wrestling with internal moral seduction: Pergamum dwelling 'where Satan's throne is'; Thyatira tolerating the false prophetess 'Jezebel.'",
+      "whenAndWhere": "Circa 95 AD, western Asia Minor.",
+      "family": "Local congregations holding true to Christ's name amid severe pagan pressures.",
+      "keyMoments": [
+        "Pergamum enduring imperial executions, including faithful Antipas martyred inside a brazen bull for refusing Caesar worship.",
+        "Pergamum tolerating the doctrine of Balaam, allowing compromise with trade-guild idol feasts and immorality.",
+        "Thyatira excelling in love, service, and faith, yet disastrously tolerating a self-appointed prophetess leading saints into compromise.",
+        "Christ issuing a summons to radical internal repentance before He makes war with the sword of His mouth."
+      ],
+      "strengths": "Holding fast to Christ's name during intense persecution; growth in faith, love, and service (Thyatira).",
+      "failures": "Tolerating false teachers, moral compromise, and syncretism with pagan trade-guild practices."
+    },
+    "whatGodIsSaying": {
+      "headline": "Christ Will Not Tolerate Compromise in His Sanctuary: Overcome to Taste Hidden Manna",
+      "reflection": "Pergamum was the center of Caesar worship, crowned by the colossal altar of Zeus—what Jesus calls 'where Satan has his throne.' In that dark environment, they had stood courageously; their faithful brother Antipas had been martyred without the church denying the faith. But where Satan could not destroy them from the outside through violent persecution, he sought to corrupt them from the inside through subtle compromise. Certain members held the teaching of Balaam—the ancient scheme of tempting God's people into sexual compromise and idol feasts so they would lose their distinctiveness. In Thyatira, the compromise went even deeper: they tolerated 'Jezebel,' an influential woman claiming prophetic authority who seduced believers into moral laxity to preserve their commercial trade-guild memberships. Notice Jesus' title: He wields the sharp two-edged sword, and His eyes blaze like fire. He sees through all rationalizations. To those who refuse to compromise, Jesus promises two sublime rewards: the 'hidden manna' of secret, nourishing communion with Himself, and a 'white stone'—the ancient acquittal stone of total vindication, bearing an intimate new name known only between the Savior and the saint."
+    },
+    "lessons": [
+      {
+        "lesson": "Satan Uses Infiltration When Persecution Fails",
+        "verse": "Revelation 2:13-14",
+        "detail": "If the enemy cannot intimidate you through external threat, he will attempt to seduce you through subtle moral compromise.",
+        "question": "Where is worldly culture trying to subtly infiltrate your lifestyle, media consumption, or ethical boundaries?"
+      },
+      {
+        "lesson": "Tolerance of False Doctrine Grieves Christ",
+        "verse": "Revelation 2:20",
+        "detail": "Loving feelings and charitable deeds do not excuse tolerating blatant sexual immorality or false teaching in the church.",
+        "question": "Are you passively tolerating ideas or entertainment that directly contradict God's holy standards?"
+      },
+      {
+        "lesson": "Hidden Manna Nourishes the Non-Conformist",
+        "verse": "Revelation 2:17",
+        "detail": "When you renounce the banquet tables of worldly sin, Christ feeds your spirit with the secret, satisfying bread of heaven.",
+        "question": "How does feasting on Christ's presence satisfy the cravings that worldly indulgences attempt to fill?"
+      },
+      {
+        "lesson": "The White Stone Grants Divine Acquittal and Intimacy",
+        "verse": "Revelation 2:17",
+        "detail": "In antiquity, a white stone meant unanimous acquittal in court and private entry to a banquet; Christ acquits and honors overcomers.",
+        "question": "Does the approval of Jesus outweigh the condemnation or cancellation of worldly peers?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What phrase does Jesus use in Revelation 2:13 to describe where the church in Pergamum was situated?",
+        "options": [
+          "Beside the peaceful waters of Siloam",
+          "Where Satan's throne is",
+          "In the midst of Caesar's garden",
+          "In the barren desert of Idumea"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 2:13",
+        "explanation": "Jesus acknowledges their fierce spiritual environment: 'I know your works and where you dwell, where Satan's throne is.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "Who was martyred in Pergamum as Christ's faithful witness according to Revelation 2:13?",
+        "options": [
+          "Stephen",
+          "Antipas",
+          "Cornelius",
+          "Timothy"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 2:13",
+        "explanation": "Jesus honors His fallen servant: 'Antipas my witness, my faithful one, who was killed among you...'"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "question": "True or False: In Revelation 2:20, Jesus praised the church in Thyatira for listening carefully to the woman Jezebel.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 2:20",
+        "explanation": "False. Jesus rebuked them: 'I have this against you, that you tolerate your woman, Jezebel, who calls herself a prophetess...'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What two rewards does Jesus promise to the overcomer in Revelation 2:17?",
+        "options": [
+          "A chariot of gold and a purple crown",
+          "Hidden manna and a white stone with a new name written on it",
+          "Exemption from all physical tests",
+          "A private vineyard in Galilee"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 2:17",
+        "explanation": "Jesus promises: 'To him who overcomes, to him I will give of the hidden manna, and I will give him a white stone...'"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "What did Balaam teach Balak to do against Israel in Numbers 25 and Revelation 2:14?",
+        "options": [
+          "To build a massive defensive wall around Jericho",
+          "To throw a stumbling block before Israel, enticing them to idolatry and sexual immorality",
+          "To petition the Egyptian Pharaoh for assistance",
+          "To steal the golden tables from the tabernacle"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 2:14",
+        "explanation": "Balaam taught Balak to entice Israel into eating things sacrificed to idols and committing sexual immorality."
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, You who wield the sharp two-edged sword of truth, search my heart with Your eyes of flaming fire. Deliver me from the subtle snares of Balaam and the deceptive spirit of Jezebel. Forgive me for every area where I have compromised with the surrounding culture to protect my reputation, comfort, or career. Grant me the unyielding backbone of faithful Antipas to stand for Your name, even where darkness reigns. Feed my soul with the hidden manna of Your intimate presence, and let me live for that day when You give me the white stone of eternal acceptance.",
+      "versePrayerLine": "Grant me grace to overcome every worldly seduction, feeding upon Your hidden manna and resting in Your acquittal.",
+      "prompt": "Examine if there is an area of moral compromise in your life you have been excusing, asking God for the courage to cut it off today."
+    }
+  },
+  "352": {
+    "day": 352,
+    "character": "The Church at Sardis & Philadelphia",
+    "title": "Reputation Versus Reality and the Open Door",
+    "theme": "Christ sets an unshakeable open door before faithful believers who hold fast to His Word with little strength.",
+    "scripture": [
+      {
+        "reference": "Revelation 3",
+        "title": "Letters to the Churches at Sardis and Philadelphia",
+        "verses": [
+          {
+            "number": 1,
+            "text": "To the angel of the assembly in Sardis write: 'He who has the seven Spirits of God, and the seven stars says these things: I know your works, that you have a reputation of being alive, but you are dead."
+          },
+          {
+            "number": 2,
+            "text": "Wake up, and keep the things that remain, which were about to die; for I have found no works of yours perfected before my God."
+          },
+          {
+            "number": 3,
+            "text": "Remember therefore how you have received and heard. Keep it, and repent. If therefore you won't watch, I will come as a thief, and you won't know what hour I will come upon you."
+          },
+          {
+            "number": 7,
+            "text": "To the angel of the assembly in Philadelphia write: 'He who is holy, he who is true, he who has the key of David, he who opens and no one can shut, and who shuts and no one opens, says these things:"
+          },
+          {
+            "number": 8,
+            "text": "I know your works (behold, I have set before you an open door, which no one can shut), that you have a little power, and kept my word, and didn't deny my name."
+          },
+          {
+            "number": 10,
+            "text": "Because you kept my command to endure, I also will keep you from the hour of testing which is to come on the whole world, to test those who dwell on the earth."
+          },
+          {
+            "number": 12,
+            "text": "He who overcomes, I will make him a pillar in the temple of my God, and he will go out from there no more. I will write on him the name of my God..."
+          }
+        ]
+      },
+      {
+        "reference": "Isaiah 22",
+        "title": "The Key of David Placed on Eliakim's Shoulder",
+        "verses": [
+          {
+            "number": 20,
+            "text": "In that day, I will call my servant Eliakim the son of Hilkiah."
+          },
+          {
+            "number": 21,
+            "text": "I will clothe him with your robe, and strengthen him with your sash. I will commit your government into his hand; and he will be a father to the inhabitants of Jerusalem, and to the house of Judah."
+          },
+          {
+            "number": 22,
+            "text": "I will lay the key of the house of David on his shoulder. He will open, and no one will shut; and he will shut, and no one will open."
+          },
+          {
+            "number": 23,
+            "text": "I will fasten him like a nail in a sure place; and he will be for a throne of glory to his father's house."
+          }
+        ]
+      }
+    ],
+    "memoryVerse": {
+      "reference": "Revelation 3:8",
+      "text": "I know your works (behold, I have set before you an open door, which no one can shut), that you have a little power, and kept my word, and didn’t deny my name.",
+      "whyItMatters": "Even if your power feels small, keep His Word; Jesus unlocks doors of opportunity that no adversary can slam shut.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "works",
+          "open",
+          "door",
+          "shut",
+          "power",
+          "kept",
+          "word",
+          "deny",
+          "name"
+        ],
+        "firstLetters": "I k y w b I h s b y a o d w n o c s t y h a l p a k m w a d d m n"
+      }
+    },
+    "profile": {
+      "title": "The Assemblies of Sardis and Philadelphia - Dead Reputation and the Faithful Few",
+      "who": "Two contrasting Asian churches: Sardis, celebrated by peers for vibrant programs yet pronounced spiritually dead by Jesus; Philadelphia, small in size and strength yet praised for unwavering fidelity.",
+      "whenAndWhere": "Circa 95 AD, western Asia Minor.",
+      "family": "Sardis had a few names who had not defiled their garments; Philadelphia was loved by the King who holds David's key.",
+      "keyMoments": [
+        "Sardis resting on past historical glory and outward activity, unaware of their inner spiritual autopsy.",
+        "Christ commanding Sardis to wake up, strengthen the dying embers, and repent before He arrives like a thief.",
+        "Philadelphia standing before the open door of divine opportunity granted by the Lord who holds the key of David.",
+        "Christ promising to make the enduring Philadelphians immovable pillars in the eternal sanctuary of God."
+      ],
+      "strengths": "Philadelphia: kept Christ's Word, confessed His name under pressure, patient endurance.",
+      "failures": "Sardis: complacency, relying on earthly reputation, superficial activity masking internal spiritual death."
+    },
+    "whatGodIsSaying": {
+      "headline": "Earthly Reputation Does Not Impress God: He Honors Patient Fidelity with Open Doors",
+      "reflection": "The message to Sardis contains one of the most chilling diagnoses in the New Testament: 'You have a name of being alive, but you are dead.' In the eyes of their community, Sardis had all the signs of an active church—busy programs, prestige, and financial resources. Yet in heaven's evaluation, it was a spiritual cemetery. Jesus is not fooled by PR, branding, or historical prestige; He looks for living, throbbing spiritual reality. By contrast, look at Philadelphia. They had no impressive worldly standing: Jesus noted, 'You have a little power.' They were likely a small, impoverished, socially insignificant assembly. But what did they have? They kept Christ's Word, and they did not deny His name under pressure! And because of their faithful fidelity, the One who holds the key of David stepped in. When Jesus opens a door of gospel impact, salvation, and protection, no demon in hell and no critic on earth has the power to slam it shut. You do not need colossal earthly strength to do mighty exploits for God; you need small strength coupled with radical obedience to the One who unlocks eternity."
+    },
+    "lessons": [
+      {
+        "lesson": "Spiritual Reality Trumps Social Reputation",
+        "verse": "Revelation 3:1-2",
+        "detail": "It is entirely possible to enjoy a glowing Christian reputation while your actual communion with God has decayed into death.",
+        "question": "Is there a disparity between how spiritual others think you are and the actual private reality of your prayer life?"
+      },
+      {
+        "lesson": "Wake Up and Strengthen What Remains",
+        "verse": "Revelation 3:2-3",
+        "detail": "Even when a church or heart is dying, God graciously calls us to fan the remaining embers back into spiritual flame through repentance.",
+        "question": "What dying spiritual discipline in your life needs to be urgently revived and strengthened today?"
+      },
+      {
+        "lesson": "Christ Holds the Sovereign Key of David",
+        "verse": "Revelation 3:7",
+        "detail": "Jesus possesses absolute authority over human destinies, opportunities, and kingdom doors; what He shuts stays shut, what He opens stays open.",
+        "question": "Are you striving in your own flesh to kick open doors that only Jesus has the authority to unlock?"
+      },
+      {
+        "lesson": "Little Strength Linked to Christ Opens Mighty Doors",
+        "verse": "Revelation 3:8",
+        "detail": "God does not require massive human resources to advance His kingdom; He delights in small vessels who cling faithfully to His Word.",
+        "question": "How does knowing God uses believers with 'little strength' give you courage to walk through the doors He provides?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What tragic diagnosis did Jesus give to the church at Sardis in Revelation 3:1?",
+        "options": [
+          "They were too poor to afford oil for their lamps",
+          "They had a reputation of being alive, but were actually dead",
+          "They were studying too many ancient Greek philosophers",
+          "They had neglected their physical meeting hall"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 3:1",
+        "explanation": "Jesus pronounced: 'I know your works, that you have a reputation of being alive, but you are dead.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "What key does Jesus possess according to Revelation 3:7?",
+        "options": [
+          "The key of Solomon's treasury",
+          "The key of David, which opens and no one shuts, and shuts and no one opens",
+          "The key of the Roman senate gates",
+          "The key of the temple archives"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 3:7",
+        "explanation": "Jesus introduces Himself as 'he who has the key of David, he who opens and no one can shut, and who shuts and no one opens.'"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "question": "True or False: According to Revelation 3:8, Philadelphia possessed immense military and political power.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 3:8",
+        "explanation": "False. Jesus told them: 'you have a little power, and kept my word, and didn't deny my name.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What promise does Jesus make to the overcomer from Philadelphia in Revelation 3:12?",
+        "options": [
+          "He will make him a pillar in the temple of My God, and he will go out no more",
+          "He will receive an earthly mansion in Corinth",
+          "He will never experience another physical tear on earth",
+          "He will be appointed governor over five Roman provinces"
+        ],
+        "correctIndex": 0,
+        "reference": "Revelation 3:12",
+        "explanation": "Jesus promises: 'He who overcomes, I will make him a pillar in the temple of my God, and he will go out from there no more.'"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "In Isaiah 22:22, upon whose shoulder was the key of the house of David laid?",
+        "options": [
+          "Shebna the scribe",
+          "Eliakim the son of Hilkiah",
+          "Sennacherib king of Assyria",
+          "Uzziah the king"
+        ],
+        "correctIndex": 1,
+        "reference": "Isaiah 22:20-22",
+        "explanation": "Isaiah prophesied: 'I will lay the key of the house of David on his [Eliakim's] shoulder. He will open, and no one will shut...'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Holy and True Lord, Holder of the key of David! Deliver me from the tragic illusion of Sardis—having a reputation for being spiritually alive while my heart is secretly cold and dead. Awaken my spirit, Lord! Fan every dying ember of prayer and devotion into a roaring flame. Give me the heart of Philadelphia: though my earthly strength is small, help me to keep Your Word and never deny Your name. Thank You that You have set before me doors of opportunity, witness, and grace that no adversary can shut. Fasten my soul like a nail in a sure place.",
+      "versePrayerLine": "Lord, thank You for the open doors You provide, and for sustaining me even when I have only a little power.",
+      "prompt": "Thank Jesus for one specific open door of opportunity He has provided in your life, asking Him to help you walk through in faith."
+    }
+  },
+  "353": {
+    "day": 353,
+    "character": "The Church at Laodicea",
+    "title": "Lukewarm Complacency and the Knocking Savior",
+    "theme": "The tender Savior knocks on the door of complacent churches, inviting them into intimate, hot-hearted communion.",
+    "scripture": [
+      {
+        "reference": "Revelation 3",
+        "title": "Christ's Solemn Counsel to the Lukewarm Church at Laodicea",
+        "verses": [
+          {
+            "number": 14,
+            "text": "To the angel of the assembly in Laodicea write: 'The Amen, the Faithful and True Witness, the Beginning of God's creation, says these things:"
+          },
+          {
+            "number": 15,
+            "text": "I know your works, that you are neither cold nor hot. I wish you were cold or hot."
+          },
+          {
+            "number": 16,
+            "text": "So, because you are lukewarm, and neither hot nor cold, I will vomit you out of my mouth."
+          },
+          {
+            "number": 17,
+            "text": "Because you say, 'I am rich, and have gotten riches, and have need of nothing;' and don't know that you are the wretched one, miserable, poor, blind, and naked;"
+          },
+          {
+            "number": 18,
+            "text": "I counsel you to buy from me gold refined by fire, that you may become rich; and white garments, that you may clothe yourself... and eye salve to anoint your eyes, that you may see."
+          },
+          {
+            "number": 19,
+            "text": "As many as I love, I reprove and chasten. Be zealous therefore, and repent."
+          },
+          {
+            "number": 20,
+            "text": "Behold, I stand at the door and knock. If anyone hears my voice and opens the door, then I will come in to him, and will dine with him, and he with me."
+          }
+        ]
+      },
+      {
+        "reference": "Proverbs 3",
+        "title": "Trusting Yahweh and Welcoming His Fatherly Reproof",
+        "verses": [
+          {
+            "number": 5,
+            "text": "Trust in Yahweh with all your heart, and don't lean on your own understanding."
+          },
+          {
+            "number": 6,
+            "text": "In all your ways acknowledge him, and he will make your paths straight."
+          },
+          {
+            "number": 11,
+            "text": "My son, don't despise Yahweh's discipline, neither be weary of his reproof;"
+          },
+          {
+            "number": 12,
+            "text": "for whom Yahweh loves, he reproves; even as a father reproves the son in whom he delights."
+          },
+          {
+            "number": 13,
+            "text": "Happy is the man who finds wisdom, the man who gets understanding."
+          }
+        ]
+      }
+    ],
+    "memoryVerse": {
+      "reference": "Revelation 3:20",
+      "text": "Behold, I stand at the door and knock. If anyone hears my voice and opens the door, then I will come in to him, and will dine with him, and he with me.",
+      "whyItMatters": "Repent of self-satisfied, lukewarm complacency; open the door of your heart and feast in rich communion with Jesus.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "stand",
+          "door",
+          "knock",
+          "hears",
+          "voice",
+          "opens",
+          "dine"
+        ],
+        "firstLetters": "B I s a t d a k I a h m v a o t d t I w c i t h a w d w h a h w m"
+      }
+    },
+    "profile": {
+      "title": "The Church at Laodicea - The Self-Sufficient Church Lukewarm in Affection",
+      "who": "An affluent banking, wool-dyeing, and medical manufacturing city whose church succumbed to smug, self-satisfied lukewarmness.",
+      "whenAndWhere": "Circa 95 AD, the Lycus River valley of Asia Minor.",
+      "family": "Sister congregation to nearby Colossae and Hierapolis.",
+      "keyMoments": [
+        "Rebuilding their earthquake-shattered city in 60 AD entirely from their own private wealth without Roman imperial subsidies.",
+        "Boasting inside the church: 'I am rich, have become wealthy, and need nothing!' unaware of their spiritual destitution.",
+        "Receiving Christ's nauseated evaluation: lukewarm mineral water fit only to be vomited out.",
+        "Christ standing on the outside of His own church, knocking and pleading for individual table fellowship."
+      ],
+      "strengths": "Vast material resources, civic independence, cultural respectability.",
+      "failures": "Lukewarm apathy toward Jesus, spiritual blindness, self-delusion, locking Christ out of His own assembly."
+    },
+    "whatGodIsSaying": {
+      "headline": "Material Wealth Cannot Mask Spiritual Nakedness: Open the Door to the Knocking Savior",
+      "reflection": "Laodicea was a hub of ancient luxury: it was famous for its multi-millionaire banks, its lustrous black wool textiles, and a world-renowned ophthalmology school producing a Phrygian eye powder. But the church had drunk the toxic kool-aid of its city. They looked at their prosperity and declared, 'I am rich, I have prospered, and I need nothing!' Jesus gives them a brutal spiritual reality check: in heaven's sight, they were wretched, pitiable, poor, blind, and naked. Their spiritual temperature was like the lukewarm water piped through aqueducts from Hierapolis' hot springs—nauseating and tepid. Jesus would rather have someone ice-cold (aware of their need) or blazing hot (passionate in love) than lukewarm (self-satisfied and indifferent). Yet observe the astonishing tenderness of Christ! He does not destroy them in disgust. 'As many as I love, I reprove and chasten. Be zealous therefore, and repent!' Then comes the iconic image of Revelation 3:20: Jesus is standing outside the church He bought with His blood, tapping gently on the door latch. He will not kick down the door. If anyone—any single person—hears His voice and turns the key, Christ will step in to share an intimate, evening covenant feast. Do not leave Jesus outside in the cold."
+    },
+    "lessons": [
+      {
+        "lesson": "Lukewarmness Nauseates the Heart of Christ",
+        "verse": "Revelation 3:15-16",
+        "detail": "Casual, half-hearted indifference toward the Lord is more offensive to Him than outright spiritual coldness.",
+        "question": "In what aspects of your discipleship has comfortable apathy replaced holy zeal?"
+      },
+      {
+        "lesson": "Material Comfort Breeds Spiritual Delusion",
+        "verse": "Revelation 3:17",
+        "detail": "When earthly finances, health, and comfort abound, the human heart easily fools itself into thinking it has no need of God.",
+        "question": "Has financial stability or earthly ease made your prayers infrequent and superficial?"
+      },
+      {
+        "lesson": "True Riches Come Exclusively from Christ",
+        "verse": "Revelation 3:18",
+        "detail": "Only Christ provides the gold of tested faith, the white garments of His righteousness, and the eye salve of Holy Spirit vision.",
+        "question": "Are you spending your energy chasing worldly wealth while remaining spiritually destitute before God?"
+      },
+      {
+        "lesson": "Jesus Desires Intimate Table Fellowship with You",
+        "verse": "Revelation 3:20",
+        "detail": "The sovereign Lord does not force His way in; He patiently knocks, seeking quiet, deeply personal communion with your heart.",
+        "question": "Will you open the door of your daily schedule right now to let Jesus dine and fellowship with you?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "How did Jesus describe the spiritual temperature of the church at Laodicea in Revelation 3:15-16?",
+        "options": [
+          "Blazing with white-hot revival",
+          "Frozen in northern ice",
+          "Lukewarm, neither cold nor hot",
+          "Pleasantly temperate like spring rain"
+        ],
+        "correctIndex": 2,
+        "reference": "Revelation 3:15-16",
+        "explanation": "Jesus rebukes them: 'I know your works, that you are neither cold nor hot... So, because you are lukewarm, and neither hot nor cold, I will vomit you out of my mouth.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "What did the Laodiceans boast about themselves in Revelation 3:17?",
+        "options": [
+          "We are the humblest monks in all of Phrygia",
+          "I am rich, and have gotten riches, and have need of nothing",
+          "We have suffered more persecution than Smyrna",
+          "Our theological library contains all scrolls"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 3:17",
+        "explanation": "They boasted: 'I am rich, and have gotten riches, and have need of nothing;' unaware they were poor, blind, and naked."
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "question": "True or False: According to Revelation 3:19, Jesus only reproves and chastises those whom He completely hates and intends to damn.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 3:19",
+        "explanation": "False. Jesus said: 'As many as I love, I reprove and chasten. Be zealous therefore, and repent.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What does Jesus promise to do if anyone hears His voice and opens the door in Revelation 3:20?",
+        "options": [
+          "He will bring an army to condemn their ancestors",
+          "He will come in to him, and will dine with him, and he with Me",
+          "He will immediately take away all their earthly possessions",
+          "He will transfer them to a monastery"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 3:20",
+        "explanation": "Jesus promises intimate communion: 'I will come in to him, and will dine with him, and he with me.'"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "According to Proverbs 3:11-12, how should a believer respond to the Lord's discipline?",
+        "options": [
+          "Despise it and flee into pagan lands",
+          "Do not despise Yahweh's discipline or be weary of His reproof, for whom Yahweh loves He reproves",
+          "Blame their neighbors and fall into despair",
+          "Demand an explanation before the city council"
+        ],
+        "correctIndex": 1,
+        "reference": "Proverbs 3:11-12",
+        "explanation": "Proverbs teaches: 'don't despise Yahweh's discipline... for whom Yahweh loves, he reproves; even as a father reproves the son in whom he delights.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, Faithful and True Witness, deliver me from the blinding curse of lukewarm complacency. Forgive me for the times I have settled for comfort, telling myself that because I have food, shelter, and financial peace, I need nothing. How blind I have been! I buy from You today gold refined in the fire of genuine faith, white garments of Your spotless righteousness, and the holy eye salve of the Spirit to see reality as You see it. I hear Your gentle knock at the door of my heart right now. I turn the handle and fling the door wide open. Come in, Lord Jesus! Dine with me, and let my heart be set on fire with fervent, unreserved love for You.",
+      "versePrayerLine": "Behold, Lord Jesus, I hear Your voice and open the door of my heart to dine in sweet communion with You.",
+      "prompt": "Imagine Jesus standing outside your room right now knocking. Welcome Him inside in prayer, inviting Him to take first place in your day."
+    }
+  },
+  "354": {
+    "day": 354,
+    "character": "The Twenty-Four Elders & Four Living Creatures",
+    "title": "Unceasing Heavenly Worship Before the Throne",
+    "theme": "Unceasing heavenly worship centers on the Creator, casting crowns before His emerald-circled throne.",
+    "scripture": [
+      {
+        "reference": "Revelation 4",
+        "title": "The Emerald-Circled Throne, Living Creatures, and Casting of Crowns",
+        "verses": [
+          {
+            "number": 2,
+            "text": "Immediately I was in the Spirit. Behold, there was a throne set in heaven, and one sitting on the throne"
+          },
+          {
+            "number": 3,
+            "text": "that looked like a jasper stone and a sardius. There was a rainbow around the throne, like an emerald to look at."
+          },
+          {
+            "number": 4,
+            "text": "Around the throne were twenty-four thrones. On the thrones were twenty-four elders sitting, dressed in white clothing, with crowns of gold on their heads."
+          },
+          {
+            "number": 6,
+            "text": "Before the throne was something like a sea of glass, similar to crystal. In the middle of the throne, and around the throne were four living creatures full of eyes before and behind."
+          },
+          {
+            "number": 8,
+            "text": "The four living creatures, each one of them having six wings, are full of eyes within and around. They have no rest day and night, saying, 'Holy, holy, holy is the Lord God, the Almighty, who was and who is and who is to come.'"
+          },
+          {
+            "number": 10,
+            "text": "the twenty-four elders fall down before him who sits on the throne, and worship him who lives forever and ever, and throw their crowns before the throne, saying,"
+          },
+          {
+            "number": 11,
+            "text": "'Worthy are you, our Lord and our God, the Holy One, to receive the glory, the honor, and the power, for you created all things, and because of your desire they existed, and were created.'"
+          }
+        ]
+      },
+      {
+        "reference": "Isaiah 6",
+        "title": "Isaiah's Vision of the Lord High and Lifted Up",
+        "verses": [
+          {
+            "number": 1,
+            "text": "In the year that king Uzziah died, I saw the Lord sitting on a throne, high and lifted up; and his train filled the temple."
+          },
+          {
+            "number": 2,
+            "text": "Above him stood the seraphim. Each one had six wings: with two he covered his face, with two he covered his feet, and with two he flew."
+          },
+          {
+            "number": 3,
+            "text": "One called to another, and said, 'Holy, holy, holy, is Yahweh of Armies! The whole earth is full of his glory!'"
+          },
+          {
+            "number": 5,
+            "text": "Then I said, 'Woe is me! For I am undone, because I am a man of unclean lips, and I dwell among a people of unclean lips: for my eyes have seen the King, Yahweh of Armies!'"
+          }
+        ]
+      }
+    ],
+    "memoryVerse": {
+      "reference": "Revelation 4:11",
+      "text": "Worthy are you, our Lord and our God, the Holy One, to receive the glory, the honor, and the power, for you created all things, and because of your desire they existed, and were created.",
+      "whyItMatters": "Cast every human accomplishment and crown before heaven's throne; all creation exists solely for His pleasure.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "Worthy",
+          "Lord",
+          "God",
+          "receive",
+          "glory",
+          "honor",
+          "power",
+          "created",
+          "things",
+          "desire"
+        ],
+        "firstLetters": "W a y o L a o G t H O t r t g t h a t p f y c a t a b o y d t e a w c"
+      }
+    },
+    "profile": {
+      "title": "The Heavenly Host - Elders and Living Creatures Around the Throne",
+      "who": "Twenty-four crowned celestial elders representing the redeemed people of God (12 patriarchs and 12 apostles) and four cherubic living creatures.",
+      "whenAndWhere": "The central throne room of heaven, timeless eternity.",
+      "family": "The eternal worshiping assembly around the Creator.",
+      "keyMoments": [
+        "Surrounding the emerald-circled throne of God upon a sea of crystal glass.",
+        "Living creatures crying without resting day and night: 'Holy, holy, holy is the Lord God Almighty, who was and who is and who is to come.'",
+        "Twenty-four elders falling on their faces, uncrowning themselves to cast their golden diadems at the foot of the throne.",
+        "Singing the anthem of creation: acknowledging that all reality was authored solely for God's delight."
+      ],
+      "strengths": "Absolute God-centeredness, unceasing adoration, spontaneous abdication of personal status to honor the King.",
+      "failures": "None recorded; perfectly aligned in eternal holy worship."
+    },
+    "whatGodIsSaying": {
+      "headline": "Heaven's Universe Has a Center: Everything Exists to Bring Pleasure to the Creator",
+      "reflection": "When John was summoned through the open door into heaven, the very first thing he saw was not a theological system, an angel, or a celestial mansion; he saw a Throne! And on that throne sat One whose glory radiated like fiery jasper and ruby sardius, wrapped in an emerald rainbow of covenant mercy. Around this throne, the four living creatures never cease proclaiming the thrice-holy majesty of God. And every time the living creatures give glory, the twenty-four crowned elders respond with a movement of breathtaking humility: they slip the golden crowns off their heads and cast them at the feet of Him who sits on the throne. Why? Because in heaven, no creature keeps a crown on its head in the presence of the Creator. Every achievement, every victory, every reward is instantly credited back to its source: 'Worthy are You, our Lord and our God, to receive glory, honor, and power; for You created all things, and for Your pleasure they exist and were created.' You were not created to be the center of your own universe; you were created for His delight. When you cast your accomplishments at His feet, you join the eternal song of heaven."
+    },
+    "lessons": [
+      {
+        "lesson": "God's Throne Is the Absolute Center of Reality",
+        "verse": "Revelation 4:2-3",
+        "detail": "Whatever chaos roils earthly politics or personal circumstances, heaven's throne remains stable, serene, and sovereign.",
+        "question": "When earthly circumstances feel chaotic, does picturing God's immovable throne bring peace to your mind?"
+      },
+      {
+        "lesson": "True Holiness Inspires Unceasing Adoration",
+        "verse": "Revelation 4:8",
+        "detail": "The living creatures never grow tired of declaring God's holiness because His infinite beauty reveals new wonders every moment.",
+        "question": "How can you cultivate a heart that delights in praising God's character rather than only asking for favors?"
+      },
+      {
+        "lesson": "Cast Your Crowns Before the King",
+        "verse": "Revelation 4:10",
+        "detail": "God grants believers crowns of righteousness and victory, but their highest honor is casting them back at Jesus' feet.",
+        "question": "What personal achievement, talent, or status do you need to take off your head and cast at the feet of Jesus?"
+      },
+      {
+        "lesson": "You Exist for His Pleasure and Purpose",
+        "verse": "Revelation 4:11",
+        "detail": "Human existence is not an accidental biological quirk; you were intentionally sculpted by God for His eternal delight.",
+        "question": "How does knowing that you exist for God's pleasure change your perspective on your daily routine?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What did John see around the throne of God in Revelation 4:3?",
+        "options": [
+          "A wall of black marble",
+          "A rainbow around the throne, like an emerald to look at",
+          "A ring of Roman spears",
+          "A curtain of silver silk"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 4:3",
+        "explanation": "John beheld covenant mercy wrapping sovereignty: 'There was a rainbow around the throne, like an emerald to look at.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "What song do the four living creatures sing without rest day and night in Revelation 4:8?",
+        "options": [
+          "Great is Caesar, master of all nations",
+          "Holy, holy, holy is the Lord God, the Almighty, who was and who is and who is to come",
+          "Peace on earth through human wisdom",
+          "Worthy is the temple built by Solomon"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 4:8",
+        "explanation": "They declare unceasingly: 'Holy, holy, holy is the Lord God, the Almighty, who was and who is and who is to come.'"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "question": "True or False: According to Revelation 4:10, the twenty-four elders proudly kept their golden crowns locked on their heads before the throne.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 4:10",
+        "explanation": "False. The elders 'fall down before him who sits on the throne... and throw their crowns before the throne.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "According to Revelation 4:11, why did all things exist and were created?",
+        "options": [
+          "By random cosmic collisions over billions of eras",
+          "Because of God's desire (or pleasure) they existed, and were created",
+          "To satisfy the demands of angelic hosts",
+          "To give human kings empires to rule"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 4:11",
+        "explanation": "The elders sing: 'for you created all things, and because of your desire they existed, and were created.'"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "In Isaiah 6:3, what did the seraphim cry to one another in the heavenly temple?",
+        "options": [
+          "Holy, holy, holy, is Yahweh of Armies! The whole earth is full of his glory!",
+          "Woe to the nations of the gentiles!",
+          "Rebuild the city walls of Jerusalem!",
+          "Bow down before King Uzziah!"
+        ],
+        "correctIndex": 0,
+        "reference": "Isaiah 6:3",
+        "explanation": "Isaiah heard: 'Holy, holy, holy, is Yahweh of Armies! The whole earth is full of his glory!'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Holy, Holy, Holy Lord God Almighty! Who was, who is, and who is to come! I join the four living creatures and the twenty-four elders in bowing before Your emerald-circled throne. I take every crown of human achievement, reputation, success, or pride that I have worn, and I cast it down at Your holy feet. You alone are worthy to receive all glory, honor, and power. Forgive me for the days I lived as if the universe revolved around my comfort and my desires. Realign my soul today to its true purpose: to bring pleasure and praise to You, my Creator and King.",
+      "versePrayerLine": "Worthy are You, my Lord and my God, to receive all glory, honor, and power, for You created all things for Your pleasure.",
+      "prompt": "Take sixty seconds to mentally gather your accomplishments, gifts, and plans, casting them like golden crowns at the feet of Jesus."
+    }
+  },
+  "355": {
+    "day": 355,
+    "character": "The Slain Lamb",
+    "title": "The Conquering Lion Who Reigns as a Slain Lamb",
+    "theme": "The conquered Lion who reigns as the slain Lamb alone is worthy to unseal the scroll of human history.",
+    "scripture": [
+      {
+        "reference": "Revelation 5",
+        "title": "The Seven-Sealed Scroll and the Worthy Lamb",
+        "verses": [
+          {
+            "number": 1,
+            "text": "I saw, in the right hand of him who sat on the throne, a book written within and on the back, sealed with seven seals."
+          },
+          {
+            "number": 2,
+            "text": "I saw a mighty angel proclaiming with a loud voice, 'Who is worthy to open the book, and to break its seals?'"
+          },
+          {
+            "number": 3,
+            "text": "No one in heaven above, or on the earth, or under the earth, was able to open the book, or to look in it."
+          },
+          {
+            "number": 4,
+            "text": "And I wept much, because no one was found worthy to open the book, or to look in it."
+          },
+          {
+            "number": 5,
+            "text": "One of the elders said to me, 'Don't weep. Behold, the Lion who is of the tribe of Judah, the Root of David, has overcome; he who opens the book and its seven seals.'"
+          },
+          {
+            "number": 6,
+            "text": "I saw in the middle of the throne and of the four living creatures, and in the middle of the elders, a Lamb standing, as though it had been slain, having seven horns, and seven eyes, which are the seven Spirits of God"
+          },
+          {
+            "number": 9,
+            "text": "They sang a new song, saying, 'Worthy are you to take the book, and to open its seals: for you were killed, and bought us for God with your blood, out of every tribe, language, people, and nation,'"
+          },
+          {
+            "number": 10,
+            "text": "'and made us kings and priests to our God, and we will reign on earth.'"
+          }
+        ]
+      },
+      {
+        "reference": "Genesis 49",
+        "title": "Jacob's Deathbed Prophecy Concerning Judah the Lion",
+        "verses": [
+          {
+            "number": 8,
+            "text": "Judah, your brothers will praise you. Your hand will be on the neck of your enemies. Your father's sons will bow down before you."
+          },
+          {
+            "number": 9,
+            "text": "Judah is a lion's cub. From the prey, my son, you have gone up. He stooped down, he crouched as a lion, as a lioness. Who will rouse him up?"
+          },
+          {
+            "number": 10,
+            "text": "The scepter will not depart from Judah, nor the ruler's staff from between his feet, until he comes to whom it belongs. To him will the obedience of the peoples be."
+          }
+        ]
+      }
+    ],
+    "memoryVerse": {
+      "reference": "Revelation 5:9",
+      "text": "Worthy are you to take the book, and to open its seals: for you were killed, and bought us for God with your blood, out of every tribe, language, people, and nation...",
+      "whyItMatters": "Stop weeping over human helplessness; the Lion of Judah has conquered as a slain Lamb to redeem every people.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "Worthy",
+          "book",
+          "open",
+          "seals",
+          "killed",
+          "bought",
+          "blood",
+          "tribe",
+          "language",
+          "nation"
+        ],
+        "firstLetters": "W a y t t t b a t o i s f y w k a b u f G w y b o o e t l p a n"
+      }
+    },
+    "profile": {
+      "title": "The Lamb of God - Conquering Lion of Judah and Slain Redeemer",
+      "who": "Jesus Christ, the Lion of Judah and Root of David, appearing in the midst of heaven's throne as a Lamb standing bearing the marks of sacrifice.",
+      "whenAndWhere": "The cosmic court of heaven, presiding over the redemption and judgment of history.",
+      "family": "Seed of the woman, Son of Abraham, Lion of the Tribe of Judah, Son of David, Son of God.",
+      "keyMoments": [
+        "The tragic silence of heaven and earth when no human or angel is found worthy to take the scroll of history.",
+        "The apostle John weeping bitterly at humanity's inability to reclaim the lost inheritance of creation.",
+        "The elder proclaiming the victory of the Lion, yet John turning to see a Lamb standing as though freshly slain.",
+        "The Lamb taking the scroll from the Father's right hand, triggering an explosion of cosmic praise across all creation."
+      ],
+      "strengths": "Supreme moral worthiness through sacrificial love, infinite power (seven horns), complete omniscience (seven eyes).",
+      "failures": "None; entirely holy, undefiled, and victorious."
+    },
+    "whatGodIsSaying": {
+      "headline": "Human History Is Not Meaningless: The Slain Lamb Holds the Destiny of the Cosmos",
+      "reflection": "In Revelation 5, John faces the ultimate existential crisis: in the Father's right hand rests a scroll sealed with seven seals—the title-deed of creation, the destiny of redemption, and the execution of cosmic justice. But when an angel bellows across the universe asking who is worthy to open it, silence falls. No philosopher, emperor, scientist, or angel can touch the scroll. John bursts into loud, bitter weeping—the tears of all human despair. But an elder taps John on the shoulder and says, 'Stop weeping! Behold, the Lion of the tribe of Judah has triumphed!' John wipes his eyes, expecting to see a roaring, golden-maned apex predator. But when he turns, what does he see? 'A Lamb standing, as though it had been slain.' This is the great paradox of the gospel: God's Lion conquered not through brute violence or imperial slaughter, but by offering Himself as a slain Lamb! And notice His posture: He is not lying dead; He is standing—alive forevermore! When the Lamb takes the scroll, heaven detonates into worship. He bought people for God out of every tribe, tongue, language, and nation. The future of history is safely held in the nail-scarred hands of the Lamb."
+    },
+    "lessons": [
+      {
+        "lesson": "No Human Being Can Redeem History",
+        "verse": "Revelation 5:2-4",
+        "detail": "Human political systems and intellectual genius cannot fix our fallen planet; without Christ, human destiny ends in weeping.",
+        "question": "Are you placing your ultimate hope in earthly politics or human solutions rather than in the Lamb of God?"
+      },
+      {
+        "lesson": "Victory Comes Through Sacrificial Love",
+        "verse": "Revelation 5:5-6",
+        "detail": "The Lion conquered through the vulnerability of the Lamb; kingdom power triumphs through humility, sacrifice, and the cross.",
+        "question": "How can you overcome conflict in your relationships through Christlike humility rather than demanding control?"
+      },
+      {
+        "lesson": "The Blood of Jesus Redeems Global Diversity",
+        "verse": "Revelation 5:9",
+        "detail": "Christ's shed blood purchased a multi-ethnic, global bride from every tribe, language, people, and nation on earth.",
+        "question": "Does your heart share God's passion for global missions and the salvation of every unreached people group?"
+      },
+      {
+        "lesson": "Your Eternal Future Is Royal and Priestly",
+        "verse": "Revelation 5:10",
+        "detail": "The Lamb did not merely rescue you from destruction; He made you a king and priest to reign in His redeemed creation.",
+        "question": "How does your sacred identity as a priest and king to God elevate your purpose today?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "Why did the apostle John weep much in Revelation 5:4?",
+        "options": [
+          "Because he was cold and hungry on Patmos",
+          "Because no one in heaven or earth was found worthy to open the scroll or look in it",
+          "Because Rome had burned the city of Jerusalem",
+          "Because the living creatures ordered him to leave heaven"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 5:4",
+        "explanation": "John wept bitterly 'because no one was found worthy to open the book, or to look in it.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "When John turned after the elder announced the Lion of Judah, what did he actually see in Revelation 5:6?",
+        "options": [
+          "A golden chariot surrounded by lightning",
+          "A Lamb standing, as though it had been slain",
+          "An archangel with a flaming spear",
+          "A crowned Roman emperor"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 5:6",
+        "explanation": "Instead of a roaring predator, John beheld: 'a Lamb standing, as though it had been slain, having seven horns, and seven eyes...'"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "question": "True or False: According to Revelation 5:9, Jesus purchased people for God exclusively from one single geographic nation.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 5:9",
+        "explanation": "False. He bought us for God with His blood 'out of every tribe, language, people, and nation.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What title did Jacob give to Judah in the deathbed prophecy of Genesis 49:9?",
+        "options": [
+          "A wild donkey of the desert",
+          "A lion's cub",
+          "A swift eagle of the peaks",
+          "A fruitful vine by the spring"
+        ],
+        "correctIndex": 1,
+        "reference": "Genesis 49:9",
+        "explanation": "Jacob prophesied: 'Judah is a lion's cub. From the prey, my son, you have gone up.'"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "What did the Lamb make redeemed believers to be according to Revelation 5:10?",
+        "options": [
+          "Perpetual hired servants of the temple",
+          "Kings and priests to our God, and we will reign on earth",
+          "Silent spectators in the celestial galleries",
+          "Hermits dwelling in spiritual isolation"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 5:10",
+        "explanation": "Scripture declares the Lamb has 'made us kings and priests to our God, and we will reign on earth.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Worthy, Worthy, Worthy are You, Lord Jesus, the Slain Lamb and Conquering Lion of Judah! I wipe away every tear of despair and anxiety, knowing that the title-deed of history rests firmly in Your nail-pierced hands. You were slain, and by Your precious blood You purchased me for God, setting me free from the slavery of sin and shame. You have made me a king and priest to Your Father. Receive my life, my praise, and my adoration today. Expand my heart with Your burning passion for every tribe, language, people, and nation on this earth.",
+      "versePrayerLine": "Worthy are You, O Lamb of God, to take the scroll and open its seals, for You were slain and bought us with Your blood.",
+      "prompt": "Offer up a prayer right now for an unreached people group or missionary, rejoicing that the Lamb's blood has purchased worshippers from every nation."
+    }
+  },
+  "356": {
+    "day": 356,
+    "character": "The Multitude from Every Tribe",
+    "title": "Robes Washed White and Every Tear Wiped Away",
+    "theme": "A vast, innumerable multitude from every tongue worships in pure white robes, comforted by the gentle Shepherd.",
+    "scripture": [
+      {
+        "reference": "Revelation 7",
+        "title": "The Innumerable Multitude and the Gentle Shepherd on the Throne",
+        "verses": [
+          {
+            "number": 9,
+            "text": "After these things I looked, and behold, a great multitude, which no man could count, out of every nation and of all tribes, peoples, and languages, standing before the throne and before the Lamb, dressed in white robes, with palm branches in their hands."
+          },
+          {
+            "number": 10,
+            "text": "They cried with a loud voice, saying, 'Salvation be to our God, who sits on the throne, and to the Lamb!'"
+          },
+          {
+            "number": 13,
+            "text": "One of the elders answered, saying to me, 'These who are arrayed in the white robes, who are they, and where did they come from?'"
+          },
+          {
+            "number": 14,
+            "text": "I told him, 'My lord, you know.' He said to me, 'These are those who came out of the great suffering. They washed their robes, and made them white in the Lamb's blood.'"
+          },
+          {
+            "number": 15,
+            "text": "Therefore they are before the throne of God, they serve him day and night in his temple. He who sits on the throne will spread his tabernacle over them."
+          },
+          {
+            "number": 16,
+            "text": "They will never be hungry, neither thirsty any more; neither will the sun beat on them, nor any heat;"
+          },
+          {
+            "number": 17,
+            "text": "for the Lamb who is in the middle of the throne shepherds them, and leads them to springs of waters of life. And God will wipe away every tear from their eyes."
+          }
+        ]
+      },
+      {
+        "reference": "Isaiah 25",
+        "title": "The Feast of Fat Things and Swallowing Up Death Forever",
+        "verses": [
+          {
+            "number": 6,
+            "text": "In this mountain, Yahweh of Armies will make all peoples a feast of fat things, a feast of choice wines, of fat things full of marrow, of well refined choice wines."
+          },
+          {
+            "number": 8,
+            "text": "He has swallowed up death forever! The Lord Yahweh will wipe away tears from off all faces. He will take the reproach of his people away from off all the earth, for Yahweh has spoken it."
+          },
+          {
+            "number": 9,
+            "text": "It shall be said in that day, 'Behold, this is our God! We have waited for him, and he will save us! This is Yahweh! We have waited for him. We will be glad and rejoice in his salvation!'"
+          }
+        ]
+      }
+    ],
+    "memoryVerse": {
+      "reference": "Revelation 7:17",
+      "text": "For the Lamb who is in the middle of the throne shepherds them, and leads them to springs of waters of life. And God will wipe away every tear from their eyes.",
+      "whyItMatters": "Endure the great tribulation of this life; the Lamb will shepherd you to living waters and wipe away every tear.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "Lamb",
+          "middle",
+          "throne",
+          "shepherds",
+          "leads",
+          "springs",
+          "waters",
+          "life",
+          "wipe",
+          "tear",
+          "eyes"
+        ],
+        "firstLetters": "F t L w i i t m o t t s t a l t t s o w o l A G w w a e t f t e"
+      }
+    },
+    "profile": {
+      "title": "The Triumphant Multitude - Overcomers from the Great Tribulation",
+      "who": "An uncounted global throng of redeemed worshippers representing every ethnic group, language, and culture on earth.",
+      "whenAndWhere": "Standing before the throne of God and before the Lamb in heavenly glory.",
+      "family": "The worldwide family of God, blood-bought brothers and sisters in Christ.",
+      "keyMoments": [
+        "Enduring severe earthly persecution, poverty, martyrdom, and the great tribulation.",
+        "Washing their blood-stained, dirtied earthly garments in the blood of the Lamb, made dazzlingly white.",
+        "Waving palm branches of victory and shouting the unified cosmic anthem: 'Salvation belongs to our God!'",
+        "Being personally gathered by the Lamb who shepherds them to eternal springs of living water."
+      ],
+      "strengths": "Radical perseverance through suffering, total reliance on the atoning blood of Christ, joyful worship.",
+      "failures": "Former sinners once entangled in pagan darkness, transformed solely by sovereign grace."
+    },
+    "whatGodIsSaying": {
+      "headline": "The Pain of Earth Is Temporary: The Lamb Will Shepherd You and Wipe Every Tear",
+      "reflection": "John looks and beholds a vision so vast no human mathematics can calculate it: a multitude beyond counting, drawn out of every ethnicity, language, and tribe, standing before the throne of God. They are waving palm branches of joyous festival celebration and wearing robes of spotless white. An elder asks John who they are. The answer is unforgettable: 'These are they who came out of the great tribulation; they washed their robes and made them white in the blood of the Lamb.' What a holy paradox: earthly blood stains garments red, but the blood of the Lamb washes stained sinners pure white! These saints knew hunger, thirst, scorching heat, and bitter heartbreak in their earthly pilgrimage. But look at what awaits them: God spreads His tabernacle over them like a royal tent of safety. Never again will they hunger; never again will they thirst. And in one of the most tender verses in all of literature, John writes: 'The Lamb who is in the middle of the throne shepherds them, and leads them to springs of waters of life. And God will wipe away every tear from their eyes.' God Himself will take the handkerchief of eternity and personally wipe the sorrow from your face."
+    },
+    "lessons": [
+      {
+        "lesson": "The Church's Destiny Is Vast and Multi-Ethnic",
+        "verse": "Revelation 7:9",
+        "detail": "God's salvation plan will not end in defeat; it culminates in an innumerable international choir praising the Lamb.",
+        "question": "How does the certainty of heaven's multi-ethnic multitude encourage your prayers for global evangelism?"
+      },
+      {
+        "lesson": "Only the Lamb's Blood Can Wash Robes White",
+        "verse": "Revelation 7:14",
+        "detail": "Moral reform or self-righteous resolve cannot cleanse the stains of sin; only the atoning blood of Jesus produces spotless purity.",
+        "question": "Are you trusting in your moral efforts to wash your soul, or relying fully on the blood of the Lamb?"
+      },
+      {
+        "lesson": "The Lamb on the Throne Is Your Gentle Shepherd",
+        "verse": "Revelation 7:17",
+        "detail": "The King who commands heaven is also the intimate Shepherd who guides you to living waters and tends your wounds.",
+        "question": "Do you view Jesus primarily as a distant cosmic authority, or as the gentle Shepherd guiding your steps?"
+      },
+      {
+        "lesson": "God Will Personally Wipe Away Your Tears",
+        "verse": "Revelation 7:17",
+        "detail": "No sorrow, grief, or suffering endured in this life is wasted; the Father will tenderly wipe away every tear forever.",
+        "question": "What deep grief or persistent pain do you need to bring to God, trusting Him for eternal comfort?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What was the size of the multitude standing before the throne in Revelation 7:9?",
+        "options": [
+          "Exactly 144 individuals from Ephesus",
+          "A great multitude, which no man could count, out of every nation and tribe",
+          "A small band of seventy Roman scholars",
+          "Twelve battalions of chariot soldiers"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 7:9",
+        "explanation": "John saw 'a great multitude, which no man could count, out of every nation and of all tribes, peoples, and languages...'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "How did the great multitude make their robes white according to Revelation 7:14?",
+        "options": [
+          "By bleaching them in the river Jordan",
+          "They washed their robes, and made them white in the Lamb's blood",
+          "By purchasing fine linen from Alexandria",
+          "Through ceremonial washings prescribed by Moses"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 7:14",
+        "explanation": "The elder explains: 'They washed their robes, and made them white in the Lamb's blood.'"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "question": "True or False: According to Revelation 7:16, the redeemed will continue to suffer scorching heat and starvation in heaven.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 7:16",
+        "explanation": "False. 'They will never be hungry, neither thirsty any more; neither will the sun beat on them, nor any heat.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What will the Lamb in the middle of the throne do for the saints in Revelation 7:17?",
+        "options": [
+          "Command them to build heavy stone altars",
+          "Shepherd them, lead them to springs of living water, and God will wipe away every tear",
+          "Send them back into earthly exile",
+          "Test them with ten more years of tribulation"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 7:17",
+        "explanation": "The Lamb 'shepherds them, and leads them to springs of waters of life. And God will wipe away every tear from their eyes.'"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "In Isaiah 25:8, what glorious victory will Yahweh accomplish for His people?",
+        "options": [
+          "He will swallow up death forever and wipe away tears from off all faces",
+          "He will build an army to conquer Babylon's walls",
+          "He will grant endless gold to the priests",
+          "He will hide His face in perpetual anger"
+        ],
+        "correctIndex": 0,
+        "reference": "Isaiah 25:8",
+        "explanation": "Isaiah foretold: 'He has swallowed up death forever! The Lord Yahweh will wipe away tears from off all faces...'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord God of the nations, how glorious is the vision of Your redeemed family! I thank You that the precious blood of the Lamb is mighty enough to wash my stained soul snow-white. When the heat of earthly tribulation beats down upon me, when tears flow and thirst parches my throat, anchor my soul in the promise of Revelation 7. Thank You, Lord Jesus, that You are my Shepherd on the throne, leading me to springs of living water. I look forward to that day when You will wipe every tear from my eyes, and I will worship You forever with the redeemed of all nations.",
+      "versePrayerLine": "Lead me, gentle Shepherd, to springs of living water, and wipe every tear from my eyes in Your eternal presence.",
+      "prompt": "Rest your heart in the promise that God sees every tear you have shed, and will one day wipe them away forever."
+    }
+  },
+  "357": {
+    "day": 357,
+    "character": "The Two Witnesses",
+    "title": "Invincible Testimony and the Seventh Trumpet",
+    "theme": "God's witnesses complete their testimony invincibly, heralding the eternal reign of our Lord and His Christ.",
+    "scripture": [
+      {
+        "reference": "Revelation 11",
+        "title": "The Prophecy, Death, Resurrection, and Ascension of the Two Witnesses",
+        "verses": [
+          {
+            "number": 3,
+            "text": "I will give power to my two witnesses, and they will prophesy one thousand two hundred sixty days, clothed in sackcloth."
+          },
+          {
+            "number": 4,
+            "text": "These are the two olive trees and the two lampstands, standing before the Lord of the earth."
+          },
+          {
+            "number": 7,
+            "text": "When they have finished their testimony, the beast that comes up out of the abyss will make war with them, and overcome them, and kill them."
+          },
+          {
+            "number": 11,
+            "text": "After the three and a half days, the breath of life from God entered into them, and they stood on their feet; and great fear fell on those who saw them."
+          },
+          {
+            "number": 12,
+            "text": "I heard a loud voice from heaven saying to them, 'Come up here!' They went up into heaven in the cloud, and their enemies saw them."
+          },
+          {
+            "number": 15,
+            "text": "The seventh angel sounded, and great voices in heaven followed, saying, 'The kingdom of the world has become the Kingdom of our Lord, and of his Christ. He will reign forever and ever!'"
+          }
+        ]
+      },
+      {
+        "reference": "Zechariah 4",
+        "title": "The Golden Lampstand, Two Olive Trees, and God's Spirit",
+        "verses": [
+          {
+            "number": 2,
+            "text": "He said to me, 'What do you see?' I said, 'I have seen, and behold, a lampstand all of gold, with its bowl on the top of it... and seven pipes to each of the lamps.'"
+          },
+          {
+            "number": 3,
+            "text": "and two olive trees by it, one on the right side of the bowl, and the other on the left side of it."
+          },
+          {
+            "number": 6,
+            "text": "Then he answered and spoke to me, saying, 'This is Yahweh's word to Zerubbabel, saying: 'Not by might, nor by power, but by my Spirit,' says Yahweh of Armies.'"
+          },
+          {
+            "number": 14,
+            "text": "Then he said, 'These are the two anointed ones who stand by the Lord of the whole earth.'"
+          }
+        ]
+      }
+    ],
+    "memoryVerse": {
+      "reference": "Revelation 11:15",
+      "text": "The kingdom of the world has become the Kingdom of our Lord, and of his Christ. He will reign forever and ever!",
+      "whyItMatters": "Witness boldly in a hostile world; even if evil gloats for three days, resurrection power has the final trumpet.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "kingdom",
+          "world",
+          "become",
+          "Kingdom",
+          "Lord",
+          "Christ",
+          "reign",
+          "forever"
+        ],
+        "firstLetters": "T k o t w h b t K o o L a o h C H w r f a e"
+      }
+    },
+    "profile": {
+      "title": "The Two Witnesses - Anointed Prophets of Fire, Resurrection, and Kingdom Triumph",
+      "who": "Two prophetic witnesses standing before the Lord of the earth, ministering in the spirit and power of Moses and Elijah during the final conflict.",
+      "whenAndWhere": "Jerusalem, during the 1,260 days of climactic global rebellion.",
+      "family": "The two olive trees and two lampstands pouring forth the oil of the Holy Spirit.",
+      "keyMoments": [
+        "Prophesying in sackcloth for 1,260 days, operating in supernatural invincibility until their testimony is finished.",
+        "Being slain by the beast out of the abyss, their bodies exposed in the street while a hostile world gloats and exchanges gifts.",
+        "After three and a half days, being resurrected by the breath of God and summoned into heaven in a cloud before their enemies.",
+        "Triggering the blast of the seventh trumpet, declaring that all worldly kingdoms belong eternally to Christ."
+      ],
+      "strengths": "Fearless prophetic boldness, complete invulnerability until their divine assignment is fulfilled, resurrection vindication.",
+      "failures": "None noted; faithful unto death and vindicated by God."
+    },
+    "whatGodIsSaying": {
+      "headline": "You Are Invincible Until Your Work Is Finished: Christ's Kingdom Has the Final Word",
+      "reflection": "The story of the Two Witnesses in Revelation 11 unveils an essential principle of kingdom ministry: believers are utterly invincible until their God-given testimony is finished! For 1,260 days, these two prophets stand in the streets of Jerusalem proclaiming truth; no weapon forged against them can prosper until their task is complete. Then, God permits the beast to strike them down. For three and a half days, a rebellious world celebrates, gloating over their corpses and throwing parties. Evil often appears to have won the final victory. But the graveyard is never the end for God's servants! Suddenly, the breath of life from God enters their lungs, they stand to their feet in terrifying power, and heaven bellows: 'Come up here!' In front of their stunned enemies, they ascend in a cloud into glory. And immediately, the seventh angel blows his trumpet, shaking the universe with the greatest anthem ever proclaimed: 'The kingdom of the world has become the Kingdom of our Lord, and of His Christ! He will reign forever and ever!' Whatever opposition you face today, remember that evil's party is short-lived. Resurrection power is coming, and Jesus will reign forever."
+    },
+    "lessons": [
+      {
+        "lesson": "Believers Are Protected Until Their Assignment Is Done",
+        "verse": "Revelation 11:7",
+        "detail": "The enemy could not touch the witnesses until 'they finished their testimony'; your life is held in God's sovereign timing.",
+        "question": "Does fear of human opposition hold you back from boldly speaking the truth of Jesus?"
+      },
+      {
+        "lesson": "Ministry Is Powered by the Holy Spirit, Not Flesh",
+        "verse": "Zechariah 4:6, 14",
+        "detail": "Like the two olive trees feeding the lampstand, true spiritual impact comes 'not by might nor by power, but by my Spirit.'",
+        "question": "Are you trying to accomplish spiritual ministry through human cleverness rather than relying on the Spirit?"
+      },
+      {
+        "lesson": "Resurrection Follows Seeming Defeat",
+        "verse": "Revelation 11:11-12",
+        "detail": "The world rejoiced over the death of the witnesses, but after three and a half days God breathed resurrection life into them.",
+        "question": "What seemingly dead situation in your life needs the resurrecting breath of the Living God?"
+      },
+      {
+        "lesson": "The Kingdom of Christ Will Vanquish All Worldly Empires",
+        "verse": "Revelation 11:15",
+        "detail": "All political tyrannies, corrupt systems, and proud ideologies are temporary; Jesus Christ will reign as undisputed King forever.",
+        "question": "How does the final victory of Christ's kingdom anchor your hope when worldly news is depressing?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "For how long did the two witnesses prophesy clothed in sackcloth in Revelation 11:3?",
+        "options": [
+          "Forty days and forty nights",
+          "One thousand two hundred sixty days",
+          "Three months",
+          "Seven decades"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 11:3",
+        "explanation": "Revelation 11:3 records they prophesy for 'one thousand two hundred sixty days, clothed in sackcloth.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "According to Revelation 11:7, when was the beast out of the abyss permitted to overcome and kill the two witnesses?",
+        "options": [
+          "On their very first day of preaching",
+          "When they have finished their testimony",
+          "While they were asleep inside their home",
+          "After they compromised their doctrine"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 11:7",
+        "explanation": "God protected them until their mission was complete: 'When they have finished their testimony, the beast... will make war with them, and overcome them, and kill them.'"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "question": "True or False: According to Revelation 11:11, the two witnesses remained dead in the street forever without resurrection.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 11:11",
+        "explanation": "False. 'After the three and a half days, the breath of life from God entered into them, and they stood on their feet...'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What glorious proclamation followed the sounding of the seventh trumpet in Revelation 11:15?",
+        "options": [
+          "Rome has established peace across the Mediterranean",
+          "The kingdom of the world has become the Kingdom of our Lord, and of his Christ. He will reign forever and ever!",
+          "All angels have returned to sleep",
+          "The earth will remain unchanged for eternity"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 11:15",
+        "explanation": "Heaven shouted: 'The kingdom of the world has become the Kingdom of our Lord, and of his Christ. He will reign forever and ever!'"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "What famous word did Yahweh give to Zerubbabel through Zechariah in Zechariah 4:6?",
+        "options": [
+          "By chariot legions and golden swords",
+          "Not by might, nor by power, but by my Spirit",
+          "Through political alliances with Persia",
+          "By human eloquence and philosophical skill"
+        ],
+        "correctIndex": 1,
+        "reference": "Zechariah 4:6",
+        "explanation": "Zechariah 4:6 declares: 'Not by might, nor by power, but by my Spirit,' says Yahweh of Armies."
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Almighty Lord God of Armies, You who hold all authority in heaven and earth, fill me with the boldness of Your faithful witnesses! Deliver me from the paralyzing fear of human disapproval. Remind my trembling heart that I am in Your protective keeping until my assigned race is finished. Fill my life with the golden oil of the Holy Spirit, not relying on human might or worldly power. And when darkness gloats over temporary victories, anchor my soul in the triumphant sound of the seventh trumpet: the kingdom of this world has become the Kingdom of our Lord Jesus Christ, and He will reign forever!",
+      "versePrayerLine": "All praise to Jesus Christ, whose Kingdom has conquered and who will reign supreme forever and ever!",
+      "prompt": "Pray for Christian witnesses facing persecution today, asking God to grant them supernatural boldness and protection."
+    }
+  },
+  "358": {
+    "day": 358,
+    "character": "Michael the Archangel & The Saints",
+    "title": "Overcoming the Accuser by the Blood and the Word",
+    "theme": "Believers triumph over the ancient dragon through the blood of the Lamb, holy testimony, and fearless love.",
+    "scripture": [
+      {
+        "reference": "Revelation 12",
+        "title": "War in Heaven, the Cast-Down Dragon, and Overcoming Saints",
+        "verses": [
+          {
+            "number": 7,
+            "text": "There was war in the sky. Michael and his angels made war on the dragon. The dragon and his angels made war."
+          },
+          {
+            "number": 8,
+            "text": "They didn't prevail, neither was a place found for him any more in heaven."
+          },
+          {
+            "number": 9,
+            "text": "The great dragon was thrown down, the old serpent, he who is called the devil and Satan, the deceiver of the whole world. He was thrown down to the earth, and his angels were thrown down with him."
+          },
+          {
+            "number": 10,
+            "text": "I heard a loud voice in heaven, saying, 'Now is come the salvation, the power, and the Kingdom of our God, and the authority of his Christ; for the accuser of our brothers has been thrown down, who accuses them before our God day and night.'"
+          },
+          {
+            "number": 11,
+            "text": "They overcame him because of the Lamb's blood, and because of the word of their testimony, and they didn't love their life, even to death."
+          },
+          {
+            "number": 12,
+            "text": "Therefore rejoice, heavens, and you who dwell in them. Woe to the earth and to the sea, because the devil has gone down to you, having great wrath, knowing that he has but a short time.'"
+          }
+        ]
+      },
+      {
+        "reference": "Daniel 12",
+        "title": "Michael's Stand, the Time of Trouble, and Resurrection to Life",
+        "verses": [
+          {
+            "number": 1,
+            "text": "At that time Michael will stand up, the great prince who stands for the children of your people; and there will be a time of trouble, such as never was since there was a nation even to that same time. At that time your people will be delivered, everyone who is found written in the book."
+          },
+          {
+            "number": 2,
+            "text": "Many of those who sleep in the dust of the earth will awake, some to everlasting life, and some to shame and everlasting contempt."
+          },
+          {
+            "number": 3,
+            "text": "Those who are wise will shine as the brightness of the expanse; and those who turn many to righteousness as the stars forever and ever."
+          }
+        ]
+      }
+    ],
+    "memoryVerse": {
+      "reference": "Revelation 12:11",
+      "text": "They overcame him because of the Lamb’s blood, and because of the word of their testimony, and they didn’t love their life, even to death.",
+      "whyItMatters": "Defeat the accuser of the brethren not by self-defense, but by the finished blood of the Lamb and a fearless testimony.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "overcame",
+          "Lamb's",
+          "blood",
+          "word",
+          "testimony",
+          "love",
+          "life",
+          "death"
+        ],
+        "firstLetters": "T o h b o t L b a b o t w o t t a t d l t l e t d"
+      }
+    },
+    "profile": {
+      "title": "Michael and the Faithful Saints - Cosmic Warriors Against the Dragon",
+      "who": "Michael, the archangel and prince of angelic hosts, fighting alongside the earthly saints who conquer the devil through the blood of the Lamb.",
+      "whenAndWhere": "Heavenly realms and earth during the climactic spiritual war.",
+      "family": "The holy angels of God and the redeemed brotherhood of Christ.",
+      "keyMoments": [
+        "Michael and his angels waging war in heaven, casting the ancient dragon out of celestial access.",
+        "The defeat of Satan's primary weapon: unceasing, round-the-clock accusation against believers before God.",
+        "Earthly believers overcoming the dragon through three spiritual weapons: the blood of the Lamb, the word of testimony, and total surrender of life unto death.",
+        "Daniel 12 affirming that those who turn many to righteousness will shine like stars forever."
+      ],
+      "strengths": "Angelic strength executing divine judgment (Michael); fearless, blood-bought martyrdom (the saints).",
+      "failures": "Saints were formerly targets of legitimate accusation, silenced entirely by Christ's atoning blood."
+    },
+    "whatGodIsSaying": {
+      "headline": "The Accuser Has Been Thrown Down: Overcome Through the Blood, the Word, and Fearless Love",
+      "reflection": "Revelation 12 pulls back the curtain on the cosmic conflict between God and Satan. Satan is described as a multi-headed dragon, the ancient serpent from Eden, who has operated as 'the accuser of our brothers, accusing them before God day and night.' How does the devil attack believers? Not primarily with physical claws, but with relentless psychological and spiritual accusations: whispers that you are too broken, too dirty, or too guilty to belong to God. But hear heaven's victory roar: 'The accuser has been thrown down!' And how did ordinary, fragile human believers defeat this colossal cosmic monster? Not by arguing their personal innocence, not by presenting their good works, and not by running in fear. 'They overcame him because of the Lamb's blood, and because of the word of their testimony, and they did not love their life, even to death.' First, the blood of the Lamb: when Satan points to your sin, you point to the cross. Jesus paid every debt in full! Second, the word of your testimony: speaking out the truth of who Christ is and what He has done. Third, loving not your life unto death: when you lose the fear of physical death, Satan loses his final leverage over you. You are on the winning side."
+    },
+    "lessons": [
+      {
+        "lesson": "Satan's Primary Weapon Is Accusation",
+        "verse": "Revelation 12:10",
+        "detail": "The enemy seeks to paralyze believers with guilt, shame, and feelings of condemnation; knowing this unmasks his schemes.",
+        "question": "Are you listening to the condemning whispers of the accuser or the comforting promises of the Advocate?"
+      },
+      {
+        "lesson": "The Blood of the Lamb Silences the Accuser",
+        "verse": "Revelation 12:11",
+        "detail": "You do not defeat Satan by defending your own moral performance; you answer every charge with the shed blood of Jesus Christ.",
+        "question": "When guilt assaults you, do you try to justify yourself, or do you flee to the cleansing blood of the cross?"
+      },
+      {
+        "lesson": "Speak the Word of Your Testimony Boldly",
+        "verse": "Revelation 12:11",
+        "detail": "Vocal declaration of gospel truth and personal deliverance breaks demonic strongholds and strengthens other believers.",
+        "question": "How often do you verbally declare what Jesus has done for your soul to those around you?"
+      },
+      {
+        "lesson": "Losing the Fear of Death Breaks Satan's Power",
+        "verse": "Revelation 12:11",
+        "detail": "When a disciple values loyalty to Jesus above physical survival, the enemy has zero threats left to intimidate them.",
+        "question": "Are there areas of your life where self-preservation is holding you back from total obedience to Christ?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "Who led the heavenly angels in the war against the dragon in Revelation 12:7?",
+        "options": [
+          "Gabriel",
+          "Michael",
+          "Raphael",
+          "Uriel"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 12:7",
+        "explanation": "Scripture records: 'There was war in the sky. Michael and his angels made war on the dragon.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "What title is given to Satan in Revelation 12:10 regarding his relentless attacks on believers?",
+        "options": [
+          "The architect of pyramids",
+          "The accuser of our brothers, who accuses them before our God day and night",
+          "The king of northern storms",
+          "The spectator of human philosophy"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 12:10",
+        "explanation": "He is identified as 'the accuser of our brothers... who accuses them before our God day and night.'"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "question": "True or False: According to Revelation 12:11, believers overcame the dragon through their brilliant debate tactics and political alliances.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 12:11",
+        "explanation": "False. 'They overcame him because of the Lamb's blood, and because of the word of their testimony, and they didn't love their life, even to death.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "Why does the devil have great wrath on earth according to Revelation 12:12?",
+        "options": [
+          "Because he was denied entrance to Rome",
+          "Knowing that he has but a short time",
+          "Because he ran out of gold",
+          "Because all humans have stopped sinning"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 12:12",
+        "explanation": "The devil has great wrath 'knowing that he has but a short time.'"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "According to Daniel 12:3, what will happen to those who turn many to righteousness?",
+        "options": [
+          "They will receive silver palaces in Babylon",
+          "They will shine as the brightness of the expanse, and as the stars forever and ever",
+          "They will be forgotten after two generations",
+          "They will be made senators in Rome"
+        ],
+        "correctIndex": 1,
+        "reference": "Daniel 12:3",
+        "explanation": "Daniel promises: 'Those who are wise will shine as the brightness of the expanse; and those who turn many to righteousness as the stars forever and ever.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, Conqueror of the serpent and Redeemer of my soul, I praise You that the accuser of the brethren has been cast down! Silence every condemning whisper in my mind today with the blood of Your cross. When the enemy reminds me of my failures, I point him to Calvary where my debt was canceled in full. Put the word of a bold, uncompromising testimony into my mouth. Free my heart from the paralyzing fear of suffering, discomfort, or death. Teach me to love You so fiercely that even my physical life is counted as secondary to Your glory.",
+      "versePrayerLine": "I overcome the enemy today by the blood of the Lamb, the word of my testimony, and a heart surrendered fully to You.",
+      "prompt": "Reject one specific accusing thought the enemy has brought against you this week, declaring Christ's shed blood over it."
+    }
+  },
+  "359": {
+    "day": 359,
+    "character": "The 144,000 on Mount Zion",
+    "title": "Following the Lamb Wherever He Goes",
+    "theme": "Pure and undefiled devotion follows the Lamb wherever He leads, singing the new song of redemption.",
+    "scripture": [
+      {
+        "reference": "Revelation 14",
+        "title": "The Lamb on Mount Zion and the Song of the Firstfruits",
+        "verses": [
+          {
+            "number": 1,
+            "text": "I looked, and behold, the Lamb standing on Mount Zion, and with him a number, one hundred forty-four thousand, having his name, and the name of his Father, written on their foreheads."
+          },
+          {
+            "number": 2,
+            "text": "I heard a sound from heaven, like the sound of many waters, and like the sound of a great thunder. The sound which I heard was like that of harpists playing on their harps."
+          },
+          {
+            "number": 3,
+            "text": "They sing a new song before the throne, and before the four living creatures and the elders. No one could learn the song except the one hundred forty-four thousand, those who had been redeemed out of the earth."
+          },
+          {
+            "number": 4,
+            "text": "These are those who were not defiled with women, for they are virgins. These are those who follow the Lamb wherever he goes. These were redeemed by Jesus from among men, the first fruits to God and to the Lamb."
+          },
+          {
+            "number": 5,
+            "text": "In their mouth was found no lie. They are blameless before the throne of God."
+          },
+          {
+            "number": 12,
+            "text": "Here is the perseverance of the saints, those who keep the commandments of God, and the faith of Jesus."
+          }
+        ]
+      },
+      {
+        "reference": "Psalm 15",
+        "title": "Who May Dwell in Yahweh's Sanctuary?",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Yahweh, who shall dwell in your sanctuary? Who shall live on your holy hill?"
+          },
+          {
+            "number": 2,
+            "text": "He who walks blamelessly, does what is right, and speaks truth in his heart;"
+          },
+          {
+            "number": 3,
+            "text": "he who doesn't slander with his tongue, nor does evil to his friend, nor cast slurs against his fellow man;"
+          },
+          {
+            "number": 4,
+            "text": "in whose eyes a vile man is despised, but who honors those who fear Yahweh; he who keeps an oath even when it hurts, and doesn't change;"
+          },
+          {
+            "number": 5,
+            "text": "he who doesn't put out his money at usury, nor take a bribe against the innocent. He who does these things shall never be shaken."
+          }
+        ]
+      }
+    ],
+    "memoryVerse": {
+      "reference": "Revelation 14:4",
+      "text": "These are those who were not defiled with women, for they are virgins. These are those who follow the Lamb wherever he goes. These were redeemed by Jesus from among men, the first fruits to God and to the Lamb.",
+      "whyItMatters": "Live with radical purity and sing the new song, resolving to follow the Lamb wherever He leads, whatever the cost.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "defiled",
+          "virgins",
+          "follow",
+          "Lamb",
+          "wherever",
+          "redeemed",
+          "first",
+          "fruits"
+        ],
+        "firstLetters": "T a t w w n d w w f t a v T a t w f t L w h g T w r b J f a m t f f t G a t t L"
+      }
+    },
+    "profile": {
+      "title": "The 144,000 on Mount Zion - Pure Vanguard of the Redeemed",
+      "who": "A sealed, consecrated vanguard standing triumphant on heavenly Mount Zion with the Lamb, bearing the Father's name on their foreheads.",
+      "whenAndWhere": "Heavenly Mount Zion, surrounding the Lamb in eternal vindication.",
+      "family": "Firstfruits to God and the Lamb, consecrated disciples from the tribes of the redeemed.",
+      "keyMoments": [
+        "Sealed upon their foreheads with the name of the Lamb and His Father, remaining untouched by the mark of the beast.",
+        "Learning the celestial 'new song' that no one else could master, an anthem born out of intimate, costly redemption.",
+        "Maintaining unblemished spiritual and moral fidelity amidst a sexually perverted, idolatrous global culture.",
+        "Following the Lamb with unconditional obedience wherever He leads."
+      ],
+      "strengths": "Radical spiritual purity, guileless speech, unhesitating obedience following Christ.",
+      "failures": "None recorded; redeemed by Jesus out of fallen humanity and presented blameless before the throne."
+    },
+    "whatGodIsSaying": {
+      "headline": "Wholehearted Devotion Follows the Lamb Unconditionally into Every Valley and Peak",
+      "reflection": "On Mount Zion, the Lamb does not stand alone; He is surrounded by a company of disciples who bear a singular, breathtaking distinction: 'These are those who follow the Lamb wherever He goes.' Not merely where the pasture is green and the path is smooth, but wherever He leads—through Gethsemane, up Golgotha, into misunderstood exile, or into fruitful harvest. Their foreheads bear no brand of worldly compromise or beastly submission; they are stamped with the sacred name of the Lamb and His Father. Their lives are characterized by spiritual chaste virginity (refusing to commit spiritual adultery with the worldly idolatries around them) and absolute truthfulness: 'In their mouth was found no lie; they are blameless before the throne of God.' Because their hearts were tuned to heaven through costly suffering and radical obedience, they can sing a 'new song' that echoes like thunder and cascading waters. You do not need to wait for eternity to join this company. When you resolve in your daily life to speak truth without guile, guard your heart with holy purity, and follow Jesus wherever He calls you, you are singing the song of Mount Zion today."
+    },
+    "lessons": [
+      {
+        "lesson": "Follow the Lamb Without Pre-Conditions",
+        "verse": "Revelation 14:4",
+        "detail": "Discipleship is not negotiating terms with Jesus; it is signing a blank check to follow Him wherever His footprints lead.",
+        "question": "Are you placing conditions or limitations on where and how you will follow Jesus?"
+      },
+      {
+        "lesson": "Spiritual Purity Shines in a Corrupted Culture",
+        "verse": "Revelation 14:4-5",
+        "detail": "In a world drowning in sensual indulgence and deception, believers are called to radical moral purity and transparent honesty.",
+        "question": "What compromises in entertainment or speech are threatening the spiritual purity of your walk with Christ?"
+      },
+      {
+        "lesson": "Intimate Suffering Birthes a New Song",
+        "verse": "Revelation 14:3",
+        "detail": "The new song cannot be memorized as mere musical notes; it is forged through personal encounters with redeeming grace in the furnace.",
+        "question": "How has God used your hardest trials to teach your soul a deeper melody of personal praise?"
+      },
+      {
+        "lesson": "Blameless Character Rests on Christ's Atonement",
+        "verse": "Revelation 14:5",
+        "detail": "These disciples stand blameless before the throne not because they were sinless in themselves, but because Jesus redeemed them.",
+        "question": "Do you rejoice in the truth that Christ's redemption makes you blameless before God's holy throne?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What was written on the foreheads of the 144,000 standing with the Lamb on Mount Zion in Revelation 14:1?",
+        "options": [
+          "The imperial seal of Rome",
+          "His name, and the name of His Father",
+          "The number of their personal spiritual achievements",
+          "The genealogy of King Solomon"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 14:1",
+        "explanation": "John beheld that they had 'his name, and the name of his Father, written on their foreheads.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "What defining habit describes the 144,000 in Revelation 14:4?",
+        "options": [
+          "They only gathered in secret caverns",
+          "These are those who follow the Lamb wherever He goes",
+          "They debated with Roman philosophers in Athens",
+          "They commanded naval fleets in the Mediterranean"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 14:4",
+        "explanation": "Scripture emphasizes their total obedience: 'These are those who follow the Lamb wherever he goes.'"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "question": "True or False: According to Revelation 14:5, the 144,000 were notorious for speaking flattering lies to advance their ministry.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 14:5",
+        "explanation": "False. 'In their mouth was found no lie. They are blameless before the throne of God.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "According to Psalm 15:1-2, who may dwell in Yahweh's sanctuary and live on His holy hill?",
+        "options": [
+          "Only descendants of Aaron who wear golden crowns",
+          "He who walks blamelessly, does what is right, and speaks truth in his heart",
+          "He who accumulates the greatest quantity of silver",
+          "Anyone who recites liturgical formulas without heartfelt devotion"
+        ],
+        "correctIndex": 1,
+        "reference": "Psalm 15:1-2",
+        "explanation": "David answers: 'He who walks blamelessly, does what is right, and speaks truth in his heart.'"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "How does Revelation 14:12 define the perseverance of the saints?",
+        "options": [
+          "Those who build massive earthly monuments",
+          "Those who keep the commandments of God, and the faith of Jesus",
+          "Those who never experience sorrow or tears",
+          "Those who escape all persecution by hiding"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 14:12",
+        "explanation": "Revelation 14:12 declares: 'Here is the perseverance of the saints, those who keep the commandments of God, and the faith of Jesus.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, Holy Lamb of God, I stand in awe of the pure devotion of Mount Zion. Write Your name and the name of Your Father permanently upon my mind, my affections, and my daily choices. Deliver me from the seductive lies and moral pollution of this passing world. Give me a heart that follows You wherever You lead—whether into seasons of quiet obscurity, fiery testing, or joyful harvest. Guard my lips that no falsehood or slander may cross my tongue. Cleanse me so thoroughly by Your blood that I may stand blameless before Your throne.",
+      "versePrayerLine": "Grant me grace, O Lord, to follow the Lamb wherever He goes, offering my life as a living firstfruit of devotion.",
+      "prompt": "Tell Jesus without hesitation: 'Lord, whatever You ask and wherever You lead today, I will follow You.'"
+    }
+  },
+  "360": {
+    "day": 360,
+    "character": "The Victorious Saints by the Sea of Glass",
+    "title": "The Song of Moses and the Song of the Lamb",
+    "theme": "The saints who conquered the beast stand upon the sea of glass, singing the eternal anthem of God's righteous deeds.",
+    "scripture": [
+      {
+        "reference": "Revelation 15",
+        "title": "The Sea of Glass Mingled with Fire and the Song of Moses and the Lamb",
+        "verses": [
+          {
+            "number": 2,
+            "text": "I saw something like a sea of glass mixed with fire, and those who overcame the beast, his image, and the number of his name, standing on the sea of glass, having harps of God."
+          },
+          {
+            "number": 3,
+            "text": "They sang the song of Moses, the servant of God, and the song of the Lamb, saying, 'Great and marvelous are your works, Lord God, the Almighty! Righteous and true are your ways, you King of the nations!'"
+          },
+          {
+            "number": 4,
+            "text": "'Who wouldn't fear you, Lord, and glorify your name? For you only are holy. For all the nations will come and worship before you, for your righteous acts have been revealed.'"
+          },
+          {
+            "number": 5,
+            "text": "After these things I looked, and the temple of the tabernacle of the testimony in heaven was opened."
+          },
+          {
+            "number": 8,
+            "text": "The temple was filled with smoke from the glory of God, and from his power. No one was able to enter into the temple, until the seven plagues of the seven angels would be finished."
+          }
+        ]
+      },
+      {
+        "reference": "Exodus 15",
+        "title": "Moses and Israel Singing Deliverance at the Red Sea",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Then Moses and the children of Israel sang this song to Yahweh, and said, 'I will sing to Yahweh, for he has triumphed gloriously! He has thrown the horse and his rider into the sea.'"
+          },
+          {
+            "number": 2,
+            "text": "Yah is my strength and song, and he has become my salvation. This is my God, and I will praise him; my father's God, and I will exalt him."
+          },
+          {
+            "number": 11,
+            "text": "Who is like you, Yahweh, among the gods? Who is like you, majestic in holiness, awesome in praises, doing wonders?"
+          },
+          {
+            "number": 18,
+            "text": "Yahweh will reign forever and ever."
+          }
+        ]
+      }
+    ],
+    "memoryVerse": {
+      "reference": "Revelation 15:3",
+      "text": "They sang the song of Moses, the servant of God, and the song of the Lamb, saying, 'Great and marvelous are your works, Lord God, the Almighty! Righteous and true are your ways, you King of the nations!'",
+      "whyItMatters": "All the trials and persecutions of history culminate in one majestic symphony praising the righteous ways of God.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "sang",
+          "song",
+          "Moses",
+          "Lamb",
+          "marvelous",
+          "works",
+          "Almighty",
+          "Righteous",
+          "true",
+          "King",
+          "nations"
+        ],
+        "firstLetters": "T s t s o M t s o G a t s o t L s G a m a y w L G t A R a t a y w y K o t n"
+      }
+    },
+    "profile": {
+      "title": "The Overcomers by the Sea of Glass - Harpers of God's Ultimate Vindication",
+      "who": "The triumphant martyrs who refused the beast, his idolatrous image, and the economic mark of his name, standing on heaven's crystal sea.",
+      "whenAndWhere": "Standing upon the sea of glass mingled with fire before the celestial sanctuary of God.",
+      "family": "The eternal assembly of the redeemed, bridging the Red Sea deliverance with Calvary's ultimate triumph.",
+      "keyMoments": [
+        "Enduring imperial boycotts, threats, and martyrdom rather than bowing to the beast's tyrannical global system.",
+        "Standing victorious on the crystal sea mixed with fire—the fire of tested faith and purifying divine justice.",
+        "Holding the harps of God, singing the dual symphony that unites the entire Bible: the Song of Moses and the Song of the Lamb.",
+        "Proclaiming that all nations will ultimately come and bow in holy worship before the King of the ages."
+      ],
+      "strengths": "Uncompromising loyalty to Christ, joyful worship in the face of death, panoramic understanding of God's justice.",
+      "failures": "Humanly vulnerable and slain on earth, yet eternally crowned as victors in heaven."
+    },
+    "whatGodIsSaying": {
+      "headline": "From the Red Sea to Eternity: All of God's Ways Are Righteous, True, and Marvelous",
+      "reflection": "In Exodus 15, Israel stood on the shores of the Red Sea after watching Pharaoh's chariots sink into the depths, singing the Song of Moses: 'The Lord is my strength and song, and He has become my salvation!' Fifteen hundred years later, in Revelation 15, John sees an even greater shoreline: a sea of crystal glass mingled with fire. Standing upon it are the saints who conquered the beast, refusing to take his mark or worship his image. They were executed on earth, but in heaven they stand with the harps of God in their hands! Notice what they sing: they sing the Song of Moses and the Song of the Lamb. The entire storyline of Scripture—from Exodus to the cross, from the desert to the New Jerusalem—is one unified, magnificent symphony. And notice the words of their song: they do not sing about their own heroic suffering or cleverness. Every note is focused on God: 'Great and marvelous are Your works, Lord God Almighty! Righteous and true are Your ways, King of the nations!' When history is finally viewed from the crystal sea of heaven, every believer will look back at all the trials, mysteries, and persecutions, and declare without a shadow of doubt: 'Lord God, You did everything right! Your ways were entirely true, just, and good!'"
+    },
+    "lessons": [
+      {
+        "lesson": "Worldly Defeat Is Heaven's Ultimate Victory",
+        "verse": "Revelation 15:2",
+        "detail": "The beast killed these believers physically, but in heaven God records them as the conquerors standing on the crystal sea.",
+        "question": "Are you measuring your spiritual success by worldly comfort or by steadfast loyalty to Jesus?"
+      },
+      {
+        "lesson": "God's Scriptural Symphony Is Completely Unified",
+        "verse": "Revelation 15:3",
+        "detail": "The Song of Moses (deliverance from Egypt) and the Song of the Lamb (deliverance from sin) blend into one eternal anthem.",
+        "question": "How does seeing the complete harmony of the Old and New Testaments deepen your trust in God's eternal plan?"
+      },
+      {
+        "lesson": "All Nations Will Ultimately Worship the Lord",
+        "verse": "Revelation 15:4",
+        "detail": "Earthly rebellion is temporary; the day is coming when all tribes, tongues, and nations will acknowledge God's holy majesty.",
+        "question": "When current global events look hopeless, how does the promise of global worship restore your confidence?"
+      },
+      {
+        "lesson": "God's Judgments and Ways Are Flawlessly Just",
+        "verse": "Revelation 15:3",
+        "detail": "Even when divine providence seems difficult to understand today, eternity will reveal that all God's ways were righteous and true.",
+        "question": "Can you trust that God's ways are good and true even when you cannot understand your current trial?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What were the victorious saints standing upon in Revelation 15:2?",
+        "options": [
+          "A field of burning coals",
+          "Something like a sea of glass mixed with fire",
+          "The crumbling walls of Babylon",
+          "The marble terrace of Caesar's palace"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 15:2",
+        "explanation": "John beheld 'those who overcame the beast... standing on the sea of glass, having harps of God.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "What two songs are sung together by the overcomers in Revelation 15:3?",
+        "options": [
+          "The Song of David and the Song of Solomon",
+          "The song of Moses, the servant of God, and the song of the Lamb",
+          "The Song of Deborah and the Song of Isaiah",
+          "The anthem of Rome and the chant of Alexandria"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 15:3",
+        "explanation": "Scripture explicitly states: 'They sang the song of Moses, the servant of God, and the song of the Lamb...'"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "question": "True or False: According to Revelation 15:4, all nations will ultimately come and worship before God because His righteous acts have been revealed.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 0,
+        "reference": "Revelation 15:4",
+        "explanation": "True. The saints sing: 'For all the nations will come and worship before you, for your righteous acts have been revealed.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "In Exodus 15:11, what rhetorical question does Moses ask in his song of victory?",
+        "options": [
+          "Why did we leave the leeks of Egypt?",
+          "Who is like you, Yahweh, among the gods? Who is like you, majestic in holiness, awesome in praises, doing wonders?",
+          "When will we reach the city of Babylon?",
+          "Where can we find horses to build a cavalry?"
+        ],
+        "correctIndex": 1,
+        "reference": "Exodus 15:11",
+        "explanation": "Moses cried: 'Who is like you, Yahweh, among the gods? Who is like you, majestic in holiness, awesome in praises, doing wonders?'"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "What filled the heavenly temple in Revelation 15:8 as God's glory and power were manifested?",
+        "options": [
+          "Gold coins from earth",
+          "Smoke from the glory of God, and from His power",
+          "Cold mountain wind",
+          "Torrents of ocean water"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 15:8",
+        "explanation": "John saw that 'the temple was filled with smoke from the glory of God, and from his power...'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord God Almighty, King of the nations! Great and marvelous are Your works! Righteous and true are all Your ways! I lift my voice today in harmony with the overcomers standing upon the sea of glass. Forgive me for questioning Your goodness when trials press hard or when the world appears to triumph over righteousness. I know that You are guiding all history toward the magnificent chorus of the Song of Moses and the Song of the Lamb. Give me unshakeable courage to overcome every beastly pressure of this culture, refusing to bow to its idols, so that I may stand with You in eternal victory.",
+      "versePrayerLine": "Great and marvelous are Your works, Lord God Almighty; righteous and true are Your ways, You King of the nations!",
+      "prompt": "Praise God right now for His flawless justice and marvelous works, trusting that all His dealings in your life are righteous and true."
+    }
+  },
+  "361": {
+    "day": 361,
+    "character": "The Fallen Babylon",
+    "title": "Come Out of Babylon and Rejoice in Her Fall",
+    "theme": "God summons His people to separate from worldly compromise as corrupt earthly systems collapse in judgment.",
+    "scripture": [
+      {
+        "reference": "Revelation 18",
+        "title": "The Sudden Fall of Commercial Babylon and the Call to Come Out",
+        "verses": [
+          {
+            "number": 1,
+            "text": "After these things, I saw another angel coming down out of the sky, having great authority. The earth was illuminated with his glory."
+          },
+          {
+            "number": 2,
+            "text": "He cried with a mighty voice, saying, 'Fallen, fallen is Babylon the great, and she has become a habitation of demons, a prison of every unclean spirit'"
+          },
+          {
+            "number": 4,
+            "text": "I heard another voice from heaven, saying, 'Come out of her, my people, that you have no participation in her sins, and that you don't receive of her plagues.'"
+          },
+          {
+            "number": 5,
+            "text": "For her sins have reached to the sky, and God has remembered her iniquities."
+          },
+          {
+            "number": 10,
+            "text": "standing far away for the fear of her torment, saying, 'Woe, woe, the great city, Babylon, the strong city! For in one hour your judgment has come.'"
+          },
+          {
+            "number": 20,
+            "text": "Rejoice over her, O heaven, you saints, apostles, and prophets; for God has judged your judgment on her."
+          }
+        ]
+      },
+      {
+        "reference": "Isaiah 47",
+        "title": "The Humiliation of the Proud Daughter of Babylon",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Come down, and sit in the dust, virgin daughter of Babylon; sit on the ground without a throne, daughter of the Chaldeans: for you will no more be called tender and delicate."
+          },
+          {
+            "number": 7,
+            "text": "You said, 'I will be a princess forever;' so that you didn't lay these things to your heart, neither did you remember the results of them."
+          },
+          {
+            "number": 8,
+            "text": "'Now therefore hear this, you who are given to pleasures, who sit securely, who say in your heart, 'I am, and there is no one else besides me; I will not sit as a widow, neither will I know the loss of children.''"
+          },
+          {
+            "number": 9,
+            "text": "But these two things will come to you in a moment, in one day: the loss of children, and widowhood."
+          }
+        ]
+      }
+    ],
+    "memoryVerse": {
+      "reference": "Revelation 18:4",
+      "text": "I heard another voice from heaven, saying, 'Come out of her, my people, that you have no participation in her sins, and that you don’t receive of her plagues.'",
+      "whyItMatters": "Do not anchor your heart in the seductive luxuries of worldly Babylon; her glittering empire will fall in a single hour.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "heard",
+          "voice",
+          "heaven",
+          "Come",
+          "people",
+          "participation",
+          "sins",
+          "plagues"
+        ],
+        "firstLetters": "I h a v f h s C o o h m p t y h n p i h s a t y d r o h p"
+      }
+    },
+    "profile": {
+      "title": "Fallen Babylon - The Archetype of Worldly Luxury, Seduction, and Doom",
+      "who": "The great apostate world system of commerce, materialism, human trafficking, and arrogance opposed to God.",
+      "whenAndWhere": "Global civilization throughout human history, culminating in a final climactic collapse.",
+      "family": "The spiritual progeny of the Tower of Babel, Nimrod, and ancient Mesopotamian rebellion.",
+      "keyMoments": [
+        "Boasting in arrogant security: 'I sit as a queen, and am no widow, and will see no sorrow!'",
+        "Trading in gold, jewels, fine linen, luxuries, and 'the bodies and souls of men.'",
+        "Hearing heaven's urgent command to God's elect: 'Come out of her, My people, lest you share in her sins!'",
+        "Collapsing in catastrophic judgment in 'one single hour,' mourning by merchants while heaven erupts in rejoicing."
+      ],
+      "strengths": "Vast economic power, intoxicating cultural allure, global commercial networks.",
+      "failures": "Blasphemous pride, systemic exploitation of human lives, drunkenness on the blood of the martyrs, sudden eternal ruin."
+    },
+    "whatGodIsSaying": {
+      "headline": "Do Not Marry a Sinking Ship: Come Out of Worldly Babylon and Anchor in Christ",
+      "reflection": "Throughout Scripture, Babylon is the constant counter-image to Jerusalem. Babylon represents the glittering, self-deifying human world-system—a civilization built on economic greed, luxury, consumerism, and the commodification of human souls. In Revelation 18, Babylon boasts with absolute self-confidence: 'I sit as a queen! I will never see sorrow!' She believes her stock markets will never crash and her party will never end. But heaven issues a sober announcement: 'In one hour your judgment has come!' All the luxury liners, the merchant warehouses, the designer goods, and the dazzling skyline collapse into ash in sixty minutes flat. In the midst of this impending doom, God sounds an urgent bugle call to you: 'Come out of her, my people, that you have no participation in her sins, and that you don't receive of her plagues.' God does not necessarily mean moving off the grid to a physical cave; He means disentangling your heart from Babylon's corrupt values. Stop craving her applause, stop worshiping her wealth, stop drinking her sensual compromises. Do not tie your identity, your security, or your hope to a civilization that is on a collision course with divine justice."
+    },
+    "lessons": [
+      {
+        "lesson": "Worldly Empires Collapse in a Single Hour",
+        "verse": "Revelation 18:10, 17",
+        "detail": "Centuries of proud human architecture and economic dominance can be dismantled by God's judgment in sixty minutes.",
+        "question": "Are you placing your security in financial systems or material goods that can vanish overnight?"
+      },
+      {
+        "lesson": "God's People Must Maintain Holy Separation",
+        "verse": "Revelation 18:4",
+        "detail": "Believers are called to live in the world without being of the world, refusing to participate in Babylon's moral corruption.",
+        "question": "In what specific ways do you need to 'come out' and separate from worldly compromises in your lifestyle?"
+      },
+      {
+        "lesson": "Beware the Arrogance of False Security",
+        "verse": "Isaiah 47:7-8; Revelation 18:7",
+        "detail": "Babylon's downfall was fueled by her boast: 'I am, and there is no one else.' Self-sufficiency is the highway to destruction.",
+        "question": "Is there any area of your life where you have subtly assumed you are immune to tragedy without God?"
+      },
+      {
+        "lesson": "Heaven Rejoices Over the Fall of Evil",
+        "verse": "Revelation 18:20",
+        "detail": "The destruction of corrupt, exploitative world systems is cause for holy joy, because God's righteous vindication has arrived.",
+        "question": "How does knowing that all injustice and oppression will be decisively judged comfort your soul today?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What urgent command did the voice from heaven give to God's people in Revelation 18:4?",
+        "options": [
+          "Invest heavily in Babylon's shipping fleets",
+          "Come out of her, my people, that you have no participation in her sins",
+          "Erect golden statues in her honor",
+          "Marry into Babylon's aristocratic families"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 18:4",
+        "explanation": "Heaven commanded: 'Come out of her, my people, that you have no participation in her sins, and that you don't receive of her plagues.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "How quickly does Revelation 18:10 say Babylon's colossal judgment comes?",
+        "options": [
+          "Over forty years of gradual drought",
+          "In one hour",
+          "Over three millennia of decay",
+          "It will never happen"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 18:10",
+        "explanation": "Scripture emphasizes the terrifying suddenness: 'For in one hour your judgment has come.'"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "question": "True or False: According to Revelation 18:20, heaven, the holy apostles, and the prophets are commanded to mourn bitterly over Babylon's demise.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 18:20",
+        "explanation": "False. Scripture commands: 'Rejoice over her, O heaven, you saints, apostles, and prophets; for God has judged your judgment on her.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What boast did the proud daughter of Babylon make in Isaiah 47:8?",
+        "options": [
+          "I am the humblest servant of Yahweh",
+          "I am, and there is no one else besides me; I will not sit as a widow",
+          "We need to repent in sackcloth and ashes",
+          "All our wealth belongs to the poor"
+        ],
+        "correctIndex": 1,
+        "reference": "Isaiah 47:8",
+        "explanation": "She boasted: 'I am, and there is no one else besides me; I will not sit as a widow, neither will I know the loss of children.'"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "What chilling commodity was included in the cargo list of Babylon in Revelation 18:13?",
+        "options": [
+          "Olive oil and wheat only",
+          "Horses, chariots, bodies, and souls of men",
+          "Only silver and iron tools",
+          "Grape juice and barley"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 18:13",
+        "explanation": "Babylon's commerce exploited human life: trading in 'horses, chariots, bodies, and souls of men.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Righteous Judge of heaven and earth, open my eyes to see through the glittering, deceptive illusion of worldly Babylon. Deliver my heart from the love of money, the obsession with luxury, and the thirst for worldly prestige. I heed Your holy summons today: I come out of her! I sever every emotional and moral compromise that tethers my soul to this decaying world system. Anchor my hope solely in Your eternal kingdom, which can never be shaken. Keep my hands clean, my heart pure, and my gaze fixed on the coming of my King.",
+      "versePrayerLine": "Lord, deliver me from participating in the sins of Babylon; preserve my soul pure and holy for Your kingdom.",
+      "prompt": "Evaluate what material luxury or worldly habit has too much hold on your heart, deliberately surrendering it to Christ."
+    }
+  },
+  "362": {
+    "day": 362,
+    "character": "The Rider on the White Horse",
+    "title": "Faithful and True: The King of Kings Returns",
+    "theme": "The Faithful and True Warrior-King returns in flaming majesty to vanquish evil and reign supreme.",
+    "scripture": [
+      {
+        "reference": "Revelation 19",
+        "title": "The Heavens Opened and the Return of the Word of God",
+        "verses": [
+          {
+            "number": 11,
+            "text": "I saw the heaven opened, and behold, a white horse, and he who sat on it is called Faithful and True. In righteousness he judges and makes war."
+          },
+          {
+            "number": 12,
+            "text": "His eyes are a flame of fire, and on his head are many crowns. He has names written, and a name written which no one knows but he himself."
+          },
+          {
+            "number": 13,
+            "text": "He is clothed in a garment dipped in blood. His name is called 'The Word of God.'"
+          },
+          {
+            "number": 14,
+            "text": "The armies which are in heaven followed him on white horses, clothed in white, pure, fine linen."
+          },
+          {
+            "number": 15,
+            "text": "Out of his mouth proceeds a sharp, two-edged sword, that with it he should strike the nations. He will rule them with an iron rod. He treads the wine press of the fierceness of the wrath of God, the Almighty."
+          },
+          {
+            "number": 16,
+            "text": "He has on his garment and on his thigh a name written, 'KING OF KINGS, AND LORD OF LORDS.'"
+          }
+        ]
+      },
+      {
+        "reference": "Psalm 45",
+        "title": "The Royal Wedding Song of the Victorious Anointed King",
+        "verses": [
+          {
+            "number": 2,
+            "text": "You are the most excellent of the sons of men. Grace has anointed your lips, therefore God has blessed you forever."
+          },
+          {
+            "number": 3,
+            "text": "Strap your sword on your thigh, mighty one: your splendor and your majesty."
+          },
+          {
+            "number": 4,
+            "text": "In your majesty ride on victoriously on behalf of truth, humility, and righteousness. Let your right hand teach you awesome things."
+          },
+          {
+            "number": 6,
+            "text": "Your throne, God, is forever and ever. A scepter of equity is the scepter of your kingdom."
+          },
+          {
+            "number": 7,
+            "text": "You have loved righteousness, and hated wickedness. Therefore God, your God, has anointed you with the oil of gladness above your fellows."
+          }
+        ]
+      }
+    ],
+    "memoryVerse": {
+      "reference": "Revelation 19:16",
+      "text": "He has on his garment and on his thigh a name written, 'KING OF KINGS, AND LORD OF LORDS.'",
+      "whyItMatters": "The crucified Jesus returns in triumphant majesty as the Word of God, striking down evil and executing righteous justice.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "garment",
+          "thigh",
+          "name",
+          "written",
+          "KING",
+          "KINGS",
+          "LORD",
+          "LORDS"
+        ],
+        "firstLetters": "H h o h g a o h t a n w K O K A L O L"
+      }
+    },
+    "profile": {
+      "title": "The Rider on the White Horse - King of Kings and Word of God",
+      "who": "The glorified Jesus Christ returning to earth in cosmic victory, seated upon a white steed as the supreme Commander of heaven's armies.",
+      "whenAndWhere": "The climax of human history, riding down through the opened heavens to execute final justice.",
+      "family": "The eternal Word made flesh, Bridegroom of the church, Son of God.",
+      "keyMoments": [
+        "Heaven splitting wide open to reveal Christ riding on a white charger, bearing the title 'Faithful and True.'",
+        "Bearing blazing eyes of fire, wearing countless royal diadems, and draped in a robe dipped in blood.",
+        "Heavenly armies following behind Him arrayed in pure white linen without weapons, because Christ's spoken Word fights the battle alone.",
+        "Bearing the supreme cosmic title blazoned across His robe and thigh: KING OF KINGS AND LORD OF LORDS."
+      ],
+      "strengths": "Absolute righteousness, invincible power, unswerving faithfulness to His covenant.",
+      "failures": "None; entirely holy, undefiled, and sovereign."
+    },
+    "whatGodIsSaying": {
+      "headline": "Jesus Returns Not in Humiliation but in Triumph: He Is King of Kings and Lord of Lords",
+      "reflection": "When Jesus first came to this earth, He arrived in the obscurity of a Bethlehem barn, wrapped in peasant cloths, and rode into Jerusalem on a humble borrowed donkey to be nailed to a Roman cross. But the story does not end at Golgotha! In Revelation 19, heaven splits wide open, and John sees Jesus as He truly is: mounted on a white stallion, bearing the title 'Faithful and True.' His eyes blaze like flames of fire; upon His brow rest not a crown of thorns, but many royal diadems; He is clothed in a garment dipped in blood—the blood of His atoning cross and righteous judgment. Behind Him ride the celestial armies of redeemed saints and angels, dressed in pure white linen. Notice their weaponry: the saints carry no swords or artillery! Why? Because the battle is won by the single weapon proceeding out of Jesus' mouth: the sharp, two-edged sword of the living Word of God! One word from the lips of Jesus shatters all the armies of darkness. Blazoned across His royal thigh is the title that silences every dictator, emperor, and president in human history: KING OF KINGS AND LORD OF LORDS! Bow before Him in willing love today, for every knee will bow before Him tomorrow."
+    },
+    "lessons": [
+      {
+        "lesson": "Jesus Is Absolutely Faithful and True",
+        "verse": "Revelation 19:11",
+        "detail": "Human leaders and worldly alliances constantly break promises; Jesus never breaks a single covenant word.",
+        "question": "Can you rest in the absolute trustworthiness of Jesus when human promises around you fail?"
+      },
+      {
+        "lesson": "Christ's Word Possesses Ultimate Conquering Power",
+        "verse": "Revelation 19:15",
+        "detail": "The King strikes down rebellion not through carnal violence, but through the sharp sword of truth proceeding from His mouth.",
+        "question": "Do you wield Scripture as your primary weapon against demonic deception and temptation?"
+      },
+      {
+        "lesson": "All Earthly Rulers Are Subordinate to Christ",
+        "verse": "Revelation 19:16",
+        "detail": "No earthly throne or empire is sovereign; Jesus Christ is King over every king and Lord over every earthly lord.",
+        "question": "How does the supreme kingship of Jesus liberate you from political panic and despair?"
+      },
+      {
+        "lesson": "Righteousness and Humility Mark True Royalty",
+        "verse": "Psalm 45:4, 7",
+        "detail": "Unlike earthly tyrants who rule through vanity, Christ rides victoriously on behalf of truth, meekness, and righteousness.",
+        "question": "Does your pursuit of leadership or influence reflect Christlike humility or self-seeking pride?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What is the Rider on the white horse called in Revelation 19:11?",
+        "options": [
+          "Vengeful and Furious",
+          "Faithful and True",
+          "Secret and Mysterious",
+          "Temporal and Earthly"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 19:11",
+        "explanation": "John beheld the opened heavens: 'and behold, a white horse, and he who sat on it is called Faithful and True.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "What is the name given to the Rider in Revelation 19:13?",
+        "options": [
+          "The Caesar of the Sky",
+          "The Word of God",
+          "The Angel of Dawn",
+          "The Prince of Egypt"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 19:13",
+        "explanation": "His eternal identity is revealed: 'His name is called The Word of God.'"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "question": "True or False: According to Revelation 19:14, the heavenly armies were armed with iron spears and bronze shields.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 19:14",
+        "explanation": "False. The armies followed Him 'on white horses, clothed in white, pure, fine linen.' The sword proceeds solely from Christ's mouth."
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What title is written on the garment and thigh of the Rider in Revelation 19:16?",
+        "options": [
+          "GENERAL OF LEGIONS",
+          "KING OF KINGS, AND LORD OF LORDS",
+          "RULER OF JERUSALEM",
+          "PROPHET OF GALILEE"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 19:16",
+        "explanation": "Scripture declares His supreme majesty: 'He has on his garment and on his thigh a name written, KING OF KINGS, AND LORD OF LORDS.'"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "According to Psalm 45:6-7, what is the character of the eternal throne of the Messiah?",
+        "options": [
+          "It will crumble after ten centuries",
+          "Your throne, God, is forever and ever; a scepter of equity is the scepter of Your kingdom",
+          "It is built on military extortion",
+          "It is reserved exclusively for earthly kings"
+        ],
+        "correctIndex": 1,
+        "reference": "Psalm 45:6-7",
+        "explanation": "The Psalmist proclaims: 'Your throne, God, is forever and ever. A scepter of equity is the scepter of your kingdom. You have loved righteousness...'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, Word of God, Faithful and True! You are the King of kings and Lord of lords. I bow before Your sovereign majesty today. Forgive me for the times I viewed You through a lens of weakness, forgetting that You hold all authority in the universe. I rejoice that You will return in flaming glory to vanquish every shadow of evil, injustice, and oppression. Clothe my life in the pure white linen of Your righteousness. Let the sword of Your living Word govern my thoughts, words, and actions, until that glorious day when every knee bows and every tongue confesses that You are Lord to the glory of God the Father.",
+      "versePrayerLine": "All honor, majesty, and glory be to You, Jesus Christ—KING OF KINGS, AND LORD OF LORDS!",
+      "prompt": "Take a minute to declare out loud: 'Jesus Christ is my King of kings and my Lord of lords,' submitting every area of your life to His reign."
+    }
+  },
+  "363": {
+    "day": 363,
+    "character": "The Great White Throne & The New Creation",
+    "title": "All Things Made New: God Dwelling with Man",
+    "theme": "God makes all things new, establishing His eternal dwelling with redeemed humanity where pain and death are no more.",
+    "scripture": [
+      {
+        "reference": "Revelation 20",
+        "title": "The Great White Throne Judgment and the Book of Life",
+        "verses": [
+          {
+            "number": 11,
+            "text": "I saw a great white throne, and him who sat on it, from whose face the earth and the heaven fled away. There was found no place for them."
+          },
+          {
+            "number": 12,
+            "text": "I saw the dead, the great and the small, standing before the throne, and books were opened. Another book was opened, which is the book of life. The dead were judged out of the things which were written in the books, according to their works."
+          },
+          {
+            "number": 14,
+            "text": "Death and Hades were thrown into the lake of fire. This is the second death, the lake of fire."
+          },
+          {
+            "number": 15,
+            "text": "If anyone was not found written in the book of life, he was cast into the lake of fire."
+          }
+        ]
+      },
+      {
+        "reference": "Revelation 21",
+        "title": "A New Heaven, a New Earth, and God's Dwelling with Humanity",
+        "verses": [
+          {
+            "number": 1,
+            "text": "I saw a new heaven and a new earth: for the first heaven and the first earth have passed away, and the sea is no more."
+          },
+          {
+            "number": 2,
+            "text": "I saw the holy city, New Jerusalem, coming down out of heaven from God, prepared like a bride adorned for her husband."
+          },
+          {
+            "number": 3,
+            "text": "I heard a loud voice out of heaven saying, 'Behold, God's dwelling is with people, and he will dwell with them, and they will be his people, and God himself will be with them as their God.'"
+          },
+          {
+            "number": 4,
+            "text": "'He will wipe away from their eyes every tear. There will be no more death, neither will there be mourning, nor crying, nor pain, any more. The first things have passed away.'"
+          },
+          {
+            "number": 5,
+            "text": "He who sits on the throne said, 'Behold, I make all things new.' He said, 'Write, for these words of God are faithful and true.'"
+          }
+        ]
+      }
+    ],
+    "memoryVerse": {
+      "reference": "Revelation 21:3-4",
+      "text": "Behold, God’s dwelling is with people, and he will dwell with them... He will wipe away from their eyes every tear. There will be no more death, neither will there be mourning, nor crying, nor pain...",
+      "whyItMatters": "Every pain, heartbreak, and injustice you have suffered will be swallowed up when God comes to dwell with you forever.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "dwelling",
+          "people",
+          "dwell",
+          "wipe",
+          "eyes",
+          "tear",
+          "death",
+          "mourning",
+          "pain"
+        ],
+        "firstLetters": "B G d i w p a h w d w t H w w a f t e e t T w b n m d n w t b m n c n p"
+      }
+    },
+    "profile": {
+      "title": "The Eternal Judge and the Re-Creator - God Upon the Great White Throne",
+      "who": "The Sovereign Almighty God who closes the chapter on fallen human history at the Great White Throne and inaugurates the radiant New Creation.",
+      "whenAndWhere": "The threshold of eternity: the cosmic courtroom and the emerging New Heaven and New Earth.",
+      "family": "The Father of lights, the redeemed family whose names are engraved in the Lamb's Book of Life.",
+      "keyMoments": [
+        "The Great White Throne appearing, before whose blinding holiness heaven and earth flee away.",
+        "Books of deeds opened, and the Lamb's Book of Life opened—delivering every believer through atoning grace.",
+        "Death and Hades—humanity's ancient tormentors—cast forever into the lake of fire.",
+        "God proclaiming from the throne: 'Behold, I make all things new!' and taking up residence forever with redeemed humanity."
+      ],
+      "strengths": "Infallible justice, total eradication of evil, infinite renewing love, intimate covenant presence.",
+      "failures": "None; absolute holiness and perfection."
+    },
+    "whatGodIsSaying": {
+      "headline": "Death and Pain Are on a Timer: God Himself Will Live with You and Wipe Away Every Tear",
+      "reflection": "Revelation 20 and 21 mark the greatest turning point in the history of the universe. First, all human history gathers before the Great White Throne. Earthly wealth, social titles, and self-justifications dissolve. Every secret deed is uncovered, but every soul whose name is found written in the Lamb's Book of Life is delivered by the shed blood of Jesus. Death and Hades are tossed into the lake of fire—death itself dies! And then, like a sunrise that banishes the longest night, John beholds a new heaven and a new earth! The curse of Genesis 3 is undone. God does not take us to be disembodied spirits floating on clouds; He brings heaven down to earth, creating a glorious, renewed cosmos. And hear heaven's thunderous announcement: 'Behold, God's dwelling is with people, and He will dwell with them!' The ultimate prize of eternity is not gold streets; it is God Himself! He will live with you as your Father and your Friend. And with His own tender hand, 'He will wipe away every tear from their eyes. There will be no more death, nor mourning, nor crying, nor pain, for the former things have passed away!' Every heartbreak you have ever suffered will be swallowed up in the ocean of His restorative love."
+    },
+    "lessons": [
+      {
+        "lesson": "Your Name in the Book of Life Is Everything",
+        "verse": "Revelation 20:12, 15",
+        "detail": "On that final day, worldly fame and human accolades mean nothing; only having your name written in the Lamb's Book of Life saves.",
+        "question": "Is your ultimate joy anchored in having your name inscribed in heaven's Book of Life?"
+      },
+      {
+        "lesson": "Death and Sorrow Will Be Permanently Annihilated",
+        "verse": "Revelation 20:14; 21:4",
+        "detail": "Cancer, funeral homes, divorce, depression, and physical agony are not eternal; they will be totally extinguished by God.",
+        "question": "How does the promised end of all pain and death bring comfort to the physical or emotional hurts you bear today?"
+      },
+      {
+        "lesson": "The Supreme Gift of Eternity Is God's Presence",
+        "verse": "Revelation 21:3",
+        "detail": "Heaven is heaven because God is there; eternal life is living in uninterrupted, loving communion with our Creator.",
+        "question": "Do you desire heaven primarily to escape hardship, or because your heart longs to be with God Himself?"
+      },
+      {
+        "lesson": "God Is Actively Making All Things New",
+        "verse": "Revelation 21:5",
+        "detail": "God does not merely patch up broken things; He possesses the sovereign power to completely renew hearts, minds, and creation.",
+        "question": "What broken relationship or shattered dream do you need to place into the hands of the One who makes all things new?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What happened to the first earth and heaven when the Great White Throne appeared in Revelation 20:11?",
+        "options": [
+          "They were fortified with bronze ramparts",
+          "From whose face the earth and the heaven fled away, and no place was found for them",
+          "They doubled in physical size",
+          "They elected new kings to represent them"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 20:11",
+        "explanation": "John saw the majesty of the throne: 'from whose face the earth and the heaven fled away. There was found no place for them.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "What crucial book was opened alongside the books of deeds in Revelation 20:12?",
+        "options": [
+          "The Book of Roman Laws",
+          "The Book of Life",
+          "The Scroll of Persian Dynasties",
+          "The Journal of Greek Philosophy"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 20:12",
+        "explanation": "John saw: 'Another book was opened, which is the book of life.'"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "question": "True or False: According to Revelation 21:4, physical death, mourning, crying, and pain will continue forever alongside God in eternity.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 21:4",
+        "explanation": "False. 'There will be no more death, neither will there be mourning, nor crying, nor pain, any more. The first things have passed away.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What magnificent declaration did He who sat on the throne make in Revelation 21:5?",
+        "options": [
+          "Behold, I make all things new",
+          "Behold, I destroy all hope",
+          "Behold, I retreat into eternal silence",
+          "Behold, I restart the Levitical sacrifices"
+        ],
+        "correctIndex": 0,
+        "reference": "Revelation 21:5",
+        "explanation": "God proclaims the ultimate promise: 'Behold, I make all things new.'"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "According to Revelation 21:3, what is the defining joy of the New Creation?",
+        "options": [
+          "Endless sleep without consciousness",
+          "Behold, God's dwelling is with people, and He will dwell with them",
+          "Receiving private planets to rule as independent gods",
+          "Revisiting ancient battlefields"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 21:3",
+        "explanation": "The climax of salvation is intimate communion: 'Behold, God's dwelling is with people, and he will dwell with them...'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Sovereign Father, Maker of all things and Renewer of creation, I praise You that my name is written in the Lamb's Book of Life through the precious blood of Jesus! When my heart aches with the grief, sickness, mourning, and pain of this fallen world, anchor my eyes on the radiant dawn of Revelation 21. Thank You that death, sorrow, and pain have an expiration date. Thank You that You will make all things brand new! Most of all, I thank You that You will dwell with me, that I will be Your child, and that You will personally wipe away every tear from my eyes. Come and make my heart new today.",
+      "versePrayerLine": "Behold, Lord God, dwell with me today, and let the promise of Your new creation fill my soul with unshakeable hope.",
+      "prompt": "Offer up your deepest present sorrow to God, resting in the absolute promise that He will one day wipe that very tear away forever."
+    }
+  },
+  "364": {
+    "day": 364,
+    "character": "The New Jerusalem & The River of Life",
+    "title": "Crystal Waters and the Tree of Life",
+    "theme": "The eternal paradise of God flows with crystal waters and the tree of life, reversing the curse forever.",
+    "scripture": [
+      {
+        "reference": "Revelation 21",
+        "title": "The Architecture, Radiance, and Pearly Gates of the New Jerusalem",
+        "verses": [
+          {
+            "number": 10,
+            "text": "He carried me away in the Spirit to a great and high mountain, and showed me the holy city, Jerusalem, coming down out of heaven from God,"
+          },
+          {
+            "number": 11,
+            "text": "having the glory of God. Her light was like a most precious stone, as if it were a jasper stone, clear as crystal;"
+          },
+          {
+            "number": 21,
+            "text": "The twelve gates were twelve pearls; each one of the gates was made of one pearl. The street of the city was pure gold, like transparent glass."
+          },
+          {
+            "number": 22,
+            "text": "I saw no temple in it, for the Lord God, the Almighty, and the Lamb, are its temple."
+          },
+          {
+            "number": 23,
+            "text": "The city has no need for the sun, neither of the moon, to shine, for the very glory of God illuminated it, and its lamp is the Lamb."
+          },
+          {
+            "number": 27,
+            "text": "There will in no way enter into it anything profane, or one who causes an abomination or a lie, but only those who are written in the Lamb's book of life."
+          }
+        ]
+      },
+      {
+        "reference": "Revelation 22",
+        "title": "The Crystal River of Life, the Tree, and Seeing His Face",
+        "verses": [
+          {
+            "number": 1,
+            "text": "He showed me a river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb,"
+          },
+          {
+            "number": 2,
+            "text": "in the middle of its street. On both sides of the river was the tree of life, bearing twelve kinds of fruits, yielding its fruit every month. The leaves of the tree were for the healing of the nations."
+          },
+          {
+            "number": 3,
+            "text": "There will be no curse any more. The throne of God and of the Lamb will be in it, and his servants will serve him."
+          },
+          {
+            "number": 4,
+            "text": "They will see his face, and his name will be on their foreheads."
+          },
+          {
+            "number": 5,
+            "text": "There will be no night there, and they need no lamp light, neither sunlight; for the Lord God will illuminate them. They will reign forever and ever."
+          }
+        ]
+      }
+    ],
+    "memoryVerse": {
+      "reference": "Revelation 22:1-2",
+      "text": "He showed me a river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb... on both sides of the river was the tree of life... and the leaves of the tree were for the healing of the nations.",
+      "whyItMatters": "The curse of Eden is completely reversed; the crystal river and tree of life offer endless fellowship and flourishing.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "showed",
+          "river",
+          "water",
+          "life",
+          "crystal",
+          "throne",
+          "Lamb",
+          "tree",
+          "healing",
+          "nations"
+        ],
+        "firstLetters": "H s m a r o w o l c a c p o o t t o G a o t L o b s o t r w t t o l a t l o t t w f t h o t n"
+      }
+    },
+    "profile": {
+      "title": "The New Jerusalem - The Holy Bride City of God and the Lamb",
+      "who": "The eternal metropolitan dwelling of God and His redeemed people, descending from heaven as a bride adorned for her husband.",
+      "whenAndWhere": "The New Earth, radiating with the uncreated glory of the Lord God and the Lamb.",
+      "family": "The perfected household of faith: 12 gates of pearl named for the 12 tribes, 12 foundations of jewels named for the 12 apostles.",
+      "keyMoments": [
+        "Descending from heaven illuminated with the jasper-radiance of the glory of God.",
+        "Gates of giant single pearls that never shut by day, for there is no night there.",
+        "Possessing no stone temple building, because the Lord God Almighty and the Lamb are its living temple.",
+        "Flowing with the crystal river of the water of life from the throne, lined with the Tree of Life whose leaves heal the nations.",
+        "Redeemed servants gazing directly upon the unveiled face of God, His name stamped on their foreheads, reigning forever."
+      ],
+      "strengths": "Total absence of the curse, perfect purity, unceasing illumination, direct face-to-face communion with God.",
+      "failures": "None; completely purged of sin, death, defilement, and sorrow."
+    },
+    "whatGodIsSaying": {
+      "headline": "The Curse of Eden Is Completely Undone: You Will Drink Living Water and See His Face",
+      "reflection": "In Genesis 3, human rebellion brought the curse: thorns, sweat, sickness, banishment from Eden's garden, and an angel with a flaming sword blocking access to the Tree of Life. But look at the breathtaking climax of the Bible in Revelation 21 and 22! Everything lost in Eden is restored and infinitely magnified in the New Jerusalem! God did not merely restore a rural garden; He constructed a glorious, jewel-bedecked city of pearl and gold where redeemed humanity flourishes in joyful fellowship. In the center of the city flows the river of the water of life, sparkling clear as crystal, streaming directly out from the throne of God and of the Lamb. On either side stands the Tree of Life—no longer forbidden, but freely yielding twelve crops of fruit every month, with leaves providing perpetual wholeness and harmony to the nations! 'There will be no curse anymore.' Banishment is ended. Condemnation is dead. And verse 4 contains the supreme crown of the entire Christian faith: 'They will see His face!' The beatific vision! The same God whom no mortal could see and live will look into your eyes with infinite love, and you will behold His unveiled beauty without fear, terror, or shame forever."
+    },
+    "lessons": [
+      {
+        "lesson": "The Curse Is Utterly and Permanently Broken",
+        "verse": "Revelation 22:3",
+        "detail": "Every lingering trace of the fall—spiritual separation, emotional guilt, physical decay—is forever eradicated by the cross.",
+        "question": "Are you living under the lingering shame of the curse, or celebrating Christ's complete victory over it?"
+      },
+      {
+        "lesson": "Life Flows Directly from the Throne of God",
+        "verse": "Revelation 22:1",
+        "detail": "The river of life proceeds out of the throne of God and of the Lamb; all true spiritual life and joy originate in God's sovereignty.",
+        "question": "Where are you drinking for satisfaction—from the stagnant cisterns of worldly entertainment, or Christ's living water?"
+      },
+      {
+        "lesson": "Seeing God's Face Is the Ultimate Joy of Heaven",
+        "verse": "Revelation 22:4",
+        "detail": "Heaven's highest ecstasy is not pearl gates or gold streets, but beholding the radiant, loving face of Jesus face-to-face.",
+        "question": "How does the anticipation of looking into the eyes of Jesus purify and steady your heart today?"
+      },
+      {
+        "lesson": "Eternal Life Is Active, Royal Service",
+        "verse": "Revelation 22:3, 5",
+        "detail": "We will not be bored in eternity; 'his servants will serve him' and 'they will reign forever and ever' in joyful creativity.",
+        "question": "How does knowing you will reign and serve with Christ in eternity give significance to your daily labors now?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "Why did John see no physical temple building in the New Jerusalem in Revelation 21:22?",
+        "options": [
+          "Because Rome had destroyed all architectural stone",
+          "For the Lord God, the Almighty, and the Lamb, are its temple",
+          "Because believers decided to worship in nature exclusively",
+          "Because the angels had not yet completed construction"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 21:22",
+        "explanation": "John explains: 'I saw no temple in it, for the Lord God, the Almighty, and the Lamb, are its temple.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "From where does the river of the water of life proceed in Revelation 22:1?",
+        "options": [
+          "From the snow peaks of Mount Hermon",
+          "Out of the throne of God and of the Lamb",
+          "From the springs of Siloam in old Judea",
+          "From the clouds of the Mediterranean"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 22:1",
+        "explanation": "The crystal river proceeds 'out of the throne of God and of the Lamb.'"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "question": "True or False: According to Revelation 22:3, the ancient curse from Genesis 3 will continue to torment believers in the New Jerusalem.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 22:3",
+        "explanation": "False. Scripture triumphant proclaims: 'There will be no curse any more.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What supreme privilege is promised to the servants of God in Revelation 22:4?",
+        "options": [
+          "They will see His face, and His name will be on their foreheads",
+          "They will receive unlimited private earthly kingdoms",
+          "They will be exempt from singing praises",
+          "They will build defensive stone walls"
+        ],
+        "correctIndex": 0,
+        "reference": "Revelation 22:4",
+        "explanation": "The ultimate promise of Scripture: 'They will see his face, and his name will be on their foreheads.'"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "Why does the New Jerusalem have no need of the sun or moon according to Revelation 21:23?",
+        "options": [
+          "Because all stars have been annihilated",
+          "The very glory of God illuminated it, and its lamp is the Lamb",
+          "Because everyone sleeps during the day",
+          "Because the city is surrounded by dense cloud"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 21:23",
+        "explanation": "Scripture declares: 'the very glory of God illuminated it, and its lamp is the Lamb.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord God Almighty and Holy Lamb, my heart leaps with holy expectation as I behold the New Jerusalem! Thank You that the ancient curse of Eden is completely reversed. Through Your cross and resurrection, You have opened the way to the Tree of Life and the crystal river of living waters. Quench my thirst today with the life of Your Spirit. Deliver me from seeking life in the polluted puddles of worldly sin. I look forward with joyful yearning to that day when I walk through the gates of pearl, drink from Your crystal river, and look directly into Your loving face, reigning with You forever and ever.",
+      "versePrayerLine": "Show me Your living water, O Lord, and let my heart rejoice in the promise that I will one day see Your face.",
+      "prompt": "Take a minute to meditate on the promise: 'They will see His face.' Ask the Lord to make that glorious reality the compass of your daily life."
+    }
+  },
+  "365": {
+    "day": 365,
+    "character": "The Spirit and the Bride",
+    "title": "Even So, Come Lord Jesus: Knowing Him Forever",
+    "theme": "The entire biblical narrative culminates in intimate union: the Spirit and the Bride say, 'Come!' and know Him forever.",
+    "scripture": [
+      {
+        "reference": "Revelation 22",
+        "title": "The Final Invitation, the Solemn Warning, and the Blessed Hope",
+        "verses": [
+          {
+            "number": 12,
+            "text": "'Behold, I come quickly. My reward is with me, to repay each man according to his work."
+          },
+          {
+            "number": 13,
+            "text": "I am the Alpha and the Omega, the First and the Last, the Beginning and the End."
+          },
+          {
+            "number": 16,
+            "text": "'I, Jesus, have sent my angel to testify these things to you for the assemblies. I am the root and the offspring of David, the Bright and Morning Star.'"
+          },
+          {
+            "number": 17,
+            "text": "The Spirit and the bride say, 'Come!' He who hears, let him say, 'Come!' He who is thirsty, let him come. He who desires, let him take the water of life freely."
+          },
+          {
+            "number": 20,
+            "text": "He who testifies these things says, 'Yes, I come quickly.' Amen! Yes, come, Lord Jesus."
+          },
+          {
+            "number": 21,
+            "text": "The grace of the Lord Jesus Christ be with all the saints. Amen."
+          }
+        ]
+      },
+      {
+        "reference": "Psalm 150",
+        "title": "Let Everything That Has Breath Praise Yahweh!",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Praise Yah! Praise God in his sanctuary! Praise him in his mighty expanse!"
+          },
+          {
+            "number": 2,
+            "text": "Praise him for his mighty acts! Praise him according to his excellent greatness!"
+          },
+          {
+            "number": 3,
+            "text": "Praise him with the sound of the trumpet! Praise him with the lute and harp!"
+          },
+          {
+            "number": 4,
+            "text": "Praise him with tambourine and dance! Praise him with stringed instruments and flute!"
+          },
+          {
+            "number": 5,
+            "text": "Praise him with loud cymbals! Praise him with resounding cymbals!"
+          },
+          {
+            "number": 6,
+            "text": "Let everything that has breath praise Yah! Praise Yah!"
+          }
+        ]
+      }
+    ],
+    "memoryVerse": {
+      "reference": "Revelation 22:20",
+      "text": "He who testifies these things says, 'Yes, I come quickly.' Amen! Yes, come, Lord Jesus.",
+      "whyItMatters": "This 365-day journey has one glorious goal: to know God so deeply that your heart's longing cries, 'Even so, come, Lord Jesus!'",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "testifies",
+          "things",
+          "quickly",
+          "Amen",
+          "come",
+          "Lord",
+          "Jesus"
+        ],
+        "firstLetters": "H w t t t s Y I c q A Y c L J"
+      }
+    },
+    "profile": {
+      "title": "The Spirit and the Bride - The Climax of the Eternal Romance",
+      "who": "The Holy Spirit and the perfected Church (the Bride of Christ), crying in unified passionate expectation for the return of the Bridegroom.",
+      "whenAndWhere": "The closing breath of Scripture, the threshold where earthly time melts into eternal fellowship.",
+      "family": "The eternal Bride, wife of the Lamb, united by the Holy Spirit to the Bright and Morning Star.",
+      "keyMoments": [
+        "Completing the 365-day journey from Genesis to Revelation, tracing God's heart through 365 biblical lives and seasons.",
+        "Jesus declaring His eternal identity: 'I am the Alpha and the Omega, the Root and Offspring of David, the Bright and Morning Star.'",
+        "The Spirit and the Bride crying in unified, passionate harmony: 'Come!'",
+        "Extending a final, urgent invitation to every thirsty soul on earth: 'Let him who is thirsty come, and drink the water of life freely!'",
+        "Closing the sacred canon of Scripture with the ultimate prayer of love: 'Amen! Even so, come, Lord Jesus!'"
+      ],
+      "strengths": "Single-minded bridal affection, radical alignment with the Holy Spirit, unquenchable thirst for Christ's presence.",
+      "failures": "A journey once filled with stumbles and weaknesses, now perfected forever by the grace of our Lord Jesus Christ."
+    },
+    "whatGodIsSaying": {
+      "headline": "The Goal of the Entire Bible Is to Know Him: The Bridegroom Is Coming Quickly!",
+      "reflection": "You have reached Day 365. Over the course of this year, you have walked with Adam, Noah, Abraham, Sarah, Joseph, Moses, Ruth, David, Elijah, Daniel, Mary, Peter, Paul, and John. You have climbed mountains of triumph and sat in valleys of weeping. But this entire journey was never about collecting historical facts or religious trivia. It had one supreme, burning purpose: to KNOW HIM MORE! The Bible begins in Genesis with God walking in a garden with humanity, and it ends in Revelation with God dwelling as Bridegroom with His redeemed Bride. Look at the very last page of Scripture. Jesus speaks: 'I am the Alpha and the Omega, the First and the Last... the Bright and Morning Star!' And how does the church respond? Not with theological debate, not with bored indifference, but with an cry of burning love. In complete unison, 'The Spirit and the Bride say, Come!' When the Holy Spirit fills your heart, your deepest instinct is a bridal longing for Jesus. And then comes the final promise of the Savior: 'Yes, I am coming quickly!' To which your heart replies with the final prayer of the Bible: 'Amen! Yes, come, Lord Jesus!' May the grace of our Lord Jesus Christ be with you every day until you see Him face-to-face!"
+    },
+    "lessons": [
+      {
+        "lesson": "Knowing God Is the Supreme Prize of Life",
+        "verse": "Revelation 22:13, 17",
+        "detail": "Christianity is not a moral checklist; it is an intimate love relationship with the Alpha and Omega, the Lover of your soul.",
+        "question": "Looking back over this 365-day study, in what specific ways do you know God's character more deeply today?"
+      },
+      {
+        "lesson": "The Spirit and the Bride Cry with One Heart",
+        "verse": "Revelation 22:17",
+        "detail": "The mark of a Spirit-filled believer is not religious pride, but a tender, longing cry for the return and presence of Jesus.",
+        "question": "Does your heart genuinely yearn for the return of Jesus, or are you too comfortable in this passing world?"
+      },
+      {
+        "lesson": "The Gospel Invitation Remains Open to the Thirsty",
+        "verse": "Revelation 22:17",
+        "detail": "Until Jesus returns, the church is called to invite every broken, thirsty human being to drink the water of life freely.",
+        "question": "Who in your circle of family or friends is spiritually thirsty and needs to hear the free invitation to Christ?"
+      },
+      {
+        "lesson": "Let Everything That Has Breath Praise the Lord",
+        "verse": "Psalm 150:6; Revelation 22:20-21",
+        "detail": "All creation, all scripture, and every beat of your heart exist to give eternal praise to Yahweh and feast on His grace.",
+        "question": "Will you commit to making your remaining days on earth an altar of unceasing praise and passionate devotion?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What title does Jesus proclaim for Himself in Revelation 22:16?",
+        "options": [
+          "The Caesar of the legions",
+          "The root and the offspring of David, the Bright and Morning Star",
+          "The merchant of Alexandria",
+          "The philosopher of Athens"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 22:16",
+        "explanation": "Jesus announces: 'I am the root and the offspring of David, the Bright and Morning Star.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "Who joins together in saying 'Come!' in Revelation 22:17?",
+        "options": [
+          "The Pharisees and Sadducees",
+          "The Spirit and the bride",
+          "The Roman senate and emperor",
+          "The merchants of Babylon"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 22:17",
+        "explanation": "Scripture records the united invitation: 'The Spirit and the bride say, Come!'"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "question": "True or False: According to Revelation 22:17, the water of life is sold for fifty pieces of silver to the wealthy.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 22:17",
+        "explanation": "False. 'He who desires, let him take the water of life freely.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What is the final prayer of the Apostle John recorded in Revelation 22:20?",
+        "options": [
+          "Lord, grant me long life in Ephesus",
+          "Amen! Yes, come, Lord Jesus",
+          "Build me a stone palace in Jerusalem",
+          "Avenge my enemies immediately"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 22:20",
+        "explanation": "The closing prayer of the Bible is: 'Amen! Yes, come, Lord Jesus.'"
+      },
+      {
+        "id": 5,
+        "type": "multiple_choice",
+        "question": "How does the book of Psalms conclude in Psalm 150:6?",
+        "options": [
+          "Let human kings reign in silence",
+          "Let everything that has breath praise Yah! Praise Yah!",
+          "Let the instruments be put away forever",
+          "Let only the priests speak"
+        ],
+        "correctIndex": 1,
+        "reference": "Psalm 150:6",
+        "explanation": "The grand finale of the Psalter declares: 'Let everything that has breath praise Yah! Praise Yah!'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, Alpha and Omega, Beginning and End, Bright and Morning Star! I bow before You at the completion of this 365-day journey with tears of gratitude, awe, and joy. Thank You for walking with me through every character, every chapter, every memory verse, and every prayer. You have revealed Your holiness, Your mercy, Your patience, and Your unshakeable covenant faithfulness. You are not distant facts on a page; You are my Living Savior, my Shepherd, and my King. I join the Holy Spirit and Your worldwide Bride in crying from the depths of my soul: 'Come!' Until that glorious day when You split the eastern skies, let Your grace rest upon me, and let my entire life be an altar of praise to Know You More.",
+      "versePrayerLine": "Amen! Even so, come, Lord Jesus! The grace of our Lord Jesus Christ be with my spirit forever and ever. Amen!",
+      "prompt": "Spend the final quiet moments of this 365-day devotion thanking Jesus from the bottom of your heart, whispering: 'Even so, come, Lord Jesus!'"
     }
   }
 };

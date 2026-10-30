@@ -1,5 +1,5 @@
 // Service Worker for "Know Him More" PWA
-const CACHE_NAME = 'know-him-more-v1';
+const CACHE_NAME = 'know-him-more-v365';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
@@ -9,7 +9,7 @@ const ASSETS_TO_CACHE = [
   './data/plan365.js',
   './data/plan365.json',
   './data/days_content.js',
-  './data/days_1_to_7.json'
+  './data/days_1_to_365.json'
 ];
 
 self.addEventListener('install', (event) => {
