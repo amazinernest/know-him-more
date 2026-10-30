@@ -1,4 +1,4 @@
-// Know Him More - Complete Days 1 to 187 Content (Batches 1 to 6 Complete)
+// Know Him More - Complete Days 1 to 217 Content (Batches 1 to 7 Complete)
 window.DAYS_CONTENT = {
   "1": {
     "day": 1,
@@ -42332,6 +42332,6212 @@ window.DAYS_CONTENT = {
       "guidedPrayer": "Sovereign Potter, I am the clay, and You are my Potter; we all are the work of Your hand. Forgive me for the times I have stiffened my neck, resisted Your touch, and marred the vessel of my life with stubborn self-will. Thank You that You do not throw away marred clay! Crush my pride, soften my spirit with the water of Your Holy Spirit, and remake me on Your wheel into a vessel of honor, sanctified and useful for the Master. Let Your Word burn in my bones like a fire that cannot be quenched.",
       "versePrayerLine": "Behold, as the clay is in the potter's hand, so am I in Your hand, O Lord; remake my life according to Your good pleasure.",
       "prompt": "Surrender any broken or marred area of your life to the Potter right now, asking Him to reshape it for His glory."
+    }
+  },
+  "188": {
+    "day": 188,
+    "character": "Jeremiah",
+    "season": "The Stocks of Pashhur and the Trial in the Temple Gate",
+    "theme": "God's truth is an unquenchable fire in the soul that endures persecution and outlasts mockery.",
+    "memoryVerse": {
+      "reference": "Jeremiah 20:9",
+      "text": "If I say, 'I will not make mention of him, nor speak any more in his name,' then there is in my heart as it were a burning fire shut up in my bones, and I am weary with holding it in, and I can't.",
+      "whyItMatters": "The Word of God within a surrendered servant is a holy fire that cannot be quenched by threats, public shame, or physical chains.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "mention",
+          "burning",
+          "fire",
+          "bones",
+          "weary"
+        ],
+        "firstLetters": "I I s, 'I w n m m o h, n s a m i h n,' t t i i m h a i w a b f s u i m b, a I a w w h i i, a I c."
+      }
+    },
+    "profile": {
+      "title": "Jeremiah: The Prophet Beaten, Imprisoned, and Burning from Within",
+      "who": "Jeremiah enduring brutal physical beating and confinement in the stocks by the chief temple officer, and standing on trial for his life before the princes of Judah.",
+      "whenAndWhere": "The Upper Gate of Benjamin in the Temple, and the entrance of the New Gate of Jerusalem, circa 608 BC.",
+      "family": "Priestly son of Hilkiah of Anathoth; targeted by his own neighbors and family members.",
+      "keyMoments": [
+        "Pashhur son of Immer, chief officer in the house of Yahweh, heard Jeremiah prophesying judgment, struck the prophet physically, and locked him in the wooden stocks at the Upper Benjamin Gate overnight.",
+        "Released the next morning, Jeremiah boldly confronted Pashhur, renaming him Magor-Missabib ('Terror on Every Side') and foretelling his death in Babylon.",
+        "Poured out his raw emotional anguish to God: 'Yahweh, you have persuaded me... I have become a laughingstock all day; everyone mocks me... But his word was in my heart as a burning fire shut up in my bones!'",
+        "Preached in the temple courts in the beginning of Jehoiakim's reign, warning that Jerusalem would become like Shiloh if the people did not repent.",
+        "The priests and false prophets seized Jeremiah, screaming: 'You must die!' A riot erupted at the New Gate of Yahweh's house.",
+        "Jeremiah delivered his fearless defense before the princes: 'Yahweh sent me to prophesy against this house... Now therefore amend your ways... As for me, behold, I am in your hand: do with me as seems good and right in your eyes. Only know for certain that if you put me to death, you will bring innocent blood on yourselves.'",
+        "Elders stood up and cited Micah of Moresheth, who had prophesied destruction without being executed by Hezekiah; Ahikam son of Shaphan protected Jeremiah so that he was not handed over to the mob."
+      ],
+      "strengths": [
+        "Total absence of cowardice: stood before a lynch mob ready to die for God's truth.",
+        "Emotional authenticity: shared his deepest wounds, loneliness, and confusion honestly with God.",
+        "Unstoppable inner fire: could not suppress God's message even when resolved to stay silent."
+      ],
+      "failures": [
+        "Experienced intense self-pity and cursed the day of his birth in his darkest moments (Jeremiah 20:14-18)."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Jeremiah 20",
+        "title": "Pashhur Puts Jeremiah in Stocks and the Unquenchable Burning Fire",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Now Pashhur, the son of Immer the priest, who was chief officer in Yahweh's house, heard Jeremiah prophesying these things."
+          },
+          {
+            "number": 2,
+            "text": "Then Pashhur struck Jeremiah the prophet, and put him in the stocks that were in the upper gate of Benjamin, which was in Yahweh's house."
+          },
+          {
+            "number": 3,
+            "text": "It came to pass on the next day, that Pashhur released Jeremiah out of the stocks. Then Jeremiah said to him, 'Yahweh has not called your name Pashhur, but Magor-Missabib.'"
+          },
+          {
+            "number": 7,
+            "text": "Yahweh, you have persuaded me, and I was persuaded. You are stronger than I, and have prevailed. I have become a laughingstock all day. Everyone mocks me."
+          },
+          {
+            "number": 9,
+            "text": "If I say, 'I will not make mention of him, nor speak any more in his name,' then there is in my heart as it were a burning fire shut up in my bones, and I am weary with holding it in, and I can't."
+          },
+          {
+            "number": 11,
+            "text": "But Yahweh is with me as an awesome, mighty one. Therefore my persecutors will stumble, and they will not prevail. They will be utterly disappointed, because they have not dealt wisely, even with an everlasting disgrace which will never be forgotten."
+          }
+        ]
+      },
+      {
+        "reference": "Jeremiah 26",
+        "title": "Jeremiah on Trial for His Life in the New Gate of the Temple",
+        "verses": [
+          {
+            "number": 8,
+            "text": "When Jeremiah had finished speaking all that Yahweh had commanded him to speak to all the people, the priests and the prophets and all the people laid hold on him, saying, 'You shall surely die!'"
+          },
+          {
+            "number": 11,
+            "text": "Then the priests and the prophets spoke to the princes and to all the people, saying, 'This man is worthy of death; for he has prophesied against this city, as you have heard with your ears.'"
+          },
+          {
+            "number": 12,
+            "text": "Then Jeremiah spoke to all the princes and to all the people, saying, 'Yahweh sent me to prophesy against this house and against this city all the words that you have heard.'"
+          },
+          {
+            "number": 13,
+            "text": "'Now therefore amend your ways and your doings, and obey Yahweh your God's voice; and Yahweh will repent him of the evil that he has pronounced against you.'"
+          },
+          {
+            "number": 14,
+            "text": "'As for me, behold, I am in your hand: do with me as is good and right in your eyes.'"
+          },
+          {
+            "number": 15,
+            "text": "'Only know for certain that, if you put me to death, you will bring innocent blood on yourselves, and on this city, and on its inhabitants; for of a truth Yahweh has sent me to you to speak all these words in your ears.'"
+          },
+          {
+            "number": 24,
+            "text": "But the hand of Ahikam the son of Shaphan was with Jeremiah, that they should not give him into the hand of the people to put him to death."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "When faithfulness costs your comfort and reputation, God's Word burns within you like a divine fire that cannot be extinguished.",
+      "reflection": "Jeremiah was a human being of raw sensitivity. After spending a cold night locked in wooden stocks, bruised from the blows of the chief priest Pashhur, listening to temple crowds mock his name, Jeremiah reached his breaking point. He sat down and told God: 'I quit! I am never mentioning Your name again! It has brought me nothing but reproach, derision, and mockery all day long!' Have you ever felt like quitting? Have you ever felt so exhausted by ridicule, criticism, or isolation that you wanted to walk away from ministry and silence your witness? Look at what happened the moment Jeremiah resolved to keep quiet: 'If I say, \"I will not mention Him,\" then His Word was in my heart like a burning fire shut up in my bones, and I was weary of holding it in, and I could not!' Divine truth inside a consecrated soul is not a cold theory; it is a living, incandescent fire. You can lock the messenger in stocks, but you cannot lock up the fire! And when dragged before a bloodthirsty lynch mob in Jeremiah 26, Jeremiah stood erect: 'Do with me as seems good to you; but know for certain that Yahweh sent me.' When God is with you as a mighty, awesome warrior, the fire in your bones will outlast every storm."
+    },
+    "lessons": [
+      {
+        "lesson": "Expect hostility when confronting religious complacency",
+        "verse": "Jeremiah 20:1-2; 26:8-11",
+        "detail": "It was the priests, prophets, and religious establishment who beat Jeremiah and demanded his execution for speaking truth.",
+        "question": "Are you prepared to face opposition from religious traditionalists when you stand firmly on biblical convictions?"
+      },
+      {
+        "lesson": "Pour out your honest laments to God",
+        "verse": "Jeremiah 20:7-10",
+        "detail": "Jeremiah did not mask his grief with forced smiles; he wept, questioned, and wrestled honestly with God, finding renewed strength.",
+        "question": "Do you bring your raw emotional exhaustion, discouragement, and doubts directly into God's presence?"
+      },
+      {
+        "lesson": "The Word of God is an inextinguishable fire",
+        "verse": "Jeremiah 20:9",
+        "detail": "True divine conviction cannot be suppressed; the fire of God's Word compels faithful disciples to speak even when it costs.",
+        "question": "Does God's truth burn within your soul with enough passion that you cannot keep silent about His gospel?"
+      },
+      {
+        "lesson": "Rest in God as your mighty warrior",
+        "verse": "Jeremiah 20:11",
+        "detail": "Jeremiah looked past his persecutors and saw that Yahweh was with him as an awesome, terrifying champion.",
+        "question": "How does realizing that the Almighty fights for you give you boldness when others oppose your faith?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q188_1",
+        "type": "multiple_choice",
+        "question": "What did Pashhur the priest do to Jeremiah in Jeremiah 20:2?",
+        "options": [
+          "He paid him thirty silver shekels",
+          "He struck Jeremiah the prophet and put him in the stocks in the upper gate of Benjamin",
+          "He exiled him to Egypt",
+          "He gave him a seat on the council"
+        ],
+        "correctIndex": 1,
+        "reference": "Jeremiah 20:2",
+        "explanation": "Pashhur struck Jeremiah and locked him overnight in the stocks at the upper gate of Benjamin."
+      },
+      {
+        "id": "q188_2",
+        "type": "multiple_choice",
+        "question": "What new prophetic name did Jeremiah give Pashhur upon being released from the stocks?",
+        "options": [
+          "Ichabod ('The Glory Has Departed')",
+          "Magor-Missabib ('Terror on Every Side')",
+          "Lo-Ammi ('Not My People')",
+          "Belial ('Worthless')"
+        ],
+        "correctIndex": 1,
+        "reference": "Jeremiah 20:3",
+        "explanation": "Jeremiah renamed him Magor-Missabib, meaning 'terror on every side.'"
+      },
+      {
+        "id": "q188_3",
+        "type": "multiple_choice",
+        "question": "What happened when Jeremiah decided never again to mention God or speak in His name in Jeremiah 20:9?",
+        "options": [
+          "He found peace and retired to Anathoth",
+          "His word was in my heart as a burning fire shut up in my bones, and I was weary of holding it in, and I couldn't",
+          "An angel appeared and took his voice away",
+          "He immediately fell sick"
+        ],
+        "correctIndex": 1,
+        "reference": "Jeremiah 20:9",
+        "explanation": "God's word burned within his heart and bones so fiercely that he could not hold it in."
+      },
+      {
+        "id": "q188_4",
+        "type": "true_false",
+        "question": "True or False: In Jeremiah 26:14, Jeremiah begged the mob for his life and recanted his prophecies against the Temple.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Jeremiah 26:14-15",
+        "explanation": "False. Jeremiah boldly said: 'As for me, behold, I am in your hand: do with me as seems good... only know that Yahweh has truly sent me.'"
+      },
+      {
+        "id": "q188_5",
+        "type": "multiple_choice",
+        "question": "Whose hand protected Jeremiah so that the mob did not put him to death in Jeremiah 26:24?",
+        "options": [
+          "Pashhur son of Immer",
+          "Ahikam the son of Shaphan",
+          "Ebed-Melech the Ethiopian",
+          "Nebuzaradan the captain of the guard"
+        ],
+        "correctIndex": 1,
+        "reference": "Jeremiah 26:24",
+        "explanation": "The hand of Ahikam son of Shaphan was with Jeremiah so that they did not put him to death."
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord God of hosts, You are with me as an awesome, mighty warrior! When mockery, rejection, or spiritual weariness make me want to give up and keep silent, rekindle Your Word within my soul. Let Your truth burn in my heart like an unquenchable fire shut up in my bones. Give me the courage of Jeremiah to stand before critics and hostile crowds without trembling, resting in the certainty that You are my shield, my defender, and my eternal reward.",
+      "versePrayerLine": "Lord, let Your Word burn in my heart as a living fire; give me boldness to speak Your truth and never keep silent.",
+      "prompt": "Ask the Holy Spirit to revive any dormant fire in your heart, giving you fresh passion for Scripture and evangelism."
+    }
+  },
+  "189": {
+    "day": 189,
+    "character": "Jeremiah",
+    "season": "The Letter to the Exiles and the Plans for a Future and a Hope",
+    "theme": "God ordains flourishing in the midst of exile and guarantees a future full of redemptive hope.",
+    "memoryVerse": {
+      "reference": "Jeremiah 29:11",
+      "text": "For I know the thoughts that I think toward you, says Yahweh, thoughts of peace, and not of evil, to give you hope and a future.",
+      "whyItMatters": "Even in seasons of displacement, delay, and discipline, God's sovereign intentions toward us are peace, hope, and restoration.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "thoughts",
+          "peace",
+          "evil",
+          "hope",
+          "future"
+        ],
+        "firstLetters": "F I k t t t I t t y, s Y, t o p, a n o e, t g y h a a f."
+      }
+    },
+    "profile": {
+      "title": "Jeremiah the Letter Writer: The Blueprint for Flourishing in Babylon",
+      "who": "Jeremiah sending an inspired pastoral letter from besieged Jerusalem to the first wave of Jewish exiles carried off to Babylon with King Jeconiah (Jehoiachin).",
+      "whenAndWhere": "Jerusalem to Babylon, circa 597 BC.",
+      "family": "Priestly prophet of Anathoth; counseling the exiled elders, priests, prophets, and citizens in Mesopotamia.",
+      "keyMoments": [
+        "False prophets in Babylon (like Hananiah, Ahab son of Kolaiah, and Zedekiah son of Maaseiah) promised that exile would end in two short years and Nebuchadnezzar would be broken.",
+        "Jeremiah sent a letter by Elasah and Gemariah directly to the captives in Babylon with God's startling counter-strategy: 'Build houses, and dwell in them; plant gardens, and eat the fruit of them. Take wives, and father sons and daughters... multiply there, and don't be diminished.'",
+        "Commanded them to bless their pagan captors: 'Seek the peace of the city where I have caused you to be carried away captive, and pray to Yahweh for it; for in its peace you will have peace.'",
+        "Announced God's sovereign timetable: exile would last exactly seventy years.",
+        "Delivered the immortal promise of Jeremiah 29:11-13: 'For I know the thoughts that I think toward you, says Yahweh, thoughts of peace, and not of evil, to give you hope and a future. You will call on me, and you will go and pray to me, and I will listen to you. You will seek me, and find me, when you search for me with all your heart.'",
+        "Wrote the 'Book of Consolation' in Jeremiah 30, prophesying the ultimate return from all nations, the breaking of the foreign yoke, and the raising up of David their king."
+      ],
+      "strengths": [
+        "Wise, counter-intuitive pastoral leadership: taught exiles to flourish and bless enemies rather than wallow in rebellion.",
+        "Anchored a devastated people in God's sovereign, long-term redemptive hope.",
+        "Unmasked toxic optimism of false prophets with realistic, patient faith."
+      ],
+      "failures": [
+        "None noted; a masterpiece of pastoral counseling in crisis."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Jeremiah 29",
+        "title": "Jeremiah's Letter to the Exiles in Babylon and the Seventy Years",
+        "verses": [
+          {
+            "number": 4,
+            "text": "Thus says Yahweh of Armies, the God of Israel, to all the captivity, whom I have caused to be carried away captive from Jerusalem to Babylon:"
+          },
+          {
+            "number": 5,
+            "text": "'Build houses, and dwell in them; and plant gardens, and eat their fruit.'"
+          },
+          {
+            "number": 7,
+            "text": "'Seek the peace of the city where I have caused you to be carried away captive, and pray to Yahweh for it; for in its peace you will have peace.'"
+          },
+          {
+            "number": 10,
+            "text": "For thus says Yahweh, 'After seventy years are accomplished for Babylon, I will visit you, and perform my good word toward you, in causing you to return to this place.'"
+          },
+          {
+            "number": 11,
+            "text": "'For I know the thoughts that I think toward you,' says Yahweh, 'thoughts of peace, and not of evil, to give you hope and a future.'"
+          },
+          {
+            "number": 12,
+            "text": "'You shall call on me, and you shall go and pray to me, and I will listen to you.'"
+          },
+          {
+            "number": 13,
+            "text": "'You shall seek me, and find me, when you search for me with all your heart.'"
+          },
+          {
+            "number": 14,
+            "text": "'I will be found by you,' says Yahweh, 'and I will turn again your captivity, and I will gather you from all the nations... '"
+          }
+        ]
+      },
+      {
+        "reference": "Jeremiah 30",
+        "title": "The Book of Consolation: Restoring the Fortunes of Jacob",
+        "verses": [
+          {
+            "number": 2,
+            "text": "Thus speaks Yahweh, the God of Israel, saying, 'Write all the words that I have spoken to you in a book.'"
+          },
+          {
+            "number": 3,
+            "text": "'For, behold, the days come,' says Yahweh, 'that I will reverse the captivity of my people Israel and Judah... and I will cause them to return to the land that I gave to their fathers... '"
+          },
+          {
+            "number": 9,
+            "text": "'but they will serve Yahweh their God, and David their king, whom I will raise up to them.'"
+          },
+          {
+            "number": 11,
+            "text": "'For I am with you,' says Yahweh, 'to save you: for I will make a full end of all the nations where I have scattered you, but I will not make a full end of you; but I will correct you in measure...'"
+          },
+          {
+            "number": 17,
+            "text": "'For I will restore health to you, and I will heal you of your wounds,' says Yahweh; 'because they have called you an outcast, saying, \"It is Zion, whom no man seeks after.\"'"
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "God's plans for your life are not derailed by detours and seasons of exile; He uses waiting rooms to birth a future and a hope.",
+      "reflection": "Jeremiah 29:11 is framed in gold on living room walls across the world: 'For I know the thoughts that I think toward you, says the Lord, thoughts of peace and not of evil, to give you a future and a hope.' But we often forget the context in which those words were written. They were not written to comfortable graduates standing on a sunny campus. They were written to shell-shocked Jewish refugees dragged in chains seven hundred miles across the desert to Babylon. Their temple had been looted, their homes burned, and their royal family deposed. False prophets told them, 'Don't unpack your bags! We are going home in two weeks!' Jeremiah said, 'Unpack your bags. You are going to be there for seventy years. Build houses. Plant gardens. Have children and grandchildren. And seek the peace of the pagan city where you live, praying for its welfare!' What a revolutionary message: do not put your life on hold while waiting for ideal circumstances! Flourish right where you are planted. Even in the midst of exile, God's sovereign intentions toward His people are shalom—wholeness, peace, and redemptive purpose. And when you search for Him with all your heart in your Babylon, He promises: 'I will be found by you!' God is working even when you are in exile."
+    },
+    "lessons": [
+      {
+        "lesson": "Flourish where you are planted",
+        "verse": "Jeremiah 29:5-6",
+        "detail": "Do not waste seasons of delay or undesirable circumstances in bitter despair; build, plant, marry, work, and grow.",
+        "question": "Are you putting your spiritual life or joy on hold until your circumstances change, or are you flourishing today?"
+      },
+      {
+        "lesson": "Seek the welfare of the community around you",
+        "verse": "Jeremiah 29:7",
+        "detail": "God commands His people to bless, pray for, and contribute to the flourishing of secular cities and neighborhoods where they live.",
+        "question": "How are you practically seeking the peace, health, and welfare of your neighborhood and workplace?"
+      },
+      {
+        "lesson": "God's thoughts toward you are peace and hope",
+        "verse": "Jeremiah 29:11",
+        "detail": "Divine discipline and seasons of waiting are shaped by God's eternal love to give you a future, not to destroy you.",
+        "question": "Do you genuinely trust that God's thoughts toward your current situation are peace and not evil?"
+      },
+      {
+        "lesson": "Seek God with your whole heart",
+        "verse": "Jeremiah 29:13",
+        "detail": "Wholehearted, desperate seeking always unlocks the manifest presence and restoration of God.",
+        "question": "Are you seeking God with casual half-heartedness, or searching for Him with your entire soul?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q189_1",
+        "type": "multiple_choice",
+        "question": "What practical counsel did Jeremiah give the Jewish exiles living in Babylon in Jeremiah 29:5-7?",
+        "options": [
+          "Refuse to eat Babylonian food and launch an armed revolt",
+          "Build houses, plant gardens, marry, multiply, and seek the peace of the city where they were exiled",
+          "Fast continuously until the walls fell",
+          "Move immediately to Egypt"
+        ],
+        "correctIndex": 1,
+        "reference": "Jeremiah 29:5-7",
+        "explanation": "Jeremiah told them to build houses, plant gardens, raise families, and seek the peace and welfare of Babylon."
+      },
+      {
+        "id": "q189_2",
+        "type": "multiple_choice",
+        "question": "How many years did God declare the Babylonian captivity would last in Jeremiah 29:10?",
+        "options": [
+          "Two years",
+          "Forty years",
+          "Seventy years",
+          "One hundred years"
+        ],
+        "correctIndex": 2,
+        "reference": "Jeremiah 29:10",
+        "explanation": "God said: 'After seventy years are accomplished for Babylon, I will visit you, and perform my good word toward you.'"
+      },
+      {
+        "id": "q189_3",
+        "type": "multiple_choice",
+        "question": "What does Yahweh declare His thoughts are toward His people in Jeremiah 29:11?",
+        "options": [
+          "Thoughts of vengeance and perpetual exile",
+          "Thoughts of peace, and not of evil, to give you hope and a future",
+          "Thoughts of destruction for their idolatry",
+          "Thoughts of silence and abandonment"
+        ],
+        "correctIndex": 1,
+        "reference": "Jeremiah 29:11",
+        "explanation": "Yahweh declares: 'thoughts of peace, and not of evil, to give you hope and a future.'"
+      },
+      {
+        "id": "q189_4",
+        "type": "true_false",
+        "question": "True or False: According to Jeremiah 29:13, God promises: 'You shall seek me, and find me, when you search for me with all your heart.'",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 0,
+        "reference": "Jeremiah 29:13",
+        "explanation": "True. God guarantees that those who seek Him with all their heart will surely find Him."
+      },
+      {
+        "id": "q189_5",
+        "type": "multiple_choice",
+        "question": "What great promise does God make concerning David's line in Jeremiah 30:9?",
+        "options": [
+          "David's line will be extinguished in Babylon",
+          "They will serve Yahweh their God, and David their king, whom I will raise up to them",
+          "Pharaoh will govern Jerusalem",
+          "The throne will move to Damascus"
+        ],
+        "correctIndex": 1,
+        "reference": "Jeremiah 30:9",
+        "explanation": "God promises: 'they will serve Yahweh their God, and David their king, whom I will raise up to them', pointing to the Messiah."
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Faithful Lord, You are the God of my seasons. Even when I find myself in unexpected waiting rooms, displaced from comfort, or walking through painful delays, thank You that Your thoughts toward me are thoughts of peace, and not of evil, to give me a future and a hope. Help me to flourish right where You have planted me today. Give me grace to seek the welfare and peace of my community, and give me a heart that seeks You with total surrender, knowing that You will surely be found.",
+      "versePrayerLine": "Lord, I rest in Your thoughts of peace toward me; give me a future and a hope, and let me seek You with all my heart.",
+      "prompt": "Identify one current circumstance that feels like an unwanted 'exile,' and ask God how you can flourish and bless others inside it."
+    }
+  },
+  "190": {
+    "day": 190,
+    "character": "Jeremiah",
+    "season": "The Deed in the Earthen Jar and Nothing Too Hard for God",
+    "theme": "Faith invests cash into God's future promises while enemy siege ramps surround the city.",
+    "memoryVerse": {
+      "reference": "Jeremiah 32:17",
+      "text": "Ah Lord Yahweh! Behold, you have made the heavens and the earth by your great power and by your outstretched arm; there is nothing too hard for you.",
+      "whyItMatters": "The omnipotent Creator who stretched out the heavens makes no promise that is beyond His capacity to fulfill.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "heavens",
+          "earth",
+          "power",
+          "outstretched",
+          "hard"
+        ],
+        "firstLetters": "A L Y! B, y h m t h a t e b y g p a b y o a; t i n t h f y."
+      }
+    },
+    "profile": {
+      "title": "Jeremiah in the Court of the Guard: The Land Purchase Under Siege",
+      "who": "Jeremiah locked inside the court of the guard by King Zedekiah while Nebuchadnezzar's siege ramps encircled Jerusalem, commanded by God to buy real estate in occupied territory.",
+      "whenAndWhere": "The court of the guard in the royal palace in Jerusalem, tenth year of Zedekiah, circa 587 BC.",
+      "family": "Cousin of Hanamel son of Shallum his uncle; priestly landholder from Anathoth.",
+      "keyMoments": [
+        "Zedekiah king of Judah shut Jeremiah up in the court of the guard for prophesying that Babylon would take Jerusalem and Zedekiah would be captured.",
+        "While Babylonian siege mounds surrounded Jerusalem and the village of Anathoth was already occupied by enemy troops, God told Jeremiah: 'Behold, Hanamel the son of Shallum your uncle will come to you, saying, \"Buy my field that is in Anathoth; for the right of redemption is yours to buy it.\"'",
+        "Hanamel arrived in the prison courtyard; Jeremiah weighed out seventeen shekels of silver, signed the deed of purchase, sealed it before witnesses, and paid the cash.",
+        "Handed the open and sealed purchase deeds to Baruch the scribe, commanding him to put them in an earthen earthenware vessel so they would last many days.",
+        "Pronounced God's counter-intuitive promise: 'Houses and fields and vineyards will yet again be bought in this land!'",
+        "Poured out his astonishing prayer: 'Ah, Lord Yahweh! Behold, you have made the heavens and the earth by your great power and by your outstretched arm; there is nothing too hard for you!'",
+        "Yahweh answered with His own echo: 'Behold, I am Yahweh, the God of all flesh: is there anything too hard for me?'",
+        "In Jeremiah 33, while still shut up in prison, God gave the golden promise: 'Call to me, and I will answer you, and show you great and mighty things, which you don't know.'",
+        "Promised the Branch of Righteousness from David's line who will execute justice in the land: 'Yahweh our Righteousness.'"
+      ],
+      "strengths": [
+        "Radical, concrete prophetic faith: backed up his prophecies by spending his own personal money on enemy-occupied land.",
+        "Sublime prayer of theological adoration: anchored hope in God's creative omnipotence.",
+        "Faithful endurance inside prison walls."
+      ],
+      "failures": [
+        "Struggled to reconcile God's command to buy the field with the visible reality of Babylonian siege ramps (Jeremiah 32:24-25)."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Jeremiah 32",
+        "title": "Jeremiah Buys the Field at Anathoth and the Prayer of Omnipotence",
+        "verses": [
+          {
+            "number": 2,
+            "text": "At that time the king of Babylon's army was besieging Jerusalem; and Jeremiah the prophet was shut up in the court of the guard, which was in the king of Judah's house."
+          },
+          {
+            "number": 8,
+            "text": "So Hanamel my uncle's son came to me in the court of the guard according to Yahweh's word, and said to me, 'Please buy my field that is in Anathoth... for the right of inheritance is yours...' Then I knew that this was Yahweh's word."
+          },
+          {
+            "number": 9,
+            "text": "I bought the field that was in Anathoth of Hanamel my uncle's son, and weighed him the money, even seventeen shekels of silver."
+          },
+          {
+            "number": 14,
+            "text": "Thus says Yahweh of Armies, the God of Israel: 'Take these deeds... and put them in an earthen vessel; that they may continue many days.'"
+          },
+          {
+            "number": 15,
+            "text": "'For thus says Yahweh of Armies, the God of Israel: \"Houses and fields and vineyards will yet again be bought in this land.\"'"
+          },
+          {
+            "number": 17,
+            "text": "'Ah Lord Yahweh! Behold, you have made the heavens and the earth by your great power and by your outstretched arm; there is nothing too hard for you.'"
+          },
+          {
+            "number": 27,
+            "text": "'Behold, I am Yahweh, the God of all flesh: is there anything too hard for me?'"
+          }
+        ]
+      },
+      {
+        "reference": "Jeremiah 33",
+        "title": "Call to Me and I Will Answer: The Righteous Branch",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Moreover Yahweh's word came to Jeremiah the second time, while he was yet shut up in the court of the guard, saying,"
+          },
+          {
+            "number": 2,
+            "text": "Thus says Yahweh who does it, Yahweh who forms it to establish it; Yahweh is his name:"
+          },
+          {
+            "number": 3,
+            "text": "'Call to me, and I will answer you, and show you great and mighty things, which you don't know.'"
+          },
+          {
+            "number": 11,
+            "text": "'...the voice of joy and the voice of gladness, the voice of the bridegroom and the voice of the bride, the voice of those who say, \"Give thanks to Yahweh of Armies, for Yahweh is good; for his loving kindness endures forever!\"'"
+          },
+          {
+            "number": 14,
+            "text": "'Behold, the days come,' says Yahweh, 'that I will perform that good word which I have spoken concerning the house of Israel and concerning the house of Judah.'"
+          },
+          {
+            "number": 15,
+            "text": "'In those days, and at that time, will I cause a Branch of righteousness to grow up to David; and he will execute justice and righteousness in the land.'"
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Faith puts its money where God's promises are, even when the enemy's siege engines surround the city.",
+      "reflection": "Look at the sheer economic absurdity of what God asked Jeremiah to do. Jeremiah was locked in a palace prison. Outside the walls, Nebuchadnezzar's battering rams were smashing the stone towers. The city was starving. The village of Anathoth was already crawling with Babylonian soldiers. And in walks Jeremiah's cousin Hanamel, wanting to sell him ancestral land! To any worldly financial advisor, buying real estate in Anathoth that day was throwing silver into the sewer. Why buy land you will never farm, in a country that will be wiped out next week? But Jeremiah weighed out seventeen shekels of silver, signed the deed, had it sealed in an earthen jar, and declared God's word: 'Houses, fields, and vineyards will yet again be bought in this land!' That is real faith! Faith does not invest based on visible circumstances; faith invests based on the unshakeable promises of God. And then Jeremiah looked up at the stars and prayed: 'Ah, Lord God! You made the heavens and the earth by Your great power; there is nothing too hard for You!' And God answered like a thunderclap: 'I am the Lord, the God of all flesh: is anything too hard for Me? Call to Me, and I will show you great and unsearchable things!' Put your trust in the God for whom nothing is impossible."
+    },
+    "lessons": [
+      {
+        "lesson": "Back up your faith with practical investments",
+        "verse": "Jeremiah 32:9-14",
+        "detail": "Jeremiah spent real silver to purchase enemy-occupied land because he believed God's promise of future restoration.",
+        "question": "Are you willing to invest your finances, time, and future into God's kingdom even when the cultural outlook seems dark?"
+      },
+      {
+        "lesson": "Nothing is too hard for the Creator",
+        "verse": "Jeremiah 32:17, 27",
+        "detail": "The God who flung galaxies into space and established the earth possesses limitless power over every earthly crisis.",
+        "question": "Is there a situation in your life that you have deemed 'impossible' that you need to surrender to God's omnipotence?"
+      },
+      {
+        "lesson": "Call on God from your prison room",
+        "verse": "Jeremiah 33:1-3",
+        "detail": "Even while confined in the court of the guard, Jeremiah received the magnificent promise: 'Call to Me and I will answer you.'",
+        "question": "Are physical, relational, or emotional limitations stopping you from crying out to God in bold intercession?"
+      },
+      {
+        "lesson": "Look forward to the Righteous Branch",
+        "verse": "Jeremiah 33:14-16",
+        "detail": "Beyond Babylonian ruins, God promised the coming of Jesus Christ—the Branch of Righteousness who executes true justice.",
+        "question": "How does centering your hope on Jesus Christ anchor your soul against global and societal turmoil?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q190_1",
+        "type": "multiple_choice",
+        "question": "Where was Jeremiah confined when God commanded him to buy the field at Anathoth in Jeremiah 32:2?",
+        "options": [
+          "In a cave near the Dead Sea",
+          "In the court of the guard in the king of Judah's house",
+          "In the upper room of the Temple",
+          "In a dungeon in Babylon"
+        ],
+        "correctIndex": 1,
+        "reference": "Jeremiah 32:2",
+        "explanation": "Jeremiah was shut up in the court of the guard in King Zedekiah's royal house."
+      },
+      {
+        "id": "q190_2",
+        "type": "multiple_choice",
+        "question": "How much money did Jeremiah weigh out to purchase the field in Anathoth from his cousin Hanamel?",
+        "options": [
+          "Thirty pieces of gold",
+          "Seventeen shekels of silver",
+          "Fifty talents of copper",
+          "A hundred silver dinars"
+        ],
+        "correctIndex": 1,
+        "reference": "Jeremiah 32:9",
+        "explanation": "Jeremiah weighed out seventeen shekels of silver to purchase the ancestral field."
+      },
+      {
+        "id": "q190_3",
+        "type": "multiple_choice",
+        "question": "Why did Jeremiah command Baruch to put the deeds of purchase into an earthen earthenware vessel in Jeremiah 32:14?",
+        "options": [
+          "To hide them from the high priest",
+          "That they may continue (be preserved) for many days",
+          "To bury them under the altar",
+          "To use as currency in Egypt"
+        ],
+        "correctIndex": 1,
+        "reference": "Jeremiah 32:14",
+        "explanation": "He commanded the deeds to be sealed in an earthen jar so they would last for many days as a sign."
+      },
+      {
+        "id": "q190_4",
+        "type": "true_false",
+        "question": "True or False: In Jeremiah 32:17, Jeremiah declared: 'Ah Lord Yahweh! Behold, you have made the heavens and the earth... there is nothing too hard for you.'",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 0,
+        "reference": "Jeremiah 32:17",
+        "explanation": "True. Jeremiah proclaimed that nothing is too hard for the Creator of heaven and earth."
+      },
+      {
+        "id": "q190_5",
+        "type": "multiple_choice",
+        "question": "What famous invitation and promise does God speak in Jeremiah 33:3?",
+        "options": [
+          "'Build weapons and fight the Chaldeans'",
+          "'Call to me, and I will answer you, and show you great and mighty things, which you don't know'",
+          "'Flee across the Jordan to Moab'",
+          "'Offer burnt offerings day and night'"
+        ],
+        "correctIndex": 1,
+        "reference": "Jeremiah 33:3",
+        "explanation": "God commands: 'Call to me, and I will answer you, and show you great and mighty things, which you don't know.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Ah, Lord Yahweh! Behold, You have made the heavens and the earth by Your great power and by Your outstretched arm; there is nothing too hard for You! Forgive my small, timid faith that measures obstacles by human calculations. You are Yahweh, the God of all flesh—nothing is beyond Your reach! Teach me to invest my resources, my heart, and my hopes into Your kingdom promises, even when the culture looks dark. Today I call upon Your name, trusting that You will answer and show me great and unsearchable things.",
+      "versePrayerLine": "Ah Lord Yahweh, there is nothing too hard for You! I call upon Your name, trusting Your mighty power to deliver and restore.",
+      "prompt": "Call out to God in prayer concerning one situation that seems impossible, anchoring your request in His creative omnipotence."
+    }
+  },
+  "191": {
+    "day": 191,
+    "character": "Jeremiah",
+    "season": "The Written Law Upon the Heart and the Eternal Forgiveness",
+    "theme": "God establishes an internal, permanent New Covenant of grace, writing His holy law directly onto our hearts.",
+    "memoryVerse": {
+      "reference": "Jeremiah 31:33",
+      "text": "But this is the covenant that I will make with the house of Israel after those days, says Yahweh: I will put my law in their inward parts, and in their heart will I write it; and I will be their God, and they will be my people.",
+      "whyItMatters": "The Old Covenant on stone tablets could only condemn; the New Covenant in Christ's blood transforms the human heart from the inside out.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "covenant",
+          "law",
+          "inward",
+          "heart",
+          "people"
+        ],
+        "firstLetters": "B t i t c t I w m w t h o I a t d, s Y: I w p m l i t i p, a i t h w I w i; a I w b t G, a t w b m p."
+      }
+    },
+    "profile": {
+      "title": "Jeremiah: The Prophet of the Eternal New Covenant",
+      "who": "Jeremiah receiving the supreme theological pinnacle of Old Testament revelation: the announcement of the New Covenant (Berit Chadashah) that Jesus Christ would seal at the Last Supper.",
+      "whenAndWhere": "The court of the guard in Jerusalem during the final Babylonian siege, circa 587 BC.",
+      "family": "Priestly prophet of Anathoth; mediator of the prophetic promise fulfilled in Christ.",
+      "keyMoments": [
+        "Watched the old Mosaic Covenant shattered by centuries of national disobedience, idolatry, and hard-hearted rebellion.",
+        "Pronounced God's declaration in Jeremiah 31:31: 'Behold, the days come, says Yahweh, that I will make a new covenant with the house of Israel, and with the house of Judah.'",
+        "Contrasted it with Sinai: 'Not according to the covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt; which my covenant they broke, although I was a husband to them.'",
+        "Revealed the radical internal nature of the New Covenant: 'I will put my law in their inward parts, and in their heart will I write it; and I will be their God, and they will be my people.'",
+        "Prophesied universal intimate knowledge of God: 'They will no longer each teach his neighbor, and each teach his brother, saying, \"Know Yahweh;\" for they will all know me, from their least to their greatest.'",
+        "Revealed the foundation of the New Covenant: 'For I will forgive their iniquity, and their sin will I remember no more.'",
+        "Guaranteed the eternal preservation of Israel as a people using the fixed order of sun, moon, and stars (Jeremiah 31:35-37).",
+        "Jesus picked up this exact chapter on the night He was betrayed, lifting the Passover cup: 'This cup is the new covenant in my blood, which is poured out for you' (Luke 22:20; Hebrews 8:8-12)."
+      ],
+      "strengths": [
+        "Unsurpassed theological insight: saw through external ceremonialism to the necessity of heart regeneration.",
+        "Brought radiant, eternal hope to a nation watching its physical temple burn to the ground."
+      ],
+      "failures": [
+        "None noted; the crowning jewel of Jeremiah's prophetic legacy."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Jeremiah 31",
+        "title": "The Promise of the New Covenant Written on the Heart",
+        "verses": [
+          {
+            "number": 31,
+            "text": "'Behold, the days come,' says Yahweh, 'that I will make a new covenant with the house of Israel, and with the house of Judah:'"
+          },
+          {
+            "number": 32,
+            "text": "'not according to the covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt; which my covenant they broke, although I was a husband to them,' says Yahweh."
+          },
+          {
+            "number": 33,
+            "text": "'But this is the covenant that I will make with the house of Israel after those days,' says Yahweh: 'I will put my law in their inward parts, and in their heart will I write it; and I will be their God, and they will be my people.'"
+          },
+          {
+            "number": 34,
+            "text": "'They will no longer each teach his neighbor, and each teach his brother, saying, \"Know Yahweh;\" for they will all know me, from their least to their greatest,' says Yahweh: 'for I will forgive their iniquity, and their sin will I remember no more.'"
+          },
+          {
+            "number": 35,
+            "text": "Thus says Yahweh, who gives the sun for a light by day, and the ordinances of the moon and of the stars for a light by night... Yahweh of Armies is his name:"
+          },
+          {
+            "number": 36,
+            "text": "'If these ordinances depart from before me,' says Yahweh, 'then the offspring of Israel also will cease from being a nation before me forever.'"
+          }
+        ]
+      },
+      {
+        "reference": "Hebrews 8",
+        "title": "Christ the Mediator of a Better Covenant Established on Better Promises",
+        "verses": [
+          {
+            "number": 6,
+            "text": "But now he has obtained a more excellent ministry, by so much as he is also the mediator of a better covenant, which has been enacted on better promises."
+          },
+          {
+            "number": 7,
+            "text": "For if that first covenant had been faultless, then no place would have been sought for a second."
+          },
+          {
+            "number": 8,
+            "text": "For finding fault with them, he says, 'Behold, the days come, says the Lord, that I will make a new covenant with the house of Israel and with the house of Judah;'"
+          },
+          {
+            "number": 10,
+            "text": "'For this is the covenant that I will make with the house of Israel after those days, says the Lord; I will put my laws into their mind, I will also write them on their heart. I will be their God, and they will be my people.'"
+          },
+          {
+            "number": 12,
+            "text": "'For I will be merciful to their unrighteousness. I will remember their sins and their iniquities no more.'"
+          },
+          {
+            "number": 13,
+            "text": "In that he says, 'A new covenant,' he has made the first old. But that which is becoming old and grows aged is near to vanishing away."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "The New Covenant changes everything: God no longer writes His holy Law on cold stone, but inscribes it on warm, surrendered hearts.",
+      "reflection": "The Old Covenant given at Mount Sinai was holy, righteous, and good. But it had one fatal flaw: it was written on tablets of stone outside the human heart. It told people what righteousness looked like, but it gave them no power to perform it. The result was centuries of failure, golden calves, broken altars, and tears. But right as the stone Temple in Jerusalem was about to collapse under Babylonian torches, God gave Jeremiah the most glorious promise in the Old Testament: 'Behold, the days are coming when I will make a New Covenant! I will put My Law in their inward parts, and on their hearts I will write it!' Notice the four staggering pillars of this New Covenant: 1) Internal transformation—God inscribes His desires directly into our minds and hearts by the Holy Spirit. 2) Personal communion—'I will be their God and they will be My people.' 3) Direct intimacy—every believer, from the least to the greatest, knows the Lord personally. 4) Total, absolute pardon—'For I will forgive their iniquity, and their sins I will remember no more!' Six centuries later, Jesus took the cup in the Upper Room and said: 'This cup is the New Covenant in My blood.' Through Jesus Christ, you are not living under condemnation; you are living in a blood-bought covenant of regenerating grace. Let Him write His love on your heart today."
+    },
+    "lessons": [
+      {
+        "lesson": "External religion cannot change the heart",
+        "verse": "Jeremiah 31:31-32; Hebrews 8:7-8",
+        "detail": "Rules carved on stone or paper can never conquer sinful desires; true transformation requires the supernatural work of the Spirit within.",
+        "question": "Are you relying on external religious checklists, or are you allowing the Holy Spirit to transform your inner desires?"
+      },
+      {
+        "lesson": "God writes His Word on your heart",
+        "verse": "Jeremiah 31:33",
+        "detail": "Under the New Covenant, obedience becomes a matter of love and inner inclination rather than mere outward coercion.",
+        "question": "Do you experience obedience to God as a joyful desire of your heart or as an exhausting, legalistic duty?"
+      },
+      {
+        "lesson": "Every believer has personal access to God",
+        "verse": "Jeremiah 31:34",
+        "detail": "From the least to the greatest, every child of God has direct, unfiltered fellowship with the Lord through Jesus Christ.",
+        "question": "Are you enjoying your daily privilege of coming directly into God's presence as His beloved child?"
+      },
+      {
+        "lesson": "Your sins are remembered no more",
+        "verse": "Jeremiah 31:34; Hebrews 8:12",
+        "detail": "The blood of Jesus atoned so completely for our guilt that God remembers our past iniquities no more.",
+        "question": "How does resting in God's total, unreserved pardon free you to live with joy and bold assurance?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q191_1",
+        "type": "multiple_choice",
+        "question": "What groundbreaking covenant does God promise to make in Jeremiah 31:31?",
+        "options": [
+          "A covenant of salt with Egypt",
+          "A new covenant with the house of Israel and with the house of Judah",
+          "A military treaty with Babylon",
+          "An angelic covenant on Mount Carmel"
+        ],
+        "correctIndex": 1,
+        "reference": "Jeremiah 31:31",
+        "explanation": "Yahweh declares: 'I will make a new covenant with the house of Israel, and with the house of Judah.'"
+      },
+      {
+        "id": "q191_2",
+        "type": "multiple_choice",
+        "question": "Where does God promise to write His law under the New Covenant in Jeremiah 31:33?",
+        "options": [
+          "On new tablets of polished marble",
+          "On the city gates of Jerusalem",
+          "In their inward parts, and on their heart will I write it",
+          "On the doorposts of their houses"
+        ],
+        "correctIndex": 2,
+        "reference": "Jeremiah 31:33",
+        "explanation": "God says: 'I will put my law in their inward parts, and in their heart will I write it.'"
+      },
+      {
+        "id": "q191_3",
+        "type": "multiple_choice",
+        "question": "What is the supreme foundational promise of the New Covenant in Jeremiah 31:34?",
+        "options": [
+          "'I will give them silver from Ophir'",
+          "'For I will forgive their iniquity, and their sin will I remember no more'",
+          "'They will conquer all surrounding empires'",
+          "'The temple will be coated in bronze'"
+        ],
+        "correctIndex": 1,
+        "reference": "Jeremiah 31:34",
+        "explanation": "The Lord declares: 'for I will forgive their iniquity, and their sin will I remember no more.'"
+      },
+      {
+        "id": "q191_4",
+        "type": "true_false",
+        "question": "True or False: According to Hebrews 8:6, Jesus is the mediator of a better covenant, which has been enacted on better promises.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 0,
+        "reference": "Hebrews 8:6",
+        "explanation": "True. Hebrews 8:6 celebrates Christ as the mediator of a better covenant enacted on better promises."
+      },
+      {
+        "id": "q191_5",
+        "type": "multiple_choice",
+        "question": "What natural ordinances does God point to in Jeremiah 31:35-36 as proof that Israel will never cease from being a nation before Him?",
+        "options": [
+          "The migration of swallows",
+          "The fixed order of the sun by day, and the moon and stars by night",
+          "The rising and falling of the Nile",
+          "The snows on Mount Hermon"
+        ],
+        "correctIndex": 1,
+        "reference": "Jeremiah 31:35-36",
+        "explanation": "God points to the ordinances of the sun, moon, and stars as a guarantee of His eternal covenant."
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, Mediator of the New Covenant, I praise You for shedding Your precious blood on the cross to establish this better covenant enacted on better promises! Thank You that You did not leave me under the crushing condemnation of a law on stone. Write Your holy Law on the fleshy tablets of my heart today. Fill me with Your Holy Spirit. Thank You that You have forgiven all my iniquity and remember my sins no more. May I walk in the joy of knowing You from the least to the greatest.",
+      "versePrayerLine": "Lord, write Your holy Law on my heart; be my God, make me Your child, and let me live in the joy of Your eternal forgiveness.",
+      "prompt": "Thank Jesus specifically for the New Covenant in His blood that guarantees your total pardon and internal transformation."
+    }
+  },
+  "192": {
+    "day": 192,
+    "character": "Baruch",
+    "season": "The Scribe's Pen, the King's Penknife, and 'Seek Not Great Things'",
+    "theme": "God disciplines personal ambition and promises protection to the quiet, exhausted scribe.",
+    "memoryVerse": {
+      "reference": "Jeremiah 45:5",
+      "text": "'Do you seek great things for yourself? Don't seek them; for, behold, I will bring evil on all flesh,' says Yahweh; 'but your life will I give to you for a plunder in all places where you go.'",
+      "whyItMatters": "Surrendering selfish ambition in seasons of crisis aligns our hearts with God, who promises to preserve our life.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "seek",
+          "great",
+          "things",
+          "plunder",
+          "Yahweh"
+        ],
+        "firstLetters": "'D y s g t f y? D s t; f, b, I w b e o a f,' s Y; 'b y l w I g t y f a p i a p w y g.'"
+      }
+    },
+    "profile": {
+      "title": "Baruch son of Neriah: The Faithful Scribe and the Penknife of Jehoiakim",
+      "who": "An educated, noble scribe from an influential Jerusalem family who served as Jeremiah's secretary, amanuensis, and companion through decades of national crisis and persecution.",
+      "whenAndWhere": "The scribal chambers of the Temple and palace in Jerusalem, circa 605–586 BC.",
+      "family": "Son of Neriah and brother of Seraiah (quartermaster to King Zedekiah); noble lineage of scribes.",
+      "keyMoments": [
+        "Jeremiah dictated all the words Yahweh had spoken to him against Israel, Judah, and all nations since the days of Josiah onto a leather scroll; Baruch wrote every word with ink.",
+        "Because Jeremiah was barred from entering the Temple, Baruch courageously took the scroll into the Temple courtyard on a national fast day and read it aloud to all the people.",
+        "Micaiah son of Gemariah heard it and reported to the royal council; the princes sent Jehudi to bring Baruch and the scroll to the scribal chamber.",
+        "Baruch read the scroll to the princes; trembling in fear, they told Baruch: 'Go, hide, you and Jeremiah; and let no man know where you are.'",
+        "The scroll was brought to King Jehoiakim as he sat in his winter apartment by a charcoal fire; after Jehudi read three or four columns, the king sliced the scroll with his scribe's penknife and threw the pieces into the fire until the entire roll was burned.",
+        "God hid Jeremiah and Baruch; God commanded Jeremiah to take another scroll, and Baruch rewrote every word, adding many similar words.",
+        "In his exhaustion and sorrow, Baruch groaned: 'Woe is me now! For Yahweh has added grief to my sorrow; I am weary with my groaning, and I find no rest.'",
+        "God delivered a personal oracle to Baruch in Jeremiah 45: 'Behold, that which I have built I will break down... Do you seek great things for yourself? Don't seek them... but your life will I give you as a prize of war wherever you go.'"
+      ],
+      "strengths": [
+        "Extraordinary literary precision and unwavering loyalty to God's persecuted prophet.",
+        "Bold courage to stand in the temple courts and read the scroll of divine judgment.",
+        "Humility to receive personal divine correction regarding his private ambitions."
+      ],
+      "failures": [
+        "Succumbed to exhaustion, discouragement, and lingering personal ambition for career advancement in a crumbling nation."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Jeremiah 36",
+        "title": "Baruch Writes the Scroll, Reads it in the Temple, and Jehoiakim Burns It",
+        "verses": [
+          {
+            "number": 4,
+            "text": "Then Jeremiah called Baruch the son of Neriah; and Baruch wrote from the mouth of Jeremiah all the words of Yahweh, which he had spoken to him, on a scroll of a book."
+          },
+          {
+            "number": 8,
+            "text": "Baruch the son of Neriah did according to all that Jeremiah the prophet commanded him, reading in the book the words of Yahweh in Yahweh's house."
+          },
+          {
+            "number": 19,
+            "text": "Then the princes said to Baruch, 'Go, hide, you and Jeremiah; and let no man know where you are.'"
+          },
+          {
+            "number": 22,
+            "text": "Now the king was sitting in the winter house in the ninth month: and there was a fire in the brazier burning before him."
+          },
+          {
+            "number": 23,
+            "text": "It came to pass, when Jehudi had read three or four leaves, that the king cut it with the penknife, and cast it into the fire that was in the brazier, until all the scroll was consumed..."
+          },
+          {
+            "number": 26,
+            "text": "The king commanded... to seize Baruch the scribe and Jeremiah the prophet; but Yahweh hid them."
+          },
+          {
+            "number": 32,
+            "text": "Then Jeremiah took another scroll, and gave it to Baruch the scribe, the son of Neriah, who wrote on it from the mouth of Jeremiah all the words of the book which Jehoiakim king of Judah had burned in the fire; and there were added besides to them many like words."
+          }
+        ]
+      },
+      {
+        "reference": "Jeremiah 45",
+        "title": "God's Personal Message to Baruch: Seek Not Great Things",
+        "verses": [
+          {
+            "number": 1,
+            "text": "The message that Jeremiah the prophet spoke to Baruch the son of Neriah, when he wrote these words in a book at the mouth of Jeremiah... saying,"
+          },
+          {
+            "number": 2,
+            "text": "'Thus says Yahweh, the God of Israel, to you, Baruch:'"
+          },
+          {
+            "number": 3,
+            "text": "'You said, \"Woe is me now! For Yahweh has added grief to my sorrow. I am weary with my groaning, and I find no rest.\"'"
+          },
+          {
+            "number": 4,
+            "text": "'You shall tell him, \"Thus says Yahweh: 'Behold, that which I have built will I break down, and that which I have planted I will pluck up; and that in the whole land.'\"'"
+          },
+          {
+            "number": 5,
+            "text": "''And do you seek great things for yourself? Don't seek them; for, behold, I will bring evil on all flesh,' says Yahweh; 'but your life will I give to you for a plunder in all places where you go.'\"'"
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "When the world around you is collapsing, lay down selfish ambition and be content with the preservation of your life and calling.",
+      "reflection": "Behind every great public leader, there are often quiet, indispensable heroes working in the shadows. Baruch son of Neriah was one of those heroes. He was brilliant, educated, and well-connected. He could have climbed the ladder of political success in King Jehoiakim's royal administration. Instead, Baruch hitched his wagon to an unpopular, persecuted street preacher named Jeremiah. Baruch spent weeks dipping his quill in ink, recording God's burning words, and then risked his life by standing in the Temple to read the scroll to a hostile crowd. And what did King Jehoiakim do? Sitting by his charcoal brazier, the arrogant monarch took a small razor, sliced the scroll to ribbons, and watched God's Word burn to ashes. Imagine Baruch's heartbreak: weeks of painstaking scribal labor incinerated in two minutes! In Jeremiah 45, Baruch collapses in tears: 'Woe is me! God has added grief to my sorrow! I find no rest!' And God gives Baruch a five-verse private therapy session: 'Baruch, I am breaking down the whole nation! Are you seeking great things, prestigious titles, and career promotions for yourself right now? Don't seek them! I will give you your life as a prize of war wherever you go!' In seasons of crisis, strip away the hunger for fame, applause, and earthly trophies. Be content to serve God faithfully and trust Him to preserve your soul."
+    },
+    "lessons": [
+      {
+        "lesson": "Man can burn the paper, but never the Word of God",
+        "verse": "Jeremiah 36:23, 32",
+        "detail": "Jehoiakim sliced and burned the scroll, but God commanded Baruch to write it again with even more words; truth is indestructible.",
+        "question": "How does the supernatural resilience of Scripture encourage you when culture attempts to cancel or mock God's Word?"
+      },
+      {
+        "lesson": "Do not seek great things for yourself",
+        "verse": "Jeremiah 45:5",
+        "detail": "'Seekest thou great things for thyself? Seek them not'—crucify selfish ambition, personal prestige, and entitlement.",
+        "question": "Are you serving God with a secret desire for personal recognition, status, or praise from others?"
+      },
+      {
+        "lesson": "Faithful support roles are precious to God",
+        "verse": "Jeremiah 36:4-8; 45:1-2",
+        "detail": "God noticed Baruch by name; the unseen labor of writing, organizing, and standing beside frontline leaders is remembered in heaven.",
+        "question": "Do you value the behind-the-scenes, supportive roles in your church and family as much as public leadership?"
+      },
+      {
+        "lesson": "Be content with the gift of life and preservation",
+        "verse": "Jeremiah 45:5",
+        "detail": "God promised Baruch his life as a 'plunder' (prize of war); sometimes survival and faithfulness are the greatest victories.",
+        "question": "Can you be content with God's daily preservation of your soul even when earthly dreams are disrupted?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q192_1",
+        "type": "multiple_choice",
+        "question": "What vital task did Baruch son of Neriah perform for Jeremiah in Jeremiah 36:4?",
+        "options": [
+          "He led Jeremiah's armed bodyguard",
+          "He wrote from the mouth of Jeremiah all the words of Yahweh onto a scroll of a book",
+          "He negotiated a treaty with Egypt",
+          "He managed the temple treasuries"
+        ],
+        "correctIndex": 1,
+        "reference": "Jeremiah 36:4",
+        "explanation": "Baruch wrote down all the words of Yahweh from the mouth of Jeremiah onto a scroll."
+      },
+      {
+        "id": "q192_2",
+        "type": "multiple_choice",
+        "question": "What did King Jehoiakim do with the scroll when Jehudi read it to him in Jeremiah 36:23?",
+        "options": [
+          "He fell on his face and repented in sackcloth",
+          "He cut it with a penknife and cast it into the fire brazier until the entire scroll was consumed",
+          "He ordered it preserved in the archives",
+          "He sent it to Babylon for translation"
+        ],
+        "correctIndex": 1,
+        "reference": "Jeremiah 36:23",
+        "explanation": "Jehoiakim sliced the scroll columns with a penknife and burned it in the brazier fire."
+      },
+      {
+        "id": "q192_3",
+        "type": "multiple_choice",
+        "question": "What happened after Jehoiakim burned the first scroll in Jeremiah 36:32?",
+        "options": [
+          "Jeremiah gave up prophesying forever",
+          "Jeremiah took another scroll, and Baruch rewrote all the words of the burned book, with many similar words added",
+          "God struck Jehoiakim with instant leprosy",
+          "The princes assassinated the king"
+        ],
+        "correctIndex": 1,
+        "reference": "Jeremiah 36:32",
+        "explanation": "Jeremiah took another scroll and Baruch rewrote all the words, adding many similar words."
+      },
+      {
+        "id": "q192_4",
+        "type": "true_false",
+        "question": "True or False: In Jeremiah 45:3, Baruch rejoiced with singing because his scribal duties were so comfortable and easy.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Jeremiah 45:3",
+        "explanation": "False. Baruch groaned: 'Woe is me now! For Yahweh has added grief to my sorrow. I am weary with my groaning, and I find no rest.'"
+      },
+      {
+        "id": "q192_5",
+        "type": "multiple_choice",
+        "question": "What personal command and promise did God give to Baruch in Jeremiah 45:5?",
+        "options": [
+          "'Seek great things for yourself and you shall be king'",
+          "'Do you seek great things for yourself? Don't seek them... but your life will I give to you for a plunder wherever you go'",
+          "'Buy twenty fields in Benjamin'",
+          "'Flee to the desert of Sin'"
+        ],
+        "correctIndex": 1,
+        "reference": "Jeremiah 45:5",
+        "explanation": "God told Baruch: 'Do you seek great things for yourself? Don't seek them... but your life will I give to you for a plunder in all places where you go.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord God of heaven and earth, search my heart and purge me of all selfish ambition. Deliver me from seeking 'great things' for myself—fame, praise, title, or wealth—in a broken, perishing world. Thank You for the quiet, courageous fidelity of Baruch the scribe. Make me content to serve behind the scenes, to record Your truth faithfully, and to stand beside Your servants. Let my greatest prize be knowing You, walking with You, and resting in the eternal preservation of my soul.",
+      "versePrayerLine": "Lord, deliver me from seeking great things for myself; make me a humble, faithful servant whose life is hidden with Christ in God.",
+      "prompt": "Renounce any personal ambition or craving for recognition that has been causing you stress or disappointment, and rest in Christ."
+    }
+  },
+  "193": {
+    "day": 193,
+    "character": "Ebed-Melech",
+    "season": "The Muddy Cistern of Malchiah and the Soft Rags of Mercy",
+    "theme": "Compassionate courage uses simple rags to deliver God's prophet and receives divine preservation.",
+    "memoryVerse": {
+      "reference": "Jeremiah 39:18",
+      "text": "For I will surely save you, and you will not fall by the sword, but your life will be for a plunder to you; because you have put your trust in me, says Yahweh.",
+      "whyItMatters": "God honors courageous, tender mercy shown to His persecuted servants, guaranteeing divine protection in the day of calamity.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "save",
+          "sword",
+          "plunder",
+          "trust",
+          "Yahweh"
+        ],
+        "firstLetters": "F I w s s y, a y w n f b t s, b y l w b f a p t y; b y h p y t i m, s Y."
+      }
+    },
+    "profile": {
+      "title": "Ebed-Melech the Ethiopian: The Court Official Who Pulled Jeremiah from the Mire",
+      "who": "A Cushite (Ethiopian) court official serving in King Zedekiah's palace who boldly confronted the king and organized a rescue mission to save Jeremiah from suffocating in a muddy underground cistern.",
+      "whenAndWhere": "The Gate of Benjamin and the dungeon cistern of Malchiah in Jerusalem, circa 587 BC.",
+      "family": "Cushite (Ethiopian) royal court official in Jerusalem; a Gentile believer in Yahweh.",
+      "keyMoments": [
+        "Judah's princes cast Jeremiah into the miry dungeon cistern of Malchiah the king's son; there was no water in the cistern, only deep mud, and Jeremiah sank into the mire to starve to death.",
+        "Ebed-Melech the Ethiopian heard that they had put the prophet in the pit; while King Zedekiah was sitting at the Gate of Benjamin, Ebed-Melech boldly approached the monarch.",
+        "Spoke truth to royal power: 'My lord the king, these men have done evil in all that they have done to Jeremiah the prophet, whom they have cast into the dungeon; and he is likely to die in the place where he is, because of the famine; for there is no more bread in the city.'",
+        "Zedekiah granted permission: 'Take thirty men with you from here, and pull Jeremiah the prophet up out of the dungeon, before he dies.'",
+        "Ebed-Melech went to the palace wardrobe, collected old cast clouts and rotten rags, and lowered them down with cords into the dark pit to Jeremiah.",
+        "Gave tender, considerate instructions: 'Put now these old cast clouts and rotten rags under your armpits under the cords.'",
+        "Jeremiah did so; they gently pulled the prophet up out of the mud and saved his life.",
+        "When Jerusalem fell to the Babylonians months later and the princes were slaughtered, God sent Jeremiah with a personal divine promise to Ebed-Melech: 'I will surely deliver you, and you will not fall by the sword, but your life will be for a prize of war to you; because you have put your trust in me, says Yahweh.'"
+      ],
+      "strengths": [
+        "Extraordinary moral courage: an ethnic outsider confronting the king to overturn the princes' murder plot.",
+        "Delicate, thoughtful compassion: used soft rags under armpits so the rough ropes would not lacerate Jeremiah's bruised flesh.",
+        "Deep, saving faith in the Living God of Israel."
+      ],
+      "failures": [
+        "None recorded; stands as a shining hero of active compassion and faith."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Jeremiah 38",
+        "title": "Jeremiah in the Miry Cistern and Ebed-Melech's Rags Rescue",
+        "verses": [
+          {
+            "number": 6,
+            "text": "Then took they Jeremiah, and cast him into the dungeon of Malchiah the king's son, that was in the court of the guard: and they let down Jeremiah with cords. In the dungeon there was no water, but mire; and Jeremiah sank in the mire."
+          },
+          {
+            "number": 7,
+            "text": "Now when Ebedmelech the Ethiopian, a eunuch, who was in the king's house, heard that they had put Jeremiah in the dungeon (the king then sitting in the gate of Benjamin),"
+          },
+          {
+            "number": 8,
+            "text": "Ebedmelech went out of the king's house, and spoke to the king, saying,"
+          },
+          {
+            "number": 9,
+            "text": "'My lord the king, these men have done evil in all that they have done to Jeremiah the prophet, whom they have cast into the dungeon; and he is likely to die... '"
+          },
+          {
+            "number": 10,
+            "text": "Then the king commanded Ebedmelech the Ethiopian, saying, 'Take from here thirty men with you, and take up Jeremiah the prophet out of the dungeon, before he dies.'"
+          },
+          {
+            "number": 11,
+            "text": "So Ebedmelech took the men with him... and took from there old cast clouts and rotten rags, and let them down by cords into the dungeon to Jeremiah."
+          },
+          {
+            "number": 12,
+            "text": "Ebedmelech the Ethiopian said to Jeremiah, 'Put now these old cast clouts and rotten rags under your armpits under the cords.' Jeremiah did so."
+          },
+          {
+            "number": 13,
+            "text": "So they drew up Jeremiah with the cords, and took him up out of the dungeon: and Jeremiah remained in the court of the guard."
+          }
+        ]
+      },
+      {
+        "reference": "Jeremiah 39",
+        "title": "The Fall of Jerusalem and God's Promise to Ebed-Melech",
+        "verses": [
+          {
+            "number": 15,
+            "text": "Now Yahweh's word came to Jeremiah, while he was shut up in the court of the guard, saying,"
+          },
+          {
+            "number": 16,
+            "text": "'Go, and speak to Ebedmelech the Ethiopian, saying, \"Thus says Yahweh of Armies, the God of Israel: 'Behold, I will bring my words on this city for evil, and not for good; and they will be accomplished before you in that day.'\"'"
+          },
+          {
+            "number": 17,
+            "text": "'\"But I will deliver you in that day,\" says Yahweh; \"and you will not be given into the hand of the men of whom you are afraid.\"'"
+          },
+          {
+            "number": 18,
+            "text": "'\"For I will surely save you, and you will not fall by the sword, but your life will be for a plunder to you; because you have put your trust in me,\" says Yahweh.'"
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "God notices the smallest acts of tender mercy shown to His servants, and He rewards faithful courage with divine preservation.",
+      "reflection": "Jeremiah was dying in the dark. Thrown into Malchiah's subterranean cistern, sinking chest-deep in freezing mud, without bread or water, the prophet had only hours left to live. The Jewish princes wanted him dead, and King Zedekiah was too weak-willed to stop them. Who stepped forward? Not a priest from the temple. Not an elder of Judah. It was Ebed-Melech, an Ethiopian foreigner! Risking his life, Ebed-Melech marched right up to the king at the city gate and boldly charged the princes with evil. When given permission to pull Jeremiah out, notice the breathtaking tenderness of this man. Ebed-Melech didn't just grab rough hemp ropes that would burn into Jeremiah's emaciated skin. He went to the palace storeroom, collected soft, worn rags, lowered them into the pit, and called down: 'Put these soft rags under your armpits under the ropes so they won't hurt you!' What beautiful, considerate love! Months later, when Jerusalem fell in blood, fire, and siege, God sent Jeremiah with a personal love letter to Ebed-Melech: 'I will surely save you; you will not fall by the sword, because you trusted in Me, says the Lord.' Jesus said in Matthew 25:40: 'Whatever you did for one of the least of these my brothers, you did it for me.' Never despise small acts of kindness. A bundle of old rags, used in love, can save a prophet and move the heart of God."
+    },
+    "lessons": [
+      {
+        "lesson": "Courage speaks up against injustice",
+        "verse": "Jeremiah 38:8-9",
+        "detail": "Ebed-Melech did not stay silent while an innocent man was left to die in the mud; he confronted the king directly.",
+        "question": "Are you speaking up for the vulnerable, the falsely accused, or the mistreated in your sphere of influence?"
+      },
+      {
+        "lesson": "Add tenderness to your acts of service",
+        "verse": "Jeremiah 38:11-12",
+        "detail": "Ebed-Melech thought of Jeremiah's physical pain and provided soft rags to cushion the pull of the ropes.",
+        "question": "Do your acts of service and ministry include thoughtfulness, gentleness, and attention to others' comfort?"
+      },
+      {
+        "lesson": "God rewards those who protect His servants",
+        "verse": "Jeremiah 39:17-18; Matthew 10:41-42",
+        "detail": "God personally guaranteed Ebed-Melech's survival during the catastrophic destruction of Jerusalem because he trusted Yahweh.",
+        "question": "How can you support and shield pastors, missionaries, and Christian workers who are under pressure?"
+      },
+      {
+        "lesson": "Faith transcends race and background",
+        "verse": "Jeremiah 39:18",
+        "detail": "A Gentile Ethiopian showed greater faith and covenant love than all the royal princes and priests of Jerusalem.",
+        "question": "Are you celebrating how God's saving grace unites people of every tribe, nation, and ethnicity?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q193_1",
+        "type": "multiple_choice",
+        "question": "Where did the princes of Judah throw Jeremiah to die in Jeremiah 38:6?",
+        "options": [
+          "Into the fire of Topheth",
+          "Into the dungeon cistern of Malchiah, where there was no water but deep mire",
+          "Over the southern wall into the Kidron Valley",
+          "Into the prison in Damascus"
+        ],
+        "correctIndex": 1,
+        "reference": "Jeremiah 38:6",
+        "explanation": "They cast Jeremiah into Malchiah's cistern, where there was only mud and he sank into the mire."
+      },
+      {
+        "id": "q193_2",
+        "type": "multiple_choice",
+        "question": "Who was Ebed-Melech, and what did he do when he heard Jeremiah was in the pit?",
+        "options": [
+          "A Syrian soldier who deserted",
+          "An Ethiopian (Cushite) court official who boldly pleaded with King Zedekiah to rescue Jeremiah",
+          "A scribe who wrote an appeal to Egypt",
+          "A priest of the high place"
+        ],
+        "correctIndex": 1,
+        "reference": "Jeremiah 38:7-9",
+        "explanation": "Ebed-Melech the Ethiopian, a court official, went out and confronted the king to save Jeremiah's life."
+      },
+      {
+        "id": "q193_3",
+        "type": "multiple_choice",
+        "question": "What thoughtful items did Ebed-Melech lower into the cistern with cords to protect Jeremiah's armpits?",
+        "options": [
+          "Linen pillows from the king's bed",
+          "Old cast clouts and rotten (soft worn) rags",
+          "Leather shields",
+          "Woolen cloaks"
+        ],
+        "correctIndex": 1,
+        "reference": "Jeremiah 38:11-12",
+        "explanation": "He lowered old rags and soft worn clothes to put under Jeremiah's armpits to cushion the ropes."
+      },
+      {
+        "id": "q193_4",
+        "type": "true_false",
+        "question": "True or False: When Jerusalem fell to Babylon, Ebed-Melech was killed by the Babylonian soldiers along with the princes.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Jeremiah 39:17-18",
+        "explanation": "False. God promised that Ebed-Melech would be delivered and would not fall by the sword because he trusted in Yahweh."
+      },
+      {
+        "id": "q193_5",
+        "type": "multiple_choice",
+        "question": "Why did God promise to deliver Ebed-Melech in Jeremiah 39:18?",
+        "options": [
+          "'Because of your great royal heritage'",
+          "'Because you have put your trust in me, says Yahweh'",
+          "'Because you built the city walls'",
+          "'Because you gave gold to the temple'"
+        ],
+        "correctIndex": 1,
+        "reference": "Jeremiah 39:18",
+        "explanation": "Yahweh declared: 'because you have put your trust in me, says Yahweh.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord God of compassionate mercy, thank You for the radiant example of Ebed-Melech the Ethiopian. In a city paralyzed by fear and compromised by cruelty, he possessed the courage to speak truth to power and the tenderness to gather soft rags to pull a dying prophet from the mire. Give me his bold, compassionate heart. Teach me to care for the vulnerable, to stand with the persecuted, and to trust You completely, knowing that You are the Shield of all who put their trust in You.",
+      "versePrayerLine": "Lord, teach me to put my trust in You alone, and give me a heart of tender courage to pull others out of the mire.",
+      "prompt": "Look for a small, practical way to show thoughtful kindness and comfort to someone in distress today."
+    }
+  },
+  "194": {
+    "day": 194,
+    "character": "Habakkuk",
+    "season": "The Watchtower of Questioning and the Five Woes of Babylon",
+    "theme": "True righteousness does not demand exhaustive answers, but walks by persistent faith in God's integrity.",
+    "memoryVerse": {
+      "reference": "Habakkuk 2:4",
+      "text": "Behold, his soul is puffed up. It is not upright in him, but the righteous will live by his faith.",
+      "whyItMatters": "When divine providence seems perplexing, true believers do not lean on proud intellect, but live by steadfast trust in God.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "puffed",
+          "upright",
+          "righteous",
+          "live",
+          "faith"
+        ],
+        "firstLetters": "B, h s i p u. I i n u i h, b t r w l b h f."
+      }
+    },
+    "profile": {
+      "title": "Habakkuk: The Prophet on the Watchtower Wrestling with Divine Justice",
+      "who": "A temple musician and prophet in Judah who wrestled boldly with God over why evil went unpunished in Judah, and why God would use an even more wicked nation (the Babylonians/Chaldeans) to judge them.",
+      "whenAndWhere": "The watchtower and temple courts in Jerusalem, circa 606 BC.",
+      "family": "Levitical prophet and temple singer (concludes with musical notation 'For the Chief Musician, on my stringed instruments').",
+      "keyMoments": [
+        "Cried out in anguish over domestic violence, injustice, and strife in Judah: 'Yahweh, how long will I cry, and you will not hear?'",
+        "God answered that He was raising up the Chaldeans (Babylonians)—that bitter and hasty nation, dreadful and fearsome, who scoff at kings.",
+        "Habakkuk was shocked: 'You who have purer eyes than to see evil, and who cannot look on perversity, why do you look on those who deal treacherously, and hold your tongue when the wicked devours the man who is more righteous than he?'",
+        "Climbed his spiritual watchtower: 'I will stand on my watch, and set myself on the tower, and will look out to see what he will say to me, and what I will answer concerning my complaint.'",
+        "Yahweh answered: 'Write the vision, and make it plain on tablets, that he who runs may read it. For the vision is yet for the appointed time, and it hurries toward the end... Though it takes time, wait for it; because it will surely come. It won't delay.'",
+        "God delivered the timeless foundation of the Reformation: 'Behold, his soul is puffed up; it is not upright in him: but the righteous will live by his faith (emunah—steadfast trust).'",
+        "Pronounced five devastating woes upon the Babylonians for plundering nations, building cities with blood, drunkenness, and trusting in speechless wooden idols.",
+        "Proclaimed the global climax: 'For the earth will be filled with the knowledge of the glory of Yahweh, as the waters cover the sea... But Yahweh is in his holy temple. Let all the earth be silent before him!'"
+      ],
+      "strengths": [
+        "Profound intellectual honesty: brought his deepest theological perplexities directly to God rather than walking away into skepticism.",
+        "Patience on the watchtower: waited quietly for God's response.",
+        "Penned the foundational text that sparked the New Testament theology of justification by faith (Romans 1:17; Galatians 3:11; Hebrews 10:38)."
+      ],
+      "failures": [
+        "Initially questioned God's holy character and moral governance of the world."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Habakkuk 1",
+        "title": "How Long Shall I Cry? The Chaldean Scourge and the Prophet's Dilemma",
+        "verses": [
+          {
+            "number": 2,
+            "text": "Yahweh, how long will I cry, and you will not hear? I cry out to you 'Violence!' and will you not save?"
+          },
+          {
+            "number": 5,
+            "text": "'Look among the nations, and see, and wonder marvelously; for I am working a work in your days, which you will not believe though it is told you.'"
+          },
+          {
+            "number": 6,
+            "text": "'For, behold, I raise up the Chaldeans, that bitter and hasty nation, that march through the breadth of the earth, to possess dwelling places that are not theirs.'"
+          },
+          {
+            "number": 12,
+            "text": "Aren't you from everlasting, Yahweh my God, my Holy One? We will not die. Yahweh, you have appointed him for judgment. You, Rock, have established him for correction."
+          },
+          {
+            "number": 13,
+            "text": "You who have purer eyes than to see evil, and who cannot look on perversity, why do you look on those who deal treacherously, and hold your tongue when the wicked swallows up the man who is more righteous than he?"
+          }
+        ]
+      },
+      {
+        "reference": "Habakkuk 2",
+        "title": "The Watchtower, the Just Living by Faith, and the Earth Filled with Glory",
+        "verses": [
+          {
+            "number": 1,
+            "text": "I will stand on my watch, and set myself on the rampart, and will look out to see what he will say to me, and what I will answer concerning my complaint."
+          },
+          {
+            "number": 2,
+            "text": "Yahweh answered me, 'Write the vision, and make it plain on tablets, that he who runs may read it.'"
+          },
+          {
+            "number": 3,
+            "text": "'For the vision is yet for the appointed time, and it hurries toward the end, and won't prove false. Though it takes time, wait for it; because it will surely come. It won't delay.'"
+          },
+          {
+            "number": 4,
+            "text": "'Behold, his soul is puffed up. It is not upright in him, but the righteous will live by his faith.'"
+          },
+          {
+            "number": 14,
+            "text": "'For the earth will be filled with the knowledge of the glory of Yahweh, as the waters cover the sea.'"
+          },
+          {
+            "number": 20,
+            "text": "'But Yahweh is in his holy temple. Let all the earth be silent before him!'"
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Faith does not require understanding all of God's ways; it requires trusting God's character when the world makes no sense.",
+      "reflection": "Habakkuk was a man with honest questions. He looked at the violence, corruption, and lawlessness in Judah and asked God: 'Why are You silent?' God gave a shocking answer: 'I am not silent; I am raising up the brutal Babylonians to judge Judah!' That made Habakkuk's head spin. He said: 'Lord, You have purer eyes than to look on evil; how can a holy God use pagan baby-killers from Babylon to punish people who are more righteous than they?' Notice what Habakkuk did with his confusion: he didn't write an angry blog post, throw away his faith, or run to false gods. He climbed up into his watchtower, sat down on the rampart, and said: 'I will wait to see what God says to my complaint.' And God spoke the sentence that changed the history of the world: 'The proud soul is puffed up; it is not upright; but the just shall live by his faith!' The proud person demands explanations, insists that God conform to human logic, and exalts his own intellect. But the righteous person lives by emunah—resolute, steady, personal trust in the character of God! God told him: 'Though the vision tarries, wait for it; it will surely come. The earth will be filled with the knowledge of the glory of the Lord as the waters cover the sea.' When you can't trace God's hand, trust His heart. The just shall live by faith."
+    },
+    "lessons": [
+      {
+        "lesson": "Bring your hardest questions directly to God",
+        "verse": "Habakkuk 1:2-3, 13",
+        "detail": "Habakkuk wrestled honestly with God over injustice and suffering, proving that genuine faith is not afraid of hard questions.",
+        "question": "Are you taking your deepest theological doubts and confusions to God in prayer, or letting them cool your love?"
+      },
+      {
+        "lesson": "Wait patiently on your spiritual watchtower",
+        "verse": "Habakkuk 2:1-3",
+        "detail": "After stating his complaint, Habakkuk waited quietly on the rampart for God to speak; prayer requires listening patience.",
+        "question": "Do you give God time and quiet space to speak to your heart after you pour out your requests?"
+      },
+      {
+        "lesson": "The righteous live by steadfast faith",
+        "verse": "Habakkuk 2:4; Romans 1:17",
+        "detail": "True life and righteousness are anchored not in human works or intellectual pride, but in unwavering trust in God's promises.",
+        "question": "Are you living by faith in Christ today, or relying on your own self-righteous efforts and understanding?"
+      },
+      {
+        "lesson": "God's glory will cover the whole earth",
+        "verse": "Habakkuk 2:14, 20",
+        "detail": "Temporary worldly wickedness will be swallowed up; Yahweh sits in His holy temple, and His glory will flood the cosmos.",
+        "question": "How does the certainty of God's final cosmic victory keep you steady amidst present cultural decay?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q194_1",
+        "type": "multiple_choice",
+        "question": "What unexpected foreign army did God tell Habakkuk He was raising up to discipline Judah in Habakkuk 1:6?",
+        "options": [
+          "The Philistines",
+          "The Chaldeans (Babylonians), that bitter and hasty nation",
+          "The Edomites from Mount Seir",
+          "The Roman legions"
+        ],
+        "correctIndex": 1,
+        "reference": "Habakkuk 1:6",
+        "explanation": "God revealed He was raising up the Chaldeans (Babylonians) to execute judgment."
+      },
+      {
+        "id": "q194_2",
+        "type": "multiple_choice",
+        "question": "Where did Habakkuk station himself to await God's answer to his theological complaint in Habakkuk 2:1?",
+        "options": [
+          "In the caves of En Gedi",
+          "On his watch, setting himself on the rampart (tower)",
+          "Beside the altar in Bethel",
+          "In the royal palace library"
+        ],
+        "correctIndex": 1,
+        "reference": "Habakkuk 2:1",
+        "explanation": "Habakkuk resolved: 'I will stand on my watch, and set myself on the rampart, and will look out to see what he will say.'"
+      },
+      {
+        "id": "q194_3",
+        "type": "multiple_choice",
+        "question": "What famous statement in Habakkuk 2:4 became the cornerstone of Paul's theology in Romans and Galatians?",
+        "options": [
+          "'Sacrifice is better than obedience'",
+          "'The righteous will live by his faith'",
+          "'God will bless those who bless Abraham'",
+          "'Zion is an eternal fortress'"
+        ],
+        "correctIndex": 1,
+        "reference": "Habakkuk 2:4; Romans 1:17",
+        "explanation": "Habakkuk 2:4 declares: 'but the righteous will live by his faith.'"
+      },
+      {
+        "id": "q194_4",
+        "type": "true_false",
+        "question": "True or False: In Habakkuk 2:14, God declared that the earth will be filled with the knowledge of the glory of Yahweh, as the waters cover the sea.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 0,
+        "reference": "Habakkuk 2:14",
+        "explanation": "True. Habakkuk 2:14 announces: 'For the earth will be filled with the knowledge of the glory of Yahweh, as the waters cover the sea.'"
+      },
+      {
+        "id": "q194_5",
+        "type": "multiple_choice",
+        "question": "What should the whole earth do before Yahweh in His holy temple according to Habakkuk 2:20?",
+        "options": [
+          "Shout with war cries",
+          "Be silent before him",
+          "Bring silver and gold",
+          "Construct seven altars"
+        ],
+        "correctIndex": 1,
+        "reference": "Habakkuk 2:20",
+        "explanation": "Habakkuk 2:20 states: 'Yahweh is in his holy temple. Let all the earth be silent before him!'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "O Sovereign Lord, You who have purer eyes than to approve of evil, You are from everlasting to everlasting! When the world around me seems confusing, chaotic, and overrun by injustice, forgive my anxious questioning. Deliver me from the pride that demands explanations. Teach me to stand on my watchtower, to wait quietly for Your timing, and to live by faith. For the earth will be filled with the knowledge of Your glory as the waters cover the sea! Yahweh is in His holy temple; let all my anxious thoughts be silent before You.",
+      "versePrayerLine": "Lord, deliver my soul from proud intellect; teach me that the righteous shall live by steadfast faith in You.",
+      "prompt": "Choose to trust God with one confusing or unanswered question in your life, resting in His sovereign character."
+    }
+  },
+  "195": {
+    "day": 195,
+    "character": "Habakkuk",
+    "season": "The Shaking Lips and the Hinds' Feet on High Places",
+    "theme": "Supernatural joy exults in God alone even when all earthly livelihoods and crops perish.",
+    "memoryVerse": {
+      "reference": "Habakkuk 3:17-18",
+      "text": "For though the fig tree doesn't flourish, nor fruit be in the vines; the labor of the olive fails, the fields yield no food; the flocks are cut off from the fold, and there is no herd in the stalls: yet I will rejoice in Yahweh. I will be joyful in the God of my salvation.",
+      "whyItMatters": "Circumstances cannot steal our joy when God Himself is the fountain of our salvation and our unshakeable strength.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "fig",
+          "vines",
+          "rejoice",
+          "Yahweh",
+          "salvation"
+        ],
+        "firstLetters": "F t t f t d f, n f b i t v; t l o t o f, t f y n f; t f a c o f t f, a t i n h i t s: y I w r i Y. I w b j i t G o m s."
+      }
+    },
+    "profile": {
+      "title": "Habakkuk the Singer: Faith Climbing to the Heights of Joy",
+      "who": "Habakkuk moving from the valley of questioning and fear to the absolute peak of triumphant worship, concluding his book with one of the most sublime confessions of joy in Scripture.",
+      "whenAndWhere": "The Temple courts in Jerusalem, accompanied by stringed instruments, circa 605 BC.",
+      "family": "Levitical prophet and temple psalmist.",
+      "keyMoments": [
+        "Heard the report of God's coming judgment and prayed for revival: 'Yahweh, I have heard of your fame, and I am afraid. Yahweh, revive your work in the middle of the years... In wrath remember mercy!'",
+        "Witnessed a magnificent theophany of God marching from Teman and Mount Paran, His glory covering the heavens, pestilence going before Him, and the eternal mountains bowing down.",
+        "Trembled physically at the vision: 'I heard, and my body trembled. My lips quivered at the voice. Rottenness enters into my bones, and I tremble in my place, because I must wait quietly for the day of trouble...'",
+        "Contemplated the total collapse of all agricultural and economic security: fig trees failing, vines bearing no grapes, olive crops failing, parched fields yielding no bread, sheep folds empty, and cattle stalls deserted.",
+        "Erupted into triumphant, unconditional worship: 'Yet I will rejoice in Yahweh! I will be joyful in the God of my salvation!'",
+        "Declared: 'Yahweh, the Lord, is my strength. He makes my feet like hinds' feet, and enables me to go in high places.'",
+        "Delivered the psalm to the Chief Musician for temple stringed accompaniment, leaving a permanent liturgical anthem of unconquerable joy."
+      ],
+      "strengths": [
+        "Moved from complaint to transcendent praise: an arc of complete spiritual maturity.",
+        "Unconditional joy disconnected from material prosperity or comfortable circumstances.",
+        "Interceded passionately for divine revival and mercy in the midst of wrath."
+      ],
+      "failures": [
+        "None noted; the closing hymn is considered a pinnacle of Hebrew poetry and faith."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Habakkuk 3",
+        "title": "In Wrath Remember Mercy: The Theophany and the Hinds' Feet",
+        "verses": [
+          {
+            "number": 2,
+            "text": "Yahweh, I have heard of your fame, and I am afraid. Yahweh, revive your work in the middle of the years. In the middle of the years make it known. In wrath remember mercy."
+          },
+          {
+            "number": 3,
+            "text": "God came from Teman, the Holy One from Mount Paran. His glory covered the heavens, and the earth was full of his praise."
+          },
+          {
+            "number": 16,
+            "text": "I heard, and my body trembled. My lips quivered at the voice. Rottenness enters into my bones, and I tremble in my place, because I must wait quietly for the day of trouble..."
+          },
+          {
+            "number": 17,
+            "text": "For though the fig tree doesn't flourish, nor fruit be in the vines; the labor of the olive fails, the fields yield no food; the flocks are cut off from the fold, and there is no herd in the stalls:"
+          },
+          {
+            "number": 18,
+            "text": "yet I will rejoice in Yahweh. I will be joyful in the God of my salvation."
+          },
+          {
+            "number": 19,
+            "text": "Yahweh, the Lord, is my strength. He makes my feet like deer's feet, and enables me to go in high places. For the music director, on my stringed instruments."
+          }
+        ]
+      },
+      {
+        "reference": "Philippians 4",
+        "title": "Rejoice in the Lord Always and the Peace That Surpasses Understanding",
+        "verses": [
+          {
+            "number": 4,
+            "text": "Rejoice in the Lord always! Again I will say, 'Rejoice!'"
+          },
+          {
+            "number": 5,
+            "text": "Let your gentleness be known to all men. The Lord is at hand."
+          },
+          {
+            "number": 6,
+            "text": "In nothing be anxious, but in everything, by prayer and petition with thanksgiving, let your requests be made known to God."
+          },
+          {
+            "number": 7,
+            "text": "And the peace of God, which surpasses all understanding, will guard your hearts and your thoughts in Christ Jesus."
+          },
+          {
+            "number": 12,
+            "text": "I know how to be humbled, and I know also how to abound. In everything and in all things I have learned the secret both to be filled and to be hungry, both to abound and to be in need."
+          },
+          {
+            "number": 13,
+            "text": "I can do all things through Christ, who strengthens me."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "True biblical joy does not depend on full barns and flourishing vines; it rejoices in the God of salvation even in absolute barrenness.",
+      "reflection": "Look at the extraordinary spiritual journey of Habakkuk. The book begins in chapter 1 with a question mark: 'Lord, why?' In chapter 2, it moves to an exclamation point: 'The just shall live by faith!' But in chapter 3, it ends in a hymn of pure praise. Habakkuk looked into the immediate future and saw the devastating invasion of Babylon. He knew that the economy would be obliterated. Notice the comprehensive catalogue of catastrophe in Habakkuk 3:17: no blossoms on the fig trees, no grapes on the vines, the olive harvest a total failure, the grain fields completely bare, the sheep folds empty, the cattle stalls wiped out. For an ancient agrarian society, that meant total starvation, financial ruin, and societal death. If your joy was tied to your crops, your retirement account, your livestock, or your comfort, you were finished! But look at Habakkuk's defiance in verse 18: 'YET I will rejoice in Yahweh! I will be joyful in the God of my salvation! Yahweh the Lord is my strength; He makes my feet like hinds' feet, and enables me to walk on high places!' What is the secret? Habakkuk did not rejoice in the harvest; he rejoiced in the *Lord of the harvest*. When you lose the gifts, you still have the Giver! Paul echoed this in Philippians 4 from a Roman prison: 'Rejoice in the Lord always... I can do all things through Christ who strengthens me.' Joy is not the absence of trouble; joy is the presence of God."
+    },
+    "lessons": [
+      {
+        "lesson": "Pray for revival and mercy in seasons of wrath",
+        "verse": "Habakkuk 3:2",
+        "detail": "'Revive Your work in the midst of the years... in wrath remember mercy' is a timeless prayer for spiritual renewal.",
+        "question": "Are you praying passionately for God to revive His Church and show mercy to our culture?"
+      },
+      {
+        "lesson": "Disconnect your joy from material circumstances",
+        "verse": "Habakkuk 3:17-18",
+        "detail": "Even if the fig tree fails, the olive crop dies, and the stalls are empty, genuine faith finds complete joy in God alone.",
+        "question": "Is your daily joy based on how your finances, health, and schedule are going, or on who God is?"
+      },
+      {
+        "lesson": "God gives hinds' feet for rough terrain",
+        "verse": "Habakkuk 3:19",
+        "detail": "Like a sure-footed mountain deer skipping across dangerous jagged crags, God empowers believers to walk securely through crises.",
+        "question": "Do you trust God to give you sure-footed spiritual stability on the difficult, rocky paths of your life right now?"
+      },
+      {
+        "lesson": "Rejoice in the Lord always",
+        "verse": "Philippians 4:4-7",
+        "detail": "Paul commands perpetual rejoicing in the Lord; taking all anxieties to God in prayer produces peace that surpasses understanding.",
+        "question": "How can you practice intentional thanksgiving today to replace creeping anxiety with divine peace?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q195_1",
+        "type": "multiple_choice",
+        "question": "What passionate prayer did Habakkuk pray in Habakkuk 3:2?",
+        "options": [
+          "'Grant us gold and silver from Babylon'",
+          "'Yahweh, revive your work in the middle of the years... In wrath remember mercy'",
+          "'Smite the Chaldeans with fire from heaven'",
+          "'Let me fly to the ends of the earth'"
+        ],
+        "correctIndex": 1,
+        "reference": "Habakkuk 3:2",
+        "explanation": "Habakkuk prayed: 'Yahweh, revive your work in the middle of the years... In wrath remember mercy.'"
+      },
+      {
+        "id": "q195_2",
+        "type": "multiple_choice",
+        "question": "What agricultural and economic disasters does Habakkuk list in Habakkuk 3:17?",
+        "options": [
+          "Floods on the Euphrates and burning of Tyre",
+          "Fig tree not flourishing, no fruit on vines, olive labor failing, fields yielding no food, no flock in fold, no herd in stalls",
+          "Plagues of frogs and locusts",
+          "Earthquakes splitting the temple pillars"
+        ],
+        "correctIndex": 1,
+        "reference": "Habakkuk 3:17",
+        "explanation": "Habakkuk describes total agricultural collapse: no figs, grapes, olives, grain, sheep, or cattle."
+      },
+      {
+        "id": "q195_3",
+        "type": "multiple_choice",
+        "question": "What was Habakkuk's triumphant resolution in Habakkuk 3:18 despite total material loss?",
+        "options": [
+          "'I will surrender to the Babylonians'",
+          "'Yet I will rejoice in Yahweh. I will be joyful in the God of my salvation'",
+          "'I will curse the day I was born'",
+          "'I will flee into the desert of Paran'"
+        ],
+        "correctIndex": 1,
+        "reference": "Habakkuk 3:18",
+        "explanation": "He declared: 'yet I will rejoice in Yahweh. I will be joyful in the God of my salvation.'"
+      },
+      {
+        "id": "q195_4",
+        "type": "true_false",
+        "question": "True or False: According to Habakkuk 3:19, Yahweh makes the prophet's feet like deer's (hinds') feet, enabling him to go in high places.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 0,
+        "reference": "Habakkuk 3:19",
+        "explanation": "True. Habakkuk 3:19 proclaims: 'He makes my feet like deer's feet, and enables me to go in high places.'"
+      },
+      {
+        "id": "q195_5",
+        "type": "multiple_choice",
+        "question": "What musical instruction concludes the book of Habakkuk in Habakkuk 3:19?",
+        "options": [
+          "'To be shouted by the army in battle'",
+          "'For the music director (chief musician), on my stringed instruments'",
+          "'To be whispered in secret'",
+          "'To be blown with silver trumpets only'"
+        ],
+        "correctIndex": 1,
+        "reference": "Habakkuk 3:19",
+        "explanation": "The book concludes: 'For the music director, on my stringed instruments.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Yahweh, the Lord is my strength! Though the fig tree does not blossom, nor fruit be on the vines; though the olive crop fails and the fields yield no food; though the flock is cut off from the fold and there is no herd in the stalls—YET I will rejoice in Yahweh! I will be joyful in the God of my salvation! Deliver my soul from tying its peace to bank accounts, earthly harvests, or worldly circumstances. Make my feet like hinds' feet to walk securely upon the high places of Your sovereign grace, through Jesus Christ our Lord.",
+      "versePrayerLine": "Yet I will rejoice in Yahweh! I will be joyful in the God of my salvation, who makes my feet like hinds' feet.",
+      "prompt": "Offer a prayer of radical, unconditional praise to God right now, praising Him purely for who He is, regardless of your circumstances."
+    }
+  },
+  "196": {
+    "day": 196,
+    "character": "Zephaniah",
+    "season": "The Great Day of Yahweh and the God Who Sings with Joy",
+    "theme": "Beyond judgment, God gathers the afflicted and sings over His restored people with overflowing delight.",
+    "memoryVerse": {
+      "reference": "Zephaniah 3:17",
+      "text": "Yahweh, your God, is among you, a mighty one who will save. He will rejoice over you with joy. He will be quiet in his love. He will rejoice over you with singing.",
+      "whyItMatters": "The Almighty God is not a reluctant savior; He exults over His redeemed children with joyous singing and quiet, resting love.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "mighty",
+          "save",
+          "rejoice",
+          "quiet",
+          "singing"
+        ],
+        "firstLetters": "Y, y G, i a y, a m o w w s. H w r o y w j. H w b q i h l. H w r o y w s."
+      }
+    },
+    "profile": {
+      "title": "Zephaniah son of Cushi: The Royal Prophet Who Heard God Singing",
+      "who": "A royal prophet in Jerusalem of Davidic lineage (great-great-grandson of King Hezekiah) whose fiery ministry during young Josiah's reign helped ignite the great national revival.",
+      "whenAndWhere": "Jerusalem, during the reign of Josiah king of Judah, circa 630 BC.",
+      "family": "Son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah; royal cousin to King Josiah.",
+      "keyMoments": [
+        "Proclaimed the terrifying approach of the 'Day of Yahweh'—a day of clouds, thick darkness, distress, and trumpets against fortified cities.",
+        "Denounced syncretistic idolatry in Jerusalem: those worshiping the starry hosts on rooftops, those swearing by Yahweh while swearing by Malcam (Molech), and the complacent who say in their hearts: 'Yahweh will not do good, neither will he do evil.'",
+        "Called the humble of the earth to seek the Lord: 'Seek Yahweh, all you humble of the land... seek righteousness, seek humility. It may be that you will be hidden in the day of Yahweh's anger.'",
+        "Pronounced judgment on surrounding enemies: Philistia, Moab, Ammon, Ethiopia, and the proud Assyrian capital of Nineveh.",
+        "In Zephaniah 3, shifted from thunder to breathtaking, tender restoration: 'Sing, daughter of Zion! Shout, Israel! Be glad and rejoice with all your heart... Yahweh has taken away your judgments; he has thrown out your enemy.'",
+        "Delivered the immortal portrait of God's affectionate heart: 'Yahweh, your God, is among you, a mighty one who will save. He will rejoice over you with joy. He will be quiet in his love. He will rejoice over you with singing.'",
+        "Promised to gather the lame, bring home the outcasts, and turn their shame into praise across the whole earth."
+      ],
+      "strengths": [
+        "Royal pedigree used exclusively for God's glory without compromising prophetic truth.",
+        "Fearlessly diagnosed hidden religious complacency and moral apathy.",
+        "Provided one of Scripture's most radiant portraits of God personally singing over His people."
+      ],
+      "failures": [
+        "None noted in Scripture; a faithful prophetic catalyst for Josiah's reforms."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Zephaniah 1",
+        "title": "The Great Day of Yahweh and the Search with Lamps in Jerusalem",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Yahweh's word which came to Zephaniah, the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, in the days of Josiah, the son of Amon, king of Judah."
+          },
+          {
+            "number": 12,
+            "text": "'It will happen at that time, that I will search Jerusalem with lamps, and I will punish the men who are settled on their dregs, who say in their heart, \"Yahweh will not do good, neither will he do evil.\"'"
+          },
+          {
+            "number": 14,
+            "text": "The great day of Yahweh is near. It is near, and hurries greatly, the voice of the day of Yahweh. The mighty man cries there bitterly."
+          },
+          {
+            "number": 15,
+            "text": "That day is a day of wrath, a day of distress and anguish, a day of trouble and ruin, a day of darkness and gloom, a day of clouds and thick darkness,"
+          },
+          {
+            "number": 18,
+            "text": "Neither their silver nor their gold will be able to deliver them in the day of Yahweh's wrath..."
+          }
+        ]
+      },
+      {
+        "reference": "Zephaniah 3",
+        "title": "The Pure Speech, the Afflicted Remnant, and God Singing with Joy",
+        "verses": [
+          {
+            "number": 9,
+            "text": "'For then I will purify the lips of the peoples, that they may all call on Yahweh's name, to serve him shoulder to shoulder.'"
+          },
+          {
+            "number": 12,
+            "text": "'I will also leave in the middle of you an afflicted and poor people, and they will take refuge in Yahweh's name.'"
+          },
+          {
+            "number": 14,
+            "text": "Sing, daughter of Zion! Shout, Israel! Be glad and rejoice with all your heart, daughter of Jerusalem!"
+          },
+          {
+            "number": 15,
+            "text": "Yahweh has taken away your judgments. He has thrown out your enemy. The King of Israel, Yahweh, is in the middle of you. You will not be afraid of evil any more."
+          },
+          {
+            "number": 17,
+            "text": "Yahweh, your God, is among you, a mighty one who will save. He will rejoice over you with joy. He will be quiet in his love. He will rejoice over you with singing."
+          },
+          {
+            "number": 19,
+            "text": "'Behold, at that time I will deal with all those who afflict you, and I will save that which is lame, and gather that which was driven away. I will give them praise and honor, whose shame has been in all the earth.'"
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "God does not merely tolerate you; He rejoices over you with gladness and sings over your life with overflowing delight.",
+      "reflection": "The book of Zephaniah begins with one of the most frightening descriptions of judgment in the Bible: God searching Jerusalem with oil lamps to judge the complacent who say, 'God doesn't care; He won't do good or evil.' But read through the storm to chapter 3, and you step into pure, dazzling sunshine. In Zephaniah 3:17, we find what many consider the most breathtaking sentence in the Old Testament: 'Yahweh your God is in your midst, a mighty warrior who will save; He will rejoice over you with gladness; He will quiet you with His love; He will exult over you with loud singing!' Think of what that means! We are accustomed to singing praises *to* God. But here, Scripture reveals that Almighty God *sings over us*! Like a tender father cradling a crying baby in the night, quieting the child in his arms, and then breaking into joyful song, God gathers His broken, limping children, silences our anxieties with His steadfast love, and sings over our redemption. You are not a burden to God. You are not an annoying duty. In Christ, the Almighty Warrior who conquered sin and death rejoices over your life with singing. Let His song of love drown out every accusing voice today."
+    },
+    "lessons": [
+      {
+        "lesson": "Beware spiritual complacency that assumes God is passive",
+        "verse": "Zephaniah 1:12",
+        "detail": "God searches out those 'settled on their dregs' who imagine God doesn't notice or act in human affairs.",
+        "question": "Are you living with a casual, lukewarm attitude that treats God's commands as optional?"
+      },
+      {
+        "lesson": "Seek righteousness and humility",
+        "verse": "Zephaniah 2:3",
+        "detail": "The only safe shelter in times of national crisis is found in walking humbly and seeking God's righteousness.",
+        "question": "How are you cultivating a lifestyle of quiet humility and trust in God's protection?"
+      },
+      {
+        "lesson": "God's presence removes all fear of evil",
+        "verse": "Zephaniah 3:15",
+        "detail": "When Yahweh the King is in your midst, condemnation is removed and you need never fear evil again.",
+        "question": "Does the reality of Christ living within you cast out your fears of the future?"
+      },
+      {
+        "lesson": "Rest in the truth that God sings over you",
+        "verse": "Zephaniah 3:17",
+        "detail": "The Mighty Savior quiets your restless heart with His steadfast love and rejoices over you with joyous melody.",
+        "question": "Can you pause right now and receive the staggering truth that God loves you and rejoices over you with singing?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q196_1",
+        "type": "multiple_choice",
+        "question": "What notable royal ancestor is listed in Zephaniah's genealogy in Zephaniah 1:1?",
+        "options": [
+          "Solomon",
+          "King Hezekiah",
+          "David",
+          "Asa"
+        ],
+        "correctIndex": 1,
+        "reference": "Zephaniah 1:1",
+        "explanation": "Zephaniah's genealogy traces back four generations to King Hezekiah, establishing his royal lineage."
+      },
+      {
+        "id": "q196_2",
+        "type": "multiple_choice",
+        "question": "How does God describe the complacent people He will punish in Jerusalem in Zephaniah 1:12?",
+        "options": [
+          "Those who sleep in the gates",
+          "Those settled on their dregs, who say in their heart, 'Yahweh will not do good, neither will he do evil'",
+          "Those who trade with Damascus",
+          "Those who refuse to blow the trumpet"
+        ],
+        "correctIndex": 1,
+        "reference": "Zephaniah 1:12",
+        "explanation": "God condemns those settled on their dregs who say God will neither do good nor evil."
+      },
+      {
+        "id": "q196_3",
+        "type": "multiple_choice",
+        "question": "What four glorious things does God do over His people in Zephaniah 3:17?",
+        "options": [
+          "He counts their gold, measures their walls, builds towers, and judges foes",
+          "He saves as a mighty one, rejoices over you with joy, quiets you in his love, and rejoices over you with singing",
+          "He burns sacrifices, pours out oil, blows shofars, and marches to Edom",
+          "He crowns the priests, commands the stars, splits the rocks, and rains manna"
+        ],
+        "correctIndex": 1,
+        "reference": "Zephaniah 3:17",
+        "explanation": "God is a mighty savior who rejoices over you with joy, is quiet in his love, and rejoices over you with singing."
+      },
+      {
+        "id": "q196_4",
+        "type": "true_false",
+        "question": "True or False: According to Zephaniah 1:18, silver and gold will easily deliver the wealthy in the day of Yahweh's wrath.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Zephaniah 1:18",
+        "explanation": "False. Scripture explicitly states: 'Neither their silver nor their gold will be able to deliver them in the day of Yahweh's wrath.'"
+      },
+      {
+        "id": "q196_5",
+        "type": "multiple_choice",
+        "question": "Whom does God promise to save and gather in Zephaniah 3:19?",
+        "options": [
+          "The mighty charioteers of Egypt",
+          "That which is lame, and gather that which was driven away (outcasts), turning shame into praise",
+          "The wealthy merchants of Tyre",
+          "The judges of Samaria"
+        ],
+        "correctIndex": 1,
+        "reference": "Zephaniah 3:19",
+        "explanation": "God promises to save the lame, gather the driven away, and turn their shame into praise and honor."
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "O Yahweh my God, Mighty One who saves, You are in the midst of Your people! I stand in awe of Your love. Forgive me for listening to the lies of the enemy and the accusations of my own heart that tell me I am unwanted or tolerated only with reluctance. Thank You that You rejoice over me with gladness, that You quiet my racing soul with Your steadfast love, and that You sing over my life with songs of deliverance. Let Your song of grace fill my mind and drive away all fear today.",
+      "versePrayerLine": "Yahweh my God, You are a mighty savior in my midst; quiet my heart in Your love and rejoice over me with singing.",
+      "prompt": "Spend two unhurried minutes in quiet stillness, allowing God's tender, singing love to silence all your anxieties."
+    }
+  },
+  "197": {
+    "day": 197,
+    "character": "Jeremiah",
+    "season": "The Smoldering Rubble of Zion and the Mercies New Every Morning",
+    "theme": "Amidst grief and ruins, the soul anchors in the inexhaustible, daily mercies of God's covenant faithfulness.",
+    "memoryVerse": {
+      "reference": "Lamentations 3:22-23",
+      "text": "It is of Yahweh's loving kindnesses that we are not consumed, because his compassion doesn't fail. They are new every morning. Great is your faithfulness.",
+      "whyItMatters": "Even when our world collapses into smoking ruins, God's compassions never expire; fresh mercy greets us at every sunrise.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "loving",
+          "kindnesses",
+          "consumed",
+          "morning",
+          "faithfulness"
+        ],
+        "firstLetters": "I i o Y l k t w a n c, b h c d f. T a n e m. G i y f."
+      }
+    },
+    "profile": {
+      "title": "Jeremiah the Weeping Prophet: Singing of Faithfulness in the Ashes of Jerusalem",
+      "who": "Jeremiah sitting amidst the smoking, blackened ruins of Solomon's Temple and destroyed Jerusalem, authoring the acrostic funeral dirges of Lamentations.",
+      "whenAndWhere": "The ruins of Mount Zion and the walls of Jerusalem, 586 BC.",
+      "family": "Priestly son of Hilkiah of Anathoth; eyewitness to the slaughter and exile of his people.",
+      "keyMoments": [
+        "Watched his forty years of warnings materialize in catastrophic reality: Nebuchadnezzar's army breached the walls, burned the Temple, flattened the royal palaces, blinded King Zedekiah, slaughtered the princes, and led the population away in chains.",
+        "Sat upon the rubble of Mount Zion, weeping over the solitary city that was once full of people, now sitting like a desolate widow.",
+        "Wrote five magnificent Hebrew acrostic laments (chapters 1, 2, 4, and 5 correspond to the 22 letters of the Hebrew alphabet; chapter 3 has 66 verses, three per letter).",
+        "Poured out unvarnished sorrow: 'My eyes fail with tears, my heart is troubled, my liver is poured on the earth, for the destruction of the daughter of my people.'",
+        "In the exact mathematical center of his book of mourning (Lamentations 3:21-26), pivoted from tears to unshakeable covenant hope: 'This I recall to my mind, therefore I have hope: It is of Yahweh's loving kindnesses that we are not consumed, because his compassions fail not. They are new every morning: great is your faithfulness!'",
+        "Proclaimed the sovereignty of God: 'Who is he who says, and it comes to pass, when the Lord doesn't command it? Out of the mouth of the Most High doesn't evil and good proceed?'",
+        "Closed with the eternal throne of God: 'You, Yahweh, remain forever; your throne is from generation to generation. Turn us back to yourself, Yahweh, and we shall be turned! Renew our days as of old.'"
+      ],
+      "strengths": [
+        "Unmatched theological stamina: refused to surrender hope in God even while surrounded by smoking corpses and ashes.",
+        "Wrote the greatest biblical theology of suffering, lament, and divine faithfulness.",
+        "Anchored peace not in physical circumstances, but in the unchanging character of God."
+      ],
+      "failures": [
+        "Wrestled deeply with despair, feelings of abandonment, and physical exhaustion."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Lamentations 1",
+        "title": "How Lonely Sits the City: The Solitary Widow of Zion",
+        "verses": [
+          {
+            "number": 1,
+            "text": "How the city sits solitary, that was full of people! She has become as a widow, who was great among the nations! She who was a princess among the provinces has become tributary!"
+          },
+          {
+            "number": 2,
+            "text": "She weeps bitterly in the night, and her tears are on her cheeks. Among all her lovers she has no one to comfort her..."
+          },
+          {
+            "number": 12,
+            "text": "'Is it nothing to you, all you who pass by? Look, and see if there is any sorrow like my sorrow, which is brought on me, with which Yahweh has afflicted me in the day of his fierce anger.'"
+          },
+          {
+            "number": 16,
+            "text": "'For these things I weep. My eye, my eye runs down with water; because the comforter who should refresh my soul is far from me...'"
+          }
+        ]
+      },
+      {
+        "reference": "Lamentations 3",
+        "title": "The Afflicted Prophet, the Morning Mercies, and Great is Your Faithfulness",
+        "verses": [
+          {
+            "number": 19,
+            "text": "Remember my affliction and my misery, the wormwood and the gall."
+          },
+          {
+            "number": 20,
+            "text": "My soul still remembers them, and is bowed down within me."
+          },
+          {
+            "number": 21,
+            "text": "This I recall to my mind; therefore I have hope."
+          },
+          {
+            "number": 22,
+            "text": "It is of Yahweh's loving kindnesses that we are not consumed, because his compassion doesn't fail."
+          },
+          {
+            "number": 23,
+            "text": "They are new every morning. Great is your faithfulness."
+          },
+          {
+            "number": 24,
+            "text": "'Yahweh is my portion,' says my soul. 'Therefore I will hope in him.'"
+          },
+          {
+            "number": 25,
+            "text": "Yahweh is good to those who wait for him, to the soul that seeks him."
+          },
+          {
+            "number": 26,
+            "text": "It is good that a man should hope and quietly wait for the salvation of Yahweh."
+          },
+          {
+            "number": 31,
+            "text": "For the Lord will not cast off forever."
+          },
+          {
+            "number": 32,
+            "text": "For though he causes grief, yet he will have compassion according to the multitude of his loving kindnesses."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "No matter how dark the midnight of your grief, God's compassions never run dry; fresh mercy awaits you every sunrise.",
+      "reflection": "Look at where Jeremiah was sitting when he wrote Lamentations 3:22-23. He was not sitting in an air-conditioned sanctuary or on a sunny vacation beach. He was sitting on a pile of charred rubble that used to be the Holy of Holies. The streets around him smelled of smoke and unburied dead. The nation was gone. The temple was flattened. His eyes were swollen shut from crying. And right there in the ash heap, Jeremiah writes words that Christians have sung across centuries: 'It is of the Lord's mercies that we are not consumed, because His compassions fail not! They are new every morning: great is Your faithfulness!' How could a man say 'Great is Your faithfulness' while surrounded by total ruin? Because Jeremiah did not measure God's faithfulness by his circumstances; he measured God's faithfulness by God's covenant! Jeremiah realized: the very fact that a single Israelite was left breathing amidst Babylon's fury was proof that God had not broken His promise to Abraham. If God had treated them strictly as their sins deserved, they would have been consumed like Sodom. But God's steadfast love (hesed) has no bottom, and His mercies have no expiration date. Every single morning when the sun rises over your horizon, God stocks heaven's pantry with brand-new mercies designed specifically for the battles of that day. Yesterday's mercy was for yesterday; today's sunrise brings fresh grace. Great is Your faithfulness, O Lord!"
+    },
+    "lessons": [
+      {
+        "lesson": "Lament is a holy act of worship",
+        "verse": "Lamentations 1:1-2; 3:19-20",
+        "detail": "Scripture gives permission to weep, mourn, and express deep heartbreak honestly without faking religious cheerfulness.",
+        "question": "Do you allow yourself to grieve losses honestly before God, knowing He collects every tear?"
+      },
+      {
+        "lesson": "Deliberately recall God's truth to mind",
+        "verse": "Lamentations 3:21-22",
+        "detail": "Hope was born the moment Jeremiah actively forced his mind to remember: 'This I recall to my mind, therefore I have hope.'",
+        "question": "What biblical truths about God's character do you need to actively remind yourself of when depression or anxiety strikes?"
+      },
+      {
+        "lesson": "God's compassions never expire",
+        "verse": "Lamentations 3:22-23",
+        "detail": "God does not run out of patience, love, or forgiveness; His mercies are manufactured fresh every single morning.",
+        "question": "Are you waking up each morning expecting to receive fresh divine mercy tailored for that day's challenges?"
+      },
+      {
+        "lesson": "Wait quietly for the salvation of the Lord",
+        "verse": "Lamentations 3:25-26",
+        "detail": "When circumstances are unbearable, there is spiritual power in quiet waiting and trusting God's ultimate deliverance.",
+        "question": "Can you wait quietly on God today instead of frantically trying to fix what only He can heal?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q197_1",
+        "type": "multiple_choice",
+        "question": "How does Jeremiah describe the destroyed city of Jerusalem in Lamentations 1:1?",
+        "options": [
+          "A roaring lion in the hills",
+          "How the city sits solitary, that was full of people! She has become as a widow",
+          "A ship battered on the rocks",
+          "A fortress of pure gold"
+        ],
+        "correctIndex": 1,
+        "reference": "Lamentations 1:1",
+        "explanation": "Lamentations 1:1 opens: 'How the city sits solitary, that was full of people! She has become as a widow.'"
+      },
+      {
+        "id": "q197_2",
+        "type": "multiple_choice",
+        "question": "What turning point in Lamentations 3:21-22 gave Jeremiah hope in the midst of his affliction?",
+        "options": [
+          "An army arrived from Egypt",
+          "'This I recall to my mind; therefore I have hope: It is of Yahweh's loving kindnesses that we are not consumed, because his compassion doesn't fail'",
+          "He found hidden gold in the temple ruins",
+          "Nebuchadnezzar sent an apology letter"
+        ],
+        "correctIndex": 1,
+        "reference": "Lamentations 3:21-22",
+        "explanation": "Jeremiah recalled to mind: 'It is of Yahweh's loving kindnesses that we are not consumed, because his compassion doesn't fail.'"
+      },
+      {
+        "id": "q197_3",
+        "type": "multiple_choice",
+        "question": "How often does Lamentations 3:23 declare that God's compassions are renewed?",
+        "options": [
+          "Every year on the Day of Atonement",
+          "Every Sabbath morning",
+          "New every morning: great is your faithfulness",
+          "Once every generation"
+        ],
+        "correctIndex": 2,
+        "reference": "Lamentations 3:23",
+        "explanation": "Lamentations 3:23 proclaims: 'They are new every morning. Great is your faithfulness.'"
+      },
+      {
+        "id": "q197_4",
+        "type": "true_false",
+        "question": "True or False: In Lamentations 3:31-32, Scripture promises that the Lord will cast off His people forever without any compassion.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Lamentations 3:31-32",
+        "explanation": "False. Scripture states: 'For the Lord will not cast off forever. For though he causes grief, yet he will have compassion according to the multitude of his loving kindnesses.'"
+      },
+      {
+        "id": "q197_5",
+        "type": "multiple_choice",
+        "question": "What is declared to be good in Lamentations 3:26 for a person facing suffering?",
+        "options": [
+          "To retaliate against enemies with violence",
+          "To hope and quietly wait for the salvation of Yahweh",
+          "To build altars in the desert",
+          "To seek wealth in foreign lands"
+        ],
+        "correctIndex": 1,
+        "reference": "Lamentations 3:26",
+        "explanation": "Lamentations 3:26 says: 'It is good that a man should hope and quietly wait for the salvation of Yahweh.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "O Yahweh, my faithful God, great is Your faithfulness! In the midst of grief, tears, and seasons where earthly hopes crumble like ruins, I recall Your truth to my mind: It is because of Your steadfast love that I am not consumed. Your compassions never fail. They are new every morning! Thank You for the fresh supply of grace that greeted me with today's sunrise. Yahweh is my portion, says my soul, therefore I will hope in You. Teach me to wait quietly for Your salvation, resting in Your unfailing love.",
+      "versePrayerLine": "Your compassions never fail; they are new every morning. Great is Your faithfulness, O Lord my God!",
+      "prompt": "Take a deep breath and thank God for the fresh mercies He has provided for you this morning, releasing yesterday's regrets."
+    }
+  },
+  "198": {
+    "day": 198,
+    "character": "Ezekiel",
+    "season": "The Storm Wind of the North, the Four Living Creatures, and the Rainbow Throne",
+    "theme": "The awe-inspiring sovereign glory of God transcends borders to encounter His exiled children.",
+    "memoryVerse": {
+      "reference": "Ezekiel 1:28",
+      "text": "As the appearance of the rainbow that is in the cloud in the day of rain, so was the appearance of the brightness all around. This was the appearance of the likeness of Yahweh's glory. When I saw it, I fell on my face, and I heard the voice of one that spoke.",
+      "whyItMatters": "No exile or distance can separate us from God's glorious presence; His sovereign throne reigns over all empires.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "rainbow",
+          "brightness",
+          "likeness",
+          "glory",
+          "voice"
+        ],
+        "firstLetters": "A t a o t r t i i t c i t d o r, s w t a o t b a a. T w t a o t l o Y g. W I s i, I f o m f, a I h t v o o t s."
+      }
+    },
+    "profile": {
+      "title": "Ezekiel son of Buzi: The Exiled Priest Who Saw Heaven's Wheels",
+      "who": "A thirty-year-old Zadokite priest carried into Babylonian exile in 597 BC, who received apocalyptic visions of the glory of Yahweh while living among the Jewish refugees beside the Chebar canal.",
+      "whenAndWhere": "The River Chebar near Tel Abib in Babylonia, fifth year of King Jehoiachin's captivity, circa 593 BC.",
+      "family": "Son of Buzi of the priestly line; married to a beloved wife who later died as a prophetic sign (Ezekiel 24:16-18).",
+      "keyMoments": [
+        "Turned thirty years old (the age when a priest entered active sanctuary ministry), but was stranded 700 miles from the Temple in Jerusalem as a captive in Babylonia.",
+        "While sitting among the exiles by the River Chebar, the heavens were opened and he saw visions of God: the hand of Yahweh came upon him.",
+        "Saw a stormy wind blowing from the north, a great cloud with flashing fire, and in its midst four living creatures (cherubim) with four faces: man, lion, ox, and eagle.",
+        "Beside each creature was an intersecting wheel-within-a-wheel sparkling like chrysolite, whose high rims were full of eyes all around, moving wherever the Spirit directed.",
+        "Above their heads was an expanse sparkling like awesome crystal, and above the expanse was the likeness of a throne of lapis lazuli sapphire.",
+        "Seated upon the throne was a radiant human figure glowing with gleaming amber and fiery splendor, encircled by a rainbow like that in a cloud on a rainy day.",
+        "Ezekiel collapsed on his face before the likeness of the glory of Yahweh.",
+        "The Spirit entered him and set him upon his feet; God commissioned him to a rebellious, stiff-necked house: 'Whether they will hear, or whether they will refuse... yet they will know that there has been a prophet among them.'",
+        "Handed a scroll written inside and out with lamentations, mourning, and woe; Ezekiel ate the scroll, and in his mouth it was sweet as honey."
+      ],
+      "strengths": [
+        "Profound reverence and total prostration before the holy majesty of God.",
+        "Unflinching obedience: willing to perform bizarre, grueling prophetic sign-acts for years.",
+        "Devoured and internalized the Word of God before speaking it."
+      ],
+      "failures": [
+        "None noted in his commissioning; lived in profound submission to the Spirit of God."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Ezekiel 1",
+        "title": "The Heavens Opened by the Chebar Canal: The Chariot Throne of Glory",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Now it came to pass in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river Chebar, that the heavens were opened, and I saw visions of God."
+          },
+          {
+            "number": 3,
+            "text": "the word of Yahweh came expressly to Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and Yahweh's hand was there on him."
+          },
+          {
+            "number": 4,
+            "text": "I looked, and behold, a stormy wind came out of the north, a great cloud, with flashing lightning, and a brightness around it, and out of its middle as it were glowing metal..."
+          },
+          {
+            "number": 10,
+            "text": "As for the likeness of their faces, they had the face of a man; and the four of them had the face of a lion on the right side; and the four of them had the face of an ox on the left side; the four of them also had the face of an eagle."
+          },
+          {
+            "number": 26,
+            "text": "Above the expanse that was over their heads was the likeness of a throne, as the appearance of a sapphire stone; and on the likeness of the throne was a likeness as the appearance of a man on it above."
+          },
+          {
+            "number": 28,
+            "text": "As the appearance of the rainbow that is in the cloud in the day of rain, so was the appearance of the brightness all around. This was the appearance of the likeness of Yahweh's glory. When I saw it, I fell on my face, and I heard the voice of one that spoke."
+          }
+        ]
+      },
+      {
+        "reference": "Ezekiel 2",
+        "title": "Stand on Your Feet: The Commission and the Sweet Scroll",
+        "verses": [
+          {
+            "number": 1,
+            "text": "He said to me, 'Son of man, stand on your feet, and I will speak with you.'"
+          },
+          {
+            "number": 2,
+            "text": "The Spirit entered into me when he spoke to me, and set me on my feet; and I heard him who spoke to me."
+          },
+          {
+            "number": 3,
+            "text": "He said to me, 'Son of man, I send you to the children of Israel, to a rebellious nation that has rebelled against me... '"
+          },
+          {
+            "number": 7,
+            "text": "'You shall speak my words to them, whether they will hear, or whether they will refuse; for they are most rebellious.'"
+          },
+          {
+            "number": 8,
+            "text": "'But you, son of man, hear what I say to you... open your mouth, and eat that which I give you.'"
+          },
+          {
+            "number": 9,
+            "text": "When I looked, behold, a hand was stretched out to me; and, behold, a scroll of a book was in it;"
+          },
+          {
+            "number": 10,
+            "text": "He spread it before me; and it was written within and without; and there were written therein lamentations, and mourning, and woe."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "God's glory is not bound to a physical building or country; His fiery throne rides across borders to meet His exiled children.",
+      "reflection": "Ezekiel was thirty years old. In normal times, this would have been the greatest week of his life: the week he was consecrated as an active priest in Solomon's Temple. Instead, Ezekiel was sitting in the dust seven hundred miles from home, an enslaved refugee beside an irrigation ditch in Babylon called the River Chebar. He thought God was left behind in Jerusalem. But suddenly, the sky tore open! Out of the north swept a hurricane of fire, revealing God's glorious chariot-throne carried by four living creatures. Underneath were gyroscopic wheels full of eyes, moving in any direction without turning; above them stretched an expanse of crystal; and on the sapphire throne sat a figure glowing like molten metal, encircled by a covenant rainbow! What was God saying to Ezekiel? 'Ezekiel, the Babylonians think their gods have conquered Me. But My throne has wheels! I am not trapped inside Jerusalem's walls! I have ridden across the desert to be with My people in their exile!' The glory of God transcends every geographic and political border. When you find yourself in an unexpected 'Babylon'—displaced, career stalled, dreams shattered—look up. The sovereign God on the sapphire throne is right beside your river Chebar."
+    },
+    "lessons": [
+      {
+        "lesson": "God's presence is not confined to sacred buildings",
+        "verse": "Ezekiel 1:1-3",
+        "detail": "God manifested His supreme glory not inside the Jerusalem Temple, but beside an irrigation ditch in pagan Babylon.",
+        "question": "Do you recognize that God is just as present in your mundane workplace or home as He is in church on Sunday?"
+      },
+      {
+        "lesson": "Fall on your face before divine majesty",
+        "verse": "Ezekiel 1:28",
+        "detail": "Beholding the likeness of the glory of Yahweh brought the priest to immediate, humble prostration.",
+        "question": "Does your prayer life reflect holy awe and reverent humility before the majesty of God?"
+      },
+      {
+        "lesson": "The Spirit empowers what God commands",
+        "verse": "Ezekiel 2:1-2",
+        "detail": "When God commanded Ezekiel to stand, the Holy Spirit entered him and set him upon his feet; God provides the power to obey.",
+        "question": "Where are you feeling too weak to obey God? Are you relying on the Holy Spirit to lift you up?"
+      },
+      {
+        "lesson": "Devour God's Word until it becomes sweet",
+        "verse": "Ezekiel 2:8-10; 3:1-3",
+        "detail": "Ezekiel ate the scroll of lamentation, and in his mouth it tasted sweet as honey; internalizing God's truth brings joy even in hard messages.",
+        "question": "Are you digesting and meditating on Scripture so deeply that it shapes your inner desires?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q198_1",
+        "type": "multiple_choice",
+        "question": "Where was Ezekiel when the heavens opened and he saw visions of God in Ezekiel 1:1-3?",
+        "options": [
+          "Inside the Holy of Holies in Jerusalem",
+          "Among the captives by the River Chebar in the land of the Chaldeans",
+          "On the top of Mount Sinai",
+          "In the palace of Nebuchadnezzar in Babylon"
+        ],
+        "correctIndex": 1,
+        "reference": "Ezekiel 1:1-3",
+        "explanation": "Ezekiel was among the Jewish captives beside the River Chebar in Babylonia."
+      },
+      {
+        "id": "q198_2",
+        "type": "multiple_choice",
+        "question": "What four faces did each of the four living creatures possess in Ezekiel 1:10?",
+        "options": [
+          "Horse, bear, wolf, and serpent",
+          "Man, lion, ox, and eagle",
+          "Ram, goat, dove, and sparrow",
+          "Cherub, seraph, angel, and king"
+        ],
+        "correctIndex": 1,
+        "reference": "Ezekiel 1:10",
+        "explanation": "The four faces were those of a man, a lion, an ox, and an eagle."
+      },
+      {
+        "id": "q198_3",
+        "type": "multiple_choice",
+        "question": "What appearance encircled the likeness of the throne of glory in Ezekiel 1:28?",
+        "options": [
+          "A wreath of silver laurels",
+          "The appearance of the rainbow in the cloud in the day of rain",
+          "Twelve golden crowns",
+          "A curtain of purple silk"
+        ],
+        "correctIndex": 1,
+        "reference": "Ezekiel 1:28",
+        "explanation": "The radiance around the throne was like the appearance of a rainbow in a cloud on a rainy day."
+      },
+      {
+        "id": "q198_4",
+        "type": "true_false",
+        "question": "True or False: In Ezekiel 2:2, the Spirit entered into Ezekiel and set him on his feet when the voice spoke to him.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 0,
+        "reference": "Ezekiel 2:2",
+        "explanation": "True. The Spirit entered Ezekiel and set him upon his feet to hear God's commission."
+      },
+      {
+        "id": "q198_5",
+        "type": "multiple_choice",
+        "question": "What was Ezekiel commanded to do with the scroll of lamentation and woe in Ezekiel 2:8-10?",
+        "options": [
+          "Burn it in the river",
+          "Open his mouth and eat it",
+          "Bury it under an oak tree",
+          "Give it to King Jehoiachin"
+        ],
+        "correctIndex": 1,
+        "reference": "Ezekiel 2:8-10",
+        "explanation": "God commanded Ezekiel to open his mouth and eat the scroll."
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord God of glory, You who sit enthroned above the cherubim, encircled by the rainbow of covenant faithfulness, I fall on my face before Your holy presence. Thank You that Your presence is not limited to temples made with hands. When life carries me into unexpected exiles, by rivers of sorrow and displacement, remind my soul that Your throne has wheels and Your glory fills the earth. Feed my heart with Your living Word, enter me by Your Holy Spirit, and set my feet firm to follow You wherever You lead.",
+      "versePrayerLine": "Lord, show me the likeness of Your glory; let Your Holy Spirit enter me and set me upon my feet to do Your will.",
+      "prompt": "Spend two minutes worshiping God as the Sovereign King upon the sapphire throne who rules over all nations and personal circumstances."
+    }
+  },
+  "199": {
+    "day": 199,
+    "character": "Ezekiel",
+    "season": "The Watchman on the Rampart and the Heart That Delights in Life",
+    "theme": "The faithful watchman blows the trumpet of warning because God takes no pleasure in the death of the wicked.",
+    "memoryVerse": {
+      "reference": "Ezekiel 33:11",
+      "text": "Tell them, 'As I live,' says the Lord Yahweh, 'I have no pleasure in the death of the wicked; but that the wicked turn from his way and live. Turn, turn from your evil ways! For why will you die, house of Israel?'",
+      "whyItMatters": "God's heart longs for the salvation of sinners, placing a solemn duty on believers to sound the loving warning of repentance.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "pleasure",
+          "death",
+          "wicked",
+          "turn",
+          "live"
+        ],
+        "firstLetters": "T t, 'A I l,' s t L Y, 'I h n p i t d o t w; b t t w t f h w a l. T, t f y e w! F w w y d, h o I?'"
+      }
+    },
+    "profile": {
+      "title": "Ezekiel: The Appointed Watchman for the House of Israel",
+      "who": "Ezekiel commissioned as a spiritual watchman stationed on the ramparts of Israel, held personally accountable for warning sinners of impending judgment.",
+      "whenAndWhere": "Tel Abib beside the River Chebar in Babylonia, circa 593–585 BC.",
+      "family": "Priestly prophet of Buzi; spiritual watchman over the exile community.",
+      "keyMoments": [
+        "After sitting overwhelmed among the captives at Tel Abib for seven days, the word of Yahweh came: 'Son of man, I have made you a watchman to the house of Israel: therefore hear the word at my mouth, and give them warning from me.'",
+        "God laid down the solemn law of pastoral accountability: if the watchman sees the sword coming and blows the trumpet, the hearer who ignores it is responsible for his own blood; but if the watchman fails to blow the trumpet, the sinner dies in his iniquity, but his blood God will require at the watchman's hand.",
+        "Ezekiel was rendered mute by God, able to speak only when Yahweh opened his mouth with direct prophetic oracles.",
+        "In Ezekiel 33, while the news arrived that Jerusalem had fallen and the Temple was burned, God recommissioned Ezekiel as the watchman.",
+        "The exiles complained that their sins were rotting them away: 'How can we live?'",
+        "God swore by His own life: 'As I live, says the Lord Yahweh, I have no pleasure in the death of the wicked, but that the wicked turn from his way and live. Turn, turn from your evil ways! For why will you die, house of Israel?'",
+        "Announced individual responsibility: a righteous man who turns to evil will die for it; a wicked man who turns from sin to do justice and righteousness will surely live.",
+        "The evening before an escapee arrived with news that the city was struck, God opened Ezekiel's mouth and he was no longer mute."
+      ],
+      "strengths": [
+        "Unflinching fidelity: delivered unpopular warnings without fear of human intimidation.",
+        "Accepted the terrifying weight of spiritual accountability for other souls.",
+        "Proclaimed the radiant, compassionate heart of God who takes no pleasure in human ruin."
+      ],
+      "failures": [
+        "Sat stunned and overwhelmed in silence for seven days before speaking (Ezekiel 3:15)."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Ezekiel 3",
+        "title": "The Watchman Commissioned and the Law of Bloodguilt",
+        "verses": [
+          {
+            "number": 15,
+            "text": "Then I came to them of the captivity at Tel Abib, that lived by the river Chebar, and to where they lived; and I sat there overwhelmed among them seven days."
+          },
+          {
+            "number": 17,
+            "text": "'Son of man, I have made you a watchman to the house of Israel. Therefore hear the word at my mouth, and give them warning from me.'"
+          },
+          {
+            "number": 18,
+            "text": "'When I say to the wicked, \"You shall surely die;\" and you don't give him warning, nor speak to warn the wicked from his wicked way, to save his life; the same wicked man will die in his iniquity; but I will require his blood at your hand.'"
+          },
+          {
+            "number": 19,
+            "text": "'Yet if you warn the wicked, and he doesn't turn from his wickedness, nor from his wicked way, he will die in his iniquity; but you have delivered your soul.'"
+          }
+        ]
+      },
+      {
+        "reference": "Ezekiel 33",
+        "title": "The Trumpet Blown, God's Pleading Love, and Jerusalem Falls",
+        "verses": [
+          {
+            "number": 7,
+            "text": "'So you, son of man, I have set you a watchman to the house of Israel. Therefore hear the word at my mouth, and give them warning from me.'"
+          },
+          {
+            "number": 10,
+            "text": "'You, son of man, tell the house of Israel: \"Thus you speak, saying: 'Our transgressions and our sins are on us, and we pine away in them; how then can we live?'\"'"
+          },
+          {
+            "number": 11,
+            "text": "'Tell them, \"'As I live,' says the Lord Yahweh, 'I have no pleasure in the death of the wicked; but that the wicked turn from his way and live. Turn, turn from your evil ways! For why will you die, house of Israel?'\"'"
+          },
+          {
+            "number": 21,
+            "text": "It came to pass in the twelfth year of our captivity, in the tenth month, in the fifth day of the month, that one who had escaped out of Jerusalem came to me, saying, 'The city has been struck!'"
+          },
+          {
+            "number": 22,
+            "text": "Now Yahweh's hand had been on me in the evening, before he who had escaped came; and he had opened my mouth... and I was no longer mute."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "God takes no pleasure in the destruction of sinners; He sounds the warning trumpet so that all may repent and live.",
+      "reflection": "Being appointed a watchman on an ancient city wall was a life-or-death responsibility. In the dark of night, while citizens slept peacefully in their beds, the watchman peered into the shadows. If he saw enemy torches approaching and blew the ram's horn, the people could grab their weapons and defend the gates; anyone who rolled over and ignored the trumpet died by his own folly. But if the watchman fell asleep, got distracted, or was too polite to sound the alarm, the enemy breached the wall and slaughtered the city—and the king held the watchman guilty of murder! God says to Ezekiel: 'Son of man, I have made you a watchman to the house of Israel.' Believers are the watchmen of our generation. We have seen the coming judgment; we have the Word of God. How can we keep silent? Warning people about sin and eternity is not cruelty; it is the highest form of love! And look at the heart of the Commander who orders the trumpet blown in Ezekiel 33:11: 'As I live, says the Lord God, I have no pleasure in the death of the wicked, but that the wicked turn from his way and live! Turn, turn from your evil ways! Why will you die?' God does not want anyone to perish. He sounds the alarm so you will run into the arms of life."
+    },
+    "lessons": [
+      {
+        "lesson": "Sound the warning with clear, unmuted love",
+        "verse": "Ezekiel 3:17-19",
+        "detail": "Failing to share the gospel and warn others about sin leaves us spiritually accountable for their blood.",
+        "question": "Is there someone in your life whom God is asking you to lovingly warn about their destructive path?"
+      },
+      {
+        "lesson": "God takes zero pleasure in human judgment",
+        "verse": "Ezekiel 33:11; 2 Peter 3:9",
+        "detail": "God is not a vindictive tyrant waiting to crush sinners; His fatherly heart pleads: 'Turn, turn from your evil ways! Why will you die?'",
+        "question": "Does your view of God reflect His deep, pleading desire for every person to repent and be saved?"
+      },
+      {
+        "lesson": "Past righteousness cannot cover present rebellion",
+        "verse": "Ezekiel 33:12-13",
+        "detail": "Relying on past spiritual accomplishments while practicing current sin leads to ruin; faith must be active today.",
+        "question": "Are you resting on old spiritual memories instead of actively walking in repentance and faith right now?"
+      },
+      {
+        "lesson": "True repentance always receives life",
+        "verse": "Ezekiel 33:14-16",
+        "detail": "When a wicked person turns from sin, restores what was stolen, and walks in God's statutes, he will surely live.",
+        "question": "Have you experienced the liberating life that comes when you fully turn away from sin to follow Christ?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q199_1",
+        "type": "multiple_choice",
+        "question": "What office did God appoint Ezekiel to for the house of Israel in Ezekiel 3:17 and 33:7?",
+        "options": [
+          "A high priest of the temple",
+          "A watchman on the ramparts",
+          "A military commander of the exiles",
+          "A governor under Nebuchadnezzar"
+        ],
+        "correctIndex": 1,
+        "reference": "Ezekiel 3:17; 33:7",
+        "explanation": "God appointed Ezekiel as a 'watchman to the house of Israel' to hear God's word and give warning."
+      },
+      {
+        "id": "q199_2",
+        "type": "multiple_choice",
+        "question": "What happens if a watchman sees the sword coming and fails to blow the trumpet to warn the people in Ezekiel 3:18 and 33:6?",
+        "options": [
+          "The people will automatically be spared",
+          "The sinner dies in his iniquity, but his blood God will require at the watchman's hand",
+          "The watchman receives a fine of silver",
+          "The city gates will supernaturally close"
+        ],
+        "correctIndex": 1,
+        "reference": "Ezekiel 3:18; 33:6",
+        "explanation": "The sinner dies in his sin, but his blood is required at the silent watchman's hand."
+      },
+      {
+        "id": "q199_3",
+        "type": "multiple_choice",
+        "question": "What solemn oath does Yahweh make regarding the wicked in Ezekiel 33:11?",
+        "options": [
+          "'I delight to destroy those who oppose me'",
+          "'As I live, I have no pleasure in the death of the wicked; but that the wicked turn from his way and live. Turn, turn from your evil ways!'",
+          "'The wicked shall be forgotten forever'",
+          "'I will never forgive the house of Israel'"
+        ],
+        "correctIndex": 1,
+        "reference": "Ezekiel 33:11",
+        "explanation": "God swears by His life: 'I have no pleasure in the death of the wicked; but that the wicked turn from his way and live.'"
+      },
+      {
+        "id": "q199_4",
+        "type": "true_false",
+        "question": "True or False: According to Ezekiel 33:21, an escapee arrived in Babylonia with the tragic news: 'The city has been struck!' (Jerusalem had fallen).",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 0,
+        "reference": "Ezekiel 33:21",
+        "explanation": "True. A survivor arrived in the twelfth year of captivity announcing the fall of Jerusalem."
+      },
+      {
+        "id": "q199_5",
+        "type": "multiple_choice",
+        "question": "What miraculous change occurred to Ezekiel's speech the evening before the messenger arrived in Ezekiel 33:22?",
+        "options": [
+          "He began speaking in foreign tongues",
+          "Yahweh opened his mouth and he was no longer mute",
+          "He lost his voice completely for forty days",
+          "He sang the songs of David"
+        ],
+        "correctIndex": 1,
+        "reference": "Ezekiel 33:22",
+        "explanation": "Yahweh opened Ezekiel's mouth and he was no longer mute."
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord God of mercy, You who take no pleasure in the death of the wicked, but plead for all to turn and live, awaken my soul to the solemn calling of a watchman. Deliver me from the cowardly silence that refuses to sound the loving alarm of the gospel. Give me boldness to speak Your truth with tears, with compassion, and with clarity. Keep my hands clean of the blood of others. Let Your love compel me to tell a dying world that You offer life, pardon, and eternal hope through Jesus Christ.",
+      "versePrayerLine": "As You live, Lord Yahweh, You have no pleasure in the death of the wicked; use my life to sound the alarm and call wanderers to life.",
+      "prompt": "Ask God for the courage to speak up and share the saving gospel with someone in your circle who is far from God."
+    }
+  },
+  "200": {
+    "day": 200,
+    "character": "Ezekiel",
+    "season": "The Hole in the Wall, the Weeping for Tammuz, and the Solitary Mount of Olives",
+    "theme": "God exposes secret compromise in holy chambers and demonstrates that His presence will not coexist with idols.",
+    "memoryVerse": {
+      "reference": "Ezekiel 10:18",
+      "text": "Yahweh's glory went out from over the threshold of the house, and stood over the cherubim.",
+      "whyItMatters": "God's holy presence cannot remain in a sanctuary that secretly harbors idols; His departure is a tragic warning to guard holiness.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "glory",
+          "threshold",
+          "house",
+          "stood",
+          "cherubim"
+        ],
+        "firstLetters": "Y g w o f o t t o t h, a s o t c."
+      }
+    },
+    "profile": {
+      "title": "Ezekiel in the Temple Courts: Watching the Glory of Yahweh Depart",
+      "who": "Ezekiel supernaturally transported in a vision by the hair of his head from Babylon to the Temple in Jerusalem, witnessing secret idolatry and the progressive departure of the Shekinah glory of God.",
+      "whenAndWhere": "The Temple courts in Jerusalem and the Mount of Olives, sixth year of captivity, circa 592 BC.",
+      "family": "Priestly son of Buzi; prophet of the exile.",
+      "keyMoments": [
+        "While sitting in his house in Babylon with the elders of Judah, the hand of the Lord fell upon Ezekiel; a form like fire lifted him by the hair of his head and brought him in visions of God to Jerusalem.",
+        "Shown the 'image of jealousy' provoked at the north gate of the altar.",
+        "Told to dig through the temple wall; entered a secret dark room where seventy elders of the house of Israel, censers in hand, worshiped carved images of reptiles and abominable beasts painted on the walls, saying: 'Yahweh doesn't see us; Yahweh has forsaken the land.'",
+        "Taken to the north gate where women sat weeping for Tammuz (a Mesopotamian fertility god).",
+        "Taken into the inner court between the porch and the altar, where twenty-five men had their backs turned toward Yahweh's temple and their faces toward the east, worshiping the sun.",
+        "In Ezekiel 9, a man clothed in linen with a writer's inkhorn was commanded to put a mark on the foreheads of those who sigh and cry over all the abominations done in the city, sparing them from judgment.",
+        "In Ezekiel 10, watched the terrifying, progressive departure of the Glory of God: the Shekinah lifted from the Ark in the Holy of Holies to the threshold of the temple; then from the threshold to hover above the cherubim chariot; then out the East Gate of the city; and finally stood upon the Mount of Olives east of Jerusalem before ascending.",
+        "Ichabod was realized: God's manifest presence had abandoned His corrupted temple."
+      ],
+      "strengths": [
+        "Undaunted spiritual perception: looked past outward religious pageantry into the hidden rooms of secret compromise.",
+        "Carried the mark of the godly: sighed and groaned over the abominations of his culture.",
+        "Faithfully recorded the tragic departure of God's glory as a warning to all generations."
+      ],
+      "failures": [
+        "None noted; an accurate, trembling witness of divine holiness."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Ezekiel 8",
+        "title": "Transported by the Spirit: The Four Abominations in the Temple",
+        "verses": [
+          {
+            "number": 3,
+            "text": "He put out the form of a hand, and took me by a lock of my head; and the Spirit lifted me up between earth and heaven, and brought me in the visions of God to Jerusalem... where was the seat of the image of jealousy, which provokes to jealousy."
+          },
+          {
+            "number": 8,
+            "text": "Then he said to me, 'Son of man, dig now in the wall.' When I had dug in the wall, behold, a door."
+          },
+          {
+            "number": 9,
+            "text": "He said to me, 'Go in, and see the wicked abominations that they do here.'"
+          },
+          {
+            "number": 10,
+            "text": "So I went in and saw; and behold, every form of creeping things, and abominable animals, and all the idols of the house of Israel, portrayed around on the wall."
+          },
+          {
+            "number": 12,
+            "text": "Then he said to me, 'Son of man, have you seen what the elders of the house of Israel do in the dark, every man in his rooms of imagery? For they say, \"Yahweh doesn't see us. Yahweh has forsaken the land.\"'"
+          },
+          {
+            "number": 14,
+            "text": "Then he brought me to the door of the gate of Yahweh's house which was toward the north; and behold, there sat the women weeping for Tammuz."
+          },
+          {
+            "number": 16,
+            "text": "He brought me into the inner court of Yahweh's house; and behold... about twenty-five men, with their backs toward Yahweh's temple, and their faces toward the east; and they were worshiping the sun toward the east."
+          }
+        ]
+      },
+      {
+        "reference": "Ezekiel 10",
+        "title": "The Cherubim Wheels and the Glory of Yahweh Departs the Temple",
+        "verses": [
+          {
+            "number": 4,
+            "text": "Yahweh's glory mounted up from the cherub, and stood over the threshold of the house; and the house was filled with the cloud, and the court was full of the brightness of Yahweh's glory."
+          },
+          {
+            "number": 18,
+            "text": "Yahweh's glory went out from over the threshold of the house, and stood over the cherubim."
+          },
+          {
+            "number": 19,
+            "text": "The cherubim lifted up their wings, and mounted up from the earth in my sight when they went out, and the wheels beside them: and they stood at the door of the east gate of Yahweh's house; and the glory of the God of Israel was over them above."
+          },
+          {
+            "number": 23,
+            "text": "(Ezekiel 11:23) Yahweh's glory went up from the middle of the city, and stood on the mountain which is on the east side of the city [the Mount of Olives]."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "God sees what is done in the dark rooms of your heart; His presence will not share a temple with hidden idols.",
+      "reflection": "Ezekiel 8 and 10 provide one of the most chilling exposés in all Scripture. Outwardly, the Temple of Jerusalem looked magnificent. Sacrifices were still burning; priests were still chanting. But God told Ezekiel to dig through the plaster of the wall and look inside. In a hidden, pitch-black room, seventy top leaders of Israel were waving incense before grotesque images of reptiles painted on the walls, whispering: 'The Lord does not see us.' In another court, women wept for the pagan fertility god Tammuz. And between the bronze altar and the holy place, twenty-five priests turned their backs on God's sanctuary to bow down to the rising sun! Notice what happens next: God does not violently slam the door in sudden fury. Watch the slow, reluctant, agonizing steps of God's departure. The glory of Yahweh moves from the Ark to the threshold (Ezekiel 9:3); then lingers at the threshold (10:4); then moves to the cherubim chariot at the East Gate (10:19); and finally pauses upon the Mount of Olives overlooking Jerusalem (11:23), as if weeping, before ascending to heaven! God does not abandon His people hastily; but His holy presence will not dwell in rooms cluttered with secret idols. Centuries later, Jesus walked out of that same temple, paused on that exact same Mount of Olives, wept over Jerusalem, and departed. Guard the temple of your heart. Let no secret reptile paintings hide in the dark."
+    },
+    "lessons": [
+      {
+        "lesson": "God sees every secret thought and hidden idol",
+        "verse": "Ezekiel 8:12",
+        "detail": "'The Lord does not see us' is the foolish delusion of the wicked; God's light penetrates every secret chamber of the heart.",
+        "question": "Is there a secret 'dark room' in your life, thought life, or internet habits that you imagine God does not see?"
+      },
+      {
+        "lesson": "Do not turn your back on the presence of God",
+        "verse": "Ezekiel 8:16",
+        "detail": "Turning your back on God's sanctuary to worship the sun symbolizes preferring created worldly things over the Creator.",
+        "question": "In what subtle ways are you tempted to turn your back on God's presence to chase worldly success or pleasure?"
+      },
+      {
+        "lesson": "Sigh and weep over cultural abominations",
+        "verse": "Ezekiel 9:4",
+        "detail": "God marked for preservation those whose hearts were broken over societal sin, rather than those who laughed or compromised.",
+        "question": "Does the moral decay and injustice in our culture break your heart, or have you grown numb and indifferent?"
+      },
+      {
+        "lesson": "God's presence is our greatest treasure",
+        "verse": "Ezekiel 10:18; 11:23",
+        "detail": "When the Shekinah glory departed, Jerusalem was left defenseless; never forfeit the presence of God for cheap idols.",
+        "question": "How diligently are you guarding your personal fellowship with the Holy Spirit every day?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q200_1",
+        "type": "multiple_choice",
+        "question": "How was Ezekiel transported from Babylon to the Temple in Jerusalem in Ezekiel 8:3?",
+        "options": [
+          "On a royal chariot of Nebuchadnezzar",
+          "The Spirit lifted him up between earth and heaven by a lock of his head in visions of God",
+          "He rode on an Arabian camel for forty days",
+          "An angel carried him across the sea on wings"
+        ],
+        "correctIndex": 1,
+        "reference": "Ezekiel 8:3",
+        "explanation": "A hand took him by a lock of his hair, and the Spirit lifted him between earth and heaven to Jerusalem in visions."
+      },
+      {
+        "id": "q200_2",
+        "type": "multiple_choice",
+        "question": "What secret abomination did Ezekiel discover when he dug through the wall in Ezekiel 8:10-12?",
+        "options": [
+          "A stockpile of Egyptian weapons",
+          "Seventy elders offering incense in the dark before paintings of creeping things and abominable beasts",
+          "A golden calf from Bethel",
+          "A chest of stolen silver"
+        ],
+        "correctIndex": 1,
+        "reference": "Ezekiel 8:10-12",
+        "explanation": "Seventy elders were burning incense in the dark before images of creeping things and idols painted on the wall."
+      },
+      {
+        "id": "q200_3",
+        "type": "multiple_choice",
+        "question": "What were the twenty-five men doing in the inner court between the porch and the altar in Ezekiel 8:16?",
+        "options": [
+          "Singing psalms of David",
+          "With their backs toward Yahweh's temple and their faces toward the east, worshiping the sun",
+          "Weeping over their sins in sackcloth",
+          "Measuring the stones with a reed"
+        ],
+        "correctIndex": 1,
+        "reference": "Ezekiel 8:16",
+        "explanation": "Their backs were turned to God's temple as they bowed east to worship the sun."
+      },
+      {
+        "id": "q200_4",
+        "type": "true_false",
+        "question": "True or False: According to Ezekiel 10:18 and 11:23, the glory of Yahweh moved from the threshold, to the East Gate, and finally stood on the mountain east of the city (the Mount of Olives).",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 0,
+        "reference": "Ezekiel 10:18-19; 11:23",
+        "explanation": "True. The glory of Yahweh departed progressively, lingering on the Mount of Olives east of Jerusalem."
+      },
+      {
+        "id": "q200_5",
+        "type": "multiple_choice",
+        "question": "Who was marked on their foreheads by the man with the writer's inkhorn for preservation in Ezekiel 9:4?",
+        "options": [
+          "Those who gave the most gold to the treasury",
+          "The men who sigh and cry over all the abominations that are done in the city",
+          "The descendants of King David only",
+          "The temple gatekeepers"
+        ],
+        "correctIndex": 1,
+        "reference": "Ezekiel 9:4",
+        "explanation": "God commanded a mark to be placed on the foreheads of those who sigh and cry over the abominations done in Jerusalem."
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Holy, Holy, Holy Lord God, You are of purer eyes than to look upon iniquity, and Your presence will not share a dwelling with idols. Search the hidden rooms of my heart today. If there is any dark chamber where I have entertained secret compromise, worldly imaginations, or hidden sins, shine Your cleansing light upon it! Wash me clean by the blood of Jesus. Forbid that I should ever turn my back upon Your sanctuary to chase worldly suns. Fill me with Your Holy Spirit, and let Your glory dwell richly within me.",
+      "versePrayerLine": "Lord, search the secret chambers of my heart; cleanse me of all hidden idols, that Your holy presence may abide with me forever.",
+      "prompt": "Ask the Holy Spirit to reveal any secret compromise or hidden rationalization in your life, and confess it before Him."
+    }
+  },
+  "201": {
+    "day": 201,
+    "character": "Ezekiel",
+    "season": "The Divine Heart Transplant and the Cleansing Waters",
+    "theme": "God performs divine heart surgery, washing away defilement and giving us His Spirit to walk in His ways.",
+    "memoryVerse": {
+      "reference": "Ezekiel 36:26",
+      "text": "I will also give you a new heart, and I will put a new spirit within you. I will take away the stony heart out of your flesh, and I will give you a heart of flesh.",
+      "whyItMatters": "True spiritual life is impossible with an unregenerate, hard heart; God supernaturally replaces cold stone with a soft, Spirit-filled heart.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "new",
+          "heart",
+          "spirit",
+          "stony",
+          "flesh"
+        ],
+        "firstLetters": "I w a g y a n h, a I w p a n s w y. I w t a t s h o o y f, a I w g y a h o f."
+      }
+    },
+    "profile": {
+      "title": "Ezekiel: The Prophet of the Divine Heart Transplant",
+      "who": "Ezekiel prophesying the glorious spiritual regeneration of God's covenant people, announcing that God's vindication of His holy name includes clean water, a new heart, and His indwelling Spirit.",
+      "whenAndWhere": "Tel Abib in Babylonia, looking forward to the mountains of Israel, circa 585 BC.",
+      "family": "Priestly son of Buzi; prophet of the New Heart.",
+      "keyMoments": [
+        "In Ezekiel 11, while prophesying in Babylon, God promised the exiles: 'Although I have removed them far off among the nations... yet I will be to them a sanctuary for a little while in the countries where they have come.'",
+        "Promised: 'I will give them one heart, and I will put a new spirit within you; and I will take the stony heart out of their flesh, and will give them a heart of flesh; that they may walk in my statutes.'",
+        "In Ezekiel 36, addressed the desolate mountains of Israel that had been mocked by surrounding nations.",
+        "Revealed God's supreme motive: 'I didn't do this for your sake, house of Israel, but for my holy name's sake, which you have profaned among the nations... I will sanctify my great name.'",
+        "Outlined the divine procedure of regeneration: 1) Gathering from all countries; 2) Sprinkling clean water to cleanse from all filthiness and idols; 3) Removing the cold, unresponsive stony heart; 4) Giving a soft, warm heart of flesh; 5) Putting God's own Spirit within them to cause them to walk in His statutes.",
+        "Promised agricultural flourishing: the desolate land will become like the Garden of Eden, so that surrounding nations will know that Yahweh has rebuilt the ruined places."
+      ],
+      "strengths": [
+        "Profound theology of grace: recognized that regeneration is 100% God's supernatural initiative.",
+        "God-centered worldview: grounded salvation in the vindication of God's holy name rather than human merit.",
+        "Clear connection between the indwelling Spirit and practical daily obedience."
+      ],
+      "failures": [
+        "None noted; delivered the foundational Old Testament passage on the New Birth."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Ezekiel 11",
+        "title": "A Sanctuary in Exile and the Promise of a Heart of Flesh",
+        "verses": [
+          {
+            "number": 16,
+            "text": "Therefore say, 'Thus says the Lord Yahweh: \"Whereas I have removed them far off among the nations, and whereas I have scattered them among the countries, yet will I be to them a sanctuary for a little while in the countries where they have come.\"'"
+          },
+          {
+            "number": 19,
+            "text": "'I will give them one heart, and I will put a new spirit within you; and I will take the stony heart out of their flesh, and will give them a heart of flesh;'"
+          },
+          {
+            "number": 20,
+            "text": "'that they may walk in my statutes, and keep my ordinances, and do them: and they shall be my people, and I will be their God.'"
+          }
+        ]
+      },
+      {
+        "reference": "Ezekiel 36",
+        "title": "Clean Water, the Heart Transplant, and the Indwelling Spirit",
+        "verses": [
+          {
+            "number": 22,
+            "text": "Therefore tell the house of Israel, 'Thus says the Lord Yahweh: \"I don't do this for your sake, house of Israel, but for my holy name, which you have profaned among the nations...\"'"
+          },
+          {
+            "number": 25,
+            "text": "'I will sprinkle clean water on you, and you will be clean: from all your filthiness, and from all your idols, will I cleanse you.'"
+          },
+          {
+            "number": 26,
+            "text": "'I will also give you a new heart, and I will put a new spirit within you. I will take away the stony heart out of your flesh, and I will give you a heart of flesh.'"
+          },
+          {
+            "number": 27,
+            "text": "'I will put my Spirit within you, and cause you to walk in my statutes, and you shall keep my ordinances, and do them.'"
+          },
+          {
+            "number": 28,
+            "text": "'You will dwell in the land that I gave to your fathers; and you will be my people, and I will be your God.'"
+          },
+          {
+            "number": 35,
+            "text": "They will say, 'This land that was desolate has become like the garden of Eden; and the waste and desolate and ruined cities are fortified and inhabited.'"
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "You cannot fix your old heart with self-help; God must perform divine surgery, replacing stone with His living Spirit.",
+      "reflection": "The fundamental problem of humanity is not lack of education, lack of money, or poor environment. The fundamental problem is that the human heart is made of cold, stubborn stone! A stone heart feels no conviction; a stone heart cannot love God; a stone heart cannot obey His Word. You can polish a stone, you can lecture a stone, you can paint a stone with religious rules, but it remains dead rock. That is why God does not offer a self-improvement program. In Ezekiel 36:26-27, God offers divine heart surgery! Look at the 'I will' statements of Almighty God: 'I will sprinkle clean water on you, and you will be clean from all your filthiness and idols! I will give you a new heart, and a new spirit I will put within you! I will take away the heart of stone and give you a heart of flesh! And I will put My Spirit within you, and cause you to walk in My statutes!' Notice who does the heavy lifting: God does it all! When Jesus told Nicodemus in John 3, 'You must be born again of water and the Spirit,' He was quoting Ezekiel 36. God cleanses your past, replaces your cold heart with a warm, responsive heart of flesh, and places His own Holy Spirit inside you so that obedience becomes natural. Stop trying to reform your stony flesh. Yield to the Master Surgeon and receive a brand-new heart today."
+    },
+    "lessons": [
+      {
+        "lesson": "Salvation is for the glory of God's holy name",
+        "verse": "Ezekiel 36:22-23",
+        "detail": "God saves us not because we deserved it, but to vindicate His great name and demonstrate His magnificent holiness to the nations.",
+        "question": "How does realizing that salvation is for God's glory humble your pride and deepen your worship?"
+      },
+      {
+        "lesson": "Clean water washes away every defilement",
+        "verse": "Ezekiel 36:25; Titus 3:5",
+        "detail": "God's grace completely purges past filthiness, shame, and idol addictions, making the believer totally clean.",
+        "question": "Are you still walking in guilt, or have you accepted God's promise that you are truly clean in Christ?"
+      },
+      {
+        "lesson": "Only God can perform the heart transplant",
+        "verse": "Ezekiel 36:26",
+        "detail": "No human willpower can soften a stony heart; regeneration is the supernatural, miraculous work of God alone.",
+        "question": "Have you experienced the miracle of the new birth, where your old stony heart was replaced with a heart that loves God?"
+      },
+      {
+        "lesson": "The indwelling Spirit empowers daily obedience",
+        "verse": "Ezekiel 36:27; Galatians 5:16",
+        "detail": "God does not leave us to obey in human weakness; He places His Holy Spirit within us to 'cause' us to walk in His statutes.",
+        "question": "Are you walking in dependence on the Holy Spirit's power to live a life of joy and holiness?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q201_1",
+        "type": "multiple_choice",
+        "question": "What promise did God make to the exiled captives in Ezekiel 11:16 concerning His presence?",
+        "options": [
+          "'I will build them a palace in Babylon'",
+          "'Yet will I be to them a sanctuary for a little while in the countries where they have come'",
+          "'I will never speak to them again'",
+          "'They will serve the Chaldeans forever'"
+        ],
+        "correctIndex": 1,
+        "reference": "Ezekiel 11:16",
+        "explanation": "God promised to be 'a sanctuary for a little while' to His exiled people in the lands where they were scattered."
+      },
+      {
+        "id": "q201_2",
+        "type": "multiple_choice",
+        "question": "Why does God declare He will restore Israel in Ezekiel 36:22?",
+        "options": [
+          "'Because your armies fought valiantly'",
+          "'Not for your sake, house of Israel, but for my holy name, which you have profaned among the nations'",
+          "'Because you built altars in Babylon'",
+          "'Because of your righteous deeds'"
+        ],
+        "correctIndex": 1,
+        "reference": "Ezekiel 36:22",
+        "explanation": "God explicitly declares: 'I don't do this for your sake, house of Israel, but for my holy name.'"
+      },
+      {
+        "id": "q201_3",
+        "type": "multiple_choice",
+        "question": "What divine heart surgery does God promise to perform in Ezekiel 36:26?",
+        "options": [
+          "He will harden their hearts like Pharaoh",
+          "'I will also give you a new heart... I will take away the stony heart out of your flesh, and I will give you a heart of flesh'",
+          "He will make their hearts proud like lions",
+          "He will give them a heart of gold and silver"
+        ],
+        "correctIndex": 1,
+        "reference": "Ezekiel 36:26",
+        "explanation": "God promises: 'I will take away the stony heart out of your flesh, and I will give you a heart of flesh.'"
+      },
+      {
+        "id": "q201_4",
+        "type": "true_false",
+        "question": "True or False: According to Ezekiel 36:27, God promises: 'I will put my Spirit within you, and cause you to walk in my statutes.'",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 0,
+        "reference": "Ezekiel 36:27",
+        "explanation": "True. God places His Spirit within us to cause us to walk in His statutes and obey His ordinances."
+      },
+      {
+        "id": "q201_5",
+        "type": "multiple_choice",
+        "question": "What garden does God compare the restored, formerly desolate land to in Ezekiel 36:35?",
+        "options": [
+          "The Hanging Gardens of Babylon",
+          "The Garden of Eden",
+          "The vineyards of En Gedi",
+          "The olive groves of Gethsemane"
+        ],
+        "correctIndex": 1,
+        "reference": "Ezekiel 36:35",
+        "explanation": "Nations will say: 'This land that was desolate has become like the garden of Eden.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Gracious Father, not for my sake, but for Your holy name's sake, You have redeemed my soul. Thank You for performing the miracle of the new birth in my life! Thank You for sprinkling clean water upon my conscience, washing away my past filthiness, and smashing every idol. Take away every remaining trace of stone and hardness in my heart. Give me a soft, tender, responsive heart of flesh. Fill me with Your Holy Spirit today, and cause my feet to walk in Your holy statutes with joy.",
+      "versePrayerLine": "Lord, put a new heart and a new spirit within me; take away the heart of stone and cause me to walk in Your ways by Your Spirit.",
+      "prompt": "Yield your heart to the Holy Spirit right now, asking Him to soften any hardened attitude or resistant area in your life."
+    }
+  },
+  "202": {
+    "day": 202,
+    "character": "Ezekiel",
+    "season": "The Sun-Bleached Skeleton Field and the Four Winds of Ruach",
+    "theme": "The breath of the Almighty resurrects dead, dry, scattered hopes into a living army of God.",
+    "memoryVerse": {
+      "reference": "Ezekiel 37:5",
+      "text": "Thus says the Lord Yahweh to these bones: 'Behold, I will cause breath to enter into you, and you will live.'",
+      "whyItMatters": "No situation is too dead, scattered, or dry for the Word of God and the breath of the Spirit to resurrect into a mighty army.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "bones",
+          "cause",
+          "breath",
+          "enter",
+          "live"
+        ],
+        "firstLetters": "T s t L Y t t b: 'B, I w c b t e i y, a y w l.'"
+      }
+    },
+    "profile": {
+      "title": "Ezekiel in the Valley of Dry Bones: The Resurrection of a Dead Nation",
+      "who": "Ezekiel set down by the Spirit of Yahweh in the midst of a vast valley filled with millions of sun-bleached human bones, commanded to prophesy to dead skeletons and to the four winds.",
+      "whenAndWhere": "A vast desert valley in Babylonia, circa 585 BC.",
+      "family": "Priestly son of Buzi; prophet of the Spirit (Ruach).",
+      "keyMoments": [
+        "The hand of Yahweh was on Ezekiel, and carried him out in the Spirit, setting him down in the middle of a valley full of bones.",
+        "Led him back and forth among them; there were very many on the open valley, and behold, they were 'very dry'—long dead, marrow desiccated, hope extinguished.",
+        "God asked the piercing question: 'Son of man, can these bones live?' Ezekiel answered with holy reverence: 'Lord Yahweh, you know.'",
+        "God commanded him to do something humanly absurd: 'Prophesy over these bones, and tell them, \"You dry bones, hear Yahweh's word!\"'",
+        "Ezekiel prophesied as commanded; suddenly there was a rattling noise, and the bones came together, bone to its bone.",
+        "Sinews and flesh came up on them, and skin covered them over; but there was no breath in them—they were merely corpses.",
+        "God commanded the second stage: 'Prophesy to the wind (Ruach/Spirit)... \"Come from the four winds, breath, and breathe on these slain, that they may live.\"'",
+        "Ezekiel prophesied; breath entered into them, they lived, and stood up on their feet, an exceedingly great army.",
+        "God gave the interpretation: 'Son of man, these bones are the whole house of Israel. Behold, they say, \"Our bones are dried up, and our hope is lost; we are completely cut off.\" Therefore prophesy... \"Behold, I will open your graves, and cause you to come up out of your graves, my people... and I will put my Spirit in you, and you will live!\"'",
+        "Joined two sticks together (Judah and Joseph) into one stick in his hand, prophesying one united nation under one Shepherd-King forever."
+      ],
+      "strengths": [
+        "Unquestioning obedience to preach God's Word to seemingly hopeless, dead audiences.",
+        "Understood that preaching truth must be paired with crying out for the breath of the Holy Spirit.",
+        "Grounded resurrection hope in the sovereign power of Yahweh."
+      ],
+      "failures": [
+        "None noted; one of Scripture's greatest demonstrations of prophetic faith."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Ezekiel 37",
+        "title": "The Valley of Dry Bones and the Two Sticks Joined into One",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Yahweh's hand was on me, and he brought me out in Yahweh's Spirit, and set me down in the middle of the valley; and it was full of bones."
+          },
+          {
+            "number": 2,
+            "text": "He caused me to pass by them all around: and behold, there were very many in the open valley; and behold, they were very dry."
+          },
+          {
+            "number": 3,
+            "text": "He said to me, 'Son of man, can these bones live?' I answered, 'Lord Yahweh, you know.'"
+          },
+          {
+            "number": 4,
+            "text": "Again he said to me, 'Prophesy over these bones, and tell them, \"You dry bones, hear Yahweh's word!\"'"
+          },
+          {
+            "number": 5,
+            "text": "'Thus says the Lord Yahweh to these bones: \"Behold, I will cause breath to enter into you, and you will live.\"'"
+          },
+          {
+            "number": 7,
+            "text": "So I prophesied as I was commanded: and as I prophesied, there was a noise, and behold, an earthquake; and the bones came together, bone to its bone."
+          },
+          {
+            "number": 9,
+            "text": "Then he said to me, 'Prophesy to the wind, prophesy, son of man, and tell the wind, \"Thus says the Lord Yahweh: 'Come from the four winds, breath, and breathe on these slain, that they may live.'\"'"
+          },
+          {
+            "number": 10,
+            "text": "So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up on their feet, an exceedingly great army."
+          },
+          {
+            "number": 14,
+            "text": "'I will put my Spirit in you, and you will live, and I will place you in your own land: and you will know that I, Yahweh, have spoken it, and performed it,' says Yahweh."
+          }
+        ]
+      },
+      {
+        "reference": "Romans 8",
+        "title": "The Spirit of Life Gives Life to Your Mortal Bodies",
+        "verses": [
+          {
+            "number": 9,
+            "text": "But you are not in the flesh but in the Spirit, if it is so that the Spirit of God dwells in you. But if any man doesn't have the Spirit of Christ, he is not his."
+          },
+          {
+            "number": 10,
+            "text": "If Christ is in you, the body is dead because of sin, but the spirit is alive because of righteousness."
+          },
+          {
+            "number": 11,
+            "text": "But if the Spirit of him who raised up Jesus from the dead dwells in you, he who raised up Christ Jesus from the dead will also give life to your mortal bodies through his Spirit who dwells in you."
+          },
+          {
+            "number": 14,
+            "text": "For as many as are led by the Spirit of God, these are children of God."
+          },
+          {
+            "number": 16,
+            "text": "The Spirit himself testifies with our spirit that we are children of God."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "No situation, dream, or soul is too dry for the breath of the Holy Spirit to resurrect into a living army.",
+      "reflection": "Look at the valley where God set Ezekiel down. It was not a hospital room with sick patients; it was an ancient battlefield littered with millions of white, sun-bleached skeletons. The marrow was gone. The joints were scattered. And God asks the prophet: 'Son of man, can these bones live?' Human logic answers, 'Impossible; dead bones don't live.' But Ezekiel possessed the wisdom of faith: 'Lord God, You know!' And then God gave a two-part strategy that defines all true ministry. First, prophesy to the bones: preach the Word of God! Ezekiel preached to skeletons, and suddenly an earthquake rattled the valley! Femurs snapped into hip sockets, ribs formed cages, sinews knit, and skin wrapped around them. But notice verse 8: they were perfectly formed bodies, but 'there was no breath in them.' You can have perfect structure, magnificent buildings, and orthodox theology, but without the Holy Spirit, it is still a room full of corpses! Then came part two: 'Prophesy to the wind (Ruach)! Breathe on these slain that they may live!' When the breath of God entered, dead corpses stood up on their feet—an exceedingly great army! Romans 8:11 proclaims that the same Spirit who raised Jesus from the dead lives in you. Never say your marriage, your child, your church, or your hopes are too dead. Speak the Word, pray for the Breath, and watch God resurrect an army."
+    },
+    "lessons": [
+      {
+        "lesson": "Preach God's Word to hopeless situations",
+        "verse": "Ezekiel 37:4-7",
+        "detail": "Ezekiel obeyed God by preaching to dry bones; never underestimate the creative, resurrecting power of the spoken Word of God.",
+        "question": "What seemingly 'hopeless' or 'dead' situation in your life needs to be covered in the promises of God's Word?"
+      },
+      {
+        "lesson": "Structure without the Spirit is still a corpse",
+        "verse": "Ezekiel 37:8-9",
+        "detail": "Bones and skin came together, but life did not occur until the breath (Ruach) of the Spirit was prayed into them.",
+        "question": "In your ministry and church, are you relying on clever organization and programs, or desperately seeking the Holy Spirit's breath?"
+      },
+      {
+        "lesson": "God opens the graves of despair",
+        "verse": "Ezekiel 37:11-14",
+        "detail": "When Israel cried, 'Our bones are dried up, our hope is lost,' God answered by opening their graves and putting His Spirit in them.",
+        "question": "Are you struggling with despair or feeling that your hopes are lost? Can you trust God to open your grave?"
+      },
+      {
+        "lesson": "The Resurrection Spirit lives in you",
+        "verse": "Romans 8:11",
+        "detail": "The identical power that brought Jesus Christ out of the tomb indwells every believer to give supernatural life and victory.",
+        "question": "How does knowing that the Spirit of resurrection lives inside you empower your daily walk over sin and fear?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q202_1",
+        "type": "multiple_choice",
+        "question": "What condition were the bones in when Ezekiel was set down in the valley in Ezekiel 37:2?",
+        "options": [
+          "Freshly buried with cedar oil",
+          "There were very many in the open valley, and behold, they were very dry",
+          "Enclosed in stone ossuaries",
+          "Covered in gold dust"
+        ],
+        "correctIndex": 1,
+        "reference": "Ezekiel 37:2",
+        "explanation": "Ezekiel observed that there were very many bones and they were 'very dry.'"
+      },
+      {
+        "id": "q202_2",
+        "type": "multiple_choice",
+        "question": "How did Ezekiel answer when God asked, 'Son of man, can these bones live?' in Ezekiel 37:3?",
+        "options": [
+          "'No, they are dead forever'",
+          "'Lord Yahweh, you know'",
+          "'Only if we bring water from the Jordan'",
+          "'Yes, by human science'"
+        ],
+        "correctIndex": 1,
+        "reference": "Ezekiel 37:3",
+        "explanation": "Ezekiel replied in humble faith: 'Lord Yahweh, you know.'"
+      },
+      {
+        "id": "q202_3",
+        "type": "multiple_choice",
+        "question": "What happened during the first stage of Ezekiel's prophesying in Ezekiel 37:7-8?",
+        "options": [
+          "The bones burned into ashes",
+          "There was an earthquake, bones came together, sinews and flesh grew on them, but there was no breath in them",
+          "They stood up and sang a psalm",
+          "A river washed them away"
+        ],
+        "correctIndex": 1,
+        "reference": "Ezekiel 37:7-8",
+        "explanation": "The bones came together with sinews, flesh, and skin, but there was no breath in them yet."
+      },
+      {
+        "id": "q202_4",
+        "type": "true_false",
+        "question": "True or False: In Ezekiel 37:10, when Ezekiel prophesied to the breath (wind), breath entered into them, they lived, and stood on their feet, an exceedingly great army.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 0,
+        "reference": "Ezekiel 37:10",
+        "explanation": "True. The breath entered them and they stood upon their feet, an exceedingly great army."
+      },
+      {
+        "id": "q202_5",
+        "type": "multiple_choice",
+        "question": "According to Romans 8:11, what will the Spirit of Him who raised Jesus from the dead do for believers?",
+        "options": [
+          "Give them chariots of iron",
+          "Give life to your mortal bodies through his Spirit who dwells in you",
+          "Make them exempt from all earthly suffering",
+          "Build them palaces in Jerusalem"
+        ],
+        "correctIndex": 1,
+        "reference": "Romans 8:11",
+        "explanation": "Romans 8:11 guarantees that He will give life to our mortal bodies through His Spirit who dwells within us."
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord God of the valley, You are the God of resurrection and life! When I look at dry bones, dead dreams, and scattered hopes and ask, 'Can these bones live?', remind my soul: You know! You are the God who opens graves. Speak Your living Word over my dry places today. And breathe, O Holy Spirit! Come from the four winds and breathe upon my soul, upon my family, upon my church, that we may stand on our feet, an exceedingly great army of living, Spirit-filled disciples marching for Your kingdom.",
+      "versePrayerLine": "Come from the four winds, O Breath of God, and breathe upon these dry bones, that they may live and stand for You.",
+      "prompt": "Identify an area of your spiritual life or community that feels 'dry,' and pray specifically for the breath of the Holy Spirit to bring life."
+    }
+  },
+  "203": {
+    "day": 203,
+    "character": "Ezekiel",
+    "season": "The Trickling Threshold, the Swimming Waters, and the Sweetened Dead Sea",
+    "theme": "The healing river of God's presence deepens from ankle to swimming waters, bringing life wherever it flows.",
+    "memoryVerse": {
+      "reference": "Ezekiel 47:9",
+      "text": "It will happen that every living creature that swarms, in every place where the river goes, will live... and everything will live where the river comes.",
+      "whyItMatters": "The river of the Holy Spirit flows from the throne of God, transforming the deadliest wastelands into flourishing fountains of eternal life.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "living",
+          "creature",
+          "river",
+          "live",
+          "comes"
+        ],
+        "firstLetters": "I w h t e l c t s, i e p w t r g, w l... a e w l w t r c."
+      }
+    },
+    "profile": {
+      "title": "Ezekiel at the River of the Sanctuary: Ankle Deep to Waters to Swim In",
+      "who": "Ezekiel led by an angelic guide with a measuring line into a vision of the millennial temple, watching a trickle of water flowing from under the threshold become an unfordable river of supernatural healing.",
+      "whenAndWhere": "The visionary Temple on Mount Zion and the desert ravine down to the Dead Sea, circa 573 BC.",
+      "family": "Priestly prophet of Buzi; visionary of the new temple and new creation.",
+      "keyMoments": [
+        "Led to the door of the temple house, where he saw water issuing out from under the threshold eastward, flowing down south of the altar.",
+        "A celestial man with a measuring line in his hand measured a thousand cubits (about 1,500 feet) and led Ezekiel through the water; the water was ankle-deep.",
+        "Measured another thousand cubits and led him through; the water was knee-deep.",
+        "Measured another thousand cubits; the water was waist-deep.",
+        "Measured another thousand cubits; and it was a river that Ezekiel could not pass through: waters to swim in, a river that could not be crossed on foot.",
+        "The angel asked: 'Son of man, have you seen this?' and led him back to the riverbank.",
+        "Beheld exceedingly many trees on both sides of the river; the angel explained: 'These waters issue out toward the eastern region, and go down into the Arabah (wilderness), and go into the sea... and the waters shall be healed.'",
+        "Proclaimed the life-giving promise: 'Every living creature that swarms, in every place where the river goes, will live... Fishermen will stand by it from En Gedi to En Eglaim... their fish will be of many kinds, like the fish of the Great Sea, exceedingly many.'",
+        "Fruit trees will grow on both banks whose leaves will not wither and whose fruit will not fail: 'Every month they will bear fresh fruit, because its waters issue out of the sanctuary. Its fruit will be for food, and its leaf for healing.'",
+        "The vision reaches its New Testament fulfillment in Revelation 22:1-2 with the river of the water of life proceeding from the throne of God and of the Lamb."
+      ],
+      "strengths": [
+        "Willingness to wade deeper into God's presence from ankles to knees, waist, and swimming waters.",
+        "Deep prophetic insight into the global, life-giving reach of God's sanctuary grace.",
+        "Connected temple worship with ecological, physical, and spiritual healing."
+      ],
+      "failures": [
+        "None noted; an ecstatic vision of pure hope."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Ezekiel 47",
+        "title": "The River from the Threshold: Ankle Deep, Waist Deep, and the Healed Sea",
+        "verses": [
+          {
+            "number": 1,
+            "text": "He brought me back to the door of the house; and behold, waters issued out from under the threshold of the house eastward... and the waters came down from under, from the right side of the house, on the south of the altar."
+          },
+          {
+            "number": 3,
+            "text": "When the man went out eastward with the line in his hand, he measured one thousand cubits, and he caused me to pass through the waters, waters that were to the ankles."
+          },
+          {
+            "number": 4,
+            "text": "Again he measured one thousand, and caused me to pass through the waters, waters that were to the knees. Again he measured one thousand, and caused me to pass through the waters, waters that were to the waist."
+          },
+          {
+            "number": 5,
+            "text": "Afterward he measured one thousand; and it was a river that I couldn't pass through; for the waters were risen, waters to swim in, a river that couldn't be passed through."
+          },
+          {
+            "number": 8,
+            "text": "Then he said to me, 'These waters issue out toward the eastern region, and shall go down into the Arabah; and they shall go into the sea; into the sea shall the waters go which were made to issue forth; and the waters shall be healed.'"
+          },
+          {
+            "number": 9,
+            "text": "'It will happen that every living creature that swarms, in every place where the river goes, will live... and everything will live where the river comes.'"
+          },
+          {
+            "number": 12,
+            "text": "'By the river on its bank, on this side and on that side, will grow all trees for food, whose leaf won't wither, neither will its fruit fail. It will produce new fruit every month, because its waters issue out of the sanctuary; and its fruit will be for food, and its leaf for healing.'"
+          }
+        ]
+      },
+      {
+        "reference": "Revelation 22",
+        "title": "The River of Water of Life Proceeding from the Throne of the Lamb",
+        "verses": [
+          {
+            "number": 1,
+            "text": "He showed me a river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb,"
+          },
+          {
+            "number": 2,
+            "text": "in the middle of its street. On this side of the river and on that was the tree of life, bearing twelve kinds of fruits, yielding its fruit every month. The leaves of the tree were for the healing of the nations."
+          },
+          {
+            "number": 3,
+            "text": "There will be no curse any more. The throne of God and of the Lamb will be in it, and his servants will serve him."
+          },
+          {
+            "number": 4,
+            "text": "They will see his face, and his name will be on their foreheads."
+          },
+          {
+            "number": 17,
+            "text": "The Spirit and the bride say, 'Come!' He who hears, let him say, 'Come!' He who is thirsty, let him come. He who desires, let him take the water of life freely."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Do not remain on the shallow banks of religion; wade out into the deep river of the Spirit where everything lives.",
+      "reflection": "Ezekiel's vision of the river begins with a tiny trickle. Water was seeping out from under the temple threshold, right beside the altar of sacrifice. Notice where life begins: at the altar! The river of the Holy Spirit always flows from the cross of Jesus Christ. But watch what happens as the angel measures: at 1,500 feet, the water is ankle-deep. Many Christians live their entire lives in ankle-deep water. It feels refreshing, but their feet are still firmly on the sand; they are still in total control. The angel measures another thousand cubits: now it is knee-deep. That is the place of prayer, submission, and deeper consecration. Another thousand cubits: waist-deep! The current is pulling; it is getting harder to walk in human strength. And then another thousand cubits: waters to swim in! A river so deep and vast that your feet can no longer touch the bottom! You are completely carried by the current of God's sovereign grace! And look at what this river does: it flows straight down the barren Judean desert into the Dead Sea—the saltiest, most toxic, lifeless body of water on earth. And the moment the river enters, the Dead Sea is supernaturally healed! Swarms of fish fill the waters; fishermen cast nets from En Gedi; fruit trees blossom on the banks every month with leaves that heal nations! In John 7:38, Jesus cried: 'Whoever believes in Me, out of his heart will flow rivers of living water!' Stop splashing in the shallows of religion. Dive into the river of God."
+    },
+    "lessons": [
+      {
+        "lesson": "Wade deeper into God's presence",
+        "verse": "Ezekiel 47:3-5",
+        "detail": "Do not settle for ankle-deep Christianity; pursue God until you are in 'waters to swim in'—totally surrendered to the Spirit.",
+        "question": "Are you living in the shallow ankle-waters of self-control, or are you surrendering to the deep flow of the Holy Spirit?"
+      },
+      {
+        "lesson": "The River flows from the altar",
+        "verse": "Ezekiel 47:1; Revelation 22:1",
+        "detail": "The life-giving stream originates beside the altar of sacrifice, reminding us that all spiritual life flows from the cross of Christ.",
+        "question": "Is your spiritual life rooted in the sacrificial cross and resurrection of Jesus?"
+      },
+      {
+        "lesson": "Everything lives where the River flows",
+        "verse": "Ezekiel 47:9",
+        "detail": "The river turned the toxic Dead Sea into a teeming freshwater ecosystem; God's Spirit can heal the most toxic situation.",
+        "question": "What 'Dead Sea' in your family, community, or heart needs the healing, life-giving flow of God's presence?"
+      },
+      {
+        "lesson": "Drink of the water of life freely",
+        "verse": "Revelation 22:1-2, 17",
+        "detail": "The Spirit and the Bride say 'Come!'; Jesus invites every thirsty soul to take the water of eternal life without cost.",
+        "question": "Are you coming daily to Jesus to drink from His living water, and inviting other thirsty souls to join you?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q203_1",
+        "type": "multiple_choice",
+        "question": "Where did the water originate in Ezekiel's vision in Ezekiel 47:1?",
+        "options": [
+          "From a spring on Mount Hermon",
+          "Out from under the threshold of the house (temple) eastward, on the south of the altar",
+          "From the clouds above Jerusalem",
+          "From the Pool of Bethesda"
+        ],
+        "correctIndex": 1,
+        "reference": "Ezekiel 47:1",
+        "explanation": "The waters issued out from under the threshold of the temple eastward, south of the altar."
+      },
+      {
+        "id": "q203_2",
+        "type": "multiple_choice",
+        "question": "What four progressive water depths did the angelic guide measure in Ezekiel 47:3-5?",
+        "options": [
+          "Inches, feet, yards, and miles",
+          "To the ankles, to the knees, to the waist, and waters to swim in",
+          "Up to the toes, chest, chin, and hair",
+          "Shallow, muddy, stormy, and ocean"
+        ],
+        "correctIndex": 1,
+        "reference": "Ezekiel 47:3-5",
+        "explanation": "The waters deepened progressively: ankles, knees, waist, and waters to swim in."
+      },
+      {
+        "id": "q203_3",
+        "type": "multiple_choice",
+        "question": "What happens when the river enters the Dead Sea in Ezekiel 47:8-9?",
+        "options": [
+          "The Dead Sea dries up completely",
+          "The waters are healed, swarms of living creatures live, and fishermen spread nets from En Gedi to En Eglaim",
+          "The sea turns to sulfur and fire",
+          "The waters turn into bitter wormwood"
+        ],
+        "correctIndex": 1,
+        "reference": "Ezekiel 47:8-10",
+        "explanation": "The waters of the sea are healed, fish multiply exceedingly, and fishermen spread nets from En Gedi."
+      },
+      {
+        "id": "q203_4",
+        "type": "true_false",
+        "question": "True or False: According to Ezekiel 47:12, the fruit trees on the riverbanks will produce new fruit every month, and their leaves will be for healing.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 0,
+        "reference": "Ezekiel 47:12",
+        "explanation": "True. The trees bear fruit every month and their leaves are for healing, echoed in Revelation 22:2."
+      },
+      {
+        "id": "q203_5",
+        "type": "multiple_choice",
+        "question": "Where does the river of the water of life proceed from in Revelation 22:1?",
+        "options": [
+          "From the gates of the New Jerusalem",
+          "Out of the throne of God and of the Lamb",
+          "From Mount Sinai",
+          "From the river Jordan"
+        ],
+        "correctIndex": 1,
+        "reference": "Revelation 22:1",
+        "explanation": "Revelation 22:1 describes the river of the water of life proceeding out of the throne of God and of the Lamb."
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, Lamb upon the throne, You are the Fountain of living waters! I thank You that from Your pierced side on the cross, the river of life has flowed out to heal a dying world. Forgive me for splashing timidly in the ankle-deep shallows of self-controlled religion. Take me deeper, Lord! Lead me past my knees, past my waist, until I am swimming in the ocean of Your sovereign grace, carried by Your Holy Spirit. Let Your river flow through my heart today to bring life, healing, and fruitfulness wherever it goes.",
+      "versePrayerLine": "Everything will live where the river comes! Let Your living water flow through my soul to heal and bring life to all.",
+      "prompt": "Ask the Holy Spirit to take you into deeper surrender today, yielding whatever area you have kept in self-control."
+    }
+  },
+  "204": {
+    "character": "Daniel",
+    "closingPrayer": {
+      "guidedPrayer": "Lord God of heaven and earth, You are the guardian of my soul in a culture filled with compromise. Like Daniel in Babylon, give me the quiet courage to purpose in my heart that I will not defile my conscience with the passing luxuries and delusions of this world. Fill me with gracious wisdom, tactful speech, and unyielding faithfulness. Let my life shine with the purity of Your Holy Spirit.",
+      "prompt": "Offer to God the specific area of your life where you feel the greatest cultural pressure to conform, asking Him for holy resolve.",
+      "versePrayerLine": "Grant that I may purpose in my heart not to defile myself, knowing that Your grace is ten times richer than all the treasures of this world."
+    },
+    "day": 204,
+    "lessons": [
+      {
+        "detail": "Daniel made up his mind before the platter of royal meat reached his table; undecided hearts inevitably surrender under pressure.",
+        "lesson": "Conviction Must Precede Temptation",
+        "question": "What spiritual boundaries have you firmly resolved never to cross in your workplace or culture?",
+        "verse": "Daniel 1:8"
+      },
+      {
+        "detail": "Daniel combined resolute inner firmness with polite, practical diplomacy that respected the overseer's genuine dilemma.",
+        "lesson": "Courage Can Be Clothed in Gentleness",
+        "question": "How can you stand firm in biblical convictions while treating supervisors and colleagues with genuine courtesy?",
+        "verse": "Daniel 1:12-13"
+      },
+      {
+        "detail": "Ten days of humble pulse and water with God's blessing produced more radiant health than all the luxury of imperial palaces.",
+        "lesson": "God's Provision Outshines the World's Banquets",
+        "question": "Where are you tempted to believe that worldly shortcuts will nourish you better than humble obedience?",
+        "verse": "Daniel 1:15"
+      },
+      {
+        "detail": "God Himself gave Daniel and his friends extraordinary cognitive acuity and discernment because their hearts were pure vessels.",
+        "lesson": "Spiritual Integrity Unlocks True Intellectual Mastery",
+        "question": "Do you invite the Holy Spirit into your studies, career decisions, and intellectual pursuits?",
+        "verse": "Daniel 1:17"
+      }
+    ],
+    "memoryVerse": {
+      "cramData": {
+        "blankWords": [
+          "purposed",
+          "heart",
+          "defile",
+          "dainties",
+          "requested"
+        ],
+        "firstLetters": "B D p i h h t h w n d h w t k d, n w t w w h d. T h r o t p o t e t h m n d h.",
+        "readTarget": 3
+      },
+      "reference": "Daniel 1:8",
+      "text": "But Daniel purposed in his heart that he would not defile himself with the king's dainties, nor with the wine which he drank. Therefore he requested of the prince of the eunuchs that he might not defile himself.",
+      "whyItMatters": "Before crisis storms arrive, holy convictions must already be settled in the quiet chamber of the heart."
+    },
+    "notesPrompt": "Write about a subtle pressure in your current environment tempting you to blend in or compromise. What would 'purposing in your heart' look like today?",
+    "profile": {
+      "failures": [
+        "None recorded in Scripture; remembered by Ezekiel alongside Noah and Job for exceptional righteousness (Ezekiel 14:14)."
+      ],
+      "family": "Of the royal seed of Judah (likely a descendant of Hezekiah); fellow companions Hananiah, Mishael, and Azariah.",
+      "keyMoments": [
+        "Exiled as a teenager during the first siege of Jerusalem under Nebuchadnezzar.",
+        "Enrolled in a rigorous three-year Babylonian academy designed to re-educate, assimilate, and rename him Belteshazzar ('Bel protect his life').",
+        "Faced with royal food and wine dedicated to idols, Daniel quietly purposed in his heart not to defile himself.",
+        "Negotiated with Ashpenaz and the steward Melzar with great courtesy and wisdom, proposing a ten-day test of pulse (vegetables) and water.",
+        "At the end of ten days, their countenances appeared fairer and fatter in flesh than all the youths eating royal delicacies.",
+        "God granted Daniel and his companions exceptional knowledge, skill in learning, and wisdom; Daniel understood all visions and dreams.",
+        "Examined by Nebuchadnezzar, they were found ten times better than all the magicians and astrologers in the realm."
+      ],
+      "strengths": [
+        "Steadfast moral clarity rooted in Torah before public temptation.",
+        "Extraordinary tact and respectful approach toward heathen authorities.",
+        "Patient trust that God would vindicate obedience without aggressive confrontation."
+      ],
+      "title": "Daniel (Belteshazzar): The Princely Exile of Unshakable Purpose",
+      "whenAndWhere": "Babylon (Mesopotamia), circa 605–602 BC, early reign of King Nebuchadnezzar.",
+      "who": "A noble youth of Judah carried into Babylonian captivity in 605 BC, chosen for royal training, who resolved never to defile his conscience and served through multiple dynasties for over seven decades."
+    },
+    "quiz": [
+      {
+        "correctIndex": 1,
+        "explanation": "Daniel 1:8 states that Daniel purposed in his heart not to defile himself with the king's delicacies or wine.",
+        "id": 1,
+        "options": [
+          "To demand an immediate return to Jerusalem",
+          "Not to defile himself with the king's dainties or wine",
+          "To fast completely from all food and water",
+          "To poison the food of the Babylonian guards"
+        ],
+        "question": "What did Daniel resolve in his heart regarding the king's royal provisions?",
+        "reference": "Daniel 1:8",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 2,
+        "explanation": "Daniel requested: 'Please test your servants ten days; and let them give us vegetables to eat, and water to drink.'",
+        "id": 2,
+        "options": [
+          "Three days",
+          "Seven days",
+          "Ten days",
+          "Forty days"
+        ],
+        "question": "How long was the dietary test proposed by Daniel to Melzar?",
+        "reference": "Daniel 1:12",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "False. Their faces appeared fairer and fatter in flesh than all the youths who ate of the king's food.",
+        "id": 3,
+        "options": [
+          "True",
+          "False"
+        ],
+        "question": "True or False: At the end of ten days, the four Hebrew youths appeared malnourished compared to the other youths.",
+        "reference": "Daniel 1:15",
+        "type": "true-false"
+      },
+      {
+        "correctIndex": 2,
+        "explanation": "The king found them ten times better than all the magicians and enchanters who were in all his realm.",
+        "id": 4,
+        "options": [
+          "Twice as good",
+          "Five times better",
+          "Ten times better",
+          "A hundred times better"
+        ],
+        "question": "When Nebuchadnezzar examined Daniel and his friends, how much better did he find them than all his magicians?",
+        "reference": "Daniel 1:20",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "Psalm 119:11 declares: 'I have hidden your word in my heart, that I might not sin against you.'",
+        "id": 5,
+        "options": [
+          "To win theological debates with skeptics",
+          "That we might not sin against the Lord",
+          "To gain worldly fame and wealth",
+          "To impress the priests and elders"
+        ],
+        "question": "According to Psalm 119:11, what is the key purpose of hiding God's Word in one's heart?",
+        "reference": "Psalm 119:11",
+        "type": "multiple-choice"
+      }
+    ],
+    "scripture": [
+      {
+        "reference": "Daniel 1",
+        "title": "Daniel 1",
+        "verses": [
+          {
+            "number": 8,
+            "text": "But Daniel purposed in his heart that he would not defile himself with the king's dainties, nor with the wine which he drank. Therefore he requested of the prince of the eunuchs that he might not defile himself."
+          },
+          {
+            "number": 9,
+            "text": "Now God made Daniel find favor and compassion in the sight of the prince of the eunuchs."
+          },
+          {
+            "number": 12,
+            "text": "“Please test your servants ten days; and let them give us vegetables to eat, and water to drink."
+          },
+          {
+            "number": 15,
+            "text": "At the end of ten days, their faces appeared fairer, and they were fatter in flesh, than all the youths who ate the king's dainties."
+          },
+          {
+            "number": 17,
+            "text": "Now as for these four youths, God gave them knowledge and skill in all learning and wisdom; and Daniel had understanding in all visions and dreams."
+          },
+          {
+            "number": 20,
+            "text": "In every matter of wisdom and understanding concerning which the king inquired of them, he found them ten times better than all the magicians and enchanters who were in all his realm."
+          }
+        ]
+      },
+      {
+        "reference": "Psalm 119",
+        "title": "Psalm 119",
+        "verses": [
+          {
+            "number": 9,
+            "text": "How can a young man keep his way pure? By living according to your word."
+          },
+          {
+            "number": 10,
+            "text": "With my whole heart I have sought you. Don't let me wander from your commandments."
+          },
+          {
+            "number": 11,
+            "text": "I have hidden your word in my heart, that I might not sin against you."
+          },
+          {
+            "number": 46,
+            "text": "I will also speak of your testimonies before kings, and will not be disappointed."
+          }
+        ]
+      }
+    ],
+    "season": "Purpose in His Heart: Quiet Conviction in a Foreign Empire",
+    "theme": "Quiet, uncompromising conviction in early testing prepares the soul for decades of influence in hostile empires.",
+    "whatGodIsSaying": {
+      "headline": "God Honors Hidden Convictions and Blesses Those Who Refuse Cultural Compromise",
+      "reflection": "Nebuchadnezzar's empire sought to conquer the young Hebrew captives not merely by physical chains, but by cultural assimilation—changing their names, their language, their education, and their appetite. Yet Daniel drew a holy boundary at the point of defilement. Crucially, Daniel did not stage a riot; he purposed in his heart and made a gracious, humble appeal. When God sees a soul settled in loyalty, He intervenes in unseen realms, granting favor in the eyes of captors and endowing the obedient with supernatural insight. Your quiet resolve today to keep your heart clean before God sets the trajectory for divine authority across an entire lifetime."
+    }
+  },
+  "205": {
+    "character": "Daniel",
+    "closingPrayer": {
+      "guidedPrayer": "Sovereign Lord, You change times and seasons; You remove kings and establish rulers according to Your good pleasure. When earthly leaders rage and impossible circumstances surround me, remind me that there is a God in heaven who reveals mysteries. Deliver me from relying on human wisdom or political stability. Root my heart in the unshakable mountain of Christ's eternal kingdom.",
+      "prompt": "Take a moment to surrender your anxieties about national or personal futures into the sovereign hands of the King of kings.",
+      "versePrayerLine": "Blessed be Your name forever, for wisdom and might are Yours; give me discernment to trust Your sovereign hand."
+    },
+    "day": 205,
+    "lessons": [
+      {
+        "detail": "When faced with death, Daniel ran to his praying companions to seek mercy from the God of heaven.",
+        "lesson": "Panic Dies in United Prayer",
+        "question": "Who are the prayer partners you turn to when an impossible crisis strikes?",
+        "verse": "Daniel 2:17-18"
+      },
+      {
+        "detail": "Before rushing to the king to save his life, Daniel stopped to pour out a magnificent song of praise to God.",
+        "lesson": "Praise Must Precede Performance",
+        "question": "When God gives you an answer or breakthrough, do you pause to worship Him before taking action?",
+        "verse": "Daniel 2:20-23"
+      },
+      {
+        "detail": "Daniel boldly told the emperor that human wise men could never answer, but there is a God in heaven who reveals secrets.",
+        "lesson": "Deflect All Praise to God",
+        "question": "How readily do you deflect compliments about your abilities to the glory of God?",
+        "verse": "Daniel 2:28"
+      },
+      {
+        "detail": "All earthly empires are destined for the threshing floor; only Christ's kingdom will endure through eternity.",
+        "lesson": "The Everlasting Kingdom Cannot Be Shaken",
+        "question": "Are your ultimate hopes invested in earthly political structures or in the coming kingdom of Jesus?",
+        "verse": "Daniel 2:44"
+      }
+    ],
+    "memoryVerse": {
+      "cramData": {
+        "blankWords": [
+          "changes",
+          "seasons",
+          "removes",
+          "kings",
+          "wisdom"
+        ],
+        "firstLetters": "H c t t a t s. H r k, a s u k. H g w t t w, a k t t w h u.",
+        "readTarget": 3
+      },
+      "reference": "Daniel 2:21",
+      "text": "He changes the times and the seasons. He removes kings, and sets up kings. He gives wisdom to the wise, and knowledge to those who have understanding.",
+      "whyItMatters": "Human empires rise and fall under God's absolute sovereignty; our security rests in the eternal King of the universe."
+    },
+    "notesPrompt": "Reflect on a situation in your life where human solutions have reached a complete dead end. How does Daniel's reliance on the 'God in heaven who reveals secrets' speak to you today?",
+    "profile": {
+      "failures": [
+        "None recorded; maintained absolute humility and fidelity."
+      ],
+      "family": "Joined in prayer by his companions Hananiah, Mishael, and Azariah.",
+      "keyMoments": [
+        "Nebuchadnezzar had troubling dreams, woke up unable to recall them, and commanded that the astrologers tell both dream and interpretation on pain of death.",
+        "When the royal executioner Arioch went forth to slaughter the wise men, Daniel answered with counsel and wisdom, asking the king for time.",
+        "Gathered his three friends for a night of desperate prayer, seeking mercies from the God of heaven concerning this secret.",
+        "The secret was revealed to Daniel in a night vision, prompting a magnificent doxology of praise to God who changes times and seasons.",
+        "Stood before Nebuchadnezzar and deflected all glory: 'There is a God in heaven who reveals secrets, and he has made known to King Nebuchadnezzar what will be in the latter days.'",
+        "Described the colossal image: head of fine gold (Babylon), chest and arms of silver (Medo-Persia), belly and thighs of bronze (Greece), legs of iron and feet of iron mixed with clay (Rome).",
+        "Revealed the climactic vision: a Stone cut out without hands struck the image on its feet, pulverizing it into chaff blown away by the wind, while the Stone became a great mountain filling the whole earth.",
+        "Nebuchadnezzar fell on his face, worshiped Daniel, and confessed that Daniel's God is a God of gods and Lord of kings."
+      ],
+      "strengths": [
+        "Refused panic in the face of imminent execution; turned immediately to united corporate prayer.",
+        "Refused to take personal credit for supernatural revelation.",
+        "Remembered his brothers and asked the king to promote them alongside him."
+      ],
+      "title": "Daniel: Intercessor, Interpreter, and Herald of the Unshakable Stone",
+      "whenAndWhere": "Babylon, in the second year of Nebuchadnezzar's sole reign, circa 603 BC.",
+      "who": "God's young seer in Babylon who faced instant execution alongside the wise men, sought mercies from heaven with his brothers, and received both the forgotten dream and its prophetic interpretation."
+    },
+    "quiz": [
+      {
+        "correctIndex": 2,
+        "explanation": "Nebuchadnezzar demanded that they tell him the dream itself and its interpretation, which they could not do.",
+        "id": 1,
+        "options": [
+          "They refused to bow before his statue",
+          "They stole money from the royal treasury",
+          "They could not tell him what he dreamed nor interpret it",
+          "They conspired with Egyptian envoys"
+        ],
+        "question": "Why was Nebuchadnezzar furious with the Babylonian wise men?",
+        "reference": "Daniel 2:10-12",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "Daniel returned home and urged Hananiah, Mishael, and Azariah to seek mercies from God concerning this secret.",
+        "id": 2,
+        "options": [
+          "He fled Babylon by night",
+          "He went to his house and made the matter known to his three friends to seek God's mercies",
+          "He searched ancient Babylonian library tablets",
+          "He bribed Arioch to spare him"
+        ],
+        "question": "What did Daniel do immediately upon receiving time from the king?",
+        "reference": "Daniel 2:17-18",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 2,
+        "explanation": "Daniel told Nebuchadnezzar: 'You are the head of gold.'",
+        "id": 3,
+        "options": [
+          "Silver",
+          "Bronze",
+          "Gold",
+          "Iron"
+        ],
+        "question": "In the colossal statue, what metal represented Nebuchadnezzar's Babylonian empire?",
+        "reference": "Daniel 2:38",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "A stone cut out without hands struck the image on its feet of iron and clay, breaking them in pieces.",
+        "id": 4,
+        "options": [
+          "A fiery thunderbolt",
+          "A stone cut out without hands",
+          "A mighty river of sulfur",
+          "A golden spear"
+        ],
+        "question": "What struck the statue on its feet and pulverized it into chaff?",
+        "reference": "Daniel 2:34-35",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "False. The natural person doesn't receive the things of God's Spirit, for they are foolishness to him, and he cannot know them because they are spiritually discerned.",
+        "id": 5,
+        "options": [
+          "True",
+          "False"
+        ],
+        "question": "True or False: According to 1 Corinthians 2:14, the natural person readily understands the deep spiritual things of God.",
+        "reference": "1 Corinthians 2:14",
+        "type": "true-false"
+      }
+    ],
+    "scripture": [
+      {
+        "reference": "Daniel 2",
+        "title": "Daniel 2",
+        "verses": [
+          {
+            "number": 19,
+            "text": "Then the secret was revealed to Daniel in a vision of the night. Then Daniel blessed the God of heaven."
+          },
+          {
+            "number": 20,
+            "text": "Daniel answered, “Blessed be the name of God forever and ever; for wisdom and might are his."
+          },
+          {
+            "number": 21,
+            "text": "He changes the times and the seasons. He removes kings, and sets up kings. He gives wisdom to the wise, and knowledge to those who have understanding."
+          },
+          {
+            "number": 28,
+            "text": "“But there is a God in heaven who reveals secrets, and he has made known to King Nebuchadnezzar what will be in the latter days.”"
+          },
+          {
+            "number": 44,
+            "text": "“In the days of those kings the God of heaven will set up a kingdom which will never be destroyed, nor will its sovereignty be left to another people; but it will break in pieces and consume all these kingdoms, and it will stand forever.”"
+          }
+        ]
+      },
+      {
+        "reference": "1 Corinthians 2",
+        "title": "1 Corinthians 2",
+        "verses": [
+          {
+            "number": 9,
+            "text": "But as it is written, “Things which an eye didn't see, and an ear didn't hear, which didn't enter into the heart of man, these God has prepared for those who love him.”"
+          },
+          {
+            "number": 10,
+            "text": "But to us, God revealed them through the Spirit. For the Spirit searches all things, yes, the deep things of God."
+          },
+          {
+            "number": 14,
+            "text": "Now the natural man doesn't receive the things of God's Spirit, for they are foolishness to him, and he can't know them, because they are spiritually discerned."
+          }
+        ]
+      }
+    ],
+    "season": "The Revealer of Secrets and the Smashing Stone",
+    "theme": "The God of heaven reveals secret mysteries and establishes an everlasting kingdom that crushes all earthly empires.",
+    "whatGodIsSaying": {
+      "headline": "Earthly Powers Crumble Like Chaff; the Kingdom of Christ Shall Stand Forever",
+      "reflection": "Nebuchadnezzar dreamed of golden heads and iron empires, but God revealed that every human superpower is fragile, temporary, and doomed to be ground into dust. The climax of human history belongs not to despots, but to the supernatural Stone cut out without hands—the Lord Jesus Christ. When Daniel learned of this mystery, his first response was not self-congratulation, but worship: 'Blessed be the name of God forever and ever.' Human wisdom runs dry when crises demand impossible answers, but there is a God in heaven who reveals secrets to those who kneel before Him."
+    }
+  },
+  "206": {
+    "character": "Shadrach, Meshach & Abednego",
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, You are the Fourth Man in the fire who walks beside Your faithful children when worldly flames roar. Give me a resolute heart that refuses to bow before the idols of applause, wealth, and moral compromise. If trial awaits me, let me declare with unbending joy: my God is able to deliver me, but even if not, I will serve no other God but You. Cleanse away my chains and let Your holy presence sustain me.",
+      "prompt": "Thank Jesus for His promise to never leave you or forsake you in the darkest trials of your life.",
+      "versePrayerLine": "Though I walk through the fiery furnace, You are with me; no flame shall scorch the soul that clings to Your cross."
+    },
+    "day": 206,
+    "lessons": [
+      {
+        "detail": "'But if not' is the ultimate declaration of unconditional discipleship; we obey God because He is worthy, not for guaranteed earthly outcomes.",
+        "lesson": "Courage Has No 'Plan B'",
+        "question": "Does your obedience to God depend on Him blessing your immediate circumstances, or do you love Him even 'if not'?",
+        "verse": "Daniel 3:18"
+      },
+      {
+        "detail": "The Hebrew youths went into the furnace tied up, but walked out unbound; trial often burns away the worldly encumbrances that bind us.",
+        "lesson": "The Fire Only Destroys Our Chains",
+        "question": "What spiritual attachments or fears has God melted away during your seasons of fiery trial?",
+        "verse": "Daniel 3:25"
+      },
+      {
+        "detail": "The pre-incarnate Christ stood visibly beside His confessors in the heart of the furnace.",
+        "lesson": "Christ's Intimate Companionship in Suffering",
+        "question": "In what difficult trial have you sensed Jesus walking closer to you than in seasons of ease?",
+        "verse": "Daniel 3:25"
+      },
+      {
+        "detail": "God preserved them so completely that not even the odor of scorching clung to their garments.",
+        "lesson": "Faithful Martyrdom Leaves No Smelling Smoke",
+        "question": "Can you trust God to preserve your joy and integrity so that bitterness leaves no scent on your life?",
+        "verse": "Daniel 3:27"
+      }
+    ],
+    "memoryVerse": {
+      "cramData": {
+        "blankWords": [
+          "deliver",
+          "burning",
+          "furnace",
+          "serve",
+          "worship"
+        ],
+        "firstLetters": "I i b s, o G w w s i a t d u f t b f f; a h w d u o y h, O k. B i n, b i k t y, O k, t w w n s y g, n w t g i w y h s u.",
+        "readTarget": 3
+      },
+      "reference": "Daniel 3:17-18",
+      "text": "If it be so, our God whom we serve is able to deliver us from the burning fiery furnace; and he will deliver us out of your hand, O king. But if not, be it known to you, O king, that we will not serve your gods, nor worship the golden image which you have set up.",
+      "whyItMatters": "True faith never bargains with God; it stands firm in holy obedience even if rescue does not come in this earthly life."
+    },
+    "notesPrompt": "Where are you being pressured to bow down to popular cultural demands? Write a prayer expressing your 'but if not' resolve to Christ.",
+    "profile": {
+      "failures": [
+        "None recorded; an enduring model of martyr conviction and divine deliverance."
+      ],
+      "family": "Hebrew nobility of Judah; companions of Daniel; given names meaning 'Yahweh is gracious', 'Who is like God?', and 'Yahweh has helped'.",
+      "keyMoments": [
+        "Nebuchadnezzar constructed a colossal golden image on the plain of Dura and decreed that at the sound of the musical ensemble, all people must fall down and worship.",
+        "Shadrach, Meshach, and Abednego stood erect while thousands prostrated in uniform obedience; jealous Chaldeans promptly denounced them.",
+        "Confronted by a furious king offering a second chance, they refused to defend themselves, declaring that their God is able to deliver them—'but if not,' they would never worship the golden image.",
+        "Enraged, Nebuchadnezzar ordered the furnace heated seven times hotter than normal, so intense that the flames killed the mighty warriors who bound them.",
+        "Tumbled bound into the blazing furnace; seconds later, Nebuchadnezzar leapt up in astonishment: 'Didn't we cast three men bound into the midst of the fire? Look! I see four men loose, walking in the midst of the fire, and they are unharmed; and the appearance of the fourth is like a son of the gods!'",
+        "Called out of the fire, their hair was not singed, their robes were unchanged, and not even the smell of smoke clung to them.",
+        "Nebuchadnezzar blessed the God of Shadrach, Meshach, and Abednego, decreed death for anyone blaspheming their God, and promoted them in the empire."
+      ],
+      "strengths": [
+        "Unbending fidelity to the First and Second Commandments.",
+        "Rejection of conditional or transactional faith ('But if not...').",
+        "Courage to stand visibly alone in a crowd of thousands of prostrate elites."
+      ],
+      "title": "Hananiah, Mishael, and Azariah: The Three Unbending Confessors of Dura",
+      "whenAndWhere": "The Plain of Dura, province of Babylon, circa 594 BC.",
+      "who": "Three Hebrew administrators of the province of Babylon who chose the incandescent flames of a blast furnace rather than commit idolatry by bowing before Nebuchadnezzar's ninety-foot golden image."
+    },
+    "quiz": [
+      {
+        "correctIndex": 1,
+        "explanation": "Daniel 3:1 records that Nebuchadnezzar set up the golden image in the plain of Dura, in the province of Babylon.",
+        "id": 1,
+        "options": [
+          "The Plain of Sharon",
+          "The Plain of Dura",
+          "The Valley of Jezreel",
+          "The Plains of Moab"
+        ],
+        "question": "On what plain did Nebuchadnezzar set up his colossal golden image?",
+        "reference": "Daniel 3:1",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 2,
+        "explanation": "They declared: 'Our God whom we serve is able to deliver us... But if not, be it known to you, O king, that we will not serve your gods.'",
+        "id": 2,
+        "options": [
+          "They doubted God could save them from Babylon",
+          "They promised to worship the statue if God did not rescue them within an hour",
+          "Our God is able to deliver us, but even if He does not, we will not serve your gods",
+          "They told him they would secretly pray to both gods"
+        ],
+        "question": "What did Shadrach, Meshach, and Abednego tell Nebuchadnezzar about God's ability to save them?",
+        "reference": "Daniel 3:17-18",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 2,
+        "explanation": "Nebuchadnezzar said, 'Look, I see four men loose, walking in the midst of the fire, and they are unharmed.'",
+        "id": 3,
+        "options": [
+          "Two men",
+          "Three men",
+          "Four men",
+          "Seven men"
+        ],
+        "question": "How many men did Nebuchadnezzar see walking loose in the midst of the furnace?",
+        "reference": "Daniel 3:25",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "False. The fire had no power on their bodies, nor was a hair of their head singed, nor did the smell of fire pass on them.",
+        "id": 4,
+        "options": [
+          "True",
+          "False"
+        ],
+        "question": "True or False: When the three youths came out of the furnace, their hair was singed and their clothes smelled of smoke.",
+        "reference": "Daniel 3:27",
+        "type": "true-false"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "Isaiah 43:2 promises: 'When you walk through the fire, you will not be burned, and flame will not scorch you.'",
+        "id": 5,
+        "options": [
+          "You will perish quickly",
+          "You will not be burned, and flame will not scorch you",
+          "You will build a wall of stones",
+          "You will run into the sea"
+        ],
+        "question": "In Isaiah 43:2, what promise does Yahweh give to Israel when walking through the fire?",
+        "reference": "Isaiah 43:2",
+        "type": "multiple-choice"
+      }
+    ],
+    "scripture": [
+      {
+        "reference": "Daniel 3",
+        "title": "Daniel 3",
+        "verses": [
+          {
+            "number": 16,
+            "text": "Shadrach, Meshach, and Abednego answered the king, “Nebuchadnezzar, we have no need to answer you in this matter."
+          },
+          {
+            "number": 17,
+            "text": "If it be so, our God whom we serve is able to deliver us from the burning fiery furnace; and he will deliver us out of your hand, O king."
+          },
+          {
+            "number": 18,
+            "text": "But if not, be it known to you, O king, that we will not serve your gods, nor worship the golden image which you have set up.”"
+          },
+          {
+            "number": 24,
+            "text": "Then Nebuchadnezzar the king was astonished, and rose up in haste... “Didn't we cast three men bound into the midst of the fire?”"
+          },
+          {
+            "number": 25,
+            "text": "He answered, “Look, I see four men loose, walking in the midst of the fire, and they are unharmed; and the aspect of the fourth is like a son of the gods.”"
+          },
+          {
+            "number": 27,
+            "text": "The satraps, the deputies, and the governors, and the king's counselors, being gathered together, saw these men, that the fire had no power on their bodies, nor was the hair of their head singed, neither were their coats changed, nor had the smell of fire passed on them."
+          }
+        ]
+      },
+      {
+        "reference": "Isaiah 43",
+        "title": "Isaiah 43",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Now thus says Yahweh who created you, Jacob, and he who formed you, Israel: “Don't be afraid, for I have redeemed you. I have called you by your name. You are mine."
+          },
+          {
+            "number": 2,
+            "text": "When you pass through the waters, I will be with you; and through the rivers, they will not overflow you. When you walk through the fire, you will not be burned, and flame will not scorch you.”"
+          },
+          {
+            "number": 3,
+            "text": "“For I am Yahweh your God, the Holy One of Israel, your Savior.”"
+          }
+        ]
+      }
+    ],
+    "season": "The Fourth Man in the Seven-Times Heated Furnace",
+    "theme": "Unconditional allegiance walks unharmed through seven-times heated furnaces, joined by the Son of God.",
+    "whatGodIsSaying": {
+      "headline": "God Does Not Always Prevent the Furnace, but He Walks with Us Inside the Flames",
+      "reflection": "Notice that God did not extinguish the furnace before the young men were thrown in. He permitted the bonds, the heat, and the tumble into the flames. Why? Because the fire burned off only their ropes, leaving them unbound, and the furnace became the holy meeting place with the Son of God! The world watched a miracle that day: not men fleeing fire, but men walking at liberty in the fire with Christ. When you face intense social pressure or suffering, remember: God’s presence inside your furnace is more glorious than an easy escape outside of it. He is with you, and the flames will not scorch you."
+    }
+  },
+  "207": {
+    "character": "Nebuchadnezzar",
+    "closingPrayer": {
+      "guidedPrayer": "O King of heaven, all Your works are truth and Your ways justice. Forgive me for every boastful breath, every thought that attributed my blessings, intelligence, or possessions to my own strength. Deliver me from the insanity of self-exaltation. Keep me low at Your feet, for those who walk in pride You are able to abase, but to the humble You pour out boundless grace. May my life proclaim Your everlasting dominion.",
+      "prompt": "Quietly acknowledge before God that every talent, breath, and opportunity you have comes solely from His generous mercy.",
+      "versePrayerLine": "I praise, extol, and honor You, King of heaven; keep my heart humble before Your glorious throne."
+    },
+    "day": 207,
+    "lessons": [
+      {
+        "detail": "Judgment fell on Nebuchadnezzar while boastful words were still trembling on his lips.",
+        "lesson": "Pride Goes Before Sudden Destruction",
+        "question": "What personal achievement or possession are you in danger of taking private credit for?",
+        "verse": "Daniel 4:30-31"
+      },
+      {
+        "detail": "Nebuchadnezzar's mental restoration occurred the exact second he lifted his eyes from self to heaven.",
+        "lesson": "Sanity Begins with God-Centeredness",
+        "question": "How does fixing your eyes on God's greatness deliver you from mental confusion and anxious vanity?",
+        "verse": "Daniel 4:34"
+      },
+      {
+        "detail": "Daniel exhorted the emperor to demonstrate real change by showing compassion to the impoverished subjects he had exploited.",
+        "lesson": "True Repentance Expresses Itself in Mercy to the Poor",
+        "question": "How does your relationship with God tangibly impact how you treat vulnerable people?",
+        "verse": "Daniel 4:27"
+      },
+      {
+        "detail": "God is able to crush the haughtiest ruler, yet He delightedly restores any soul that genuinely repents.",
+        "lesson": "God Can Abase the Proud and Elevate the Humble",
+        "question": "Are you willing to publish God's faithfulness in your life, even when it requires confessing your past folly?",
+        "verse": "Daniel 4:37"
+      }
+    ],
+    "memoryVerse": {
+      "cramData": {
+        "blankWords": [
+          "praise",
+          "honor",
+          "heaven",
+          "pride",
+          "abase"
+        ],
+        "firstLetters": "N I, N, p a e a h t K o h; f a h w a t, a h w j; a t w w i p h i a t a.",
+        "readTarget": 3
+      },
+      "reference": "Daniel 4:37",
+      "text": "Now I, Nebuchadnezzar, praise and extol and honor the King of heaven; for all his works are truth, and his ways justice; and those who walk in pride he is able to abase.",
+      "whyItMatters": "No human achievement justifies arrogance; God can bring down the proudest monarch in a moment, yet His grace restores the broken penitent."
+    },
+    "notesPrompt": "Examine your own heart for subtle forms of 'Is not this great Babylon that I have built?' What areas of your work or success need to be handed back to God?",
+    "profile": {
+      "failures": [
+        "Blinding hubris that attributed imperial grandeur to his own strength.",
+        "Delayed repentance despite twelve months of explicit prophetic warning."
+      ],
+      "family": "Son of Nabopolassar (founder of the empire); father of Evil-Merodach; father-in-law or grandfather to Belshazzar.",
+      "keyMoments": [
+        "Had a terrifying dream of an immense cosmic tree reaching to heaven, providing fruit and shelter for all flesh, which a holy 'watcher' commanded to be chopped down, leaving only a stump banded with iron and bronze.",
+        "Daniel interpreted the dream with trembling love: Nebuchadnezzar was the great tree; he would be driven from mankind, eat grass like oxen, and be wet with the dew of heaven for seven periods until he knew the Most High rules in the kingdom of men.",
+        "Daniel urged the king: 'Break off your sins by righteousness, and your iniquities by showing mercy to the poor; if perhaps there may be a lengthening of your tranquility.'",
+        "Twelve months later, walking on the roof of his palace, the king boasted: 'Is not this great Babylon, which I have built for the royal dwelling place, by the might of my power and for the glory of my majesty?'",
+        "While the words were still in his mouth, a voice fell from heaven: 'The kingdom has departed from you!'",
+        "Immediately driven into the fields; his hair grew like eagles' feathers, and his nails like birds' claws.",
+        "At the end of seven times, Nebuchadnezzar lifted his eyes to heaven, his sanity returned, and he composed a royal decree across the whole empire praising, extolling, and honoring the King of heaven."
+      ],
+      "strengths": [
+        "Extraordinary visionary builder and military strategist.",
+        "Eventually possessed the genuine humility to publish his own humiliating insanity across his entire kingdom to glorify God."
+      ],
+      "title": "Nebuchadnezzar II: The Great Emperor Brought Low to Praise the King of Heaven",
+      "whenAndWhere": "Babylon, circa 580–570 BC, peak of the Neo-Babylonian Empire.",
+      "who": "The most powerful conqueror of the ancient Near East, builder of Babylon and its legendary Hanging Gardens, whose boastful pride brought a seven-year divine season of zoanthropy (living as a beast) until he acknowledged the sovereignty of the Most High."
+    },
+    "quiz": [
+      {
+        "correctIndex": 1,
+        "explanation": "The watcher commanded to cut down the tree, strip its leaves, but leave the stump of its roots in the earth banded with iron and bronze.",
+        "id": 1,
+        "options": [
+          "Water it with royal wine",
+          "Cut down the tree and cut off its branches, but leave the stump banded with iron and bronze",
+          "Burn the tree into ashes immediately",
+          "Plant twelve cedar trees beside it"
+        ],
+        "question": "What did the holy watcher command to be done with the great tree in Nebuchadnezzar's dream?",
+        "reference": "Daniel 4:14-15",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 2,
+        "explanation": "Daniel urged: 'Break off your sins by righteousness, and your iniquities by showing mercy to the poor.'",
+        "id": 2,
+        "options": [
+          "Build ten more temples to Marduk",
+          "Execute all the magicians of Babylon",
+          "Break off his sins by righteousness and his iniquities by showing mercy to the poor",
+          "Declare war on Egypt"
+        ],
+        "question": "What practical counsel did Daniel give Nebuchadnezzar to possibly lengthen his tranquility?",
+        "reference": "Daniel 4:27",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 2,
+        "explanation": "At the end of twelve months, he was walking on the royal palace of Babylon when he uttered his proud boast.",
+        "id": 3,
+        "options": [
+          "One week",
+          "One month",
+          "Twelve months",
+          "Seven years"
+        ],
+        "question": "How long after Daniel's warning did Nebuchadnezzar boast on his palace roof?",
+        "reference": "Daniel 4:29",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "Nebuchadnezzar stated: 'At the end of the days I, Nebuchadnezzar, lifted up my eyes to heaven, and my understanding returned to me.'",
+        "id": 4,
+        "options": [
+          "He drank medicinal herbal water",
+          "He lifted his eyes to heaven and blessed the Most High",
+          "He was crowned again by his generals",
+          "He took a warm bath in the palace"
+        ],
+        "question": "What action marked the return of Nebuchadnezzar's reason and understanding?",
+        "reference": "Daniel 4:34",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 0,
+        "explanation": "True. Psalm 145:14 confirms: 'Yahweh upholds all who fall, and raises up all those who are bowed down.'",
+        "id": 5,
+        "options": [
+          "True",
+          "False"
+        ],
+        "question": "True or False: Psalm 145:14 says Yahweh upholds all who fall and raises up all those who are bowed down.",
+        "reference": "Psalm 145:14",
+        "type": "true-false"
+      }
+    ],
+    "scripture": [
+      {
+        "reference": "Daniel 4",
+        "title": "Daniel 4",
+        "verses": [
+          {
+            "number": 27,
+            "text": "“Therefore, O king, let my counsel be acceptable to you, and break off your sins by righteousness, and your iniquities by showing mercy to the poor; if perhaps there may be a lengthening of your tranquility.”"
+          },
+          {
+            "number": 30,
+            "text": "The king spoke and said, “Is not this great Babylon, which I have built for the royal dwelling place, by the might of my power and for the glory of my majesty?”"
+          },
+          {
+            "number": 34,
+            "text": "At the end of the days I, Nebuchadnezzar, lifted up my eyes to heaven, and my understanding returned to me; and I blessed the Most High, and I praised and honored him who lives forever; for his dominion is an everlasting dominion, and his kingdom from generation to generation."
+          },
+          {
+            "number": 37,
+            "text": "Now I, Nebuchadnezzar, praise and extol and honor the King of heaven; for all his works are truth, and his ways justice; and those who walk in pride he is able to abase."
+          }
+        ]
+      },
+      {
+        "reference": "Psalm 145",
+        "title": "Psalm 145",
+        "verses": [
+          {
+            "number": 8,
+            "text": "Yahweh is gracious, merciful, slow to anger, and of great loving kindness."
+          },
+          {
+            "number": 13,
+            "text": "Your kingdom is an everlasting kingdom. Your dominion endures throughout all generations. Yahweh is faithful in all his words, and loving in all his deeds."
+          },
+          {
+            "number": 14,
+            "text": "Yahweh upholds all who fall, and raises up all those who are bowed down."
+          }
+        ]
+      }
+    ],
+    "season": "The Humbling of the Great Tree: Seven Times Pass Over Him",
+    "theme": "God humbles proud rulers through madness and brings them to lift their eyes and extol the King of heaven.",
+    "whatGodIsSaying": {
+      "headline": "Pride Reduces Men to Beasts, but Looking to Heaven Restores the Soul",
+      "reflection": "The tragedy of human pride is that it dethrones God and worships self. Nebuchadnezzar looked out over Babylon and said, 'Look what I have built by my power for my majesty!' At that instant, God stripped his human dignity. To live without acknowledging God is spiritual insanity; it reduces the bearer of God's image to the mindset of an earthly animal. Yet the turning point was breathtaking: 'I lifted up my eyes to heaven, and my understanding returned to me.' True sanity begins when we stop gazing admiringly at our own achievements and lift our eyes to the majesty of the Creator."
+    }
+  },
+  "208": {
+    "character": "Belshazzar",
+    "closingPrayer": {
+      "guidedPrayer": "Holy, Holy, Holy Lord of heaven, You hold my very breath in the palm of Your hand, and all my ways belong to You. Forgive me for treating sacred things lightly and taking for granted the life You give me each morning. Strip away all complacency, arrogance, and spiritual numbness. Weigh my heart in the righteousness of Jesus Christ, and make me a vessel sanctified and fit for the Master's use.",
+      "prompt": "Offer your body and mind afresh to God as holy vessels, asking the Holy Spirit to cleanse you from all defilement.",
+      "versePrayerLine": "In Your hand is my breath and all my ways; may my life glorify You and never be found wanting."
+    },
+    "day": 208,
+    "lessons": [
+      {
+        "detail": "Belshazzar knew exactly how God had humbled Nebuchadnezzar, yet he deliberately repeated and surpassed the arrogance.",
+        "lesson": "Knowing Truth Without Obeying It Multiplies Guilt",
+        "question": "What spiritual lessons from Scripture or your family heritage are you currently ignoring?",
+        "verse": "Daniel 5:22"
+      },
+      {
+        "detail": "Drinking wine from temple vessels consecrated to Yahweh triggered immediate divine intervention.",
+        "lesson": "Never Treat Holy Things with Common Contempt",
+        "question": "Do you treat God's Word, prayer, and Your body (the temple of the Holy Spirit) with holy reverent care?",
+        "verse": "Daniel 5:2-3"
+      },
+      {
+        "detail": "Worldly titles, wealth, and armies weigh nothing on heaven's scales; only righteousness, faith, and humility hold weight.",
+        "lesson": "Every Life Is Weighed in God's Balances",
+        "question": "If God weighed your private life on His divine scale today, what would He find?",
+        "verse": "Daniel 5:27"
+      },
+      {
+        "detail": "Our very existence in every passing second is sustained solely by God's sustaining grace.",
+        "lesson": "God Holds the Thread of Your Breath",
+        "question": "How does remembering that your next breath belongs to God inspire you to glorify Him right now?",
+        "verse": "Daniel 5:23"
+      }
+    ],
+    "memoryVerse": {
+      "cramData": {
+        "blankWords": [
+          "lifted",
+          "heaven",
+          "vessels",
+          "breath",
+          "glorified"
+        ],
+        "firstLetters": "B h l u y a t L o h; a t h b t v o h h b y, a y a y l, y w, a y c h d w f t... a t G i w h y b i, a w a a y w, y h n g.",
+        "readTarget": 3
+      },
+      "reference": "Daniel 5:23",
+      "text": "But have lifted up yourself against the Lord of heaven; and they have brought the vessels of his house before you, and you and your lords, your wives, and your concubines have drunk wine from them... and the God in whose hand your breath is, and whose are all your ways, you have not glorified.",
+      "whyItMatters": "Our very breath is held in the hand of God; mocking His holiness while depending on His breath is the height of human madness."
+    },
+    "notesPrompt": "Reflect on Daniel 5:23: 'The God in whose hand your breath is... you have not glorified.' Write about how you can consciously honor God with your energy and words today.",
+    "profile": {
+      "failures": [
+        "Reckless insolence that openly mocked the holy vessels of the living God.",
+        "Total failure to learn from his grandfather's painful lessons in divine judgment.",
+        "Drunken complacency while the enemy was literally at the palace gates."
+      ],
+      "family": "Son of King Nabonidus; grandson of Nebuchadnezzar; warned by the Queen Mother (likely Nitocris).",
+      "keyMoments": [
+        "Hosted a lavish feast for a thousand of his lords, drinking wine and feeling secure behind Babylon's impregnable double walls.",
+        "Under the influence of wine, commanded that the gold and silver vessels pillaged from Yahweh's temple in Jerusalem be brought so he, his lords, wives, and concubines might drink from them while praising gods of gold, silver, bronze, iron, wood, and stone.",
+        "Suddenly, the fingers of a man's hand appeared and wrote upon the plaster of the wall near the candelabrum; the king's countenance changed, his knees knocked together, and his hips shook with terror.",
+        "None of the Chaldean enchanters could read or decipher the enigmatic writing.",
+        "The Queen Mother entered and urged Belshazzar to summon elderly Daniel, in whom was the spirit of the holy gods, light, understanding, and excellent wisdom.",
+        "Daniel refused Belshazzar's gifts of royal purple and golden chains, rebuked the king for failing to learn from Nebuchadnezzar's humbling, and read the inscription: MENE, MENE, TEKEL, UPHARSIN.",
+        "Interpreted: MENE (God has numbered your kingdom and finished it); TEKEL (You have been weighed in the balances and found wanting); PERES (Your kingdom is divided and given to the Medes and Persians).",
+        "That very night, the Medo-Persian forces under Cyrus diverted the Euphrates River, entered through the river gates, slew Belshazzar, and ended the Babylonian Empire."
+      ],
+      "strengths": [
+        "Honored his promise to reward Daniel with the third ruler position, even after hearing his terrifying death sentence."
+      ],
+      "title": "Belshazzar: The Sacrilegious Co-Regent Weighed and Found Wanting",
+      "whenAndWhere": "The royal banquet hall of Babylon, the night of October 12, 539 BC.",
+      "who": "The grandson of Nebuchadnezzar and co-regent of Babylon under his father Nabonidus, who threw a decadent feast for a thousand lords while Persian armies encircled the capital, desecrating the temple vessels until severed fingers wrote his doom on the wall."
+    },
+    "quiz": [
+      {
+        "correctIndex": 1,
+        "explanation": "Belshazzar ordered the gold and silver vessels taken from Jerusalem's temple to be brought so they could drink from them while praising idols.",
+        "id": 1,
+        "options": [
+          "He burned Torah scrolls in the courtyard",
+          "He drank wine from the holy golden vessels taken from Yahweh's temple in Jerusalem while praising idols",
+          "He had the Jewish priests executed in front of the guests",
+          "He tore down the city gates of Babylon"
+        ],
+        "question": "What sacrilegious act did Belshazzar commit during his banquet for a thousand lords?",
+        "reference": "Daniel 5:2-4",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "Daniel 5:6 states that his face changed, his thoughts troubled him, the joints of his hips were loosened, and his knees knocked together.",
+        "id": 2,
+        "options": [
+          "He laughed mockingly at the magicians",
+          "His face grew pale, his joints loosened, and his knees knocked together in sheer terror",
+          "He drew his sword and slashed at the wall",
+          "He immediately fell down and prayed to Yahweh"
+        ],
+        "question": "How did Belshazzar physically react when the fingers of a hand appeared writing on the wall?",
+        "reference": "Daniel 5:6",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "Daniel interpreted: 'TEKEL: You are weighed in the balances, and are found wanting.'",
+        "id": 3,
+        "options": [
+          "Your days are multiplied like the stars",
+          "You are weighed in the balances and found wanting",
+          "Your walls will stand for a thousand generations",
+          "Peace be to your royal house"
+        ],
+        "question": "What does the prophetic word 'TEKEL' signify according to Daniel's interpretation?",
+        "reference": "Daniel 5:27",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "False. That very night Belshazzar the Chaldean king was slain, and Darius the Mede received the kingdom.",
+        "id": 4,
+        "options": [
+          "True",
+          "False"
+        ],
+        "question": "True or False: Belshazzar lived for ten years after Daniel interpreted the handwriting on the wall.",
+        "reference": "Daniel 5:30",
+        "type": "true-false"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "Proverbs 16:18 states: 'Pride goes before destruction, and a haughty spirit before a fall.'",
+        "id": 5,
+        "options": [
+          "Humility",
+          "Pride",
+          "Generosity",
+          "Wisdom"
+        ],
+        "question": "According to Proverbs 16:18, what goes before destruction?",
+        "reference": "Proverbs 16:18",
+        "type": "multiple-choice"
+      }
+    ],
+    "scripture": [
+      {
+        "reference": "Daniel 5",
+        "title": "Daniel 5",
+        "verses": [
+          {
+            "number": 5,
+            "text": "In the same hour the fingers of a man's hand came out, and wrote opposite the lampstand on the plaster of the wall of the king's palace: and the king saw the part of the hand that wrote."
+          },
+          {
+            "number": 6,
+            "text": "Then the king's face was changed in him, and his thoughts troubled him; and the joints of his thighs were loosened, and his knees knocked against one another."
+          },
+          {
+            "number": 22,
+            "text": "“You, his son, Belshazzar, have not humbled your heart, though you knew all this;"
+          },
+          {
+            "number": 23,
+            "text": "but have lifted up yourself against the Lord of heaven; and they have brought the vessels of his house before you... and the God in whose hand your breath is, and whose are all your ways, you have not glorified."
+          },
+          {
+            "number": 27,
+            "text": "“TEKEL: You are weighed in the balances, and are found wanting.”"
+          },
+          {
+            "number": 30,
+            "text": "In that night Belshazzar the Chaldean king was slain."
+          }
+        ]
+      },
+      {
+        "reference": "Proverbs 16",
+        "title": "Proverbs 16",
+        "verses": [
+          {
+            "number": 2,
+            "text": "All the ways of a man are clean in his own eyes; but Yahweh weighs the motives."
+          },
+          {
+            "number": 5,
+            "text": "Everyone who is proud in heart is an abomination to Yahweh: and they will certainly not go unpunished."
+          },
+          {
+            "number": 18,
+            "text": "Pride goes before destruction, and a haughty spirit before a fall."
+          }
+        ]
+      }
+    ],
+    "season": "The Handwriting on the Wall: Weighed in the Balances and Found Wanting",
+    "theme": "Arrogant mockery of God's holy vessels brings swift divine reckoning upon complacent empires.",
+    "whatGodIsSaying": {
+      "headline": "God Holds Your Very Breath; Do Not Desecrate What Belongs to Him",
+      "reflection": "Belshazzar's fatal mistake was twofold: he knew the story of Nebuchadnezzar's humiliation, yet he deliberately hardened his heart; and he treated holy things with vulgar contempt. How terrifying is Daniel's indictment: 'The God in whose hand your breath is... you have not glorified.' Every heartbeat is a loaned gift from God. To take God's gifts and use them to celebrate worldly idols is the essence of sacrilege. God's scales are perfectly calibrated. When human pride ignores repeated warnings, the hand of heaven writes its verdict, and judgment arrives without remedy."
+    }
+  },
+  "209": {
+    "character": "Daniel",
+    "closingPrayer": {
+      "guidedPrayer": "Lord God of Daniel, You are the living God, steadfast forever, whose kingdom shall never be destroyed. Give me a spirit of unwavering fidelity like Your servant Daniel. When the demands of my career or the hostility of society tempt me to hide my light, grant me the courage to keep my windows open toward heaven. Teach me to pray and give thanks in all circumstances. Dispatch Your holy angels to shut the mouths of every spiritual lion that seeks to devour my faith.",
+      "prompt": "Set a specific time today to kneel in prayer, pouring out your heartfelt thanksgiving to the living God.",
+      "versePrayerLine": "Grant me grace to kneel before You daily in faith and gratitude, knowing that Your angel silences the fiercest lions."
+    },
+    "day": 209,
+    "lessons": [
+      {
+        "detail": "Corrupt rivals audited Daniel's entire professional record and could find neither corruption nor negligence.",
+        "lesson": "Integrity That Defeats Every Accusation",
+        "question": "Can your work ethic, honesty, and financial transparency withstand an unfriendly audit?",
+        "verse": "Daniel 6:4"
+      },
+      {
+        "detail": "Daniel neither flaunted his piety nor hid it; he simply maintained his daily rhythm of prayer and thanksgiving.",
+        "lesson": "Don't Change Your Prayer Habits When Threats Arrive",
+        "question": "Do changing circumstances or intimidation disrupt your daily communion with the Lord?",
+        "verse": "Daniel 6:10"
+      },
+      {
+        "detail": "Darius recognized Daniel as one who served the living God 'continually,' not merely in emergency situations.",
+        "lesson": "Continual Service Makes God Known to Unbelievers",
+        "question": "Do your secular colleagues recognize that your devotion to Christ is an unbroken, daily reality?",
+        "verse": "Daniel 6:20"
+      },
+      {
+        "detail": "God dispatched His holy angel to muzzle the predators, turning a death pit into a tranquil sanctuary of praise.",
+        "lesson": "Faith Stops the Mouths of Fierce Lions",
+        "question": "What 'lions' of slander, anxiety, or opposition do you need God's angel to muzzle for you today?",
+        "verse": "Daniel 6:22"
+      }
+    ],
+    "memoryVerse": {
+      "cramData": {
+        "blankWords": [
+          "writing",
+          "windows",
+          "Jerusalem",
+          "kneeled",
+          "thanks"
+        ],
+        "firstLetters": "W D k t t w w s, h w i h h (n h w w o i h r t J) a h k o h k t t a d, a p, a g t b h G, a h d b.",
+        "readTarget": 3
+      },
+      "reference": "Daniel 6:10",
+      "text": "When Daniel knew that the writing was signed, he went into his house (now his windows were open in his room toward Jerusalem) and he kneeled on his knees three times a day, and prayed, and gave thanks before his God, as he did before.",
+      "whyItMatters": "Habitual communion with God in private gives the soul unyielding courage when public decrees threaten death."
+    },
+    "notesPrompt": "Reflect on Daniel's discipline: kneeling three times a day to give thanks. How can you establish or deepen a regular daily rhythm of quiet prayer?",
+    "profile": {
+      "failures": [
+        "None noted; an exemplary portrait of lifelong steadfast holiness."
+      ],
+      "family": "Hebrew exile of Judah's royalty; lifelong bachelor dedicated wholly to the service of God and state.",
+      "keyMoments": [
+        "Appointed one of three chief commissioners overseeing 120 satraps; distinguished himself because an extraordinary spirit was in him, leading the king to plan to set him over the whole realm.",
+        "Envious satraps searched for administrative corruption or neglect, but found no ground of accusation because he was faithful and no fault was in him.",
+        "They realized: 'We won't find any ground of accusation against this Daniel, unless we find it against him concerning the law of his God.'",
+        "Manipulated Darius into signing an irrevocable decree of the Medes and Persians forbidding prayer to any god or man for thirty days except to the king, on pain of being cast into the den of lions.",
+        "Knowing the document was signed, Daniel made no change: went home, opened his windows toward Jerusalem, kneeled three times a day, prayed, and gave thanks as he had always done.",
+        "Caught in prayer by his conspirators, reported to Darius; the king struggled until sundown to rescue Daniel, but the law compelled his execution.",
+        "Cast into the den of lions; Darius fasted all night without sleep or entertainment.",
+        "At dawn, the king ran to the den crying out: 'Daniel, servant of the living God, has your God, whom you serve continually, been able to deliver you from the lions?'",
+        "Daniel answered unharmed: 'My God has sent his angel, and has shut the lions' mouths... and also before you, O king, I have done no harm.'",
+        "Lifted out with not even a scratch; his malicious accusers were cast in and broken; Darius issued an empire-wide decree to tremble and fear before the living God of Daniel."
+      ],
+      "strengths": [
+        "Blameless professional integrity across decades of public service in hostile governments.",
+        "Unbroken rhythm of private prayer three times daily.",
+        "Refusal to compromise, hide, or alter his worship under threat of execution."
+      ],
+      "title": "Daniel: The Octogenarian Statesman Who Feared God More Than Hungry Lions",
+      "whenAndWhere": "Babylon under Medo-Persian rule, circa 538 BC, reign of Darius the Mede.",
+      "who": "Now an elderly statesman in his eighties under the Medo-Persian administration of Darius, Daniel's faultless integrity provoked malicious political conspiracy, leading to a death sentence in the den of lions from which God's angel delivered him."
+    },
+    "quiz": [
+      {
+        "correctIndex": 1,
+        "explanation": "They concluded they could find no accusation against Daniel unless it concerned the law of his God.",
+        "id": 1,
+        "options": [
+          "He was too old to govern effectively",
+          "We shall not find any ground of accusation against him unless we find it concerning the law of his God",
+          "He secretly wanted to overthrow King Darius",
+          "He refused to pay his personal taxes"
+        ],
+        "question": "What reason did Daniel's rivals give when they could find no fault in his public administration?",
+        "reference": "Daniel 6:5",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 2,
+        "explanation": "Daniel went home, opened his windows toward Jerusalem, kneeled three times a day, and prayed and gave thanks just as he had done before.",
+        "id": 2,
+        "options": [
+          "He stopped praying for thirty days",
+          "He prayed secretly in a dark closet",
+          "He went home, opened his windows toward Jerusalem, kneeled three times a day, prayed, and gave thanks as before",
+          "He wrote a petition asking the king for an exemption"
+        ],
+        "question": "What did Daniel do when he learned that Darius had signed the decree forbidding prayer?",
+        "reference": "Daniel 6:10",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 2,
+        "explanation": "Daniel answered: 'My God has sent his angel, and has shut the lions' mouths, and they have not hurt me.'",
+        "id": 3,
+        "options": [
+          "The lions were well-fed before he entered",
+          "He used his staff to keep the beasts at bay",
+          "My God has sent his angel, and has shut the lions' mouths, and they have not hurt me",
+          "He climbed a ledge high out of the lions' reach"
+        ],
+        "question": "How did Daniel explain his preservation when Darius called down into the lions' den?",
+        "reference": "Daniel 6:22",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 0,
+        "explanation": "True. Hebrews 11:33 lists those who through faith 'worked out righteousness, obtained promises, stopped the mouths of lions.'",
+        "id": 4,
+        "options": [
+          "True",
+          "False"
+        ],
+        "question": "True or False: According to Hebrews 11:33, saints through faith stopped the mouths of lions.",
+        "reference": "Hebrews 11:33",
+        "type": "true-false"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "Darius decreed that in all the dominion of his kingdom men tremble and fear before the living God of Daniel.",
+        "id": 5,
+        "options": [
+          "That all lions in the province should be destroyed",
+          "That men tremble and fear before the God of Daniel, for He is the living God and steadfast forever",
+          "That all Babylonians must move to Jerusalem",
+          "That Daniel be crowned king in his place"
+        ],
+        "question": "What decree did King Darius issue across his empire after Daniel was pulled unharmed from the den?",
+        "reference": "Daniel 6:26",
+        "type": "multiple-choice"
+      }
+    ],
+    "scripture": [
+      {
+        "reference": "Daniel 6",
+        "title": "Daniel 6",
+        "verses": [
+          {
+            "number": 4,
+            "text": "Then the presidents and the satraps sought to find occasion against Daniel as touching the kingdom; but they could find no occasion nor fault, because he was faithful. There was no error or fault found in him."
+          },
+          {
+            "number": 10,
+            "text": "When Daniel knew that the writing was signed, he went into his house (now his windows were open in his room toward Jerusalem) and he kneeled on his knees three times a day, and prayed, and gave thanks before his God, as he did before."
+          },
+          {
+            "number": 20,
+            "text": "When he came near to the den to Daniel, he cried with a troubled voice... “Daniel, servant of the living God, has your God, whom you serve continually, been able to deliver you from the lions?”"
+          },
+          {
+            "number": 22,
+            "text": "“My God has sent his angel, and has shut the lions' mouths, and they have not hurt me; because as before him innocence was found in me; and also before you, O king, I have done no harm.”"
+          },
+          {
+            "number": 26,
+            "text": "“I make a decree that in all the dominion of my kingdom men tremble and fear before the God of Daniel; for he is the living God, and steadfast forever. His kingdom is that which will not be destroyed.”"
+          }
+        ]
+      },
+      {
+        "reference": "Hebrews 11",
+        "title": "Hebrews 11",
+        "verses": [
+          {
+            "number": 32,
+            "text": "What more shall I say? For the time would fail me if I told of Gideon, Barak, Samson, Jephthah, David, Samuel, and the prophets;"
+          },
+          {
+            "number": 33,
+            "text": "who through faith subdued kingdoms, worked out righteousness, obtained promises, stopped the mouths of lions,"
+          },
+          {
+            "number": 34,
+            "text": "quenched the power of fire, escaped the edge of the sword, from weakness were made strong, grew mighty in war, and caused foreign armies to flee."
+          }
+        ]
+      }
+    ],
+    "season": "The Lions' Den & Faithful Prayer: Windows Open Toward Jerusalem",
+    "theme": "Uncompromising devotion to daily communion with God silences the fiercest lions and glorifies God before monarchs.",
+    "whatGodIsSaying": {
+      "headline": "Habitual Secret Prayer Is the Wellspring of Public Supernatural Victory",
+      "reflection": "When the death penalty was attached to prayer, Daniel did not stage a demonstration, nor did he close his shutters and pray under his bed. He simply did what he had done for eighty years: he opened his windows toward Jerusalem, kneeled three times a day, and gave thanks. Notice that thanksgiving was part of his prayer under threat of death! When the heart is anchored in habitual gratitude to God, fear has nowhere to latch on. God sent His angel to muzzle the lions because His servant's conscience was pure. The world's lions are ferocious, but the angel of Yahweh is stronger."
+    }
+  },
+  "210": {
+    "character": "Daniel",
+    "closingPrayer": {
+      "guidedPrayer": "O Lord, the great and awesome God, who keeps covenant and mercy with those who love You and keep Your commandments: to You belongs righteousness, but to us confusion of face. We have sinned and rebelled against Your holy Word. Turn Your ear and hear; open Your eyes and behold our broken world. We do not present our prayers for our own righteousness, but for Your unfailing tender mercies. Cause Your face to shine upon Your church, for the glory of Your holy name.",
+      "prompt": "Spend a few moments interceding for someone who has wandered from God, pleading His mercy over their life.",
+      "versePrayerLine": "Hear, O Lord! Forgive, O Lord! Listen and act for Your own sake, according to Your boundless mercies."
+    },
+    "day": 210,
+    "lessons": [
+      {
+        "detail": "Discovering God's promises in Scripture should ignite our prayer closets rather than make us spiritually passive.",
+        "lesson": "Biblical Prophecy Demands Earnest Intercession",
+        "question": "What promise in God's Word are you currently turning into targeted, persistent prayer?",
+        "verse": "Daniel 9:2-3"
+      },
+      {
+        "detail": "Though Daniel was exceptionally righteous, he repeatedly said 'we have sinned,' bearing the burden of his people before God.",
+        "lesson": "The Power of Corporate Confession",
+        "question": "Do you pray for the sins of your nation, community, and church with personal grief rather than judgmental detachment?",
+        "verse": "Daniel 9:5"
+      },
+      {
+        "detail": "True prayer abandons every claim to self-worth and anchors completely in God's covenant lovingkindness.",
+        "lesson": "Appeal Only to God's Great Mercies",
+        "question": "When you ask God for help, do you subtly rely on your good deeds, or solely on the blood of Jesus?",
+        "verse": "Daniel 9:18"
+      },
+      {
+        "detail": "Gabriel comforted the weeping prophet with heaven's verdict: 'You are greatly beloved.'",
+        "lesson": "You Are Greatly Beloved by Heaven",
+        "question": "Do you rest in the reality that as God's child in Christ, you are cherished by the Father?",
+        "verse": "Daniel 9:23"
+      }
+    ],
+    "memoryVerse": {
+      "cramData": {
+        "blankWords": [
+          "desolations",
+          "city",
+          "righteousness",
+          "supplications",
+          "mercies"
+        ],
+        "firstLetters": "O m G, t y e, a h. O y e, a s o d, a t c w i c b y n; f w d n p o s b y f o r, b f y g m.",
+        "readTarget": 3
+      },
+      "reference": "Daniel 9:18",
+      "text": "O my God, turn your ear, and hear. Open your eyes, and see our desolations, and the city which is called by your name; for we do not present our supplications before you for our righteousness, but for your great mercies.",
+      "whyItMatters": "We dare not approach God on the basis of our own merits; true intercession rests entirely upon His lavish, unfailing mercy."
+    },
+    "notesPrompt": "Write an intercessory prayer for your church, family, or nation, modeling Daniel's posture of humble confession and reliance on God's great mercies.",
+    "profile": {
+      "failures": [
+        "None recorded; lived out a flawless life of intercession, wisdom, and prophetic anticipation."
+      ],
+      "family": "A royal son of Judah; lived as a eunuch in Babylon; addressed by Gabriel as 'greatly beloved'.",
+      "keyMoments": [
+        "Understood by the books the number of years revealed to Jeremiah the prophet: that the desolations of Jerusalem would last seventy years (Jeremiah 25:11-12; 29:10).",
+        "Did not sit back passively; rather, set his face to the Lord God to seek by prayer and supplications with fasting, sackcloth, and ashes.",
+        "Prayed a breathtaking prayer of corporate identification: 'We have sinned, and have dealt perversely, and have done wickedly, and have rebelled... To us belongs confusion of face... but to the Lord our God belong mercies and forgiveness.'",
+        "Appealed to God's honor and covenant name: 'For the Lord's sake cause your face to shine on your sanctuary which is desolate... For we do not present our supplications before you for our righteousness, but for your great mercies.'",
+        "Cried out in urgent passion: 'O Lord, hear! O Lord, forgive! O Lord, listen and do! Don't defer, for your own sake, my God!'",
+        "While he was still speaking in prayer, the angel Gabriel flew swiftly to touch him at the time of the evening offering.",
+        "Gabriel announced: 'Daniel, I have now come forth to give you skill and understanding... for you are greatly beloved.'",
+        "Revealed the prophetic timeline of the Seventy Weeks (70 sevens = 490 prophetic years) leading to the arrival of Messiah the Prince, His being cut off (crucified) to make reconciliation for iniquity, bringing in everlasting righteousness, and confirming the covenant."
+      ],
+      "strengths": [
+        "Deep student of prophetic Scripture who turned prophetic knowledge into fervent intercession.",
+        "Complete absence of self-righteousness; personally identified with the sins of his nation.",
+        "Cherished by heaven as a man 'greatly beloved'."
+      ],
+      "title": "Daniel: The Prophetic Intercessor and Beloved Seer of the Messiah",
+      "whenAndWhere": "Babylon, first year of Darius son of Ahasuerus (circa 538 BC).",
+      "who": "In his final years, Daniel studied Jeremiah's scrolls, realized the seventy years of exile were concluding, and set his face toward God with fasting, sackcloth, and ashes, delivering one of Scripture's greatest prayers of corporate confession."
+    },
+    "quiz": [
+      {
+        "correctIndex": 1,
+        "explanation": "Daniel 9:2 states that Daniel understood by the books the word of Yahweh given to Jeremiah the prophet.",
+        "id": 1,
+        "options": [
+          "Isaiah",
+          "Jeremiah",
+          "Ezekiel",
+          "Micah"
+        ],
+        "question": "From which prophet's writings did Daniel understand that the desolation of Jerusalem would last 70 years?",
+        "reference": "Daniel 9:2",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 2,
+        "explanation": "Daniel pleaded: 'For we do not present our supplications before you for our righteousness, but for your great mercies.'",
+        "id": 2,
+        "options": [
+          "On the basis of their strict fasting and sacrifices",
+          "On the basis of Daniel's faultless administrative record",
+          "Not for our righteousness, but for Your great mercies",
+          "Because Babylon deserved to be punished"
+        ],
+        "question": "On what basis did Daniel urge God to hear their supplications and restore Jerusalem?",
+        "reference": "Daniel 9:18",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "Gabriel, whom he had seen in the vision at the beginning, being caused to fly swiftly, touched him about the time of the evening offering.",
+        "id": 3,
+        "options": [
+          "The prophet Jeremiah in a vision",
+          "The angel Gabriel",
+          "King Darius",
+          "The high priest Joshua"
+        ],
+        "question": "Who touched Daniel while he was speaking in prayer around the time of the evening offering?",
+        "reference": "Daniel 9:21",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "False. Gabriel said: 'At the beginning of your petitions the commandment went out, and I have come to tell you; for you are greatly beloved.'",
+        "id": 4,
+        "options": [
+          "True",
+          "False"
+        ],
+        "question": "True or False: Gabriel told Daniel that the commandment went out at the end of his three weeks of praying.",
+        "reference": "Daniel 9:23",
+        "type": "true-false"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "Daniel 9:24 declares that 70 weeks are decreed to finish disobedience, make an end of sins, make reconciliation for iniquity, and bring in everlasting righteousness.",
+        "id": 5,
+        "options": [
+          "Rebuild the walls of Babylon",
+          "To finish disobedience, end sins, make reconciliation for iniquity, and bring in everlasting righteousness",
+          "Establish a Roman emperor over Judah",
+          "Send the tribes to the ends of the earth forever"
+        ],
+        "question": "According to Daniel 9:24, what will the decreed seventy weeks accomplish?",
+        "reference": "Daniel 9:24",
+        "type": "multiple-choice"
+      }
+    ],
+    "scripture": [
+      {
+        "reference": "Daniel 9",
+        "title": "Daniel 9",
+        "verses": [
+          {
+            "number": 3,
+            "text": "I set my face to the Lord God, to seek by prayer and petitions, with fasting and sackcloth and ashes."
+          },
+          {
+            "number": 9,
+            "text": "To the Lord our God belong mercies and forgiveness; for we have rebelled against him."
+          },
+          {
+            "number": 18,
+            "text": "O my God, turn your ear, and hear. Open your eyes, and see our desolations, and the city which is called by your name; for we do not present our supplications before you for our righteousness, but for your great mercies."
+          },
+          {
+            "number": 19,
+            "text": "O Lord, hear! O Lord, forgive! O Lord, listen and do! Don't defer, for your own sake, my God, because your city and your people are called by your name."
+          },
+          {
+            "number": 23,
+            "text": "“At the beginning of your petitions the commandment went out, and I have come to tell you; for you are greatly beloved. Therefore consider the matter, and understand the vision.”"
+          },
+          {
+            "number": 24,
+            "text": "“Seventy weeks are decreed on your people and on your holy city, to finish disobedience, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness...”"
+          }
+        ]
+      },
+      {
+        "reference": "Psalm 79",
+        "title": "Psalm 79",
+        "verses": [
+          {
+            "number": 8,
+            "text": "Don't hold the iniquities of our forefathers against us. Let your tender mercies speedily meet us, for we are in desperate need."
+          },
+          {
+            "number": 9,
+            "text": "Help us, God of our salvation, for the glory of your name. Deliver us, and forgive our sins, for your name's sake."
+          },
+          {
+            "number": 13,
+            "text": "So we, your people and the sheep of your pasture, will give you thanks forever. We will praise you through all generations."
+          }
+        ]
+      }
+    ],
+    "season": "The Seventy Weeks and Great Intercession: Standing in the Gap",
+    "theme": "Heartfelt intercession confesses corporate guilt, appealing exclusively to God's boundless covenant mercies.",
+    "whatGodIsSaying": {
+      "headline": "Heaven Moves When Righteous Hearts Plead God's Mercies for a Broken People",
+      "reflection": "Notice what sparked Daniel's prayer: he read Jeremiah's prophecy that the exile would end after 70 years. Instead of saying, 'God promised it, so I can just wait,' Daniel understood that God's promises are summons to prayer! When Daniel prayed, he did not blame others; he prayed, 'WE have sinned, WE have rebelled.' He cast all hope upon one single rock: 'not for our righteousness, but for your great mercies.' Heaven's response was instantaneous: Gabriel was dispatched at the beginning of his petition, carrying the news that Daniel was 'greatly beloved' and unfolding the timetable of the Messiah's coming to atone for iniquity. When you pray with broken humility, all heaven leans in to listen."
+    }
+  },
+  "211": {
+    "character": "Esther",
+    "closingPrayer": {
+      "guidedPrayer": "Heavenly Father, You are the Master of unseen providence. When I cannot hear Your voice or see Your hand, teach me to trust Your faithful heart. You took an orphaned Hebrew girl and placed her upon an imperial throne to save Your people. Position my life according to Your perfect wisdom. Grant me humility, contentment, and a teachable spirit. Help me to serve faithfully where You have planted me, ready for whatever divine assignment lies ahead.",
+      "prompt": "Ask God to open your eyes to see His sovereign hand guiding the circumstances of your current life and work.",
+      "versePrayerLine": "Let Your favor rest upon my life, O Lord, not for my vain glory, but to accomplish Your holy redemptive will."
+    },
+    "day": 211,
+    "lessons": [
+      {
+        "detail": "Ahasuerus thought he was merely choosing a beautiful bride; God was placing a savior in the palace to protect the Messianic line.",
+        "lesson": "God's Invisible Hand Governs Human Empires",
+        "question": "Can you see how unexpected transitions in your past were silently guided by God's providence?",
+        "verse": "Esther 2:17"
+      },
+      {
+        "detail": "While other candidates grasped for lavish palace luxuries, Esther asked for nothing beyond what the wise keeper recommended.",
+        "lesson": "Contentment Attracts Divine Favor",
+        "question": "Do you exhibit simple contentment, or do you constantly scramble for worldly advantage?",
+        "verse": "Esther 2:15"
+      },
+      {
+        "detail": "Even wearing the royal crown of Persia, Esther listened to and honored the godly counsel of her adoptive father Mordecai.",
+        "lesson": "Spiritual Teachable Honor Never Expires",
+        "question": "Do you still respect and seek the wisdom of godly mentors who helped raise you in the faith?",
+        "verse": "Esther 2:20"
+      },
+      {
+        "detail": "Reporting the treasonous plot against the king seemed like a routine civic duty, but it became a crucial link in future salvation.",
+        "lesson": "Faithful Duty Prepares for Strategic Influence",
+        "question": "Are you faithfully executing small daily duties, trusting God to weave them into His larger plan?",
+        "verse": "Esther 2:21-23"
+      }
+    ],
+    "memoryVerse": {
+      "cramData": {
+        "blankWords": [
+          "loved",
+          "obtained",
+          "favor",
+          "crown",
+          "queen"
+        ],
+        "firstLetters": "T k l E m t a t w, a s o f a k i h s m t a t v; s t h s t r c o h h, a m h q i o V.",
+        "readTarget": 3
+      },
+      "reference": "Esther 2:17",
+      "text": "The king loved Esther more than all the women, and she obtained favor and kindness in his sight more than all the virgins; so that he set the royal crown on her head, and made her queen instead of Vashti.",
+      "whyItMatters": "Even when God's name is not explicitly mentioned, His invisible hand directs the hearts of earthly rulers for His covenant purposes."
+    },
+    "notesPrompt": "Reflect on a season when you felt like an outsider or faced loss (like orphan Esther). How did God demonstrate His unseen care and providence in that season?",
+    "profile": {
+      "failures": [
+        "Initially hesitant and insulated within the comforts of the royal palace before Mordecai's challenge."
+      ],
+      "family": "Daughter of Abihail; cousin and adopted daughter of Mordecai; wife of King Ahasuerus.",
+      "keyMoments": [
+        "King Ahasuerus deposed Queen Vashti during an ostentatious 180-day feast after she refused to be put on public display before intoxicated nobles.",
+        "An empire-wide search was launched for beautiful young virgins to be brought to the royal harem in Susa.",
+        "Esther was taken into the king's palace under the custody of Hegai, keeper of the women; she quickly won Hegai's favor, receiving prompt cosmetic preparations, seven chosen maids, and the best apartments.",
+        "Followed Mordecai's wise advice not to reveal her Jewish heritage or family background.",
+        "Demonstrated rare contentment and restraint by requesting nothing beyond what Hegai advised when presenting herself to the king.",
+        "Ahasuerus loved Esther above all the women, placed the royal crown upon her head, made her queen, and proclaimed a royal holiday and feast throughout the provinces.",
+        "Mordecai, sitting in the king's gate, uncovered an assassination plot by royal chamberlains Bigthan and Teresh; Esther reported it to the king in Mordecai's name, and it was recorded in the royal chronicles."
+      ],
+      "strengths": [
+        "Uncommon modesty, teachability, and contentment in an environment of worldly vanity.",
+        "Loyalty and filial obedience to her adoptive father Mordecai even after becoming queen.",
+        "Supernatural grace and favor that charmed pagan overseers and the emperor alike."
+      ],
+      "title": "Hadassah (Esther): The Jewish Orphan Crowned Queen of Persia",
+      "whenAndWhere": "Susa (Shushan), the winter capital of the Persian Empire, circa 483–478 BC.",
+      "who": "A young Jewish orphan from the tribe of Benjamin living in Susa, raised by her devout cousin Mordecai, whose remarkable grace, modesty, and divine favor elevated her to the Persian throne as Queen to King Ahasuerus (Xerxes I)."
+    },
+    "quiz": [
+      {
+        "correctIndex": 1,
+        "explanation": "Vashti refused the king's command to come before him to show the people and princes her beauty.",
+        "id": 1,
+        "options": [
+          "She poisoned the royal wine",
+          "She refused the king's command to appear and display her beauty before his drunken banquet guests",
+          "She fled to Egypt with the royal jewels",
+          "She spoke against the laws of the Medes and Persians"
+        ],
+        "question": "Why was Queen Vashti deposed by King Ahasuerus?",
+        "reference": "Esther 1:11-12",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "Her name was Hadassah (Esther); Mordecai brought her up because she had neither father nor mother, taking her for his own daughter.",
+        "id": 2,
+        "options": [
+          "Miriam, his younger sister",
+          "Hadassah, his cousin whom he raised as his own daughter",
+          "Naomi, his aunt",
+          "Zipporah, his niece"
+        ],
+        "question": "What was Esther's original Hebrew name, and what was her relationship to Mordecai?",
+        "reference": "Esther 2:7",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "Esther required nothing but what Hegai the king's eunuch, the keeper of the women, advised.",
+        "id": 3,
+        "options": [
+          "Golden chariots and precious gems",
+          "Nothing except what Hegai the king's eunuch advised",
+          "A hundred musicians from Babylon",
+          "A crown of pure emeralds"
+        ],
+        "question": "What did Esther request when it was her turn to go in before the king?",
+        "reference": "Esther 2:15",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "False. Esther had not yet made known her people nor her relatives, as Mordecai had commanded her.",
+        "id": 4,
+        "options": [
+          "True",
+          "False"
+        ],
+        "question": "True or False: Esther immediately announced to the entire court of Persia that she was of the Jewish race.",
+        "reference": "Esther 2:20",
+        "type": "true-false"
+      },
+      {
+        "correctIndex": 0,
+        "explanation": "Bigthan and Teresh sought to lay hands on King Ahasuerus; Mordecai learned of it and told Queen Esther, who told the king in Mordecai's name.",
+        "id": 5,
+        "options": [
+          "A plot by Bigthan and Teresh, two royal chamberlains, to assassinate King Ahasuerus",
+          "A plan by Greek generals to invade Persia",
+          "A robbery of the imperial treasury",
+          "A mutiny among the imperial bodyguards"
+        ],
+        "question": "What conspiracy did Mordecai uncover while sitting at the king's gate?",
+        "reference": "Esther 2:21-22",
+        "type": "multiple-choice"
+      }
+    ],
+    "scripture": [
+      {
+        "reference": "Esther 1",
+        "title": "Esther 1",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Now it happened in the days of Ahasuerus (this is Ahasuerus who reigned from India even to Ethiopia, over one hundred twenty-seven provinces),"
+          },
+          {
+            "number": 10,
+            "text": "On the seventh day, when the heart of the king was merry with wine, he commanded Mehuman, Biztha, Harbona, Bigtha, and Abagtha, Zethar, and Carcas, the seven eunuchs who served in the presence of Ahasuerus the king,"
+          },
+          {
+            "number": 11,
+            "text": "to bring Vashti the queen before the king with the royal crown, to show the people and the princes her beauty; for she was beautiful to look on."
+          },
+          {
+            "number": 12,
+            "text": "But the queen Vashti refused to come at the king's commandment by the eunuchs. Therefore the king was very angry, and his burning anger burned within him."
+          },
+          {
+            "number": 19,
+            "text": "“If it please the king, let a royal commandment go out from him... that Vashti come no more before King Ahasuerus; and let the king give her royal estate to another who is better than she.”"
+          }
+        ]
+      },
+      {
+        "reference": "Esther 2",
+        "title": "Esther 2",
+        "verses": [
+          {
+            "number": 7,
+            "text": "He brought up Hadassah, that is, Esther, his uncle's daughter; for she had neither father nor mother. The maiden was fair and beautiful; and when her father and mother were dead, Mordecai took her for his own daughter."
+          },
+          {
+            "number": 15,
+            "text": "Now when the turn of Esther, the daughter of Abihail the uncle of Mordecai, who had taken her for his daughter, came to go in to the king, she required nothing but what Hegai the king's eunuch, the keeper of the women, advised. Esther obtained favor in the sight of all those who looked at her."
+          },
+          {
+            "number": 17,
+            "text": "The king loved Esther more than all the women, and she obtained favor and kindness in his sight more than all the virgins; so that he set the royal crown on her head, and made her queen instead of Vashti."
+          },
+          {
+            "number": 20,
+            "text": "Esther had not yet made known her relatives nor her people, as Mordecai had commanded her; for Esther obeyed Mordecai's commandment, like she did when she was brought up by him."
+          }
+        ]
+      }
+    ],
+    "season": "An Orphan Raised to the Persian Palace: Hidden Providence",
+    "theme": "God's silent providence orchestrates favor to position ordinary orphans for historic deliverance.",
+    "whatGodIsSaying": {
+      "headline": "God Silently Prepares the Stage and Positions His Children Before the Crisis Arrives",
+      "reflection": "The Book of Esther is famous for never explicitly mentioning the name of God. Yet His sovereign fingerprints are stamped across every verse! Years before Haman ever hatched his genocidal plot against the Jewish people, God was already orchestrating the removal of Vashti and placing a humble, orphaned Hebrew girl on the throne of the Persian Empire. God does not need grand spectacles to accomplish His eternal decrees; He works through domestic coincidences, personal favors, and quiet obedience. You may feel small and vulnerable today, but God is silently positioning you for purposes far bigger than you imagine."
+    }
+  },
+  "212": {
+    "character": "Mordecai & Esther",
+    "closingPrayer": {
+      "guidedPrayer": "Lord God of hosts, You have appointed the times and boundaries of my dwelling. You did not allow me to live in this generation by mistake; You have called me for such a time as this. Deliver me from self-centered silence and fearful hesitation. When truth is under attack, grant me the holy courage of Esther to lay down my reputation and comfort for Your kingdom. Let my life be a channel of Your deliverance, bathed in prayer and standing firm in faith.",
+      "prompt": "Offer your influence, voice, and current position to God, asking Him to use you boldly for His purposes this week.",
+      "versePrayerLine": "Who knows whether You have brought me into the kingdom for such a time as this? Here I am, Lord; use me."
+    },
+    "day": 212,
+    "lessons": [
+      {
+        "detail": "Mordecai refused to bow to Haman because honoring an unrepentant Amalekite defied God's holy law (Exodus 17:16).",
+        "lesson": "Refuse to Bow to the Enemies of God",
+        "question": "Are you bowing to worldly pressures or idols just because everybody else in your culture does?",
+        "verse": "Esther 3:2"
+      },
+      {
+        "detail": "Remaining silent when God's people or innocent lives are attacked brings spiritual ruin upon the silent.",
+        "lesson": "Silence in the Face of Evil Is Complicity",
+        "question": "Where is God calling you to speak up boldly against injustice, slander, or deception?",
+        "verse": "Esther 4:14"
+      },
+      {
+        "detail": "Being queen did not exempt Esther from the crisis; it was the exact vantage point God intended to use for deliverance.",
+        "lesson": "Every Privilege Carries a Divine Responsibility",
+        "question": "How are you using your current privileges, education, or platforms to serve the kingdom of God?",
+        "verse": "Esther 4:14"
+      },
+      {
+        "detail": "Before stepping into the royal throne room, Esther commanded three days of rigorous fasting and united intercession.",
+        "lesson": "Spiritual Battles Must Be Fought on Our Knees First",
+        "question": "Do you bathe your high-stakes decisions and difficult confrontations in corporate prayer and fasting?",
+        "verse": "Esther 4:16"
+      }
+    ],
+    "memoryVerse": {
+      "cramData": {
+        "blankWords": [
+          "silent",
+          "deliverance",
+          "father's",
+          "kingdom",
+          "time"
+        ],
+        "firstLetters": "F i y r s n, t r a d w c t t J f a p, b y a y f h w p. W k i y h n c t t k f s a t a t?",
+        "readTarget": 3
+      },
+      "reference": "Esther 4:14",
+      "text": "For if you remain silent now, then relief and deliverance will come to the Jews from another place, but you and your father's house will perish. Who knows if you haven't come to the kingdom for such a time as this?",
+      "whyItMatters": "God's redemptive work will always succeed; the question is whether we will have the courage to join Him in our designated moment."
+    },
+    "notesPrompt": "What is the 'such a time as this' assignment in your life right now? What personal comfort or risk must you surrender to obey God's call?",
+    "profile": {
+      "failures": [
+        "Esther's initial instinct was to cite palace security protocols rather than step into the danger."
+      ],
+      "family": "Cousins from the tribe of Benjamin; descendants of King Saul's lineage facing Haman the Agagite (Amalekite royal seed).",
+      "keyMoments": [
+        "Haman the Agagite was promoted above all princes; all royal servants bowed and reverenced him, but Mordecai refused to bow, knowing Haman's ancestral Amalekite enmity against God's people.",
+        "Furious at Mordecai, Haman disdained to strike him alone, casting Pur (lots) to select an auspicious date and bribing Ahasuerus with 10,000 silver talents to decree the annihilation of all Jews across 127 provinces on the 13th day of Adar.",
+        "Mordecai tore his clothes, put on sackcloth with ashes, and went out into the city crying with a loud and bitter cry, weeping at the king's gate.",
+        "Esther sent clothes to comfort Mordecai, but he refused them, sending her a copy of the genocide decree and charging her to go into the king to beg for mercy.",
+        "Esther sent word reminding him of imperial law: anyone entering the inner court uninvited faced automatic death unless the king extended the golden scepter, and she had not been summoned for thirty days.",
+        "Mordecai delivered his immortal prophetic challenge: 'Don't think in your heart that you will escape in the king's house... Who knows if you haven't come to the kingdom for such a time as this?'",
+        "Esther accepted the call with sacrificial resolve: 'Go, gather together all the Jews who are present in Susa, and fast for me... I and my maidens will also fast... and if I perish, I perish.'"
+      ],
+      "strengths": [
+        "Mordecai's uncompromising spiritual discernment and prophetic conviction.",
+        "Esther's total transition from self-preservation to selfless, sacrificial courage.",
+        "Mobilization of three days of absolute prayer and fasting before political action."
+      ],
+      "title": "Mordecai the Benjamite and Queen Esther: The Voice at the Gate and the Queen on Her Knees",
+      "whenAndWhere": "The palace gates and royal inner court of Susa, circa 474 BC.",
+      "who": "Mordecai, a descendant of Kish who refused to bow to the Amalekite Haman, and Queen Esther, who risked execution by approaching the Persian king unbidden to intercede for her doomed people."
+    },
+    "quiz": [
+      {
+        "correctIndex": 0,
+        "explanation": "All the servants bowed and paid homage to Haman, but Mordecai refused to bow down or pay homage.",
+        "id": 1,
+        "options": [
+          "Mordecai refused to bow down and pay him homage",
+          "Mordecai stole money from Haman's chariot",
+          "Mordecai challenged Haman to a duel",
+          "Mordecai refused to sell him land in Susa"
+        ],
+        "question": "Why did Haman become enraged at Mordecai at the king's gate?",
+        "reference": "Esther 3:2-5",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "Letters were sent to destroy, kill, and annihilate all Jews, both young and old, women and children, in one day.",
+        "id": 2,
+        "options": [
+          "To double the taxes across the empire",
+          "To destroy, kill, and annihilate all Jews in every province in a single day",
+          "To rebuild the temple of Baal in Babylon",
+          "To banish all eunuchs from the palace"
+        ],
+        "question": "What extreme decree did Haman convince King Ahasuerus to sign into law?",
+        "reference": "Esther 3:13",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "There was one law for any uninvited person who entered the inner court: to be put to death, except the one to whom the king held out the golden scepter.",
+        "id": 3,
+        "options": [
+          "A fine of one thousand silver talents",
+          "Immediate death, unless the king held out his golden scepter",
+          "Permanent exile to the northern mountains",
+          "Three years in the imperial dungeon"
+        ],
+        "question": "Under Persian law, what was the penalty for entering the inner court to see the king uninvited?",
+        "reference": "Esther 4:11",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "Esther declared: 'Then I will go in to the king, which is against the law; and if I perish, I perish.'",
+        "id": 4,
+        "options": [
+          "The king will surely grant my wish",
+          "If I perish, I perish",
+          "I will fight with the royal sword",
+          "Mordecai will save me"
+        ],
+        "question": "What famous declaration did Esther make before preparing to go into the king?",
+        "reference": "Esther 4:16",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 0,
+        "explanation": "True. Esther commanded: 'Fast for me, and neither eat nor drink three days, night or day.'",
+        "id": 5,
+        "options": [
+          "True",
+          "False"
+        ],
+        "question": "True or False: Esther asked the Jews of Susa to fast for three days, night and day, before she entered the royal court.",
+        "reference": "Esther 4:16",
+        "type": "true-false"
+      }
+    ],
+    "scripture": [
+      {
+        "reference": "Esther 3",
+        "title": "Esther 3",
+        "verses": [
+          {
+            "number": 1,
+            "text": "After these things King Ahasuerus promoted Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes who were with him."
+          },
+          {
+            "number": 2,
+            "text": "All the king's servants who were in the king's gate bowed down, and paid homage to Haman; for the king had so commanded concerning him. But Mordecai didn't bow down or pay him homage."
+          },
+          {
+            "number": 6,
+            "text": "But he disdained to lay hands on Mordecai alone... therefore Haman sought to destroy all the Jews who were throughout the whole kingdom of Ahasuerus."
+          },
+          {
+            "number": 13,
+            "text": "Letters were sent by couriers into all the king's provinces, to destroy, to kill, and to cause to perish, all Jews, both young and old, little children and women, in one day... and to take their plunder for a spoil."
+          }
+        ]
+      },
+      {
+        "reference": "Esther 4",
+        "title": "Esther 4",
+        "verses": [
+          {
+            "number": 13,
+            "text": "Then Mordecai told them to return this answer to Esther: “Don't think to yourself that you will escape in the king's house any more than all the Jews.”"
+          },
+          {
+            "number": 14,
+            "text": "“For if you remain silent now, then relief and deliverance will come to the Jews from another place, but you and your father's house will perish. Who knows if you haven't come to the kingdom for such a time as this?”"
+          },
+          {
+            "number": 15,
+            "text": "Then Esther asked them to answer Mordecai,"
+          },
+          {
+            "number": 16,
+            "text": "“Go, gather together all the Jews who are present in Shushan, and fast for me, and neither eat nor drink three days, night or day. I and my maidens will also fast the same way. Then I will go in to the king, which is against the law; and if I perish, I perish.”"
+          }
+        ]
+      }
+    ],
+    "season": "For Such a Time as This: Standing in the Breach",
+    "theme": "Courage steps into dangerous royal courts, realizing God has prepared us for our specific crisis moment.",
+    "whatGodIsSaying": {
+      "headline": "God Did Not Place You Where You Are for Comfort, but for Holy Courage in the Crisis",
+      "reflection": "Mordecai's words to Esther ring across every generation of believers: 'Who knows if you haven't come to the kingdom for such a time as this?' Your position, your skills, your voice, and your sphere of influence are not random accidents intended merely to secure personal luxury. God placed you in this generation, in this family, and in this workplace for a purpose. Notice Mordecai's unwavering faith: 'Deliverance WILL come... but you will miss your blessing.' God's victory is never in doubt; what hangs in the balance is our willingness to be His instrument. When Esther laid down her life—'If I perish, I perish'—she found true immortality."
+    }
+  },
+  "213": {
+    "character": "Haman",
+    "closingPrayer": {
+      "guidedPrayer": "Righteous Judge of all the earth, You search the hearts and weigh the motives of every human soul. Deliver me from the venom of envy, pride, and resentment. Keep me from seeking self-glory or harboring malicious thoughts against those who cross my path. When enemies plot against Your church, remind me that You are able to turn their weapons into instruments of their own defeat. Clothe me in the humble gentleness of Jesus Christ.",
+      "prompt": "Release any bitterness or desire for personal revenge into the hands of the righteous Judge of heaven.",
+      "versePrayerLine": "Grant me to diligently seek good, knowing that Your favor encompasses the humble like a shield."
+    },
+    "day": 213,
+    "lessons": [
+      {
+        "detail": "Immense wealth and status brought Haman zero peace because his fragile pride was offended by one gatekeeper.",
+        "lesson": "Vanity Makes a Person Emotionally Fragile",
+        "question": "Is your emotional peace shattered whenever someone fails to validate or praise you?",
+        "verse": "Esther 5:13"
+      },
+      {
+        "detail": "One sleepless night orchestrated by God completely derailed Haman's murder plot before breakfast.",
+        "lesson": "God's Providence Operates While Kings Sleep",
+        "question": "Can you rest peacefully knowing God stays awake to protect His children from unseen plots?",
+        "verse": "Esther 6:1"
+      },
+      {
+        "detail": "Haman was hanged on the exact scaffold he personally commissioned for Mordecai.",
+        "lesson": "The Traps of the Wicked Catch Their Own Feet",
+        "question": "How does the certainty of divine justice comfort you when confronting unfair attacks?",
+        "verse": "Esther 7:9-10"
+      },
+      {
+        "detail": "Haman designed the royal parade for himself but ended up leading Mordecai's horse through the streets.",
+        "lesson": "True Honor Comes from God, Not Self-Promotion",
+        "question": "Are you striving for human recognition, or content to wait for God to honor you in His time?",
+        "verse": "Proverbs 11:27"
+      }
+    ],
+    "memoryVerse": {
+      "cramData": {
+        "blankWords": [
+          "diligently",
+          "seeks",
+          "favor",
+          "searches",
+          "evil"
+        ],
+        "firstLetters": "H w d s g s f, b h w s a e, e w c t h.",
+        "readTarget": 3
+      },
+      "reference": "Proverbs 11:27",
+      "text": "He who diligently seeks good seeks favor, but he who searches after evil, evil will come to him.",
+      "whyItMatters": "The traps plotted by arrogance inevitably become the instrument of the schemer's own undoing under God's righteous government."
+    },
+    "notesPrompt": "Reflect on how envy or resentment can poison an otherwise blessed life (as with Haman). Where do you need to surrender wounded pride to Jesus today?",
+    "profile": {
+      "failures": [
+        "Consumed by fragile, toxic ego: could not enjoy imperial power because one faithful man refused to bow.",
+        "Genocidal hatred fueled by ancestral Amalekite malice against God's covenant people.",
+        "Blind vanity that walked straight into divine judgment."
+      ],
+      "family": "Son of Hammedatha the Agagite; husband of Zeresh; father of ten sons.",
+      "keyMoments": [
+        "Esther put on royal robes, stood in the inner court, and Ahasuerus extended the golden scepter; she invited the king and Haman to a private banquet.",
+        "At the banquet, Esther invited them to a second banquet the following night, leaving Haman ecstatic with vanity.",
+        "Leaving the palace, Haman saw Mordecai at the gate neither standing up nor trembling before him, filling Haman with demonic fury.",
+        "Went home, summoned his friends and his wife Zeresh, boasted of his vast wealth, his ten sons, and his exclusive banquet invitations, yet lamented: 'All this avails me nothing, so long as I see Mordecai the Jew sitting at the king's gate.'",
+        "Zeresh and his friends advised: 'Let a gallows fifty cubits (75 feet) high be made, and in the morning speak to the king to hang Mordecai on it.'",
+        "That night, God stole the king's sleep; Ahasuerus commanded the royal chronicles read, discovering Mordecai was never rewarded for saving his life.",
+        "At dawn, Haman entered the court to ask to hang Mordecai; the king asked: 'What should be done for the man whom the king delights to honor?'",
+        "Haman, thinking in his heart 'Who would the king delight to honor more than me?', prescribed royal robes, the king's horse, the royal crest, and an escort through the city shouting his praises.",
+        "The king ordered: 'Hurry, take the robe and horse, and do even so to Mordecai the Jew!' Haman was forced to lead Mordecai through Susa proclaiming his honor.",
+        "At the second banquet, Esther unveiled Haman's genocidal plot; the furious king stepped out, returned to find Haman pleading on Esther's couch, and chamberlain Harbona pointed to the 75-foot gallows Haman built for Mordecai: 'Hang him on it!'",
+        "Haman was hanged on his own gallows, and the king's wrath subsided."
+      ],
+      "strengths": [
+        "Shrewd political strategist who climbed to the highest bureaucratic rank in Persia."
+      ],
+      "title": "Haman the Agagite: The Arrogant Schemer Hanged on His Own Gallows",
+      "whenAndWhere": "The royal palace of Susa, circa 474 BC.",
+      "who": "The prime minister of the Persian Empire under Ahasuerus, blinded by narcissistic pride, whose plot to hang Mordecai on a 75-foot gallows backfired spectacularly in a single night of sovereign reversal."
+    },
+    "quiz": [
+      {
+        "correctIndex": 1,
+        "explanation": "When the king saw Esther standing in the court, she obtained favor in his sight, and the king held out the golden scepter.",
+        "id": 1,
+        "options": [
+          "She disguised herself as a Persian soldier",
+          "The king saw her, extended his golden scepter, and she touched the top of it",
+          "She hired royal guards to announce her arrival with trumpets",
+          "She bribed the royal chamberlain with pearls"
+        ],
+        "question": "How did Esther gain an audience with King Ahasuerus when she approached unbidden?",
+        "reference": "Esther 5:2",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "Haman lamented: 'Yet all this avails me nothing, so long as I see Mordecai the Jew sitting at the king's gate.'",
+        "id": 2,
+        "options": [
+          "A terrible famine in Susa",
+          "Seeing Mordecai the Jew sitting at the king's gate and refusing to tremble before him",
+          "Losing a chariot race to the crown prince",
+          "The cost of building his summer estate"
+        ],
+        "question": "Despite all his wealth and promotions, what robbed Haman of his peace and satisfaction?",
+        "reference": "Esther 5:13",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 2,
+        "explanation": "His wife and friends urged him to build a gallows fifty cubits high.",
+        "id": 3,
+        "options": [
+          "Ten cubits",
+          "Twenty-five cubits",
+          "Fifty cubits (approx. 75 feet)",
+          "One hundred cubits"
+        ],
+        "question": "How tall was the gallows that Haman constructed to hang Mordecai upon?",
+        "reference": "Esther 5:14",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "The king commanded Haman to clothe Mordecai, place him on the royal horse, and proclaim before him throughout the city street.",
+        "id": 4,
+        "options": [
+          "To clean Mordecai's house for thirty days",
+          "To clothe Mordecai in royal apparel, put him on the king's horse, and lead him through the city proclaiming his honor",
+          "To give half of his silver to the Jewish temple",
+          "To carry Mordecai's luggage to Jerusalem"
+        ],
+        "question": "What humiliating assignment did King Ahasuerus command Haman to perform for Mordecai?",
+        "reference": "Esther 6:10-11",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "False. They hanged Haman on the very gallows that he had prepared for Mordecai.",
+        "id": 5,
+        "options": [
+          "True",
+          "False"
+        ],
+        "question": "True or False: Haman was executed by being thrown into the Persian river.",
+        "reference": "Esther 7:10",
+        "type": "true-false"
+      }
+    ],
+    "scripture": [
+      {
+        "reference": "Esther 5",
+        "title": "Esther 5",
+        "verses": [
+          {
+            "number": 2,
+            "text": "When the king saw Esther the queen standing in the court, she obtained favor in his sight; and the king held out to Esther the golden scepter that was in his hand. So Esther came near, and touched the top of the scepter."
+          },
+          {
+            "number": 11,
+            "text": "Haman recounted to them the glory of his riches, the multitude of his children, all the things in which the king had promoted him... and how he had advanced him above the princes and the servants of the king."
+          },
+          {
+            "number": 13,
+            "text": "“Yet all this avails me nothing, so long as I see Mordecai the Jew sitting at the king's gate.”"
+          },
+          {
+            "number": 14,
+            "text": "Then Zeresh his wife and all his friends said to him, “Let a gallows be made fifty cubits high... and in the morning speak to the king that Mordecai may be hanged on it.” This thing pleased Haman, and he had the gallows made."
+          }
+        ]
+      },
+      {
+        "reference": "Esther 7",
+        "title": "Esther 7",
+        "verses": [
+          {
+            "number": 5,
+            "text": "Then King Ahasuerus spoke to Esther the queen, “Who is he, and where is he, who dared presume in his heart to do so?”"
+          },
+          {
+            "number": 6,
+            "text": "Esther said, “An adversary and an enemy, even this wicked Haman!” Then Haman was afraid before the king and the queen."
+          },
+          {
+            "number": 9,
+            "text": "Then Harbona, one of the eunuchs who were with the king, said, “Behold, the gallows fifty cubits high, which Haman has made for Mordecai, who spoke good for the king, is standing at Haman's house.” The king said, “Hang him on it!”"
+          },
+          {
+            "number": 10,
+            "text": "So they hanged Haman on the gallows that he had prepared for Mordecai. Then the king's wrath was pacified."
+          }
+        ]
+      }
+    ],
+    "season": "The Gallows Built for Another: The Irony of Divine Retribution",
+    "theme": "God flips the traps of the wicked upon their own heads, delivering the humble from destruction.",
+    "whatGodIsSaying": {
+      "headline": "Pride Digs Its Own Pit; God Sovereignly Reverses the Schemes of the Wicked",
+      "reflection": "The story of Haman is the Bible's ultimate masterpiece of divine irony. Haman had wealth, influence, ten sons, and the second seat in the greatest empire on earth. Yet his heart was utterly miserable because one man did not bow. Pride is a bottomless pit that no earthly acclaim can satisfy. Even more striking is God's poetic justice: the very 75-foot gallows Haman erected in his backyard to murder Mordecai became the instrument of his own execution! The psalmist declared: 'He made a pit, and dug it, and has fallen into the ditch which he made' (Psalm 7:15). Trust God when the wicked seem to prosper; heaven's reversals are swift and righteous."
+    }
+  },
+  "214": {
+    "character": "Esther & Mordecai",
+    "closingPrayer": {
+      "guidedPrayer": "Lord God of our salvation, You are the God of the great reversal! You turn mourning into dancing, sorrow into gladness, and sackcloth into garments of praise. When the adversary issued a decree of death against my soul, You answered with the glorious decree of Calvary: life, freedom, and triumph through the precious blood of Jesus. Fill my heart with the joy of Purim. Keep me generous toward the poor and steadfast in declaring Your mighty works to all generations.",
+      "prompt": "Think of someone facing hardship and plan a concrete gift or act of kindness to bring them cheer today.",
+      "versePrayerLine": "Turn my mourning into gladness, Lord, and make my life a feast of Your praise and mercy to those in need."
+    },
+    "day": 214,
+    "lessons": [
+      {
+        "detail": "Haman was dead, but his decree was still active; Esther wept at the king's feet until the legal protection of her people was fully secured.",
+        "lesson": "Don't Rest Until the Work of Deliverance Is Finished",
+        "question": "Are you persistent in interceding for loved ones until their spiritual freedom is completely established?",
+        "verse": "Esther 8:3"
+      },
+      {
+        "detail": "On the very day enemies expected to exterminate the Jews, the exact reverse took place across the entire empire.",
+        "lesson": "God Turns the Tables on Oppression",
+        "question": "What impossible situation in your life are you trusting God to overturn for His glory?",
+        "verse": "Esther 9:1"
+      },
+      {
+        "detail": "The celebration of Purim required sending gifts to the poor; gratitude to God must overflow in practical generosity to the needy.",
+        "lesson": "True Joy Always Remembers the Poor",
+        "question": "How do your celebrations and answered prayers translate into tangible charity toward the poor?",
+        "verse": "Esther 9:22"
+      },
+      {
+        "detail": "Seeing God's supernatural vindication of His people, many Persian citizens embraced the Jewish faith.",
+        "lesson": "God's Righteous Deliverance Attracts Seekers",
+        "question": "Does your spiritual joy and peace cause unbelievers to desire the God you serve?",
+        "verse": "Esther 8:17"
+      }
+    ],
+    "memoryVerse": {
+      "cramData": {
+        "blankWords": [
+          "rest",
+          "sorrow",
+          "gladness",
+          "feasting",
+          "presents"
+        ],
+        "firstLetters": "a t d i w t J h r f t e, a t m w w t t t f s t g, a f m i a g d; t t s m t d o f a g, a o s p o t a, a g t t p.",
+        "readTarget": 3
+      },
+      "reference": "Esther 9:22",
+      "text": "as the days in which the Jews had rest from their enemies, and the month which was turned to them from sorrow to gladness, and from mourning into a good day; that they should make them days of feasting and gladness, and of sending presents one to another, and gifts to the poor.",
+      "whyItMatters": "The ultimate trajectory of God's redemptive storyline is always resurrection joy: turning mourning into dancing and despair into feasting."
+    },
+    "notesPrompt": "Reflect on how God turned 'mourning into a good day' in your own walk with Christ. Write a psalm of thanksgiving for His overcoming mercy.",
+    "profile": {
+      "failures": [
+        "None noted in this season of triumph and wisdom."
+      ],
+      "family": "Cousins of the tribe of Benjamin; Mordecai elevated to second in the kingdom, next to King Ahasuerus.",
+      "keyMoments": [
+        "After Haman's execution, King Ahasuerus gave Haman's royal estate to Esther, and Mordecai received the king's signet ring that had been taken back from Haman.",
+        "Esther fell down at the king's feet with tears, begging to revoke the genocidal letters of Haman; the king explained that an edict sealed with the royal ring could not be repealed under Persian law.",
+        "The king empowered Esther and Mordecai to write a new decree in the king's name: couriers on swift royal horses rode across 127 provinces authorizing the Jews to assemble, defend their lives, and destroy any armed force attacking them.",
+        "Mordecai went out from the king's presence wearing royal apparel of blue and white, a great crown of gold, and a purple robe; the city of Susa shouted and rejoiced.",
+        "For the Jews it was a time of light, gladness, joy, and honor; many peoples of the land became Jews, for the fear of the Jews fell upon them.",
+        "On the 13th day of Adar, when the enemies hoped to overpower them, the reverse occurred: the Jews subdued their attackers, but laid no hands on the plunder.",
+        "Instituted the Feast of Purim (named after 'Pur', the lot cast by Haman) as an eternal memorial on the 14th and 15th of Adar: days of feasting, joy, sending delicacies to neighbors, and gifts to the poor.",
+        "Mordecai ruled with greatness, seeking the good of his people and speaking peace to all his descendants."
+      ],
+      "strengths": [
+        "Persistent advocacy: Esther did not stop until her people were legally protected.",
+        "Wise legal maneuvering that honored the immutable constitution of the empire while providing total salvation.",
+        "Generosity in victory: establishing gifts to the poor as a core tenet of national celebration."
+      ],
+      "title": "Queen Esther and Prime Minister Mordecai: Deliverers of Israel and Authors of Purim",
+      "whenAndWhere": "The Persian Empire (from India to Ethiopia), circa 474–473 BC.",
+      "who": "Esther, weeping at the king's feet, and Mordecai, now wearing the king's signet ring, who counteracted Haman's irrevocable edict by issuing a new royal decree empowering the Jews to defend themselves, birthing the annual celebration of Purim."
+    },
+    "quiz": [
+      {
+        "correctIndex": 1,
+        "explanation": "Under the law of the Medes and Persians, an edict signed with the royal ring could not be reversed.",
+        "id": 1,
+        "options": [
+          "He lost the royal seal",
+          "A writing written in the king's name and sealed with the royal ring could not be reversed by Persian law",
+          "The Persian parliament voted against canceling it",
+          "Haman's sons had locked the royal archives"
+        ],
+        "question": "Why could King Ahasuerus not simply cancel Haman's original genocidal decree?",
+        "reference": "Esther 8:8",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "The decree permitted the Jews to gather, defend their lives, and destroy any force that assaulted them.",
+        "id": 2,
+        "options": [
+          "A command for all Jews to flee into the mountains of Ararat",
+          "A royal authorization permitting the Jews in every city to assemble, defend their lives, and destroy any armed attackers",
+          "A decree giving the Jews all Persian horses",
+          "A peace treaty with Greece"
+        ],
+        "question": "What counter-decree did Mordecai and Esther issue to save the Jewish people?",
+        "reference": "Esther 8:11",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "Mordecai went out in royal clothing of blue and white, with a great crown of gold and a robe of fine linen and purple.",
+        "id": 3,
+        "options": [
+          "Black and crimson",
+          "Blue and white, with a robe of fine linen and purple and a golden crown",
+          "Sackcloth with gold embroidery",
+          "Solid scarlet"
+        ],
+        "question": "What colors of royal apparel did Mordecai wear when departing from the king's presence?",
+        "reference": "Esther 8:15",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 2,
+        "explanation": "They called these days Purim, after the name of Pur (the lot).",
+        "id": 4,
+        "options": [
+          "Passover",
+          "The Feast of Tabernacles",
+          "The Feast of Purim",
+          "The Day of Atonement"
+        ],
+        "question": "What annual holiday was instituted to celebrate this deliverance from sorrow to gladness?",
+        "reference": "Esther 9:26",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 0,
+        "explanation": "True. The feast was established for gladness, sending presents one to another, and gifts to the poor.",
+        "id": 5,
+        "options": [
+          "True",
+          "False"
+        ],
+        "question": "True or False: According to Esther 9:22, the celebration of Purim included sending gifts to the poor.",
+        "reference": "Esther 9:22",
+        "type": "true-false"
+      }
+    ],
+    "scripture": [
+      {
+        "reference": "Esther 8",
+        "title": "Esther 8",
+        "verses": [
+          {
+            "number": 8,
+            "text": "“Write also to the Jews, as it pleases you, in the king's name, and seal it with the king's ring; for the writing which is written in the king's name, and sealed with the king's ring, may not be reversed by any man.”"
+          },
+          {
+            "number": 15,
+            "text": "Mordecai went out from the presence of the king in royal clothing of blue and white, and with a great crown of gold, and with a robe of fine linen and purple; and the city of Shushan shouted and was glad."
+          },
+          {
+            "number": 16,
+            "text": "The Jews had light, gladness, joy, and honor."
+          },
+          {
+            "number": 17,
+            "text": "In every province, and in every city, wherever the king's commandment and his decree came, the Jews had gladness and joy, a feast and a good day. Many from among the peoples of the land became Jews; for the fear of the Jews was fallen on them."
+          }
+        ]
+      },
+      {
+        "reference": "Esther 9",
+        "title": "Esther 9",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Now in the twelfth month, which is the month Adar, on the thirteenth day of the same... on the day that the enemies of the Jews hoped to conquer them, (but it turned out that the opposite happened, that the Jews conquered those who hated them)..."
+          },
+          {
+            "number": 20,
+            "text": "Mordecai wrote these things, and sent letters to all the Jews who were in all the provinces of King Ahasuerus, both near and far,"
+          },
+          {
+            "number": 22,
+            "text": "as the days in which the Jews had rest from their enemies, and the month which was turned to them from sorrow to gladness, and from mourning into a good day; that they should make them days of feasting and gladness, and of sending presents one to another, and gifts to the poor."
+          }
+        ]
+      }
+    ],
+    "season": "From Mourning to the Feast of Purim: The Great Reversal",
+    "theme": "God reverses irrevocable decrees of doom, turning mourning into feasts of joy and relief for His people.",
+    "whatGodIsSaying": {
+      "headline": "The Law of Death Is Overcome by a Higher Law of Life and Resurrection",
+      "reflection": "Notice the profound theological picture here. Under Persian law, Haman's decree of death could not be revoked; it stood legally permanent. So King Ahasuerus issued a second decree—a decree of life and empowerment—that completely superseded the effect of the first. This is a magnificent shadow of the Gospel! The law of sin and death could not simply be ignored; God answered it by introducing a higher decree in Christ: 'The law of the Spirit of life in Christ Jesus made me free from the law of sin and death' (Romans 8:2). God specializes in turning sorrow into gladness, sackcloth into royal purple, and mourning into feasting. His redemption has the final word."
+    }
+  },
+  "215": {
+    "character": "Job's Vow & God's Vindication",
+    "closingPrayer": {
+      "guidedPrayer": "Living Redeemer, Jesus Christ, You conquered death and You stand upon the earth in everlasting majesty! When my flesh fails and grief overwhelms my heart, remind me that my Redeemer lives. Deliver me from hearing of You only by the hearing of the ear; let my eyes behold Your holiness, Your sovereignty, and Your tenderness. Give me a forgiving heart that prays fervently for those who misunderstand or accuse me. In Your hands my latter end shall be greater than my beginning.",
+      "prompt": "Take a moment to intercede by name for someone who has treated you unfairly, releasing all offense.",
+      "versePrayerLine": "I know that my Redeemer lives, and in the end He will stand; in my flesh I shall see God."
+    },
+    "day": 215,
+    "lessons": [
+      {
+        "detail": "Sitting in scraping ash, Job confessed the eternal reality that anchored his soul: 'I know that my Redeemer lives.'",
+        "lesson": "Your Redeemer Outlives Every Trial",
+        "question": "Does your confidence in Jesus remain unshakable even when every earthly circumstance collapses?",
+        "verse": "Job 19:25"
+      },
+      {
+        "detail": "Pain often strips away superficial theological talk, bringing us into authentic, face-to-face communion with God.",
+        "lesson": "From Secondhand Religion to Firsthand Vision",
+        "question": "Has a recent season of trial deepened your personal encounter with God beyond mere religious routine?",
+        "verse": "Job 42:5"
+      },
+      {
+        "detail": "God unlocked Job's restoration the very moment Job prayed for the spiritual well-being of his critical friends.",
+        "lesson": "Forgiveness Is the Gateway to Restoration",
+        "question": "Is there someone who has criticized or wounded you whom you need to pray for today?",
+        "verse": "Job 42:10"
+      },
+      {
+        "detail": "God blessed Job's latter end with double abundance; God's children never end in defeat, but in everlasting glory.",
+        "lesson": "God's Latter End Outshines the Beginning",
+        "question": "Can you trust God that the end of your story in Christ will be infinitely more glorious than the pain of today?",
+        "verse": "Job 42:12"
+      }
+    ],
+    "memoryVerse": {
+      "cramData": {
+        "blankWords": [
+          "know",
+          "Redeemer",
+          "lives",
+          "stand",
+          "earth"
+        ],
+        "firstLetters": "B a f m, I k t m R l. I t e, h w s o t e.",
+        "readTarget": 3
+      },
+      "reference": "Job 19:25",
+      "text": "But as for me, I know that my Redeemer lives. In the end, he will stand on the earth.",
+      "whyItMatters": "No matter how agonizing our physical suffering or unjust the world's accusations, our Redeemer lives and will have the ultimate, triumphant word."
+    },
+    "notesPrompt": "Write down the name of a person who has judged, misunderstood, or spoken harshly against you. Write a sincere prayer asking God to bless and forgive them, following Job's example.",
+    "profile": {
+      "failures": [
+        "In deep distress, momentarily questioned God's justice and wished he had never been born."
+      ],
+      "family": "Husband to a grief-stricken wife; father of seven sons and three daughters who perished, then father of seven more sons and three renowned daughters (Jemimah, Keziah, Keren-Happuch).",
+      "keyMoments": [
+        "Sat in ash, scraping inflamed boils with a potsherd, yet refused to curse God: 'Yahweh gave, and Yahweh has taken away. Blessed be Yahweh's name.'",
+        "His three friends (Eliphaz, Bildad, Zophar) sat in silence seven days, then launched merciless speeches accusing him of secret hypocrisy and hidden crimes.",
+        "In the darkest abyss of physical decay and social rejection, Job burst into immortal prophetic faith: 'I know that my Redeemer lives... Even after my skin is destroyed, yet in my flesh I will see God!'",
+        "God answered Job out of the whirlwind, asking seventy unanswerable cosmic questions about the foundations of the earth, the constellations, and the depths of creation.",
+        "Job repented in dust and ashes: 'I had heard of you by the hearing of the ear, but now my eye sees you. Therefore I abhor myself, and repent in dust and ashes.'",
+        "God rebuked the three friends for not speaking what was right concerning Him as Job had, commanding them to bring seven bulls and seven rams for Job to pray over them.",
+        "When Job prayed for his friends, Yahweh restored his fortunes, giving him twice as much as he had before: 14,000 sheep, 6,000 camels, 1,000 yoke of oxen, 1,000 female donkeys, and ten beautiful children.",
+        "Job lived 140 years after his trial, seeing four generations of his descendants."
+      ],
+      "strengths": [
+        "Unbending integrity and refusal to abandon faith under incomprehensible agony.",
+        "Prophetic insight into bodily resurrection and the living Redeemer.",
+        "Christlike forgiveness: praying for the very friends who had tormented his soul."
+      ],
+      "title": "Job of Uz: The Tested Patriarch Who Saw God and Prayed for His Accusers",
+      "whenAndWhere": "The land of Uz (near Edom/Arabia), patriarchal era (circa 2000–1800 BC).",
+      "who": "An ancient, blameless patriarch who lost children, wealth, and health under Satanic assault, endured hollow condemnation from his theological companions, proclaimed his living Goel (Redeemer) amidst the ashes, and received double restoration after interceding for his friends."
+    },
+    "quiz": [
+      {
+        "correctIndex": 1,
+        "explanation": "Job 19:25 records his immortal words: 'But as for me, I know that my Redeemer lives. In the end, he will stand on the earth.'",
+        "id": 1,
+        "options": [
+          "I know that my riches will soon return",
+          "I know that my Redeemer lives, and in the end He will stand on the earth",
+          "I will build an altar on Mount Sinai",
+          "My friends will apologize to me tomorrow"
+        ],
+        "question": "What radiant prophetic confession did Job declare in the midst of his bodily torment?",
+        "reference": "Job 19:25",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "Job confessed: 'I had heard of you by the hearing of the ear, but now my eye sees you.'",
+        "id": 2,
+        "options": [
+          "I was terrified and ran away into a cave",
+          "I had heard of You by the hearing of the ear, but now my eye sees You",
+          "I realized my friends were completely correct",
+          "I felt smarter than all the wise men of Uz"
+        ],
+        "question": "How did Job describe the shift in his relationship with God after hearing God speak from the whirlwind?",
+        "reference": "Job 42:5",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "Job 42:10 states: 'Yahweh restored the fortunes of Job, when he prayed for his friends.'",
+        "id": 3,
+        "options": [
+          "When he debated his friends and won",
+          "When he prayed for his friends",
+          "When he offered ten talents of gold",
+          "When he built a new palace"
+        ],
+        "question": "At what specific moment did Yahweh restore the fortunes of Job?",
+        "reference": "Job 42:10",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "False. Yahweh gave Job twice as much as he had before, blessing his latter end more than his beginning.",
+        "id": 4,
+        "options": [
+          "True",
+          "False"
+        ],
+        "question": "True or False: Yahweh gave Job only half of what he had possessed before his trials.",
+        "reference": "Job 42:10",
+        "type": "true-false"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "God told Eliphaz: 'Take to yourselves seven bulls and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job will pray for you.'",
+        "id": 5,
+        "options": [
+          "Two turtledoves and a lamb",
+          "Seven bulls and seven rams",
+          "Twelve golden spoons filled with incense",
+          "A sheaf of barley"
+        ],
+        "question": "What did God instruct Job's three friends to bring for a burnt offering?",
+        "reference": "Job 42:8",
+        "type": "multiple-choice"
+      }
+    ],
+    "scripture": [
+      {
+        "reference": "Job 19",
+        "title": "Job 19",
+        "verses": [
+          {
+            "number": 21,
+            "text": "“Have pity on me, have pity on me, you my friends; for the hand of God has touched me."
+          },
+          {
+            "number": 23,
+            "text": "“Oh that my words were now written! Oh that they were inscribed in a book!"
+          },
+          {
+            "number": 24,
+            "text": "That with an iron pen and lead they were engraved in the rock forever!"
+          },
+          {
+            "number": 25,
+            "text": "But as for me, I know that my Redeemer lives. In the end, he will stand on the earth."
+          },
+          {
+            "number": 26,
+            "text": "After my skin is destroyed, then in my flesh I will see God,"
+          },
+          {
+            "number": 27,
+            "text": "whom I, even I, will see on my side. My eyes will see, and not as a stranger. My heart yearns within me.”"
+          }
+        ]
+      },
+      {
+        "reference": "Job 42",
+        "title": "Job 42",
+        "verses": [
+          {
+            "number": 2,
+            "text": "“I know that you can do all things, and that no purpose of yours can be restrained.”"
+          },
+          {
+            "number": 5,
+            "text": "“I had heard of you by the hearing of the ear, but now my eye sees you."
+          },
+          {
+            "number": 6,
+            "text": "Therefore I abhor myself, and repent in dust and ashes.”"
+          },
+          {
+            "number": 10,
+            "text": "Yahweh restored the fortunes of Job, when he prayed for his friends. Yahweh gave Job twice as much as he had before."
+          },
+          {
+            "number": 12,
+            "text": "So Yahweh blessed the latter end of Job more than his beginning."
+          }
+        ]
+      }
+    ],
+    "season": "I Know That My Redeemer Lives: Double Restoration & Praying for Friends",
+    "theme": "Steadfast faith proclaims a living Redeemer, moving through suffering into double restoration and intercession for friends.",
+    "whatGodIsSaying": {
+      "headline": "Suffering Deepens Sight: From Hearing with the Ear to Beholding God Face to Face",
+      "reflection": "Job's journey is not merely about suffering and restoration; it is about spiritual transformation. Before his trial, Job was blameless, yet his knowledge of God was largely 'by the hearing of the ear.' Through the furnace of affliction, Job encountered the living God directly: 'now my eye sees You.' The greatest turning point came in Job 42:10: 'Yahweh restored the fortunes of Job, WHEN HE PRAYED FOR HIS FRIENDS.' Think of the supernatural grace required! While his friends had slandered his character, Job laid his hands on the sacrificial altar and interceded for their forgiveness. When you release bitterness and pray for those who hurt you, heaven releases double blessing upon your soul."
+    }
+  },
+  "216": {
+    "character": "Zerubbabel",
+    "closingPrayer": {
+      "guidedPrayer": "Yahweh of Armies, You are the God who levels mountains and makes rough places smooth. Forgive me when I try to accomplish Your spiritual work through mere human hustle, cleverness, or worldly strength. Baptize my life afresh in the power of Your Holy Spirit. Where mountains of opposition stand before me, I speak Your grace, grace over them! Teach me never to despise the day of small beginnings, knowing that the hands that laid the foundation will also place the final capstone in victory.",
+      "prompt": "Surrender a difficult project or task to the Holy Spirit right now, asking Him to supply the wisdom and power you lack.",
+      "versePrayerLine": "Not by might, nor by power, but by Your Holy Spirit, Lord; level every mountain before me today."
+    },
+    "day": 216,
+    "lessons": [
+      {
+        "detail": "God stirred the pagan emperor Cyrus to fund the return, and stirred the hearts of ordinary families to leave Babylon.",
+        "lesson": "God Stirs the Hearts of Kings and Exiles Alike",
+        "question": "Are you asking God to stir the hearts of authorities and helpers to advance His kingdom work?",
+        "verse": "Ezra 1:1, 5"
+      },
+      {
+        "detail": "When human resources run dry, the Holy Spirit provides infinite divine capacity to finish God's assignments.",
+        "lesson": "The Spirit Transcends Human Resources",
+        "question": "In what project or ministry are you relying on your own energy rather than the Holy Spirit?",
+        "verse": "Zechariah 4:6"
+      },
+      {
+        "detail": "The second temple began as a humble foundation that skeptics mocked, but God's eyes watched it with great joy.",
+        "lesson": "Never Despise the Day of Small Things",
+        "question": "Are you tempted to look down on small, quiet beginnings in your spiritual growth or service?",
+        "verse": "Zechariah 4:10"
+      },
+      {
+        "detail": "Every work of God begins in grace, continues by grace, and finishes with shouts of 'Grace, grace to it!'",
+        "lesson": "The Capstone Is Brought Out with Shouts of Grace",
+        "question": "Do you acknowledge that every victory in your life is 100 percent the work of God's unmerited favor?",
+        "verse": "Zechariah 4:7"
+      }
+    ],
+    "memoryVerse": {
+      "cramData": {
+        "blankWords": [
+          "might",
+          "power",
+          "Spirit",
+          "Zerubbabel",
+          "Armies"
+        ],
+        "firstLetters": "T h a a s t m, s, “T i Y w t Z, s, ‘N b m, n b p, b b m S,’ s Y o A.”",
+        "readTarget": 3
+      },
+      "reference": "Zechariah 4:6",
+      "text": "Then he answered and spoke to me, saying, “This is Yahweh's word to Zerubbabel, saying, ‘Not by might, nor by power, but by my Spirit,’ says Yahweh of Armies.”",
+      "whyItMatters": "Spiritual restoration cannot be achieved through human political muscle or physical strength, but solely by the supernatural breathing of the Holy Spirit."
+    },
+    "notesPrompt": "What 'mountain' of difficulty, opposition, or discouragement is facing you? Write a declaration of faith applying Zechariah 4:6-7 to that exact situation.",
+    "profile": {
+      "failures": [
+        "Allowed construction to stall for over a decade when official imperial opposition intensified."
+      ],
+      "family": "Grandson of King Jehoiachin; son of Shealtiel (or Pedaiah); of the direct line of David (featured in the genealogies of Jesus in Matthew 1 and Luke 3); partner to High Priest Joshua son of Jehozadak.",
+      "keyMoments": [
+        "Cyrus the Great of Persia issued a royal proclamation fulfilling Jeremiah's prophecy, charging the exiles to return to Jerusalem and build Yahweh's house, returning 5,400 gold and silver temple vessels.",
+        "Zerubbabel and Joshua the high priest led the caravan of 42,360 returning exiles across four months of perilous wilderness travel.",
+        "Erected the bronze altar of burnt offerings amidst fear of surrounding hostile peoples and resumed the daily morning and evening sacrifices.",
+        "In the second month of the second year, laid the foundation of the second temple with trumpets, cymbals, and joyful weeping.",
+        "Samaritan adversaries hired counselors to frustrate their purpose, causing construction to halt for nearly sixteen years until the reign of Darius.",
+        "Prophets Haggai and Zechariah arose to stir Zerubbabel's spirit, delivering God's thrilling message: 'Who are you, great mountain? Before Zerubbabel you are made a plain! And he will bring out the headstone with shouts of “Grace, grace to it!”'",
+        "Zechariah saw the golden lampstand supplied continuously by two olive trees—symbolizing the Spirit's unstoppable supply.",
+        "Haggai declared God's royal promise: 'In that day... I will take you, Zerubbabel, my servant... and will make you as a signet ring; for I have chosen you, says Yahweh of Armies.'"
+      ],
+      "strengths": [
+        "Steadfast leadership in leading tens of thousands out of comfortable Babylon back to a ruined Jerusalem.",
+        "Refusal to compromise pure worship with syncretistic adversaries.",
+        "Renewed perseverance in building when stirred by God's prophetic word."
+      ],
+      "title": "Zerubbabel son of Shealtiel: The Princely Governor and God's Chosen Signet",
+      "whenAndWhere": "Jerusalem and Judah, circa 538–516 BC.",
+      "who": "The grandson of King Jehoiachin and prince of Judah who led the first wave of 42,360 Jewish exiles back to Jerusalem in 538 BC under Cyrus's decree, faced fierce opposition, and rebuilt the temple foundation by the empowering Spirit of Yahweh."
+    },
+    "quiz": [
+      {
+        "correctIndex": 1,
+        "explanation": "Cyrus king of Persia made a proclamation that Yahweh had commanded him to build Him a house in Jerusalem.",
+        "id": 1,
+        "options": [
+          "Nebuchadnezzar",
+          "Cyrus the Great",
+          "Belshazzar",
+          "Artaxerxes"
+        ],
+        "question": "Which Persian king issued the proclamation permitting the Jewish exiles to return and rebuild the temple?",
+        "reference": "Ezra 1:1-2",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 2,
+        "explanation": "God said: 'Not by might, nor by power, but by my Spirit, says Yahweh of Armies.'",
+        "id": 2,
+        "options": [
+          "By gold and silver from Egypt",
+          "By the swords of fifty thousand Persian warriors",
+          "Not by might, nor by power, but by My Spirit",
+          "By the wisdom of the Chaldean astronomers"
+        ],
+        "question": "According to Zechariah 4:6, how did God declare the temple work would be accomplished?",
+        "reference": "Zechariah 4:6",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "Zechariah 4:7 declares: 'He will bring out the capstone with shouts of “Grace, grace to it!”'",
+        "id": 3,
+        "options": [
+          "Victory, victory to our sword!",
+          "Grace, grace to it!",
+          "Woe to the Babylonians!",
+          "Holy, holy is the city!"
+        ],
+        "question": "What shout would accompany the bringing out of the capstone by Zerubbabel?",
+        "reference": "Zechariah 4:7",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 0,
+        "explanation": "True. Scripture asks: 'For who has despised the day of small things? For these seven will rejoice, and will see the plumb line in the hand of Zerubbabel.'",
+        "id": 4,
+        "options": [
+          "True",
+          "False"
+        ],
+        "question": "True or False: Zechariah 4:10 warns us never to despise the day of small things.",
+        "reference": "Zechariah 4:10",
+        "type": "true-false"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "Cyrus brought out the vessels of Yahweh's house which Nebuchadnezzar had carried away from Jerusalem.",
+        "id": 5,
+        "options": [
+          "The Ark of the Covenant",
+          "The holy vessels of Yahweh's house",
+          "The royal armor of King David",
+          "The golden bells of Aaron"
+        ],
+        "question": "What items did King Cyrus return to Zerubbabel that Nebuchadnezzar had pillaged from Jerusalem?",
+        "reference": "Ezra 1:7",
+        "type": "multiple-choice"
+      }
+    ],
+    "scripture": [
+      {
+        "reference": "Ezra 1",
+        "title": "Ezra 1",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Now in the first year of Cyrus king of Persia, that Yahweh's word by the mouth of Jeremiah might be accomplished, Yahweh stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom..."
+          },
+          {
+            "number": 2,
+            "text": "“Thus says Cyrus king of Persia, ‘Yahweh, the God of heaven, has given me all the kingdoms of the earth; and he has commanded me to build him a house in Jerusalem, which is in Judah.’”"
+          },
+          {
+            "number": 5,
+            "text": "Then the heads of fathers' households of Judah and Benjamin, and the priests, and the Levites, even all whose spirit God had stirred to go up rose up to build Yahweh's house which is in Jerusalem."
+          },
+          {
+            "number": 7,
+            "text": "Also Cyrus the king brought out the vessels of Yahweh's house, which Nebuchadnezzar had brought out of Jerusalem, and had put in the house of his gods."
+          }
+        ]
+      },
+      {
+        "reference": "Zechariah 4",
+        "title": "Zechariah 4",
+        "verses": [
+          {
+            "number": 6,
+            "text": "Then he answered and spoke to me, saying, “This is Yahweh's word to Zerubbabel, saying, ‘Not by might, nor by power, but by my Spirit,’ says Yahweh of Armies.”"
+          },
+          {
+            "number": 7,
+            "text": "“Who are you, great mountain? Before Zerubbabel you are made a plain! And he will bring out the capstone with shouts of ‘Grace, grace to it!’”"
+          },
+          {
+            "number": 9,
+            "text": "“The hands of Zerubbabel have laid the foundation of this house. His hands will also finish it; and you will know that Yahweh of Armies has sent me to you.”"
+          },
+          {
+            "number": 10,
+            "text": "“For who has despised the day of small things? For these seven will rejoice, and will see the plumb line in the hand of Zerubbabel...”"
+          }
+        ]
+      }
+    ],
+    "season": "Not by Might Nor by Power: The Mountain Made a Plain",
+    "theme": "Great obstacles become level plains when works of restoration are energized by the Spirit of the Lord.",
+    "whatGodIsSaying": {
+      "headline": "Human Mountains Melt into Plains When the Holy Spirit Energizes the Work",
+      "reflection": "Zerubbabel faced an overwhelming task: a tiny remnant of poor returnees surrounded by hostile neighbors, rebuilding a ruined temple with no army and meager funds. It looked like an immovable mountain. That is why God sent Zechariah with this eternal truth: 'Not by might, nor by power, but by My Spirit.' The word 'might' refers to collective armies and wealth; 'power' refers to individual human force. God declared: Your success will not depend on military strength, political lobbies, or human ingenuity, but on the quiet, irresistible surge of My Holy Spirit! Whatever mountain stands before your calling today, cry 'Grace, grace' to it, and watch the Spirit level it into a plain."
+    }
+  },
+  "217": {
+    "character": "The Ancient Priests",
+    "closingPrayer": {
+      "guidedPrayer": "O Yahweh, You are good, and Your steadfast love endures forever! From generation to generation You remain faithful. Thank You for receiving both my tears of past grief and my shouts of present joy. When I am tempted to weep over lost seasons or compare today's humble beginnings with yesterday's glories, anchor my soul in Your eternal purpose. You do great things for us, and our mouths are filled with laughter. Grant that every tear sown in faithful obedience will yield a harvest of eternal joy.",
+      "prompt": "Offer to God both a tender sorrow you carry and a fresh joy you celebrate, thanking Him for His enduring goodness.",
+      "versePrayerLine": "For You are good, and Your lovingkindness endures forever; let my tears and shouts unite in praising Your holy name."
+    },
+    "day": 217,
+    "lessons": [
+      {
+        "detail": "Through exile, ruin, and return, the eternal refrain of Israel remained identical: Yahweh is good and His mercy endures forever.",
+        "lesson": "God's Lovingkindness Endures Forever",
+        "question": "Can you declare God's goodness right now, even if your present circumstances look different than your past dreams?",
+        "verse": "Ezra 3:11"
+      },
+      {
+        "detail": "The elderly remembered past grandeur with tears, but had to embrace the new work God was birthing through their sons.",
+        "lesson": "Honoring the Past Without Diminishing the Present",
+        "question": "Are you clinging so tightly to the memories of 'the good old days' that you fail to celebrate God's new work today?",
+        "verse": "Ezra 3:12"
+      },
+      {
+        "detail": "Every tear shed in exile and repentance becomes watering seed for an eventual harvest of supernatural joy.",
+        "lesson": "Those Who Sow in Tears Shall Reap in Joy",
+        "question": "What sorrow in your life can you entrust to God as seed for a future spiritual harvest?",
+        "verse": "Psalm 126:5"
+      },
+      {
+        "detail": "The sound of mingled tears and shouts was heard far away, arresting the attention of surrounding nations.",
+        "lesson": "Generational Unity Amplifies God's Praise",
+        "question": "How can you bridge generational divides in your family or church to offer unified worship to God?",
+        "verse": "Ezra 3:13"
+      }
+    ],
+    "memoryVerse": {
+      "cramData": {
+        "blankWords": [
+          "praising",
+          "thanks",
+          "good",
+          "kindness",
+          "foundation"
+        ],
+        "firstLetters": "T s t o a i p a g t t Y, “F h i g, f h l k e f t I.” A t p s w a g s, w t p Y, b t f o Y h h b l.",
+        "readTarget": 3
+      },
+      "reference": "Ezra 3:11",
+      "text": "They sang to one another in praising and giving thanks to Yahweh, “For he is good, for his loving kindness endures forever toward Israel.” All the people shouted with a great shout, when they praised Yahweh, because the foundation of Yahweh's house had been laid.",
+      "whyItMatters": "Generations may experience God differently—some weeping for what was lost, others rejoicing for what is beginning—yet all unite in the enduring lovingkindness of Yahweh."
+    },
+    "notesPrompt": "Reflect on something precious you have lost, alongside something new God is currently building in your life. How can you worship Him with both honest tears and vibrant hope?",
+    "profile": {
+      "failures": [
+        "Tempted to let nostalgia and sorrow over lost glory overshadow the fresh miracle of God's present beginning."
+      ],
+      "family": "Sons of Aaron, Levites of the sons of Asaph with cymbals, and returnees of Judah and Benjamin.",
+      "keyMoments": [
+        "Gathered as one man in Jerusalem in the seventh month, setting up the altar on its original bases despite fear of the peoples of the land.",
+        "Celebrated the Feast of Booths (Tabernacles) and began offering continuous burnt offerings before the temple foundation was even laid.",
+        "Hired masons and carpenters and gave food, drink, and oil to the Sidonians and Tyrians to bring cedar logs from Lebanon by sea to Joppa, according to Cyrus's grant.",
+        "In the second year, the Levites from twenty years old and upward were appointed to oversee the work of the house of Yahweh.",
+        "When the builders laid the foundation of the temple of Yahweh, priests stood in their apparel with trumpets, and Levites with cymbals, to praise Yahweh according to the ordinance of David king of Israel.",
+        "Sang responsively with thanksgiving: 'For He is good, for His loving kindness endures forever toward Israel.'",
+        "Many of the priests and Levites and heads of households, old men who had seen the first temple, wept with a loud voice when the foundation of this house was laid before their eyes.",
+        "Yet many shouted aloud for joy, so that the people could not discern the noise of the shout of joy from the noise of the weeping of the people, for the noise was heard far away.",
+        "Joined in the fulfillment of Psalm 126: 'When Yahweh brought back those who returned to Zion, we were like those who dream... Those who sow in tears will reap in joy.'"
+      ],
+      "strengths": [
+        "Faithful memory that honored the holiness and splendor of God's past works.",
+        "Generational partnership: working side by side with young returnees born in exile.",
+        "Unbroken commitment to praise God's steadfast lovingkindness regardless of emotional tears."
+      ],
+      "title": "The Elderly Priests and Levites: Witnesses of Solomon's Splendor and Zerubbabel's Foundation",
+      "whenAndWhere": "The Temple Mount in Jerusalem, second month of the second year of return (circa 536 BC).",
+      "who": "The aged priests, Levites, and heads of fathers' households who had seen Solomon's first temple in their youth before the 586 BC destruction, and who now stood among a new generation laying the stones of the second temple."
+    },
+    "quiz": [
+      {
+        "correctIndex": 1,
+        "explanation": "Ezra 3:11 records they sang: 'For he is good, for his loving kindness endures forever toward Israel.'",
+        "id": 1,
+        "options": [
+          "The horse and rider He has thrown into the sea",
+          "For He is good, for His loving kindness endures forever toward Israel",
+          "A mighty fortress is our God",
+          "By the rivers of Babylon we sat and wept"
+        ],
+        "question": "What ancient psalm refrain did the priests and Levites sing when the temple foundation was laid?",
+        "reference": "Ezra 3:11",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "The old men who had seen the first house wept with a loud voice when the foundation of this house was laid before their eyes.",
+        "id": 2,
+        "options": [
+          "They were injured by falling stones",
+          "They remembered the splendor of Solomon's first temple and saw how humble this new foundation was",
+          "They had run out of food and water",
+          "They missed the cities of Babylon"
+        ],
+        "question": "Why did the elderly priests and heads of households weep aloud when the foundation was laid?",
+        "reference": "Ezra 3:12",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "The people could not discern the noise of the shout of joy from the noise of weeping, for the shout was heard far away.",
+        "id": 3,
+        "options": [
+          "The roaring of lions drowned out all human voices",
+          "The shout of joy and the noise of weeping were mingled together so loudly that it was heard far away",
+          "Heavy rain silenced all speech",
+          "The trumpets blew so loudly nobody could hear"
+        ],
+        "question": "How did the crowd react so that the sounds could not be distinguished from one another?",
+        "reference": "Ezra 3:13",
+        "type": "multiple-choice"
+      },
+      {
+        "correctIndex": 0,
+        "explanation": "True. Psalm 126:1 declares: 'When Yahweh brought back those who returned to Zion, we were like those who dream.'",
+        "id": 4,
+        "options": [
+          "True",
+          "False"
+        ],
+        "question": "True or False: According to Psalm 126:1, when Yahweh returned the exiles to Zion, they felt like those who dream.",
+        "reference": "Psalm 126:1",
+        "type": "true-false"
+      },
+      {
+        "correctIndex": 1,
+        "explanation": "Psalm 126:5 promises: 'Those who sow in tears will reap in joy.'",
+        "id": 5,
+        "options": [
+          "They will wander in drought forever",
+          "They will reap in joy",
+          "Their seed will rot in the ground",
+          "They will become servants of kings"
+        ],
+        "question": "What promise is given in Psalm 126:5 to those who sow in tears?",
+        "reference": "Psalm 126:5",
+        "type": "multiple-choice"
+      }
+    ],
+    "scripture": [
+      {
+        "reference": "Ezra 3",
+        "title": "Ezra 3",
+        "verses": [
+          {
+            "number": 10,
+            "text": "When the builders laid the foundation of Yahweh's temple, they set the priests in their clothing with trumpets, and the Levites the sons of Asaph with cymbals, to praise Yahweh, according to the order of David king of Israel."
+          },
+          {
+            "number": 11,
+            "text": "They sang to one another in praising and giving thanks to Yahweh, “For he is good, for his loving kindness endures forever toward Israel.” All the people shouted with a great shout, when they praised Yahweh, because the foundation of Yahweh's house had been laid."
+          },
+          {
+            "number": 12,
+            "text": "But many of the priests and Levites and heads of fathers' households, the old men who had seen the first house, when the foundation of this house was laid before their eyes, wept with a loud voice. Many also shouted aloud for joy,"
+          },
+          {
+            "number": 13,
+            "text": "so that the people couldn't discern the noise of the shout of joy from the noise of the weeping of the people; for the people shouted with a loud shout, and the noise was heard far away."
+          }
+        ]
+      },
+      {
+        "reference": "Psalm 126",
+        "title": "Psalm 126",
+        "verses": [
+          {
+            "number": 1,
+            "text": "When Yahweh brought back those who returned to Zion, we were like those who dream."
+          },
+          {
+            "number": 2,
+            "text": "Then our mouth was filled with laughter, and our tongue with singing. Then they said among the nations, “Yahweh has done great things for them.”"
+          },
+          {
+            "number": 3,
+            "text": "Yahweh has done great things for us, and we are glad."
+          },
+          {
+            "number": 5,
+            "text": "Those who sow in tears will reap in joy."
+          },
+          {
+            "number": 6,
+            "text": "He who goes out weeping, carrying seed for sowing, will certainly come again with joy, carrying his sheaves."
+          }
+        ]
+      }
+    ],
+    "season": "Weeping and Shouting at the Foundation: Memory and Hope Weaved in Praise",
+    "theme": "God's goodness spans the generations, weaving tears of memory and shouts of hope into unified praise.",
+    "whatGodIsSaying": {
+      "headline": "Tears of Memory and Shouts of Hope Blend Together in the Sanctuary of God",
+      "reflection": "One of the most human and moving scenes in all of Scripture took place on Mount Moriah when the temple foundation was laid. The young people who had only known dusty exile in Babylon looked at the foundation stones and shouted for pure joy! But the old priests who remembered Solomon's gold-covered temple wept aloud because this new temple seemed so modest in comparison. Yet notice: God did not silence the weeping, nor did He mute the shouting! In God's kingdom, our grief over what has passed and our joy over what God is beginning can exist in holy harmony. Both groups united in the same chorus: 'For He is good, for His loving kindness endures forever.' Never let nostalgia rob you of today's foundation."
     }
   }
 };
