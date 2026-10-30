@@ -1,19 +1,24 @@
 <!DOCTYPE html>
 <html lang="en" data-theme="light" data-font-size="medium">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
   <meta name="theme-color" content="#B45309">
-  <meta name="description" content="Know Him More — A 365-day character study of the Bible to know God more through Scripture, memorization, reflection, and prayer.">
+  <meta name="description"
+    content="Know Him More — A 365-day character study of the Bible to know God more through Scripture, memorization, reflection, and prayer.">
   <title>Know Him More — 365-Day Character Bible Study</title>
 
   <!-- PWA Manifest & Favicon -->
   <link rel="manifest" href="./manifest.json">
   <link rel="apple-touch-icon" href="./public/icon-192.png">
 
+
+
   <!-- Stylesheet -->
   <link rel="stylesheet" href="./src/styles/main.css">
 </head>
+
 <body>
 
   <!-- App Header -->
@@ -148,7 +153,8 @@
                 <span class="tap-number" id="tap-count-num">0</span>
                 <span class="tap-target">of 3 Reads</span>
               </div>
-              <p style="font-size: 0.85rem; color: var(--text-muted);">Tap the circle each time you read the verse aloud.</p>
+              <p style="font-size: 0.85rem; color: var(--text-muted);">Tap the circle each time you read the verse
+                aloud.</p>
             </div>
           </div>
 
@@ -164,13 +170,16 @@
           <!-- Step 3: First Letters -->
           <div class="cram-content-panel" id="cram-step-letters" style="display: none;">
             <div class="first-letters-display" id="first-letters-box"></div>
-            <p style="text-align: center; font-size: 0.85rem; color: var(--text-muted);">Recite the verse aloud using only the first letters as triggers.</p>
+            <p style="text-align: center; font-size: 0.85rem; color: var(--text-muted);">Recite the verse aloud using
+              only the first letters as triggers.</p>
           </div>
 
           <!-- Step 4: Full Recall -->
           <div class="cram-content-panel" id="cram-step-recall" style="display: none;">
-            <p style="font-size: 0.88rem; color: var(--text-secondary); margin-bottom: 0.5rem;">The verse is hidden! Type it from memory below:</p>
-            <textarea class="recall-textarea" id="recall-input" placeholder="Type the verse from memory here..."></textarea>
+            <p style="font-size: 0.88rem; color: var(--text-secondary); margin-bottom: 0.5rem;">The verse is hidden!
+              Type it from memory below:</p>
+            <textarea class="recall-textarea" id="recall-input"
+              placeholder="Type the verse from memory here..."></textarea>
             <button class="btn-primary" id="check-recall-btn" style="width: 100%;">Check My Memory</button>
             <div class="recall-diff-box" id="recall-diff-result" style="display: none;"></div>
           </div>
@@ -308,7 +317,8 @@
             <h3>My Notes & Insights</h3>
           </div>
         </div>
-        <textarea class="notes-textarea" id="notes-textarea" placeholder="Write what God is teaching you today..."></textarea>
+        <textarea class="notes-textarea" id="notes-textarea"
+          placeholder="Write what God is teaching you today..."></textarea>
         <div class="notes-status-row">
           <span id="notes-save-status">Auto-saved</span>
           <span id="notes-word-count">0 words</span>
@@ -329,7 +339,8 @@
 
         <div class="quiz-score-banner" id="quiz-score-banner" style="display: none;">
           <div class="score-display-text" id="quiz-score-text">Score: 5 / 5</div>
-          <p id="quiz-score-sub" style="color: var(--text-secondary); margin-bottom: 0.75rem;">Great job! You took today's quiz.</p>
+          <p id="quiz-score-sub" style="color: var(--text-secondary); margin-bottom: 0.75rem;">Great job! You took
+            today's quiz.</p>
           <button class="btn-secondary" id="retake-quiz-btn">Retake Quiz</button>
         </div>
       </section>
@@ -345,12 +356,14 @@
 
         <div class="prayer-display-card">
           <div class="prayer-text-body" id="guided-prayer-text"></div>
-          
+
           <div style="margin-top: 1rem; border-top: 1px dashed var(--border-subtle); padding-top: 0.75rem;">
-            <label for="custom-prayer-input" style="display: block; font-size: 0.88rem; font-weight: 600; color: var(--text-secondary); margin-bottom: 0.35rem;">
+            <label for="custom-prayer-input"
+              style="display: block; font-size: 0.88rem; font-weight: 600; color: var(--text-secondary); margin-bottom: 0.35rem;">
               Add your own prayer words to the Father:
             </label>
-            <textarea class="notes-textarea" id="custom-prayer-input" style="min-height: 80px;" placeholder="Lord, I also pray that..."></textarea>
+            <textarea class="notes-textarea" id="custom-prayer-input" style="min-height: 80px;"
+              placeholder="Lord, I also pray that..."></textarea>
           </div>
         </div>
 
@@ -365,14 +378,17 @@
     <div id="view-calendar" class="view-panel" style="display: none;">
       <div class="day-header-card">
         <h2 style="font-size: 1.5rem; margin-bottom: 0.5rem;">365-Day Plan & Progress</h2>
-        <p style="color: var(--text-secondary); margin-bottom: 1rem;">Track your year-long character study through Scripture. Tap any day to jump straight in.</p>
-        
+        <p style="color: var(--text-secondary); margin-bottom: 1rem;">Track your year-long character study through
+          Scripture. Tap any day to jump straight in.</p>
+
         <div style="display: flex; justify-content: space-between; font-size: 0.88rem; margin-bottom: 0.4rem;">
           <span id="calendar-progress-label">0 of 365 days completed</span>
           <span id="calendar-percent-label">0%</span>
         </div>
-        <div style="width: 100%; height: 8px; background-color: var(--bg-secondary); border-radius: 4px; overflow: hidden; margin-bottom: 1.25rem;">
-          <div id="calendar-progress-bar" style="height: 100%; width: 0%; background-color: var(--accent); transition: width 0.3s;"></div>
+        <div
+          style="width: 100%; height: 8px; background-color: var(--bg-secondary); border-radius: 4px; overflow: hidden; margin-bottom: 1.25rem;">
+          <div id="calendar-progress-bar"
+            style="height: 100%; width: 0%; background-color: var(--accent); transition: width 0.3s;"></div>
         </div>
 
         <!-- 365 Days Grid -->
@@ -384,7 +400,8 @@
     <div id="view-verses" class="view-panel" style="display: none;">
       <div class="day-header-card">
         <h2 style="font-size: 1.5rem; margin-bottom: 0.5rem;">Memory Verses Library</h2>
-        <p style="color: var(--text-secondary); margin-bottom: 1rem;">Every memory verse across the 365-day plan, with your memorization status and spaced review intervals.</p>
+        <p style="color: var(--text-secondary); margin-bottom: 1rem;">Every memory verse across the 365-day plan, with
+          your memorization status and spaced review intervals.</p>
         <div id="verses-library-list"></div>
       </div>
     </div>
@@ -393,7 +410,8 @@
     <div id="view-characters" class="view-panel" style="display: none;">
       <div class="day-header-card">
         <h2 style="font-size: 1.5rem; margin-bottom: 0.5rem;">Characters I've Studied</h2>
-        <p style="color: var(--text-secondary); margin-bottom: 1rem;">Review the men and women of Scripture you have encountered, along with your notes.</p>
+        <p style="color: var(--text-secondary); margin-bottom: 1rem;">Review the men and women of Scripture you have
+          encountered, along with your notes.</p>
         <div id="characters-studied-list"></div>
       </div>
     </div>
@@ -402,7 +420,8 @@
     <div id="view-scores" class="view-panel" style="display: none;">
       <div class="day-header-card">
         <h2 style="font-size: 1.5rem; margin-bottom: 0.5rem;">Quiz Performance</h2>
-        <p style="color: var(--text-secondary); margin-bottom: 1rem;">Track your comprehension of Scripture readings and identify areas for deeper study.</p>
+        <p style="color: var(--text-secondary); margin-bottom: 1rem;">Track your comprehension of Scripture readings and
+          identify areas for deeper study.</p>
         <div id="quiz-metrics-container"></div>
       </div>
     </div>
@@ -411,7 +430,8 @@
     <div id="view-weekly" class="view-panel" style="display: none;">
       <div class="day-header-card">
         <h2 style="font-size: 1.5rem; margin-bottom: 0.5rem;">Weekly Review & Reflection</h2>
-        <p style="color: var(--text-secondary); margin-bottom: 1rem;">Pause at the end of each week to consolidate what God has taught you through His servants.</p>
+        <p style="color: var(--text-secondary); margin-bottom: 1rem;">Pause at the end of each week to consolidate what
+          God has taught you through His servants.</p>
         <div id="weekly-review-container"></div>
       </div>
     </div>
@@ -420,26 +440,31 @@
     <div id="view-settings" class="view-panel" style="display: none;">
       <div class="day-header-card">
         <h2 style="font-size: 1.5rem; margin-bottom: 0.75rem;">Settings & Backup</h2>
-        
+
         <div style="display: flex; flex-direction: column; gap: 1.25rem;">
           <div>
             <label style="display: block; font-weight: 600; margin-bottom: 0.35rem;">Start Date for Day 1</label>
-            <input type="date" id="settings-start-date" style="padding: 0.5rem; border: 1px solid var(--border-strong); border-radius: var(--radius-sm); background: var(--bg-card); color: var(--text-primary);">
-            <p style="font-size: 0.8rem; color: var(--text-muted); margin-top: 0.25rem;">Choose the date your 365-day journey began.</p>
+            <input type="date" id="settings-start-date"
+              style="padding: 0.5rem; border: 1px solid var(--border-strong); border-radius: var(--radius-sm); background: var(--bg-card); color: var(--text-primary);">
+            <p style="font-size: 0.8rem; color: var(--text-muted); margin-top: 0.25rem;">Choose the date your 365-day
+              journey began.</p>
           </div>
 
           <div>
             <label style="display: block; font-weight: 600; margin-bottom: 0.35rem;">Daily Reminder Notification</label>
             <div style="display: flex; gap: 0.5rem; align-items: center;">
-              <input type="time" id="settings-reminder-time" value="07:00" style="padding: 0.5rem; border: 1px solid var(--border-strong); border-radius: var(--radius-sm); background: var(--bg-card); color: var(--text-primary);">
+              <input type="time" id="settings-reminder-time" value="07:00"
+                style="padding: 0.5rem; border: 1px solid var(--border-strong); border-radius: var(--radius-sm); background: var(--bg-card); color: var(--text-primary);">
               <button class="btn-secondary" id="enable-notifications-btn">Enable Notifications</button>
             </div>
-            <p style="font-size: 0.8rem; color: var(--text-muted); margin-top: 0.25rem;">Receive an optional quiet reminder to spend time with God.</p>
+            <p style="font-size: 0.8rem; color: var(--text-muted); margin-top: 0.25rem;">Receive an optional quiet
+              reminder to spend time with God.</p>
           </div>
 
           <div style="border-top: 1px solid var(--border-subtle); padding-top: 1rem;">
             <label style="display: block; font-weight: 600; margin-bottom: 0.35rem;">Data Backup & Privacy</label>
-            <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 0.75rem;">All your notes, memorization, and quiz scores are stored 100% locally on your device.</p>
+            <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 0.75rem;">All your notes,
+              memorization, and quiz scores are stored 100% locally on your device.</p>
             <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
               <button class="btn-primary" id="export-backup-btn">Export Backup (JSON)</button>
               <button class="btn-secondary" id="import-backup-trigger-btn">Import Backup</button>
@@ -522,5 +547,5 @@
     }
   </script>
 </body>
-</html>
 
+</html>

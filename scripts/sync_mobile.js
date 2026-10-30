@@ -53,3 +53,4 @@ try {
 } catch (e) {
   console.error('Error syncing with capacitor:', e.message);
 }
+
