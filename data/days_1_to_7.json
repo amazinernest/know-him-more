@@ -1,0 +1,2151 @@
+{
+  "1": {
+    "day": 1,
+    "character": "Adam",
+    "season": "Creation and the Breath of Life",
+    "theme": "God speaks the cosmos into being and crowns creation with His own image.",
+    "memoryVerse": {
+      "reference": "Genesis 1:27",
+      "text": "God created man in his own image. In God’s image he created him; male and female he created them.",
+      "whyItMatters": "Your identity and sacred worth are anchored in the divine image of your Creator, not in human accomplishments or worldly opinions.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "image",
+          "male",
+          "female",
+          "created"
+        ],
+        "firstLetters": "G c m i h o i. I G i h c h; m a f h c t."
+      }
+    },
+    "profile": {
+      "title": "The First Man: Dirt Crowned with Glory",
+      "who": "The very first human being, formed directly by the hands of God out of the dust of the ground (adamah) and brought to vibrant life through the personal breath of Yahweh.",
+      "whenAndWhere": "In the Garden of Eden, planted by God in the east, at the very dawn of human history.",
+      "family": "Formed directly by God; husband to Eve; father of Cain, Abel, Seth, and other sons and daughters.",
+      "keyMoments": [
+        "Formed from the dust of the earth and placed into the Garden of Eden to cultivate and keep it.",
+        "Given royal stewardship and intellectual dominion by naming all cattle, birds, and beasts of the field.",
+        "Awakened from divine deep sleep to receive Eve, breaking into joyful poetry: 'This is now bone of my bones, and flesh of my flesh!'",
+        "Entrusted with God's first moral boundary: the command not to eat from the tree of the knowledge of good and evil."
+      ],
+      "strengths": [
+        "Conferred with unprecedented intimacy, walking and talking directly with the Creator in the cool of the day.",
+        "Endowed with creative intelligence and stewardly authority over the animal kingdom.",
+        "Joyfully embraced God's gift of companionship, covenant marriage, and mutual partnership."
+      ],
+      "failures": [
+        "Stood in passive silence while the serpent twisted God's truth to deceive Eve in the garden.",
+        "Abdicated spiritual stewardship and willfully ate the forbidden fruit alongside his wife.",
+        "Shifted blame when questioned by God, refusing personal responsibility and pointing fingers at Eve and God Himself."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Genesis 1",
+        "title": "Creation of the Heavens, the Earth, and Humanity",
+        "verses": [
+          {
+            "number": 1,
+            "text": "In the beginning, God created the heavens and the earth."
+          },
+          {
+            "number": 2,
+            "text": "The earth was formless and empty. Darkness was on the surface of the deep and God’s Spirit was hovering over the surface of the waters."
+          },
+          {
+            "number": 3,
+            "text": "God said, 'Let there be light,' and there was light."
+          },
+          {
+            "number": 4,
+            "text": "God saw the light, and saw that it was good. God divided the light from the darkness."
+          },
+          {
+            "number": 5,
+            "text": "God called the light 'day', and the darkness he called 'night'. There was evening and there was morning, the first day."
+          },
+          {
+            "number": 6,
+            "text": "God said, 'Let there be an expanse in the middle of the waters, and let it divide the waters from the waters.'"
+          },
+          {
+            "number": 7,
+            "text": "God made the expanse, and divided the waters which were under the expanse from the waters which were above the expanse; and it was so."
+          },
+          {
+            "number": 8,
+            "text": "God called the expanse 'sky'. There was evening and there was morning, a second day."
+          },
+          {
+            "number": 9,
+            "text": "God said, 'Let the waters under the sky be gathered together to one place, and let the dry land appear;' and it was so."
+          },
+          {
+            "number": 10,
+            "text": "God called the dry land 'earth', and the gathering together of the waters he called 'seas'. God saw that it was good."
+          },
+          {
+            "number": 11,
+            "text": "God said, 'Let the earth yield grass, herbs yielding seeds, and fruit trees bearing fruit after their kind, with their seeds in it, on the earth;' and it was so."
+          },
+          {
+            "number": 12,
+            "text": "The earth yielded grass, herbs yielding seed after their kind, and trees bearing fruit, with their seeds in it, after their kind; and God saw that it was good."
+          },
+          {
+            "number": 13,
+            "text": "There was evening and there was morning, a third day."
+          },
+          {
+            "number": 14,
+            "text": "God said, 'Let there be lights in the expanse of sky to divide the day from the night; and let them be for signs to mark seasons, days, and years;'"
+          },
+          {
+            "number": 15,
+            "text": "'and let them be for lights in the expanse of sky to give light on the earth;' and it was so."
+          },
+          {
+            "number": 16,
+            "text": "God made the two great lights: the greater light to rule the day, and the lesser light to rule the night. He also made the stars."
+          },
+          {
+            "number": 17,
+            "text": "God set them in the expanse of sky to give light to the earth,"
+          },
+          {
+            "number": 18,
+            "text": "and to rule over the day and over the night, and to divide the light from the darkness. God saw that it was good."
+          },
+          {
+            "number": 19,
+            "text": "There was evening and there was morning, a fourth day."
+          },
+          {
+            "number": 20,
+            "text": "God said, 'Let the waters abound with living creatures, and let birds fly above the earth in the open expanse of sky.'"
+          },
+          {
+            "number": 21,
+            "text": "God created the large sea creatures and every living creature that moves, with which the waters swarmed, after their kind, and every winged bird after its kind. God saw that it was good."
+          },
+          {
+            "number": 22,
+            "text": "God blessed them, saying, 'Be fruitful, and multiply, and fill the waters in the seas, and let birds multiply on the earth.'"
+          },
+          {
+            "number": 23,
+            "text": "There was evening and there was morning, a fifth day."
+          },
+          {
+            "number": 24,
+            "text": "God said, 'Let the earth produce living creatures after their kind, livestock, creeping things, and animals of the earth after their kind;' and it was so."
+          },
+          {
+            "number": 25,
+            "text": "God made the animals of the earth after their kind, and the livestock after their kind, and everything that creeps on the ground after its kind. God saw that it was good."
+          },
+          {
+            "number": 26,
+            "text": "God said, 'Let’s make man in our image, after our likeness. Let them have dominion over the fish of the sea, and over the birds of the sky, and over the livestock, and over all the earth, and over every creeping thing that creeps on the earth.'"
+          },
+          {
+            "number": 27,
+            "text": "God created man in his own image. In God’s image he created him; male and female he created them."
+          },
+          {
+            "number": 28,
+            "text": "God blessed them. God said to them, 'Be fruitful, multiply, fill the earth, and subdue it. Have dominion over the fish of the sea, over the birds of the sky, and over every living thing that moves on the earth.'"
+          },
+          {
+            "number": 29,
+            "text": "God said, 'Behold, I have given you every herb yielding seed that is on the surface of all the earth, and every tree, which bears fruit yielding seed. It will be your food.'"
+          },
+          {
+            "number": 30,
+            "text": "'To every animal of the earth, and to every bird of the sky, and to everything that creeps on the earth, in which there is life, I have given every green herb for food;' and it was so."
+          },
+          {
+            "number": 31,
+            "text": "God saw everything that he had made, and, behold, it was very good. There was evening and there was morning, a sixth day."
+          }
+        ]
+      },
+      {
+        "reference": "Genesis 2",
+        "title": "The Garden of Eden, the Breath of Life, and the First Covenant",
+        "verses": [
+          {
+            "number": 1,
+            "text": "The heavens, the earth, and all their vast array were finished."
+          },
+          {
+            "number": 2,
+            "text": "On the seventh day God finished his work which he had made; and he rested on the seventh day from all his work which he had made."
+          },
+          {
+            "number": 3,
+            "text": "God blessed the seventh day, and made it holy, because he rested in it from all his work which he had created and made."
+          },
+          {
+            "number": 4,
+            "text": "This is the history of the generations of the heavens and of the earth when they were created, in the day that Yahweh God made the earth and the heavens."
+          },
+          {
+            "number": 5,
+            "text": "No plant of the field was yet in the earth, and no herb of the field had yet sprung up; for Yahweh God had not caused it to rain on the earth. There was not a man to till the ground,"
+          },
+          {
+            "number": 6,
+            "text": "but a mist went up from the earth, and watered the whole surface of the ground."
+          },
+          {
+            "number": 7,
+            "text": "Yahweh God formed man from the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul."
+          },
+          {
+            "number": 8,
+            "text": "Yahweh God planted a garden eastward, in Eden, and there he put the man whom he had formed."
+          },
+          {
+            "number": 9,
+            "text": "Out of the ground Yahweh God made every tree to grow that is pleasant to the sight, and good for food, including the tree of life in the middle of the garden and the tree of the knowledge of good and evil."
+          },
+          {
+            "number": 10,
+            "text": "A river went out of Eden to water the garden; and from there it was parted, and became the source of four rivers."
+          },
+          {
+            "number": 15,
+            "text": "Yahweh God took the man, and put him into the Garden of Eden to cultivate and keep it."
+          },
+          {
+            "number": 16,
+            "text": "Yahweh God commanded the man, saying, 'You may freely eat of every tree of the garden;'"
+          },
+          {
+            "number": 17,
+            "text": "'but you shall not eat of the tree of the knowledge of good and evil; for in the day that you eat of it, you will surely die.'"
+          },
+          {
+            "number": 18,
+            "text": "Yahweh God said, 'It is not good that the man should be alone; I will make him a helper suitable for him.'"
+          },
+          {
+            "number": 19,
+            "text": "Out of the ground Yahweh God formed every animal of the field, and every bird of the sky, and brought them to the man to see what he would call them. Whatever the man called each living creature, that was its name."
+          },
+          {
+            "number": 20,
+            "text": "The man gave names to all livestock, and to the birds of the sky, and to every animal of the field; but for man there was not found a helper suitable for him."
+          },
+          {
+            "number": 21,
+            "text": "Yahweh God caused a deep sleep to fall on the man, and he slept; and he took one of his ribs, and closed up the flesh in its place."
+          },
+          {
+            "number": 22,
+            "text": "Yahweh God made the rib, which he had taken from the man, into a woman, and brought her to the man."
+          },
+          {
+            "number": 23,
+            "text": "The man said, 'This is now bone of my bones, and flesh of my flesh! She will be called \"woman\", because she was taken out of man.'"
+          },
+          {
+            "number": 24,
+            "text": "Therefore a man will leave his father and his mother, and will join with his wife, and they will be one flesh."
+          },
+          {
+            "number": 25,
+            "text": "They were both naked, the man and his wife, and were not ashamed."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "You Are Not an Accidental Specks: The Originator's Sacred Design",
+      "reflection": "When you sit down with the opening chapters of Genesis, notice how the camera lens moves. Genesis 1 gives us the cosmic wide-angle view: a majestic Sovereign speaking galaxies, oceanic depths, and soaring constellations into existence with effortless authority. Everything He creates is pronounced 'good.' But when He reaches Day Six, the tone shifts from 'good' to 'very good,' and the celestial King does something He does with no other creature. He holds a divine council and says, 'Let us make man in our image, after our likeness.'\n\nThen in Genesis 2, the lens zooms in close enough to feel the warmth of hands and breath. God does not merely bark a cosmic command from a distance; He gets His hands into the moist soil of the ground. He shapes man like a loving sculptor and bends low over his face to breathe directly into his nostrils the breath of life (neshamah). You are not the product of blind, meaningless chance. You are an intentional masterpiece of the Living God.\n\nNotice also what God says is 'not good' before sin even entered the world: 'It is not good that the man should be alone' (Genesis 2:18). God built community, companionship, and covenant into our very DNA. Our Creator is a God of order, lavish beauty, relational tenderness, and holy boundaries. He gives Adam freedom to enjoy every luscious fruit in the garden, surrounding him with abundance while establishing one clear boundary to guard his heart. God’s commands are never killjoy restrictions; they are the protective railings of love."
+    },
+    "lessons": [
+      {
+        "lesson": "Your Worth Precedes Your Work",
+        "verse": "Genesis 1:27",
+        "detail": "Adam was granted supreme royal dignity as God's image-bearer before he ever lifted a finger to till the garden soil or name an animal. His worth flowed from whose likeness he bore, not from his performance.",
+        "question": "Where are you tempted to tie your personal value to your productivity, career success, or the applause of others instead of your identity in God?"
+      },
+      {
+        "lesson": "Work Is a Sacred Gift, Not a Punishment",
+        "verse": "Genesis 2:15",
+        "detail": "God placed Adam into the garden to 'cultivate and keep it' before the Fall occurred. Meaningful labor, stewardship, and creative contribution were part of God's paradise design for human flourishing.",
+        "question": "How can you reframe your daily duties and vocational tasks as a sacred partnership with God to bring order and blessing to your world?"
+      },
+      {
+        "lesson": "God Designed Us for Deep Relational Connection",
+        "verse": "Genesis 2:18",
+        "detail": "Even in an unfallen paradise with direct access to God, God declared that human isolation was not good. We are created to walk in vulnerability, mutual support, and honest fellowship.",
+        "question": "Are you currently living in isolated self-sufficiency, and who is one godly person you can invite into your life for genuine community?"
+      },
+      {
+        "lesson": "God's Boundaries Are Walls of Protection, Not Prison Bars",
+        "verse": "Genesis 2:16-17",
+        "detail": "God gave Adam thousands of trees to enjoy freely and placed a boundary on only one. True freedom is living gratefully inside the wise, loving guardrails established by our Creator.",
+        "question": "Is there a biblical command or moral boundary in your life that you have been viewing with resentment rather than as God's protective grace?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "d1_q1",
+        "type": "multiple_choice",
+        "question": "According to Genesis 1:26–27, what uniquely distinguishes human beings from all other created animals?",
+        "options": [
+          "Humans were created on the first day of creation",
+          "Humans alone were created in the image and likeness of God",
+          "Humans were created without any physical body",
+          "Humans were given dominion over the angels in heaven"
+        ],
+        "correctIndex": 1,
+        "reference": "Genesis 1:26-27",
+        "explanation": "Scripture explicitly records that God created humanity in His own image and likeness, an honor and responsibility conferred on no other creature."
+      },
+      {
+        "id": "d1_q2",
+        "type": "true_false",
+        "question": "True or False: In Genesis 2, human labor and working the garden was instituted as a curse only after Adam and Eve sinned.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Genesis 2:15",
+        "explanation": "False. God placed Adam in the Garden of Eden to cultivate and keep it in Genesis 2:15, well before the Fall in Genesis 3. Work was designed as a holy privilege."
+      },
+      {
+        "id": "d1_q3",
+        "type": "multiple_choice",
+        "question": "How did God form man in Genesis 2:7?",
+        "options": [
+          "He spoke a word and man instantly materialized from thin air",
+          "He commanded the angels to construct him from stone",
+          "He formed man from the dust of the ground and breathed into his nostrils the breath of life",
+          "He caused him to emerge from the four rivers of Eden"
+        ],
+        "correctIndex": 2,
+        "reference": "Genesis 2:7",
+        "explanation": "Genesis 2:7 states that Yahweh God formed man from the dust of the ground (adamah) and breathed into his nostrils the breath of life."
+      },
+      {
+        "id": "d1_q4",
+        "type": "multiple_choice",
+        "question": "What did God declare was 'not good' in the unfallen Garden of Eden in Genesis 2:18?",
+        "options": [
+          "That the garden had not yet received rain",
+          "That the animals did not yet have names",
+          "That the man should be alone",
+          "That there were four rivers instead of one"
+        ],
+        "correctIndex": 2,
+        "reference": "Genesis 2:18",
+        "explanation": "In Genesis 2:18, Yahweh God said, 'It is not good that the man should be alone; I will make him a helper suitable for him.'"
+      },
+      {
+        "id": "d1_q5",
+        "type": "multiple_choice",
+        "question": "What primary lesson does Genesis 1:27 teach us about how we should treat every human being we encounter?",
+        "options": [
+          "We should judge them based on their social status and wealth",
+          "Every person possesses inherent, sacred dignity because they bear the image of their Creator",
+          "Only people who agree with our theology have divine value",
+          "Value is earned solely through moral achievement"
+        ],
+        "correctIndex": 1,
+        "reference": "Genesis 1:27",
+        "explanation": "Because every human being is formed in the image of God, every person carries inestimable sacred worth, demanding our honor, respect, and love."
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Sovereign Father, Maker of heaven and earth, You spoke light into darkness and breathed life into the dust. Thank You that You did not make me an accident, but fashioned me in Your own image with purpose, love, and sacred dignity. Forgive me for the ways I forget whose likeness I bear, seeking validation in worldly approval, work performance, or the applause of others. Help me to receive my daily work as a sacred calling to bring order and blessing to the world around me. As Genesis 1:27 reminds me, You created me to reflect Your character; give me grace today to walk in holiness, generosity, and love toward everyone I meet. In Jesus' name, Amen.",
+      "versePrayerLine": "Father, because You created me in Your own image, let my thoughts, words, and actions reflect Your holy character today.",
+      "prompt": "Take a moment to pour out your own prayer to God right now. Thank Him for your creation, and surrender any anxieties about your worth into His loving hands."
+    }
+  },
+  "2": {
+    "day": 2,
+    "character": "Adam & Eve",
+    "season": "The Fall and the First Promise of Grace",
+    "theme": "Humanity breaks trust, but God immediately pledges a Redeemer to crush evil.",
+    "memoryVerse": {
+      "reference": "Genesis 3:15",
+      "text": "I will put hostility between you and the woman, and between your offspring and her offspring. He will bruise your head, and you will bruise his heel.",
+      "whyItMatters": "Even in the immediate wreckage of human rebellion, God unveils His eternal rescue plan: Christ will crush the serpent's head.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "hostility",
+          "woman",
+          "offspring",
+          "bruise",
+          "head"
+        ],
+        "firstLetters": "I w p h b y a t w, a b y o a h o. H w b y h, a y w b h h."
+      }
+    },
+    "profile": {
+      "title": "Adam & Eve: Shattered Paradise and the Seed of Hope",
+      "who": "The covenant parents of the human race, living in pristine innocence in Eden until deceptive temptation led them into catastrophic rebellion against God.",
+      "whenAndWhere": "The Garden of Eden, transitioning into the thorny wilderness outside the garden gates.",
+      "family": "Created by God; parents of Cain, Abel, Seth, and a growing lineage of sons and daughters.",
+      "keyMoments": [
+        "Confronted by the subtle deception of the serpent, questioning God's goodness and truth: 'Did God really say...?'",
+        "Eve took of the fruit and ate, giving it to her husband who was with her, and he ate; their eyes opened to shame and nakedness.",
+        "Sewed fragile fig leaves together and fled into hiding among the trees when hearing the sound of the Lord walking in the breeze.",
+        "Received God's righteous consequences, yet heard the Protoevangelium (the first gospel promise) in Genesis 3:15.",
+        "Clothed by God Himself with animal skins (requiring the first shed blood) before departing Eden.",
+        "Experienced the tragic grief of the first murder when Cain killed Abel in jealousy."
+      ],
+      "strengths": [
+        "Recognized the voice of the Lord even in their shame and came forth when summoned.",
+        "Eve named Seth with grateful faith in God's continuing mercy: 'For God has appointed another child for me instead of Abel.'"
+      ],
+      "failures": [
+        "Doubted God's generous character, believing the lie that God was holding out on them.",
+        "Willfully transgressed the one clear moral prohibition given by their Creator.",
+        "Blamed others rather than taking ownership: Adam blamed Eve and God; Eve blamed the serpent.",
+        "Passed along a fractured, sin-tainted nature that manifested rapidly in Cain's fraternal malice."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Genesis 3",
+        "title": "The Temptation, the Fall, and the Promise of the Seed",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Now the serpent was more subtle than any animal of the field which Yahweh God had made. He said to the woman, 'Has God really said, \"You shall not eat of any tree of the garden\"?'"
+          },
+          {
+            "number": 2,
+            "text": "The woman said to the serpent, 'We may eat fruit from the trees of the garden,'"
+          },
+          {
+            "number": 3,
+            "text": "'but not the fruit of the tree which is in the middle of the garden. God has said, \"You shall not eat of it, neither shall you touch it, lest you die.\"'"
+          },
+          {
+            "number": 4,
+            "text": "The serpent said to the woman, 'You won’t surely die,'"
+          },
+          {
+            "number": 5,
+            "text": "'for God knows that in the day you eat it, your eyes will be opened, and you will be like God, knowing good and evil.'"
+          },
+          {
+            "number": 6,
+            "text": "When the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise, she took some of its fruit, and ate; and she gave some to her husband with her, and he ate."
+          },
+          {
+            "number": 7,
+            "text": "The eyes of both of them were opened, and they knew that they were naked. They sewed fig leaves together, and made themselves coverings."
+          },
+          {
+            "number": 8,
+            "text": "They heard the sound of Yahweh God walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of Yahweh God among the trees of the garden."
+          },
+          {
+            "number": 9,
+            "text": "Yahweh God called to the man, and said to him, 'Where are you?'"
+          },
+          {
+            "number": 10,
+            "text": "The man said, 'I heard your voice in the garden, and I was afraid, because I was naked; and I hid myself.'"
+          },
+          {
+            "number": 11,
+            "text": "God said, 'Who told you that you were naked? Have you eaten from the tree that I commanded you not to eat from?'"
+          },
+          {
+            "number": 12,
+            "text": "The man said, 'The woman whom you gave to be with me, she gave me fruit from the tree, and I ate it.'"
+          },
+          {
+            "number": 13,
+            "text": "Yahweh God said to the woman, 'What have you done?' The woman said, 'The serpent deceived me, and I ate.'"
+          },
+          {
+            "number": 14,
+            "text": "Yahweh God said to the serpent, 'Because you have done this, you are cursed above all livestock, and above every animal of the field. You shall go on your belly and you shall eat dust all the days of your life.'"
+          },
+          {
+            "number": 15,
+            "text": "'I will put hostility between you and the woman, and between your offspring and her offspring. He will bruise your head, and you will bruise his heel.'"
+          },
+          {
+            "number": 16,
+            "text": "To the woman he said, 'I will greatly multiply your pain in childbirth. You will bear children in pain. Your desire will be for your husband, and he will rule over you.'"
+          },
+          {
+            "number": 17,
+            "text": "To Adam he said, 'Because you have listened to your wife’s voice, and ate from the tree, about which I commanded you, saying, \"You shall not eat of it,\" the ground is cursed for your sake. You will eat from it with painful labor all the days of your life.'"
+          },
+          {
+            "number": 18,
+            "text": "'It will yield thorns and thistles to you; and you will eat the herb of the field.'"
+          },
+          {
+            "number": 19,
+            "text": "'By the sweat of your face will you eat bread until you return to the ground, for out of it you were taken. For you are dust, and to dust you shall return.'"
+          },
+          {
+            "number": 20,
+            "text": "The man called his wife Eve, because she was the mother of all living."
+          },
+          {
+            "number": 21,
+            "text": "Yahweh God made coats of animal skins for Adam and for his wife, and clothed them."
+          },
+          {
+            "number": 22,
+            "text": "Yahweh God said, 'Behold, the man has become like one of us, knowing good and evil. Now, lest he reach out his hand, and also take of the tree of life, and eat, and live forever—'"
+          },
+          {
+            "number": 23,
+            "text": "therefore Yahweh God sent him out from the Garden of Eden, to till the ground from which he was taken."
+          },
+          {
+            "number": 24,
+            "text": "So he drove out the man; and he placed cherubim at the east of the Garden of Eden, and a flaming sword which turned every way, to guard the way to the tree of life."
+          }
+        ]
+      },
+      {
+        "reference": "Genesis 4",
+        "title": "Cain and Abel: The First Murder and the Line of Seth",
+        "verses": [
+          {
+            "number": 1,
+            "text": "The man knew Eve his wife. She conceived, and gave birth to Cain, and said, 'I have gotten a man with Yahweh’s help.'"
+          },
+          {
+            "number": 2,
+            "text": "Again she gave birth, to his brother Abel. Abel was a keeper of sheep, but Cain was a tiller of the ground."
+          },
+          {
+            "number": 3,
+            "text": "As time passed, Cain brought an offering to Yahweh from the produce of the ground."
+          },
+          {
+            "number": 4,
+            "text": "Abel also brought some of the firstborn of his flock and of its fat. Yahweh respected Abel and his offering,"
+          },
+          {
+            "number": 5,
+            "text": "but he didn’t respect Cain and his offering. Cain was very angry, and the expression on his face fell."
+          },
+          {
+            "number": 6,
+            "text": "Yahweh said to Cain, 'Why are you angry? And why has the expression on your face fallen?'"
+          },
+          {
+            "number": 7,
+            "text": "'If you do well, won’t it be lifted up? If you don’t do well, sin crouches at the door. Its desire is for you, but you are to rule over it.'"
+          },
+          {
+            "number": 8,
+            "text": "Cain talked with Abel his brother. While they were in the field, Cain rose up against Abel his brother, and killed him."
+          },
+          {
+            "number": 9,
+            "text": "Yahweh said to Cain, 'Where is Abel, your brother?' He said, 'I don’t know. Am I my brother’s keeper?'"
+          },
+          {
+            "number": 10,
+            "text": "God said, 'What have you done? The voice of your brother’s blood cries to me from the ground.'"
+          },
+          {
+            "number": 11,
+            "text": "'Now you are cursed from the ground, which has opened its mouth to receive your brother’s blood from your hand.'"
+          },
+          {
+            "number": 12,
+            "text": "'When you till the ground, it will no longer yield its strength to you. You will be a fugitive and a wanderer on the earth.'"
+          },
+          {
+            "number": 13,
+            "text": "Cain said to Yahweh, 'My punishment is greater than I can bear.'"
+          },
+          {
+            "number": 14,
+            "text": "'Behold, you have driven me out today from the surface of the ground. I will be hidden from your face, and I will be a fugitive and a wanderer on the earth. Whoever finds me will kill me.'"
+          },
+          {
+            "number": 15,
+            "text": "Yahweh said to him, 'Therefore whoever slays Cain, vengeance will be taken on him sevenfold.' Yahweh appointed a mark for Cain, lest any finding him should strike him."
+          },
+          {
+            "number": 16,
+            "text": "Cain went out from Yahweh’s presence, and lived in the land of Nod, east of Eden."
+          },
+          {
+            "number": 25,
+            "text": "Adam knew his wife again. She gave birth to a son, and named him Seth. 'For God has appointed another child for me instead of Abel, for Cain killed him.'"
+          },
+          {
+            "number": 26,
+            "text": "There was also born a son to Seth, and he named him Enosh. At that time men began to call on Yahweh’s name."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "The Pursuing Seeker and the Blood of the Promise",
+      "reflection": "The tragedy of Genesis 3 is not just that a rule was broken; it is that trust in the Father's heart was abandoned. The enemy’s opening tactic was subtle yet lethal: he whispered that God was holding out on them, that His boundary was motivated by jealousy rather than love. When Adam and Eve ate, the catastrophic consequence was immediate shame, vulnerability, and terror. For the first time, human beings hid from the voice of the God who loved them.\n\nYet look at what God does! He does not unleash lightning bolts of obliteration. Instead, He enters the garden in the cool of the day and calls out with tender yearning: 'Where are you?' (Genesis 3:9). God was not asking for geographic coordinates; He was pursuing the lost hearts of His runaway children. God has been the Pursuer ever since.\n\nEven as He speaks solemn consequences for sin—thorns, sweat, sorrow, and physical death—He plants the blazing star of gospel hope directly into the dark soil. In Genesis 3:15, God declares war on the serpent. A coming Seed of the woman will have His heel bruised (the suffering of the Cross), but He will deliver a fatal, skull-crushing blow to the serpent's head! Then, before expelling them from Eden, God strips off their flimsy, self-made fig leaves and clothes them in animal skins (Genesis 3:21). To cover human guilt, an innocent animal had to die. From the very threshold of human history, God established that sin is covered only by atoning blood, pointing straight to Jesus Christ, the Lamb of God who takes away the sin of the world."
+    },
+    "lessons": [
+      {
+        "lesson": "Beware the Subtle Lie That God Is Holding Out on You",
+        "verse": "Genesis 3:1-5",
+        "detail": "Every temptation begins with doubting God's goodness: believing that He is withholding something truly delightful from us. When we doubt His generosity, disobedience feels logical.",
+        "question": "In what area of your life are you currently tempted to believe that God's boundaries are depriving you of happiness?"
+      },
+      {
+        "lesson": "Flimsy Fig Leaves Cannot Cover Spiritual Shame",
+        "verse": "Genesis 3:7, 21",
+        "detail": "Adam and Eve sewed fragile leaves to cover their nakedness; we use moral achievement, career titles, or busyness to hide our guilt. Only God's sacrificial covering can truly remove our shame.",
+        "question": "What 'fig leaves' do you tend to reach for to make yourself feel acceptable or to hide your flaws from God and people?"
+      },
+      {
+        "lesson": "Run Toward God, Not Away From Him, When You Fail",
+        "verse": "Genesis 3:8-9",
+        "detail": "Our instinct when we stumble into sin is to hide in the bushes of avoidance and prayerlessness. But God walks toward us asking, 'Where are you?'—calling us into honest confession.",
+        "question": "Is there an unconfessed failure or struggle you have been hiding from God instead of stepping into His forgiving light?"
+      },
+      {
+        "lesson": "Sin Crouches, but Grace Provides a Way to Rule Over It",
+        "verse": "Genesis 4:7",
+        "detail": "God warned Cain that unchecked resentment is like a predatory beast crouching at the door. If we do not confess bitterness early, it quickly devours us and harms those around us.",
+        "question": "Are you harboring secret jealousy or resentment toward someone right now, and what step of forgiveness must you take before it takes root?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "d2_q1",
+        "type": "multiple_choice",
+        "question": "What was the very first question the serpent used to cast doubt on God's character in Genesis 3:1?",
+        "options": [
+          "'Why did God make you from the dust?'",
+          "'Has God really said, \"You shall not eat of any tree of the garden\"?'",
+          "'Where is the tree of life located?'",
+          "'Will God make you rulers over the angels?'"
+        ],
+        "correctIndex": 1,
+        "reference": "Genesis 3:1",
+        "explanation": "The serpent began by exaggerating and questioning God's command: 'Has God really said, \"You shall not eat of any tree of the garden\"?'"
+      },
+      {
+        "id": "d2_q2",
+        "type": "multiple_choice",
+        "question": "In Genesis 3:15 (often called the Protoevangelium or first gospel promise), what does God promise the offspring of the woman will do to the serpent?",
+        "options": [
+          "Make a treaty of peace with the serpent",
+          "Bruise the serpent's head while having his own heel bruised",
+          "Build a wall to keep the serpent away from Eden",
+          "Offer the serpent a sacrifice of fruits"
+        ],
+        "correctIndex": 1,
+        "reference": "Genesis 3:15",
+        "explanation": "Genesis 3:15 foretells that the Seed of the woman (Christ) will suffer a bruised heel at the Cross, but will deliver a fatal, crushing blow to the serpent's head."
+      },
+      {
+        "id": "d2_q3",
+        "type": "multiple_choice",
+        "question": "How did God provide a lasting covering for Adam and Eve's nakedness in Genesis 3:21?",
+        "options": [
+          "He told them to weave better fig leaves",
+          "He gave them gold armor",
+          "He made coats of animal skins for them and clothed them",
+          "He removed their physical bodies"
+        ],
+        "correctIndex": 2,
+        "reference": "Genesis 3:21",
+        "explanation": "Genesis 3:21 states that Yahweh God made coats of skins for Adam and his wife, illustrating that covering human guilt requires the sacrifice of an innocent substitute."
+      },
+      {
+        "id": "d2_q4",
+        "type": "true_false",
+        "question": "True or False: In Genesis 4:7, God warned Cain that sin was crouching like a predator at the door, but instructed him that he must master it.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 0,
+        "reference": "Genesis 4:7",
+        "explanation": "True. God gently warned Cain: 'If you don’t do well, sin crouches at the door. Its desire is for you, but you are to rule over it.'"
+      },
+      {
+        "id": "d2_q5",
+        "type": "multiple_choice",
+        "question": "What did Eve say when Seth was born in Genesis 4:25 after the tragic loss of Abel?",
+        "options": [
+          "'I will never have another child'",
+          "'For God has appointed another child for me instead of Abel, for Cain killed him'",
+          "'My family line has ended in despair'",
+          "'Cain will be my only heir'"
+        ],
+        "correctIndex": 1,
+        "reference": "Genesis 4:25",
+        "explanation": "Eve demonstrated resilient faith in God's continuing mercy, acknowledging that God had appointed Seth to continue the godly line."
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Gracious Lord and Pursuing Father, even when I have wandered into compromise and tried to hide my shame behind fragile self-made coverings, You walk toward me in love and call my name. Thank You that You did not abandon Adam and Eve in their ruin, and You have not abandoned me. Thank You for the promise of Genesis 3:15, that Jesus Christ took the bruising on His heel at Calvary so He could crush the serpent's power and set me free. Forgive me for listening to the enemy's whispers that doubt Your goodness. Strip away my self-justification, and clothe me daily in the spotless righteousness of Christ. Keep me alert to temptation, that sin may not crouch at my door. In Jesus' mighty name, Amen.",
+      "versePrayerLine": "Lord Jesus, Conqueror of evil, thank You that through Your cross You crushed the serpent's head and secured my eternal deliverance.",
+      "prompt": "Take a moment to bring any hidden guilt or area of compromise into God's presence. Ask Him to replace your 'fig leaves' with His cleansing grace."
+    }
+  },
+  "3": {
+    "day": 3,
+    "character": "Enoch",
+    "season": "Walking in Intimate Fellowship with God",
+    "theme": "A quiet life of unhurried fellowship with God outlasts the fading noise of generations.",
+    "memoryVerse": {
+      "reference": "Hebrews 11:5",
+      "text": "By faith, Enoch was taken away, so that he wouldn’t see death... for he had been commended as having pleased God.",
+      "whyItMatters": "Pleasing God is not about loud religious spectacle or public accolades; it is found in the quiet, steady rhythm of daily walking with Him.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "faith",
+          "death",
+          "pleased",
+          "taken",
+          "God"
+        ],
+        "firstLetters": "B f, E w t a, s t h w s d... f h h b c a h p G."
+      }
+    },
+    "profile": {
+      "title": "Enoch: The Man Who Walked Away with God",
+      "who": "The seventh generation from Adam through Seth; a quiet prophet and patriarch who lived with such unhurried, unbroken intimacy with God that he bypassed physical death entirely.",
+      "whenAndWhere": "The ancient pre-Flood world, an era increasingly descending into spiritual decay and moral violence.",
+      "family": "Son of Jared; father of Methuselah (the longest-living human in history); great-grandfather of Noah.",
+      "keyMoments": [
+        "Began his distinctive 300-year walk with God following the birth of his son Methuselah at age sixty-five.",
+        "Lived in holy distinction amidst a genealogy where every other life ends with the somber refrain: 'and he died.'",
+        "Prophesied boldly to an ungodly generation concerning the Lord coming with holy ten thousands to execute judgment (Jude 14–15).",
+        "Disappeared from earth at age 365: 'He was not, for God took him'—translated directly into God's immediate presence."
+      ],
+      "strengths": [
+        "Maintained uninterrupted, daily fellowship with God across three centuries amidst an increasingly corrupt society.",
+        "Earned the eternal testimony recorded in Hebrews 11 that he 'pleased God' through living faith.",
+        "Steered his household in godliness, passing down a lineage of faith that preserved humanity through Noah."
+      ],
+      "failures": [
+        "Scripture records no moral failures or scandals in Enoch's life—not because he was sinless, but because his life was wholly absorbed in pleasing God by faith."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Genesis 5",
+        "title": "The Genealogy from Adam to Noah: 'And He Died' Broken by Enoch",
+        "verses": [
+          {
+            "number": 1,
+            "text": "This is the book of the generations of Adam. In the day that God created man, he made him in God’s likeness."
+          },
+          {
+            "number": 2,
+            "text": "He created them male and female, and blessed them, and called their name 'Adam', in the day when they were created."
+          },
+          {
+            "number": 3,
+            "text": "Adam lived one hundred thirty years, and became the father of a son in his own likeness, after his image, and named him Seth."
+          },
+          {
+            "number": 4,
+            "text": "The days of Adam after he became the father of Seth were eight hundred years, and he became the father of other sons and daughters."
+          },
+          {
+            "number": 5,
+            "text": "All the days that Adam lived were nine hundred thirty years, and he died."
+          },
+          {
+            "number": 6,
+            "text": "Seth lived one hundred five years, and became the father of Enosh."
+          },
+          {
+            "number": 7,
+            "text": "Seth lived after he became the father of Enosh eight hundred seven years, and became the father of other sons and daughters."
+          },
+          {
+            "number": 8,
+            "text": "All the days of Seth were nine hundred twelve years, and he died."
+          },
+          {
+            "number": 18,
+            "text": "Jared lived one hundred sixty-two years, and became the father of Enoch."
+          },
+          {
+            "number": 19,
+            "text": "Jared lived after he became the father of Enoch eight hundred years, and became the father of other sons and daughters."
+          },
+          {
+            "number": 20,
+            "text": "All the days of Jared were nine hundred sixty-two years, and he died."
+          },
+          {
+            "number": 21,
+            "text": "Enoch lived sixty-five years, and became the father of Methuselah."
+          },
+          {
+            "number": 22,
+            "text": "Enoch walked with God after he became the father of Methuselah three hundred years, and became the father of other sons and daughters."
+          },
+          {
+            "number": 23,
+            "text": "All the days of Enoch were three hundred sixty-five years."
+          },
+          {
+            "number": 24,
+            "text": "Enoch walked with God, and he was not, for God took him."
+          },
+          {
+            "number": 25,
+            "text": "Methuselah lived one hundred eighty-seven years, and became the father of Lamech."
+          },
+          {
+            "number": 26,
+            "text": "Methuselah lived after he became the father of Lamech seven hundred eighty-two years, and became the father of other sons and daughters."
+          },
+          {
+            "number": 27,
+            "text": "All the days of Methuselah were nine hundred sixty-nine years, and he died."
+          },
+          {
+            "number": 28,
+            "text": "Lamech lived one hundred eighty-two years, and became the father of a son."
+          },
+          {
+            "number": 29,
+            "text": "He named him Noah, saying, 'This one will comfort us in our work and in the toil of our hands, because of the ground which Yahweh has cursed.'"
+          }
+        ]
+      },
+      {
+        "reference": "Hebrews 11",
+        "title": "The Hall of Faith: Trusting the Unseen God",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Now faith is assurance of things hoped for, proof of things not seen."
+          },
+          {
+            "number": 2,
+            "text": "For by this, the elders obtained testimony."
+          },
+          {
+            "number": 3,
+            "text": "By faith, we understand that the universe has been framed by the word of God, so that what is seen has not been made out of things which appear."
+          },
+          {
+            "number": 4,
+            "text": "By faith, Abel offered to God a more excellent sacrifice than Cain, through which he had testimony given to him that he was righteous, God testifying with respect to his gifts; and through it he, being dead, still speaks."
+          },
+          {
+            "number": 5,
+            "text": "By faith, Enoch was taken away, so that he wouldn’t see death, and he was not found, because God had taken him. For he had been commended as having pleased God before his taking away."
+          },
+          {
+            "number": 6,
+            "text": "Without faith it is impossible to be well pleasing to him, for he who comes to God must believe that he exists, and that he is a rewarder of those who seek him."
+          },
+          {
+            "number": 7,
+            "text": "By faith, Noah, being warned about things not yet seen, moved with godly fear, prepared an ark for the saving of his house, through which he condemned the world, and became heir of the righteousness which is according to faith."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "The God Who Delights in Your Daily Walk",
+      "reflection": "Read Genesis 5 slowly and feel the heavy, thudding rhythm of mortality. Line after line of ancient titans: he lived so many years, fathered sons and daughters, 'and he died... and he died... and he died.' Death reigned like an inescapable tyrant over the descendants of Adam. But suddenly, at verse 21, the grim funeral march screeches to a halt. We meet Enoch, and the phrase changes: 'Enoch walked with God, and he was not, for God took him' (Genesis 5:24).\n\nWhat does it mean to 'walk with God'? It does not mean running ahead in anxious panic, nor dragging behind in sluggish disobedience. It means walking in step with the Creator. In the original Hebrew, the verb denotes continuous, habitual communion. It implies agreement, intimacy, and shared direction: 'Can two walk together unless they are agreed?' (Amos 3:3).\n\nHebrews 11:5 gives heaven's verdict on Enoch's life: before he was taken, 'he had been commended as having pleased God.' What pleased God? Verse 6 answers immediately: faith. Faith that God is real, and faith that He is the joyful rewarder of those who earnestly seek Him. God does not demand that you build an empire, win a battle, or command world headlines. He desires your heart. He desires to walk with you through grocery runs, stressful workdays, quiet parenting moments, and evening walks. One ancient preacher described Enoch's end with profound beauty: 'Enoch and God used to go on long walks together. One afternoon, they had walked so far that God said to him, \"Enoch, we are closer to My home than to yours. Why don't you just come home with Me?\"' That is the heart of God for every believer."
+    },
+    "lessons": [
+      {
+        "lesson": "Spiritual Intimacy Is Built Step by Step Over Decades",
+        "verse": "Genesis 5:22",
+        "detail": "Enoch walked with God for 300 years amidst everyday family life, fathering sons and daughters. Holiness is not built in rare mountaintop highs, but in the faithful, unhurried habits of daily life.",
+        "question": "What is one simple daily habit you can cultivate to bring God into your ordinary waking moments?"
+      },
+      {
+        "lesson": "Faith Pleases God More Than Religious Showmanship",
+        "verse": "Hebrews 11:6",
+        "detail": "Without faith it is impossible to please God. God is not impressed by external religious performance; He takes deep delight in our childlike trust that He exists and rewards our seeking.",
+        "question": "Are you currently striving to impress God through busy performance, or resting in the faith that pleases His heart?"
+      },
+      {
+        "lesson": "You Can Walk with God Even When the Culture Decays",
+        "verse": "Genesis 5:24",
+        "detail": "Enoch lived in a spiritually dark era heading straight for pre-flood catastrophe, yet he did not conform to the world's rebellion. His intimacy with God was his anchor against cultural pressure.",
+        "question": "In what specific way is the surrounding culture pressuring you to compromise your daily walk with God?"
+      },
+      {
+        "lesson": "The Grave Does Not Have the Final Word for God's Friends",
+        "verse": "Hebrews 11:5",
+        "detail": "Enoch's translation prefigures the ultimate victory of believers over death. In Christ, physical death is merely the doorstep through which we step into eternal fellowship with our Friend.",
+        "question": "How does the reality of eternal life with God change how you view your earthly worries and mortality today?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "d3_q1",
+        "type": "multiple_choice",
+        "question": "How long did Enoch walk with God after fathering Methuselah according to Genesis 5:22?",
+        "options": [
+          "40 years",
+          "70 years",
+          "300 years",
+          "969 years"
+        ],
+        "correctIndex": 2,
+        "reference": "Genesis 5:22",
+        "explanation": "Genesis 5:22 states that Enoch walked with God after he became the father of Methuselah for three hundred years."
+      },
+      {
+        "id": "d3_q2",
+        "type": "multiple_choice",
+        "question": "What repetitive phrase marks nearly every patriarch in Genesis 5, which Enoch uniquely broke?",
+        "options": [
+          "'And he was buried in the cave'",
+          "'And he died'",
+          "'And he conquered kings'",
+          "'And he saw the flood'"
+        ],
+        "correctIndex": 1,
+        "reference": "Genesis 5:5, 8, 20, 24",
+        "explanation": "Every other patriarch's biography concludes with 'and he died', but of Enoch it is written: 'Enoch walked with God, and he was not, for God took him.'"
+      },
+      {
+        "id": "d3_q3",
+        "type": "multiple_choice",
+        "question": "According to Hebrews 11:5, what commendation was given to Enoch before he was taken away?",
+        "options": [
+          "That he had conquered mighty cities",
+          "That he had accumulated great wealth",
+          "That he had pleased God",
+          "That he had written the books of wisdom"
+        ],
+        "correctIndex": 2,
+        "reference": "Hebrews 11:5",
+        "explanation": "Hebrews 11:5 records: 'For he had been commended as having pleased God before his taking away.'"
+      },
+      {
+        "id": "d3_q4",
+        "type": "true_false",
+        "question": "True or False: According to Hebrews 11:6, it is possible to please God through moral effort even without faith.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Hebrews 11:6",
+        "explanation": "False. Hebrews 11:6 explicitly states: 'Without faith it is impossible to be well pleasing to him, for he who comes to God must believe that he exists, and that he is a rewarder of those who seek him.'"
+      },
+      {
+        "id": "d3_q5",
+        "type": "multiple_choice",
+        "question": "What practical characteristic defines walking with God in daily life?",
+        "options": [
+          "Isolating yourself on a mountain away from all human contact",
+          "Unhurried, continuous communion and alignment with God's will in the midst of normal life",
+          "Only praying when facing extreme emergencies",
+          "Strict rule-keeping without personal relationship"
+        ],
+        "correctIndex": 1,
+        "reference": "Genesis 5:22, Hebrews 11:5",
+        "explanation": "Enoch's walk was an unhurried, steady relationship of faith and shared direction with God conducted in the midst of raising a family."
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Heavenly Father, Friend of my soul, You do not ask me to build a name for myself or impress the world with noisy accolades; You invite me to walk quietly with You. Teach me the rhythm of Enoch's life. Forgive me for sprinting ahead in self-reliance and for lagging behind in worldly distractions. In the midst of my busy schedule, my parenting, my work, and my chores, teach me to practice Your presence step by step. As Hebrews 11:5 reminds me, Enoch was commended as one who pleased You by faith. Lord, strengthen my faith today. May my greatest ambition be simply to please Your heart and walk in step with Your Holy Spirit. In Jesus' name, Amen.",
+      "versePrayerLine": "Lord, grant me faith like Enoch, that in every step of this day my life may be commended as pleasing to You.",
+      "prompt": "Pause and invite God into the specific tasks awaiting you today. Acknowledge His presence by your side right now."
+    }
+  },
+  "4": {
+    "day": 4,
+    "character": "Noah",
+    "season": "Righteousness Against the World's Current",
+    "theme": "God sees and shelters the soul that stands faithful when the culture dissolves into wickedness.",
+    "memoryVerse": {
+      "reference": "Genesis 6:8",
+      "text": "But Noah found favor in Yahweh’s eyes.",
+      "whyItMatters": "When an entire generation collapses into corruption, one person who honors God can stand secure in His grace.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "Noah",
+          "favor",
+          "Yahweh’s",
+          "eyes"
+        ],
+        "firstLetters": "B N f f i Y e."
+      }
+    },
+    "profile": {
+      "title": "Noah: The Ark-Builder Who Stood Alone",
+      "who": "A righteous, blameless patriarch who walked with God and preserved human and animal life through the catastrophic judgment of the global Flood.",
+      "whenAndWhere": "The ancient Mesopotamian world, preceding the great deluge, when human violence had reached its absolute zenith.",
+      "family": "Son of Lamech; grandson of Methuselah; husband; father of Shem, Ham, and Japheth.",
+      "keyMoments": [
+        "Grieved in spirit as humanity's thoughts were described as 'only evil continually' (Genesis 6:5).",
+        "Found grace in the eyes of Yahweh and received the divine blueprint to construct a colossal wooden ark on dry ground.",
+        "Preached righteousness faithfully for decades while constructing the vessel amidst widespread mockery.",
+        "Gathered the animal pairs and his family into the ark; Yahweh Himself shut the door behind them.",
+        "Endured forty days and nights of torrential rains and bursting deeps as waters covered the highest mountains."
+      ],
+      "strengths": [
+        "Complete, meticulous obedience: 'Noah did everything that Yahweh commanded him' (Genesis 6:22, 7:5).",
+        "Unyielding moral courage to stand blameless in a culture thoroughly infected with corruption and violence.",
+        "Reverent, active faith that acted upon divine warnings concerning things not yet seen (Hebrews 11:7)."
+      ],
+      "failures": [
+        "In his later years after the flood, Noah planted a vineyard, became drunken, and lay uncovered in his tent, causing a family crisis with Ham (Genesis 9)."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Genesis 6",
+        "title": "The Corruption of Humanity, the Call of Noah, and the Blueprint of the Ark",
+        "verses": [
+          {
+            "number": 1,
+            "text": "When men began to multiply on the surface of the ground, and daughters were born to them,"
+          },
+          {
+            "number": 2,
+            "text": "God’s sons saw that men’s daughters were beautiful, and they took for themselves wives of all that they chose."
+          },
+          {
+            "number": 3,
+            "text": "Yahweh said, 'My Spirit will not strive with man forever, because he also is flesh; yet will his days be one hundred twenty years.'"
+          },
+          {
+            "number": 4,
+            "text": "The Nephilim were on the earth in those days, and also after that, when God’s sons came in to men’s daughters, and they bore children to them. Those were the mighty men who were of old, men of renown."
+          },
+          {
+            "number": 5,
+            "text": "Yahweh saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of man’s heart was only evil continually."
+          },
+          {
+            "number": 6,
+            "text": "Yahweh was sorry that he had made man on the earth, and it grieved him in his heart."
+          },
+          {
+            "number": 7,
+            "text": "Yahweh said, 'I will destroy man whom I have created from the surface of the ground—man, along with animals, creeping things, and birds of the sky—for I am sorry that I have made them.'"
+          },
+          {
+            "number": 8,
+            "text": "But Noah found favor in Yahweh’s eyes."
+          },
+          {
+            "number": 9,
+            "text": "This is the history of the generations of Noah: Noah was a righteous man, blameless among the people of his time. Noah walked with God."
+          },
+          {
+            "number": 10,
+            "text": "Noah became the father of three sons: Shem, Ham, and Japheth."
+          },
+          {
+            "number": 11,
+            "text": "The earth was corrupt before God, and the earth was filled with violence."
+          },
+          {
+            "number": 12,
+            "text": "God saw the earth, and saw that it was corrupt, for all flesh had corrupted their way on the earth."
+          },
+          {
+            "number": 13,
+            "text": "God said to Noah, 'I will bring an end to all flesh, for the earth is filled with violence through them. Behold, I will destroy them with the earth.'"
+          },
+          {
+            "number": 14,
+            "text": "'Make a ship of gopher wood. You shall make rooms in the ship, and shall seal it inside and outside with pitch.'"
+          },
+          {
+            "number": 15,
+            "text": "'This is how you shall make it. The length of the ship will be three hundred cubits, its width fifty cubits, and its height thirty cubits.'"
+          },
+          {
+            "number": 16,
+            "text": "'You shall make a roof in the ship... and set the door of the ship in its side. You shall make it with lower, second, and third levels.'"
+          },
+          {
+            "number": 17,
+            "text": "'I, behold, I will bring the flood of waters on this earth, to destroy all flesh... everything that is on the earth will die.'"
+          },
+          {
+            "number": 18,
+            "text": "'But I will establish my covenant with you. You shall come into the ship, you, your sons, your wife, and your sons’ wives with you.'"
+          },
+          {
+            "number": 19,
+            "text": "'Of every living thing of all flesh, you shall bring two of every sort into the ship, to keep them alive with you. They shall be male and female.'"
+          },
+          {
+            "number": 22,
+            "text": "Noah did so. He did all that God commanded him."
+          }
+        ]
+      },
+      {
+        "reference": "Genesis 7",
+        "title": "Entering the Ark and the Waters of the Great Deluge",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Yahweh said to Noah, 'Come with all of your household into the ship, for I have seen your righteousness before me in this generation.'"
+          },
+          {
+            "number": 2,
+            "text": "'You shall take seven pairs of every clean animal with you, the male and his female; and one pair of the animals that are not clean, the male and his female;'"
+          },
+          {
+            "number": 4,
+            "text": "'For in seven days, I will cause it to rain on the earth forty days and forty nights. I will destroy every living thing that I have made from the surface of the ground.'"
+          },
+          {
+            "number": 5,
+            "text": "Noah did all that Yahweh commanded him."
+          },
+          {
+            "number": 6,
+            "text": "Noah was six hundred years old when the flood of waters came on the earth."
+          },
+          {
+            "number": 11,
+            "text": "In the six hundredth year of Noah’s life, in the second month, on the seventeenth day of the month, on that day all the fountains of the great deep were broken up, and the sky’s windows were opened."
+          },
+          {
+            "number": 12,
+            "text": "The rain was on the earth forty days and forty nights."
+          },
+          {
+            "number": 16,
+            "text": "Those who went in, went in male and female of all flesh, as God commanded him; and Yahweh shut him in."
+          },
+          {
+            "number": 17,
+            "text": "The flood was forty days on the earth. The waters increased, and lifted up the ship, and it was lifted up above the earth."
+          },
+          {
+            "number": 19,
+            "text": "The waters prevailed exceedingly on the earth. All the high mountains that were under the whole sky were covered."
+          },
+          {
+            "number": 23,
+            "text": "Every living thing was destroyed that was on the surface of the ground... only Noah was left, and those who were with him in the ship."
+          },
+          {
+            "number": 24,
+            "text": "The waters prevailed on the earth one hundred fifty days."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "A Heart That Grieves Over Sin and a Grace That Shuts the Door",
+      "reflection": "One of the most sobering and intimate revelations of God's heart in all of Scripture occurs in Genesis 6:5–6. The Lord looks upon the earth and sees that 'every imagination of the thoughts of man’s heart was only evil continually.' And how does God react? He does not laugh in cruel detachment. Verse 6 records: 'Yahweh was sorry that he had made man on the earth, and it grieved him in his heart.' God feels the pain of human rebellion. Sin breaks the heart of God because He is holy and because He loves His creation.\n\nYet directly against the dark canvas of universal depravity shines one solitary diamond: 'But Noah found favor in Yahweh’s eyes' (Genesis 6:8). Notice the order! Noah did not earn God's favor by his spotless perfection; he found favor (chen, unmerited grace), and that grace empowered him to live righteously in a crooked generation.\n\nLook also at the tenderness of God's invitation in Genesis 7:1. God does not tell Noah, 'Go into the ark.' He says, 'Come into the ship.' When you tell someone to 'come,' it means you are already inside waiting for them! God went into that refuge with Noah. And when the animals and the family were safely aboard, Genesis 7:16 gives us this unforgettable detail: 'and Yahweh shut him in.' Noah did not have to worry about sealing the heavy timber door against the battering waves; the loving hand of God sealed them in safety. When you are in Christ, you are sealed by a divine hand that no storm can pry open."
+    },
+    "lessons": [
+      {
+        "lesson": "Grace Precedes and Empowers Righteous Living",
+        "verse": "Genesis 6:8-9",
+        "detail": "Noah first found favor in God's eyes before he was described as righteous. Righteous living is not the root of salvation, but the grateful fruit of receiving God's unmerited grace.",
+        "question": "Are you striving to earn God's acceptance through moral effort, or are you living righteously out of the secure grace you have already received?"
+      },
+      {
+        "lesson": "Courage Is Doing What Is Right When the Crowd Laughs",
+        "verse": "Genesis 6:22",
+        "detail": "Noah spent decades building a massive ship on dry land miles away from any sea, preaching righteousness to a mocking society. Faith obeys God's Word even when it makes no sense to worldly logic.",
+        "question": "In what area of your life is fear of being misunderstood or mocked keeping you from radical obedience to God's instructions?"
+      },
+      {
+        "lesson": "Sin Is Grieved in Heaven, Not Ignored",
+        "verse": "Genesis 6:5-6",
+        "detail": "God is never indifferent to violence, cruelty, and injustice. Sin grieves His heart, and His justice ensures that evil will not have the final chapter in human history.",
+        "question": "Does persistent sin in your heart or culture grieve you the way it grieves God, or have you grown desensitized to it?"
+      },
+      {
+        "lesson": "Rest Secure: God Shuts the Door of Your Salvation",
+        "verse": "Genesis 7:16",
+        "detail": "Yahweh Himself shut the door of the ark, sealing Noah and his family inside. Our eternal security in Christ rests not on our ability to hold the door shut, but on God's faithful hand that preserves us.",
+        "question": "Are you experiencing peace knowing that your life is safely hidden in Christ, or are you battling anxious fear about the storms around you?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "d4_q1",
+        "type": "multiple_choice",
+        "question": "How did God react when He saw that every imagination of humanity's heart was only evil continually in Genesis 6:6?",
+        "options": [
+          "He was completely indifferent to human choices",
+          "It grieved Him in His heart",
+          "He immediately created a second earth",
+          "He commanded the angels to fight humanity"
+        ],
+        "correctIndex": 1,
+        "reference": "Genesis 6:6",
+        "explanation": "Genesis 6:6 reveals God's tender, holy heart: 'Yahweh was sorry that he had made man on the earth, and it grieved him in his heart.'"
+      },
+      {
+        "id": "d4_q2",
+        "type": "multiple_choice",
+        "question": "What is the key turning point verse in Genesis 6 that introduces Noah's salvation amidst judgment?",
+        "options": [
+          "Genesis 6:3",
+          "Genesis 6:8 ('But Noah found favor in Yahweh’s eyes')",
+          "Genesis 6:15",
+          "Genesis 6:20"
+        ],
+        "correctIndex": 1,
+        "reference": "Genesis 6:8",
+        "explanation": "Genesis 6:8 introduces God's saving grace: 'But Noah found favor in Yahweh’s eyes.'"
+      },
+      {
+        "id": "d4_q3",
+        "type": "true_false",
+        "question": "True or False: According to Genesis 6:22 and Genesis 7:5, Noah obeyed only part of what God instructed regarding the ark.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Genesis 6:22, 7:5",
+        "explanation": "False. Scripture explicitly emphasizes: 'Noah did so. He did all that God commanded him.'"
+      },
+      {
+        "id": "d4_q4",
+        "type": "multiple_choice",
+        "question": "Who shut the door of the ark after Noah, his family, and the animals entered in Genesis 7:16?",
+        "options": [
+          "Noah's sons, Shem and Japheth",
+          "An angel with a flaming sword",
+          "Yahweh Himself",
+          "Noah sealed it from the inside with ropes"
+        ],
+        "correctIndex": 2,
+        "reference": "Genesis 7:16",
+        "explanation": "Genesis 7:16 records: 'and Yahweh shut him in,' highlighting God's sovereign protection and security."
+      },
+      {
+        "id": "d4_q5",
+        "type": "multiple_choice",
+        "question": "What does Hebrews 11:7 say Noah was moved by when he prepared the ark?",
+        "options": [
+          "Desire for fame and wealth",
+          "Godly fear / reverent awe",
+          "Intellectual curiosity about engineering",
+          "Pressure from his neighbors"
+        ],
+        "correctIndex": 1,
+        "reference": "Hebrews 11:7",
+        "explanation": "Hebrews 11:7 states: 'By faith, Noah, being warned about things not yet seen, moved with godly fear, prepared an ark for the saving of his house.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord God of holiness and mercy, You see the hearts of all people, and nothing is hidden from Your sight. Forgive me for the ways I have allowed the noise and compromises of worldly culture to influence my thoughts. Thank You that, just as Noah found favor in Your eyes, You have looked upon me with unmerited grace through Jesus Christ, my true Ark of refuge. Thank You that when the waters of trial rise and the storms beat against my life, You are the One who shuts me in and holds me secure. Give me the courage of Noah to obey everything You command, even when the world ridicules my faith. Make me an instrument of righteousness, pointing others to the shelter found in You alone. In Jesus' name, Amen.",
+      "versePrayerLine": "Lord, thank You that by Your grace I have found favor in Your eyes; keep me faithful in a compromised world.",
+      "prompt": "Offer up any feeling of loneliness or isolation you experience when trying to live for God. Ask the Holy Spirit to strengthen your resolve today."
+    }
+  },
+  "5": {
+    "day": 5,
+    "character": "Noah",
+    "season": "The Rainbow Covenant and New Beginnings",
+    "theme": "Judgment gives way to divine mercy and an enduring covenant of preservation.",
+    "memoryVerse": {
+      "reference": "Genesis 9:13",
+      "text": "I set my rainbow in the cloud, and it will be for a sign of a covenant between me and the earth.",
+      "whyItMatters": "God binds Himself by covenant oath never to drown the earth again, placing His war-bow in the clouds as a sign of peace.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "rainbow",
+          "cloud",
+          "sign",
+          "covenant",
+          "earth"
+        ],
+        "firstLetters": "I s m r i t c, a i w b f a s o a c b m a t e."
+      }
+    },
+    "profile": {
+      "title": "Noah: The Altar, the Rainbow, and Fragile Flesh",
+      "who": "The second progenitor of human civilization, stepping out of the ark onto a cleansed, mud-soaked earth to inaugurate a new covenant with God.",
+      "whenAndWhere": "The mountains of Ararat, descending into the fertile valleys of the post-deluge ancient world.",
+      "family": "Husband; father of Shem, Ham, and Japheth; grandfather of Canaan and the nations that repopulated the earth.",
+      "keyMoments": [
+        "Waited patiently inside the ark for over a year as floodwaters receded and sent out a raven and a dove.",
+        "The dove returned with a freshly plucked olive leaf in her beak, heralding new life and peace on earth.",
+        "Obeyed God's command to step onto dry ground and immediately built the first recorded altar of worship in Genesis.",
+        "Offered clean burnt offerings to Yahweh, who smelled the soothing aroma and promised never again to curse the ground.",
+        "Received the Noahic Covenant and the eternal sign of the rainbow in the rain clouds.",
+        "Planted a vineyard, became intoxicated, and lay uncovered, exposing the continuing reality of human brokenness after the flood."
+      ],
+      "strengths": [
+        "Patience in waiting on God's timetable rather than forcing the door open prematurely.",
+        "First impulse after emerging from the ark was worship and sacrifice, dedicating the new world to Yahweh.",
+        "Received God's universal covenant of peace on behalf of all future generations and living creatures."
+      ],
+      "failures": [
+        "Indulged in drunkenness, losing self-control and dignity in his tent.",
+        "Pronounced a generational curse upon Canaan following Ham's dishonoring gaze, demonstrating that outward waters could not wash away inward sin."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Genesis 8",
+        "title": "God Remembers Noah, the Waters Recede, and the First Altar",
+        "verses": [
+          {
+            "number": 1,
+            "text": "God remembered Noah, all the animals, and all the livestock that were with him in the ship; and God made a wind to pass over the earth, and the waters subsided."
+          },
+          {
+            "number": 2,
+            "text": "The fountains of the deep and the sky’s windows were also stopped, and the rain from the sky was restrained."
+          },
+          {
+            "number": 3,
+            "text": "The waters receded from off the earth continually. After the end of one hundred fifty days the waters decreased."
+          },
+          {
+            "number": 4,
+            "text": "The ship rested in the seventh month, on the seventeenth day of the month, on Mount Ararat."
+          },
+          {
+            "number": 6,
+            "text": "At the end of forty days, Noah opened the window of the ship which he had made,"
+          },
+          {
+            "number": 7,
+            "text": "and he sent out a raven. It went back and forth, until the waters were dried up from the earth."
+          },
+          {
+            "number": 8,
+            "text": "He sent out a dove from him, to see if the waters were abated from the surface of the ground,"
+          },
+          {
+            "number": 9,
+            "text": "but the dove found no place to rest her foot, and she returned into the ship to him; for the waters were on the surface of the whole earth..."
+          },
+          {
+            "number": 10,
+            "text": "He stayed yet another seven days, and again he sent out the dove from the ship."
+          },
+          {
+            "number": 11,
+            "text": "The dove came back to him at evening and, behold, in her mouth was an olive leaf plucked off. So Noah knew that the waters were abated from the earth."
+          },
+          {
+            "number": 12,
+            "text": "He stayed yet another seven days, and sent out the dove; and she didn’t return to him any more."
+          },
+          {
+            "number": 15,
+            "text": "God spoke to Noah, saying,"
+          },
+          {
+            "number": 16,
+            "text": "'Go out of the ship, you, your wife, your sons, and your sons’ wives with you.'"
+          },
+          {
+            "number": 18,
+            "text": "Noah went out, with his sons, his wife, and his sons’ wives with him."
+          },
+          {
+            "number": 20,
+            "text": "Noah built an altar to Yahweh, and took of every clean animal, and of every clean bird, and offered burnt offerings on the altar."
+          },
+          {
+            "number": 21,
+            "text": "Yahweh smelled the pleasant aroma. Yahweh said in his heart, 'I will not again curse the ground any more for man’s sake, because the imagination of man’s heart is evil from his youth..."
+          },
+          {
+            "number": 22,
+            "text": "'While the earth remains, seed time and harvest, and cold and heat, and summer and winter, and day and night will not cease.'"
+          }
+        ]
+      },
+      {
+        "reference": "Genesis 9",
+        "title": "The Noahic Covenant, the Rainbow, and the Vineyard",
+        "verses": [
+          {
+            "number": 1,
+            "text": "God blessed Noah and his sons, and said to them, 'Be fruitful, multiply, and replenish the earth.'"
+          },
+          {
+            "number": 6,
+            "text": "'Whoever sheds man’s blood, his blood will be shed by man, for God made man in his own image.'"
+          },
+          {
+            "number": 7,
+            "text": "'Be fruitful and multiply. Increase abundantly in the earth, and multiply in it.'"
+          },
+          {
+            "number": 8,
+            "text": "God spoke to Noah, and to his sons with him, saying,"
+          },
+          {
+            "number": 9,
+            "text": "'As for me, behold, I establish my covenant with you, and with your offspring after you,'"
+          },
+          {
+            "number": 11,
+            "text": "'I will establish my covenant with you: All flesh will not be cut off any more by the waters of the flood, neither will there ever again be a flood to destroy the earth.'"
+          },
+          {
+            "number": 12,
+            "text": "God said, 'This is the token of the covenant which I make between me and you and every living creature that is with you, for perpetual generations:'"
+          },
+          {
+            "number": 13,
+            "text": "'I set my rainbow in the cloud, and it will be for a sign of a covenant between me and the earth.'"
+          },
+          {
+            "number": 14,
+            "text": "'When I bring a cloud over the earth, that the rainbow will be seen in the cloud,'"
+          },
+          {
+            "number": 15,
+            "text": "'I will remember my covenant, which is between me and you and every living creature of all flesh. The waters will no more become a flood to destroy all flesh.'"
+          },
+          {
+            "number": 16,
+            "text": "'The rainbow will be in the cloud. I will look at it, that I may remember the everlasting covenant between God and every living creature of all flesh that is on the earth.'"
+          },
+          {
+            "number": 18,
+            "text": "The sons of Noah who went out from the ship were Shem, Ham, and Japheth. Ham is the father of Canaan."
+          },
+          {
+            "number": 20,
+            "text": "Noah began to be a farmer, and planted a vineyard."
+          },
+          {
+            "number": 21,
+            "text": "He drank of the wine and got drunk. He was uncovered within his tent."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "God Remembers, and Sets His War-Bow in the Sky",
+      "reflection": "Notice the breathtaking turning point at the very opening of Genesis 8: 'God remembered Noah, all the animals, and all the livestock that were with him in the ship' (Genesis 8:1). When Scripture says God 'remembered' someone, it does not mean He had suffered a lapse of memory and suddenly woke up. In biblical language, God's remembering signifies His active, covenant faithfulness moving into decisive action to rescue and deliver. For months Noah had heard nothing but the roar of crushing waves and the crying of animals in the dark hull. But God had never taken His eyes off that wooden chest.\n\nWhen Noah finally steps onto dry land, look at his first priority. He does not rush to claim real estate or build a mansion for his family. He builds an altar to Yahweh and offers precious clean animals in grateful worship. And God smells the soothing aroma of that sacrifice, speaking a promise of staggering mercy: He will never again curse the earth with a flood, even though human hearts remain fragile and flawed (Genesis 8:21).\n\nThen God gives the sign of this covenant: the rainbow in the rain cloud (Genesis 9:13). In ancient times, a warrior's bow was an instrument of death, aimed at an enemy to shoot lethal arrows. But notice where God hangs His bow! The rainbow is unstrung, resting in the clouds, and its arch is pointed upward toward heaven, not downward at humanity. God effectively says: 'I have hung up My war-bow. Before another universal flood strikes the earth, the arrow of divine judgment would have to strike My own heart.' And at the Cross of Calvary, that is precisely what took place: Jesus Christ absorbed the arrow of God's wrath so that you and I could walk under the eternal rainbow of His peace."
+    },
+    "lessons": [
+      {
+        "lesson": "God Remembers You in the Dark Hull of Waiting",
+        "verse": "Genesis 8:1",
+        "detail": "Noah was locked inside the ark for over a year without any visible sign of land. When you feel forgotten in a prolonged season of isolation or delay, rest assured: God remembers you and will bring the wind of His deliverance.",
+        "question": "What waiting season are you currently navigating, and how does knowing that 'God remembers you' bring quiet courage to your heart?"
+      },
+      {
+        "lesson": "Worship Should Be Your First Response to Deliverance",
+        "verse": "Genesis 8:20",
+        "detail": "Before building his own shelter or cultivating crops, Noah built an altar to honor the God who had preserved his life. When God leads you through a storm, let unhurried thanksgiving be your first priority.",
+        "question": "Has God recently brought you through a difficult season, and have you stopped to build an 'altar' of intentional, lavish thanksgiving to Him?"
+      },
+      {
+        "lesson": "External Washes Cannot Cleanse Internal Hearts",
+        "verse": "Genesis 8:21, 9:21",
+        "detail": "The flood cleansed the surface of the earth, but Noah's subsequent drunkenness and family conflict proved that human nature still carried sin. We need more than a bath; we need a Savior who gives a new heart.",
+        "question": "Where are you trying to fix your spiritual struggles through external behavioral changes instead of asking the Holy Spirit to transform your heart?"
+      },
+      {
+        "lesson": "Look at the Rainbow and Remember God's Grace",
+        "verse": "Genesis 9:13-16",
+        "detail": "God placed the rainbow as a permanent reminder that His covenant of peace stands firm. When the rain clouds of life gather, look up and remember that God's covenant mercies never fail.",
+        "question": "When life feels dark and stormy, what specific promise of Scripture can you hold up as your 'rainbow' of reassurance?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "d5_q1",
+        "type": "multiple_choice",
+        "question": "What is the key turning point verse at the beginning of Genesis 8 that initiates the receding of the waters?",
+        "options": [
+          "'Noah opened the window of the ship'",
+          "'God remembered Noah, all the animals, and all the livestock that were with him in the ship'",
+          "'The dove found an olive leaf'",
+          "'The mountain peaks became visible'"
+        ],
+        "correctIndex": 1,
+        "reference": "Genesis 8:1",
+        "explanation": "Genesis 8:1 is the pivotal turning point: 'God remembered Noah, all the animals, and all the livestock that were with him in the ship; and God made a wind to pass over the earth, and the waters subsided.'"
+      },
+      {
+        "id": "d5_q2",
+        "type": "multiple_choice",
+        "question": "What did the dove bring back to Noah in her mouth in Genesis 8:11, indicating that plant life was returning to earth?",
+        "options": [
+          "A fig branch",
+          "A freshly plucked olive leaf",
+          "A blade of grass",
+          "A cluster of grapes"
+        ],
+        "correctIndex": 1,
+        "reference": "Genesis 8:11",
+        "explanation": "Genesis 8:11 states: 'The dove came back to him at evening and, behold, in her mouth was an olive leaf plucked off. So Noah knew that the waters were abated from the earth.'"
+      },
+      {
+        "id": "d5_q3",
+        "type": "multiple_choice",
+        "question": "What was the very first thing Noah did upon stepping out of the ark in Genesis 8:20?",
+        "options": [
+          "He staked out territory for his family",
+          "He built a house of stone",
+          "He built an altar to Yahweh and offered burnt offerings",
+          "He rested for seven days"
+        ],
+        "correctIndex": 2,
+        "reference": "Genesis 8:20",
+        "explanation": "Genesis 8:20 records that Noah built an altar to Yahweh and offered burnt offerings of clean animals and birds, dedicating the renewed world to God."
+      },
+      {
+        "id": "d5_q4",
+        "type": "multiple_choice",
+        "question": "What did God designate as the sign of His covenant never again to cut off all flesh by a flood in Genesis 9:13?",
+        "options": [
+          "The rising of the morning star",
+          "The rainbow set in the cloud",
+          "An altar of twelve stones",
+          "The pillar of fire"
+        ],
+        "correctIndex": 1,
+        "reference": "Genesis 9:13",
+        "explanation": "God declared: 'I set my rainbow in the cloud, and it will be for a sign of a covenant between me and the earth.'"
+      },
+      {
+        "id": "d5_q5",
+        "type": "true_false",
+        "question": "True or False: Noah's drunkenness in Genesis 9 demonstrates that the flood had permanently eliminated all sinful impulses from human nature.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Genesis 8:21, 9:20-21",
+        "explanation": "False. Noah's failure showed that sin was carried over in human hearts even after the flood waters receded, underscoring our need for internal regeneration through Christ."
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Faithful Father, God of Noah and God of covenants, thank You that You never forget Your children. In the long seasons when I feel cooped up, isolated, or surrounded by rising waters of anxiety, remind my heart that You remember me and are working behind the scenes. Thank You that when the storm passed, You set Your rainbow in the sky as an eternal emblem of Your peace and mercy. Thank You that through Jesus Christ, the arrows of judgment were turned away from me and absorbed at the Cross. Teach me, like Noah, to make my first response to every deliverance an altar of thanksgiving and adoration. Guard my heart from pride and moral complacency in my seasons of ease. Let my life be anchored beneath the rainbow of Your everlasting covenant. In Jesus' name, Amen.",
+      "versePrayerLine": "Lord, every time I see the rainbow or face the rain, I will praise You for Your everlasting covenant of peace and mercy.",
+      "prompt": "Reflect on a past trial that God brought you through. Thank Him specifically for remembering you and sustaining you through that flood."
+    }
+  },
+  "6": {
+    "day": 6,
+    "character": "Job",
+    "season": "Integrity in the Crucible of Loss",
+    "theme": "Pure faith worships God in the dark when every earthly blessing is stripped away.",
+    "memoryVerse": {
+      "reference": "Job 1:21",
+      "text": "He said, 'Naked I came out of my mother’s womb, and naked will I return there. Yahweh gave, and Yahweh has taken away. Blessed be Yahweh’s name.'",
+      "whyItMatters": "True faith does not use God as a business contract for prosperity; it loves and worships Him for who He is, even with empty hands.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "Naked",
+          "womb",
+          "Yahweh",
+          "taken",
+          "Blessed"
+        ],
+        "firstLetters": "H s, 'N I c o o m m w, a n w I r t. Y g, a Y h t a. B b Y n.'"
+      }
+    },
+    "profile": {
+      "title": "Job: The Blameless Sufferer in the Ashes",
+      "who": "An exceptionally wealthy, righteous, and God-fearing patriarch from the land of Uz, commended directly by Yahweh as blameless and upright.",
+      "whenAndWhere": "The land of Uz (likely east of the Jordan or Edom), during the patriarchal era roughly contemporary with Abraham.",
+      "family": "Husband; father of seven sons and three daughters; surrounded by extensive households, servants, and vast flocks.",
+      "keyMoments": [
+        "Commended by God before the heavenly court: 'There is no one like him on the earth, a blameless and an upright man...' (Job 1:8).",
+        "Targeted by Satan's cynical accusation that Job only feared God because of the hedge of material prosperity around him.",
+        "Suffered catastrophic, cascading losses in a single afternoon: oxen, donkeys, sheep, camels, servants, and all ten children.",
+        "Tore his robe, shaved his head, fell to the ground, and worshiped: 'Yahweh gave, and Yahweh has taken away. Blessed be Yahweh’s name.'",
+        "Struck from the sole of his foot to the crown of his head with excruciating, loathsome boils.",
+        "Refused his wife's bitter advice to 'curse God and die,' asking: 'Shall we receive good at God’s hand, and not receive evil?'",
+        "Sat in absolute silence in the ashes for seven days with his three arriving friends (Eliphaz, Bildad, Zophar)."
+      ],
+      "strengths": [
+        "Incredible spiritual integrity that refused to charge God with wrongdoing or sin with his lips under excruciating agony.",
+        "A sacrificial father who regularly rose early to offer burnt offerings for his children's sanctification.",
+        "A profound theological anchor that recognized God's ultimate sovereignty over life, breath, wealth, and loss."
+      ],
+      "failures": [
+        "In later chapters during fierce debates with his miserable comforters, Job grew self-defensive, questioning God's fairness and demanding a courtroom trial with the Almighty until God spoke from the whirlwind."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Job 1",
+        "title": "Job's Upright Character, Satan's Challenge, and the Day of Calamity",
+        "verses": [
+          {
+            "number": 1,
+            "text": "There was a man in the land of Uz, whose name was Job. That man was blameless and upright, and one who feared God, and turned away from evil."
+          },
+          {
+            "number": 2,
+            "text": "There were born to him seven sons and three daughters."
+          },
+          {
+            "number": 3,
+            "text": "His possessions also were seven thousand sheep, three thousand camels, five hundred yoke of oxen, five hundred female donkeys, and a very great household; so that this man was the greatest of all the children of the east."
+          },
+          {
+            "number": 4,
+            "text": "His sons went and held a banquet in the house of each one on his day; and they sent and called for their three sisters to eat and to drink with them."
+          },
+          {
+            "number": 5,
+            "text": "When the days of their feasting had run their course, Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all. For Job said, 'It may be that my sons have sinned, and renounced God in their hearts.' Job did so continually."
+          },
+          {
+            "number": 6,
+            "text": "Now on the day when God’s sons came to present themselves before Yahweh, Satan also came among them."
+          },
+          {
+            "number": 7,
+            "text": "Yahweh said to Satan, 'Where have you come from?' Then Satan answered Yahweh, and said, 'From going back and forth in the earth, and from walking up and down in it.'"
+          },
+          {
+            "number": 8,
+            "text": "Yahweh said to Satan, 'Have you considered my servant, Job? For there is no one like him in the earth, a blameless and an upright man, one who fears God, and turns away from evil.'"
+          },
+          {
+            "number": 9,
+            "text": "Then Satan answered Yahweh, and said, 'Does Job fear God for nothing?'"
+          },
+          {
+            "number": 10,
+            "text": "'Haven’t you made a hedge around him, and around his house, and around all that he has, on every side? You have blessed the work of his hands, and his substance is increased in the land.'"
+          },
+          {
+            "number": 11,
+            "text": "'But stretch out your hand now, and touch all that he has, and he will renounce you to your face.'"
+          },
+          {
+            "number": 12,
+            "text": "Yahweh said to Satan, 'Behold, all that he has is in your power. Only on himself don’t stretch out your hand.' So Satan went out from the presence of Yahweh."
+          },
+          {
+            "number": 13,
+            "text": "It fell on a day when his sons and his daughters were eating and drinking wine in their oldest brother’s house,"
+          },
+          {
+            "number": 14,
+            "text": "that there came a messenger to Job, and said, 'The oxen were plowing, and the donkeys feeding beside them,'"
+          },
+          {
+            "number": 15,
+            "text": "'when the Sabeans attacked, and took them away. Yes, they have killed the servants with the edge of the sword, and I alone have escaped to tell you.'"
+          },
+          {
+            "number": 16,
+            "text": "While he was still speaking, there also came another, and said, 'The fire of God has fallen from the sky, and has burned up the sheep and the servants, and consumed them, and I alone have escaped to tell you.'"
+          },
+          {
+            "number": 17,
+            "text": "While he was still speaking, there came also another, and said, 'The Chaldeans made three bands, and raided the camels, and have taken them away, yes, and killed the servants with the edge of the sword; and I alone have escaped to tell you.'"
+          },
+          {
+            "number": 18,
+            "text": "While he was still speaking, there came also another, and said, 'Your sons and your daughters were eating and drinking wine in their oldest brother’s house,'"
+          },
+          {
+            "number": 19,
+            "text": "'and behold, there came a great wind from the wilderness, and struck the four corners of the house, and it fell on the young men, and they are dead. I alone have escaped to tell you.'"
+          },
+          {
+            "number": 20,
+            "text": "Then Job arose, and tore his robe, and shaved his head, and fell down on the ground, and worshiped."
+          },
+          {
+            "number": 21,
+            "text": "He said, 'Naked I came out of my mother’s womb, and naked will I return there. Yahweh gave, and Yahweh has taken away. Blessed be Yahweh’s name.'"
+          },
+          {
+            "number": 22,
+            "text": "In all this, Job didn’t sin, nor charge God with wrongdoing."
+          }
+        ]
+      },
+      {
+        "reference": "Job 2",
+        "title": "Satan Strikes Job's Body, Job's Integrity, and the Silent Friends",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Again, on the day when God’s sons came to present themselves before Yahweh, Satan came also among them to present himself before Yahweh."
+          },
+          {
+            "number": 2,
+            "text": "Yahweh said to Satan, 'Where have you come from?' Satan answered Yahweh, and said, 'From going back and forth in the earth, and from walking up and down in it.'"
+          },
+          {
+            "number": 3,
+            "text": "Yahweh said to Satan, 'Have you considered my servant Job? For there is no one like him in the earth, a blameless and an upright man, one who fears God, and turns away from evil. He still maintains his integrity, although you incited me against him, to ruin him without cause.'"
+          },
+          {
+            "number": 4,
+            "text": "Satan answered Yahweh, and said, 'Skin for skin. Yes, all that a man has he will give for his life.'"
+          },
+          {
+            "number": 5,
+            "text": "'But put out your hand now, and touch his bone and his flesh, and he will renounce you to your face.'"
+          },
+          {
+            "number": 6,
+            "text": "Yahweh said to Satan, 'Behold, he is in your hand. Only spare his life.'"
+          },
+          {
+            "number": 7,
+            "text": "So Satan went out from the presence of Yahweh, and struck Job with painful sores from the sole of his foot to his head."
+          },
+          {
+            "number": 8,
+            "text": "He took for himself a potsherd to scrape himself with, and he sat among the ashes."
+          },
+          {
+            "number": 9,
+            "text": "Then his wife said to him, 'Do you still maintain your integrity? Renounce God, and die.'"
+          },
+          {
+            "number": 10,
+            "text": "But he said to her, 'You speak as one of the foolish women would speak. What? Shall we receive good at God’s hand, and shall we not receive evil?' In all this Job didn’t sin with his lips."
+          },
+          {
+            "number": 11,
+            "text": "Now when Job’s three friends heard of all this evil that had come on him, they each came from his own place: Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite... to come to mourn with him and to comfort him."
+          },
+          {
+            "number": 12,
+            "text": "When they lifted up their eyes from a distance, and didn’t recognize him, they raised their voices, and wept; and they each tore his robe, and sprinkled dust on their heads toward the sky."
+          },
+          {
+            "number": 13,
+            "text": "So they sat down with him on the ground seven days and seven nights, and no one spoke a word to him, for they saw that his grief was very great."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Does God Deserve Worship Only When the Sun Shines?",
+      "reflection": "The cosmic drama of the book of Job hinges on a sneering question posed by Satan to the Almighty: 'Does Job fear God for nothing?' (Job 1:9). The adversary argued that genuine, unselfish devotion does not exist. He claimed that Job was only a mercenary believer—someone who worshiped God because God paid him well with flocks, herds, healthy children, and a protective hedge. Satan was essentially arguing: 'Strip away his blessings, and he will curse You to Your face.'\n\nWhen wave after wave of catastrophic loss crashes over Job—wiping out his livelihood and crushing all ten of his beloved children in a single hour—heaven and hell leaned forward to see what would emerge from his heart. Would he curse God? Would he throw away his faith? Verse 20 provides one of the most majestic moments in human history: 'Then Job arose, and tore his robe, and shaved his head, and fell down on the ground, and worshiped.'\n\nNotice that Job did not pretend it didn't hurt. He tore his robe and shaved his head in raw, honest agony. Tears flowed freely. True faith does not suppress grief; it carries its shattered pieces straight into the throne room of God and whispers through trembling lips: 'The Lord gave, and the Lord has taken away. Blessed be the name of the Lord.' Job worshiped God not because of what was in his hands, but because of who sat upon the throne. God is worthy of our worship on the darkest day of loss just as He is on the brightest day of abundance."
+    },
+    "lessons": [
+      {
+        "lesson": "True Worship Transcends Earthly Circumstances",
+        "verse": "Job 1:20-21",
+        "detail": "Job worshiped God when all his possessions and children were taken. If your worship depends on God constantly giving you what you want, you are worshiping the gifts, not the Giver.",
+        "question": "If God were to remove a cherished earthly comfort from your life today, would your heart still be able to say, 'Blessed be the name of the Lord'?"
+      },
+      {
+        "lesson": "Grief and Faith Walk Hand in Hand",
+        "verse": "Job 1:20",
+        "detail": "Job tore his clothes and wept, yet fell down and worshiped. Grieving deeply over real loss is not a lack of faith; it is the honest response of love brought before a sovereign God.",
+        "question": "Are you giving yourself permission to lament honestly before God in seasons of loss, or are you bottling up your grief behind a pious mask?"
+      },
+      {
+        "lesson": "Never Let Bitterness Seduce You into Cursing God",
+        "verse": "Job 2:9-10",
+        "detail": "When his wife urged him to 'renounce God and die,' Job firmly resisted the temptation to become cynical. Receiving good from God's hand means trusting Him even through difficult mysteries.",
+        "question": "When painful trials strike, do you tend to grow bitter and blame God, or do you humble yourself beneath His mighty hand?"
+      },
+      {
+        "lesson": "The Power of Silent Presence in Comforting the Hurting",
+        "verse": "Job 2:13",
+        "detail": "Job's three friends did their best ministry when they sat in the dust with him for seven days and nights without uttering a single word. True comfort sits quietly in the ashes with those who mourn.",
+        "question": "Who in your circle is walking through deep pain right now, and how can you offer loving, listening presence rather than hollow clichés?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "d6_q1",
+        "type": "multiple_choice",
+        "question": "What cynical question did Satan ask Yahweh regarding Job's righteousness in Job 1:9?",
+        "options": [
+          "'Why did You create Job in the land of Uz?'",
+          "'Does Job fear God for nothing?'",
+          "'Is Job wiser than the angels?'",
+          "'Will Job build an altar of gold?'"
+        ],
+        "correctIndex": 1,
+        "reference": "Job 1:9",
+        "explanation": "Satan accused Job of only serving God for mercenary gain: 'Does Job fear God for nothing? Haven’t you made a hedge around him...?'"
+      },
+      {
+        "id": "d6_q2",
+        "type": "multiple_choice",
+        "question": "What was Job's immediate response when four successive messengers delivered news of the loss of his livestock, servants, and all ten children in Job 1:20–21?",
+        "options": [
+          "He cursed the day he was born and renounced God",
+          "He marched to war against the Sabeans and Chaldeans",
+          "He tore his robe, shaved his head, fell to the ground, and worshiped",
+          "He fled into the wilderness to hide"
+        ],
+        "correctIndex": 2,
+        "reference": "Job 1:20-21",
+        "explanation": "Scripture records that Job tore his robe, shaved his head in grief, and fell down on the ground and worshiped, saying: 'Yahweh gave, and Yahweh has taken away. Blessed be Yahweh’s name.'"
+      },
+      {
+        "id": "d6_q3",
+        "type": "true_false",
+        "question": "True or False: According to Job 1:22, in the immediate aftermath of losing everything, Job sinned by charging God with wrongdoing.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Job 1:22",
+        "explanation": "False. Job 1:22 explicitly declares: 'In all this, Job didn’t sin, nor charge God with wrongdoing.'"
+      },
+      {
+        "id": "d6_q4",
+        "type": "multiple_choice",
+        "question": "What advice did Job's wife give him when he was struck with painful boils in Job 2:9?",
+        "options": [
+          "'Seek out another physician'",
+          "'Renounce God, and die'",
+          "'Offer more sacrifices to Yahweh'",
+          "'Fast for forty days'"
+        ],
+        "correctIndex": 1,
+        "reference": "Job 2:9",
+        "explanation": "In her broken despair, Job's wife told him: 'Do you still maintain your integrity? Renounce God, and die.'"
+      },
+      {
+        "id": "d6_q5",
+        "type": "multiple_choice",
+        "question": "How long did Job's three friends sit in complete silence on the ground with him when they saw how great his grief was in Job 2:13?",
+        "options": [
+          "One hour",
+          "Three days",
+          "Seven days and seven nights",
+          "Forty days"
+        ],
+        "correctIndex": 2,
+        "reference": "Job 2:13",
+        "explanation": "Job 2:13 records that they sat down with him on the ground seven days and seven nights without speaking a word, honoring his overwhelming grief."
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord God of majesty and mysteries, You are the Giver of every breath, every heartbeat, and every blessing I enjoy. Today Job's story humbles me to the dust. Forgive me for the times I have treated You as a vending machine of prosperity, complaining when life is hard and only singing when things go my way. Teach me the pure, unshakeable faith of Job. When losses come, when bodies ache, or when cherished dreams slip through my fingers, help me to tear down my self-reliance and fall to my knees in worship. Remind me that You are good, holy, and worthy of my total allegiance, whether my hands are full or empty. Blessed be Your holy name, now and forever. In Jesus' name, Amen.",
+      "versePrayerLine": "Lord, whether You give or whether You take away, blessed be Your holy, majestic name forever.",
+      "prompt": "If you are carrying pain, grief, or unexplained loss right now, bring that broken piece to God. Tell Him: 'Lord, I don't understand the why, but I choose to trust You.'"
+    }
+  },
+  "7": {
+    "day": 7,
+    "character": "Job",
+    "season": "Confronted by the Majesty of the Creator",
+    "theme": "Encountering the Creator's vast majesty silences our doubts and brings humble wonder.",
+    "memoryVerse": {
+      "reference": "Job 42:5",
+      "text": "I had heard of you by the hearing of the ear, but now my eye sees you.",
+      "whyItMatters": "Suffering and wrestling with God can move our faith from second-hand theological theory into direct, awe-filled encounter.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "heard",
+          "hearing",
+          "ear",
+          "sees",
+          "eye"
+        ],
+        "firstLetters": "I h h o y b t h o t e, b n m e s y."
+      }
+    },
+    "profile": {
+      "title": "Job: From the Ash-Heap to the Whirlwind",
+      "who": "The tested patriarch who endured thirty-five chapters of agonizing theological debate with his friends, defending his righteousness until the Creator Himself answered from the whirlwind.",
+      "whenAndWhere": "The land of Uz, sitting among the ashes as a whirlwind storm sweeps down from heaven.",
+      "family": "Restored with double his former wealth; father of seven new sons and three daughters (Jemimah, Keziah, Keren-Happuch, renowned as the fairest in the land).",
+      "keyMoments": [
+        "Endured cold, legalistic accusations from his three friends who insisted his suffering must be the direct result of hidden, atrocious sins.",
+        "Cried out for a Mediator (Umpire) between himself and God, and boldly proclaimed: 'I know that my Redeemer lives!' (Job 19:25).",
+        "Confronted directly by Yahweh out of the roaring whirlwind: 'Where were you when I laid the foundations of the earth?' (Job 38:4).",
+        "Humbled to silence before sixty rapid-fire questions revealing the unfathomable wisdom, ecology, and astronomical power of the Creator.",
+        "Repented in dust and ashes: 'Therefore I abhor myself, and repent in dust and ashes' (Job 42:6).",
+        "Commended by God above his friends; prayed intercessory prayers of forgiveness for Eliphaz, Bildad, and Zophar.",
+        "Blessed by Yahweh in his latter days with twice as much livestock as he had before, living to see his children to the fourth generation."
+      ],
+      "strengths": [
+        "Uncompromising honesty before God, bringing his raw lament and grief directly to the Almighty rather than gossiping or turning to idols.",
+        "Radical humility to instantly surrender his arguments the moment God revealed His glory.",
+        "Christlike intercession: prayed for the very friends who had falsely accused and tormented his soul."
+      ],
+      "failures": [
+        "In his intense agony, Job drifted into self-justification, implying that God was unjust or indifferent to human suffering."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Job 38",
+        "title": "Yahweh Answers Job Out of the Whirlwind with the Wonders of Creation",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Then Yahweh answered Job out of the whirlwind, and said,"
+          },
+          {
+            "number": 2,
+            "text": "'Who is this who darkens counsel by words without knowledge?'"
+          },
+          {
+            "number": 3,
+            "text": "'Brace yourself like a man, for I will question you, then you answer me.'"
+          },
+          {
+            "number": 4,
+            "text": "'Where were you when I laid the foundations of the earth? Declare, if you have understanding.'"
+          },
+          {
+            "number": 5,
+            "text": "'Who determined its measures, if you know? Or who stretched the line on it?'"
+          },
+          {
+            "number": 6,
+            "text": "'Whereupon were its foundations fastened? Or who laid its cornerstone,'"
+          },
+          {
+            "number": 7,
+            "text": "'when the morning stars sang together, and all the sons of God shouted for joy?'"
+          },
+          {
+            "number": 8,
+            "text": "'Or who shut up the sea with doors, when it broke forth from the womb,'"
+          },
+          {
+            "number": 11,
+            "text": "'and said, \"Here you may come, but no further; and here your proud waves shall be stopped\"?'"
+          },
+          {
+            "number": 12,
+            "text": "'Have you commanded the morning in your days, and caused the dawn to know its place;'"
+          },
+          {
+            "number": 16,
+            "text": "'Have you entered into the springs of the sea? Or have you walked in the recesses of the deep?'"
+          },
+          {
+            "number": 17,
+            "text": "'Have the gates of death been revealed to you? Or have you seen the gates of the shadow of death?'"
+          },
+          {
+            "number": 22,
+            "text": "'Have you entered the storehouses of the snow, or have you seen the storehouses of the hail,'"
+          },
+          {
+            "number": 31,
+            "text": "'Can you bind the cluster of the Pleiades, or loosen the cords of Orion?'"
+          },
+          {
+            "number": 32,
+            "text": "'Can you lead forth the constellations in their season? Or can you guide the Bear with her cubs?'"
+          },
+          {
+            "number": 33,
+            "text": "'Do you know the laws of the heavens? Can you establish their dominion on the earth?'"
+          },
+          {
+            "number": 35,
+            "text": "'Can you send out lightnings, that they may go, and tell you, \"Here we are\"?'"
+          },
+          {
+            "number": 41,
+            "text": "'Who provides for the raven his prey, when his young ones cry to God, and wander for lack of food?'"
+          }
+        ]
+      },
+      {
+        "reference": "Job 42",
+        "title": "Job's Contrition, Yahweh's Rebuke of the Friends, and the Double Restoration",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Then Job answered Yahweh,"
+          },
+          {
+            "number": 2,
+            "text": "'I know that you can do all things, and that no purpose of yours can be restrained.'"
+          },
+          {
+            "number": 3,
+            "text": "'You asked, \"Who is this who hides counsel without knowledge?\" Therefore I have uttered that which I didn’t understand, things too wonderful for me, which I didn’t know.'"
+          },
+          {
+            "number": 4,
+            "text": "'Listen, now, and I will speak; I will question you, and you will declare it to me.'"
+          },
+          {
+            "number": 5,
+            "text": "'I had heard of you by the hearing of the ear, but now my eye sees you.'"
+          },
+          {
+            "number": 6,
+            "text": "'Therefore I abhor myself, and repent in dust and ashes.'"
+          },
+          {
+            "number": 7,
+            "text": "It was so, that after Yahweh had spoken these words to Job, Yahweh said to Eliphaz the Temanite, 'My wrath is kindled against you, and against your two friends; for you have not spoken of me the thing that is right, as my servant Job has.'"
+          },
+          {
+            "number": 8,
+            "text": "'Now therefore, take to yourselves seven bulls and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job shall pray for you, for I will accept him..."
+          },
+          {
+            "number": 9,
+            "text": "So Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite went, and did what Yahweh commanded them; and Yahweh accepted Job."
+          },
+          {
+            "number": 10,
+            "text": "Yahweh restored the fortunes of Job, when he prayed for his friends. Yahweh gave Job twice as much as he had before."
+          },
+          {
+            "number": 12,
+            "text": "So Yahweh blessed the latter end of Job more than his beginning. He had fourteen thousand sheep, six thousand camels, one thousand yoke of oxen, and one thousand female donkeys."
+          },
+          {
+            "number": 13,
+            "text": "He had also seven sons and three daughters."
+          },
+          {
+            "number": 15,
+            "text": "In all the land were no women found so beautiful as the daughters of Job. Their father gave them an inheritance among their brothers."
+          },
+          {
+            "number": 16,
+            "text": "After this Job lived one hundred forty years, and saw his sons, and his sons’ sons, to four generations."
+          },
+          {
+            "number": 17,
+            "text": "So Job died, an old man, and full of days."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "I Am Not Your Accused; I Am Your Majestic Creator",
+      "reflection": "For thirty-five chapters, Job sat in the dirt asking 'Why?'. He demanded an explanation. He longed to present his case before God as in a courtroom, confident that he had not committed the sins his friends accused him of. And then, in Job 38, God finally shows up in a roaring whirlwind. But notice what God does not do: He does not answer a single one of Job's 'why' questions! He never even mentions Satan or the cosmic challenge in chapters 1 and 2.\n\nInstead, God takes Job on a breathtaking, mind-boggling tour of the universe. 'Where were you when I laid the foundations of the earth? Who told the oceans, \"Thus far you shall come, and no farther\"? Can you lead forth the constellations or feed the hungry young ravens?' For four chapters, God asks question after question, revealing that the universe is infinitely larger, more interconnected, and more wisely governed than human intellect can fathom.\n\nGod was not bullying Job; He was curing Job's myopic anxiety with the antidote of divine majesty. He was saying: 'Job, if I have the wisdom and power to balance the stars, command the lightning, and feed the eagle on the crag, can you not trust Me with your fragile life, even when you cannot see the full picture?'\n\nAnd look at Job's glorious response in Job 42:5–6. He does not say, 'Now I understand all my questions.' He says, 'I had heard of You by the hearing of the ear, but now my eye sees You.' The presence of God was the answer! When you truly behold the majesty of God, the questions that kept you awake at night do not necessarily get answered—they get dissolved in worship. And when did God restore Job's fortunes? Job 42:10 says: 'Yahweh restored the fortunes of Job, when he prayed for his friends.' Forgiving and interceding for the very people who bruised your soul unleashes the double-portion restoration of heaven."
+    },
+    "lessons": [
+      {
+        "lesson": "Move from Second-Hand Theory to First-Hand Encounter",
+        "verse": "Job 42:5",
+        "detail": "Many Christians live on 'hearing of the ear'—borrowed theology from pastors, books, or parents. Pain and wrestling can be the very crucible that brings you to 'see' God with your own spiritual eyes.",
+        "question": "Is your relationship with God based mostly on what others have taught you, or have you met Him intimately for yourself in the storm?"
+      },
+      {
+        "lesson": "Trust God's Wisdom Where You Cannot Trace His Hand",
+        "verse": "Job 38:4, 42:2",
+        "detail": "God does not owe us an explanation for every painful mystery. If God is wise enough to manage the cosmos, He is trustworthy enough to shepherd our unresolved heartaches.",
+        "question": "What unanswered 'why' question in your life do you need to surrender to God's greater wisdom today?"
+      },
+      {
+        "lesson": "Interceding for Those Who Hurt You Unlocks Restoration",
+        "verse": "Job 42:10",
+        "detail": "God restored Job's fortunes specifically when he prayed for his three friends who had tormented him with false accusations. Releasing bitterness and blessing our critics opens the windows of divine blessing.",
+        "question": "Is there someone who misunderstood or wounded you whom you need to pray for and release into God's hands today?"
+      },
+      {
+        "lesson": "God's Latter End for His Children Outshines the Beginning",
+        "verse": "Job 42:12",
+        "detail": "God blessed Job's latter end more than his beginning. No matter how devastating the storm or the loss, in Christ our story never ends in the ashes; resurrection glory and restoration have the final word.",
+        "question": "How can the promise of God's ultimate restoration give you hope when looking at your current struggles?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "d7_q1",
+        "type": "multiple_choice",
+        "question": "Out of what natural phenomenon did Yahweh answer Job in Job 38:1?",
+        "options": [
+          "A gentle brook",
+          "A burning bush",
+          "A roaring whirlwind",
+          "A quiet whisper"
+        ],
+        "correctIndex": 2,
+        "reference": "Job 38:1",
+        "explanation": "Job 38:1 states: 'Then Yahweh answered Job out of the whirlwind.'"
+      },
+      {
+        "id": "d7_q2",
+        "type": "multiple_choice",
+        "question": "What primary method did God use in Job 38–41 to reveal His wisdom and sovereignty to Job?",
+        "options": [
+          "He explained the conversation He had with Satan in chapter 1",
+          "He asked Job dozens of unanswerable questions about the creation and care of the cosmos",
+          "He gave Job a written code of laws",
+          "He showed Job a vision of the future temple"
+        ],
+        "correctIndex": 1,
+        "reference": "Job 38:4-41",
+        "explanation": "God demonstrated His infinite wisdom by asking Job questions about the foundations of the earth, the stars, the weather, and wild animals, showing that human understanding is minuscule compared to the Creator's."
+      },
+      {
+        "id": "d7_q3",
+        "type": "multiple_choice",
+        "question": "What famous statement did Job make in Job 42:5 upon encountering the manifest presence of God?",
+        "options": [
+          "'Now I will demand my justice before the court'",
+          "'I had heard of you by the hearing of the ear, but now my eye sees you'",
+          "'My friends were right all along'",
+          "'Why did You wait so long to speak?'"
+        ],
+        "correctIndex": 1,
+        "reference": "Job 42:5",
+        "explanation": "Job confessed: 'I had heard of you by the hearing of the ear, but now my eye sees you,' moving from theory to direct, awe-filled encounter."
+      },
+      {
+        "id": "d7_q4",
+        "type": "multiple_choice",
+        "question": "According to Job 42:10, exactly when did Yahweh restore the fortunes of Job?",
+        "options": [
+          "When Job proved his innocence with evidence",
+          "When Job prayed for his friends",
+          "When Job left the city of Uz",
+          "When Job rebuilt his house"
+        ],
+        "correctIndex": 1,
+        "reference": "Job 42:10",
+        "explanation": "Job 42:10 states: 'Yahweh restored the fortunes of Job, when he prayed for his friends. Yahweh gave Job twice as much as he had before.'"
+      },
+      {
+        "id": "d7_q5",
+        "type": "true_false",
+        "question": "True or False: In Job 42:7, God was angry with Job's friends because they had spoken what was right of Him, unlike Job.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Job 42:7",
+        "explanation": "False. God told Eliphaz: 'My wrath is kindled against you, and against your two friends; for you have NOT spoken of me the thing that is right, as my servant Job has.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "O Lord God Almighty, Creator of the Pleiades and Orion, Commander of the morning and Ruler of the ocean waves, who am I that You are mindful of me? Forgive me for the foolish words I have spoken when life hurt, questioning Your wisdom and doubting Your goodness. Today, like Job, I lay my hand over my mouth in holy reverence. I don't need all my 'why' questions answered; I only need You. Move my faith from merely 'hearing of the ear' into a living, seeing encounter with Your glorious presence. Lord, I also choose to forgive and pray for anyone who has misunderstood, criticized, or wounded me. Release my heart from all bitterness, and restore my soul in Your unfailing love. You can do all things, and no purpose of Yours can be restrained. In Jesus' mighty name, Amen.",
+      "versePrayerLine": "Lord God, I had heard of You with my ears, but now my eyes behold Your majesty and my soul rests in wonder.",
+      "prompt": "Take a moment to release any lingering bitterness toward someone who has hurt you. Pray a blessing over them right now as Job prayed for his friends."
+    }
+  }
+}

@@ -1,0 +1,526 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light" data-font-size="medium">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+  <meta name="theme-color" content="#B45309">
+  <meta name="description" content="Know Him More — A 365-day character study of the Bible to know God more through Scripture, memorization, reflection, and prayer.">
+  <title>Know Him More — 365-Day Character Bible Study</title>
+
+  <!-- PWA Manifest & Favicon -->
+  <link rel="manifest" href="./manifest.json">
+  <link rel="apple-touch-icon" href="./public/icon-192.png">
+
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="./src/styles/main.css">
+</head>
+<body>
+
+  <!-- App Header -->
+  <header class="app-header">
+    <div class="header-container">
+      <div class="logo-group" id="logo-home-btn" title="Go to Today's Devotion">
+        <span class="logo-icon">📖</span>
+        <div class="logo-text">
+          <h1>Know Him More</h1>
+          <span>365-Day Character Study</span>
+        </div>
+      </div>
+
+      <div class="header-actions">
+        <!-- Streak Counter -->
+        <div class="streak-pill" id="streak-counter" title="Current Daily Streak">
+          <span>🔥</span>
+          <span id="streak-count-text">0 days</span>
+        </div>
+
+        <!-- Day Jumper Trigger -->
+        <button class="day-jumper-btn" id="open-day-jumper-btn" title="Jump to any day">
+          <span id="header-day-label">Day 1</span>
+          <span>▾</span>
+        </button>
+
+        <!-- Theme Toggle -->
+        <button class="icon-btn" id="theme-toggle-btn" title="Toggle Light/Dark Mode" aria-label="Toggle theme">
+          <span id="theme-icon">🌙</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Floating Exit Distraction-Free Button -->
+  <button class="exit-df-btn" id="exit-df-btn">
+    <span>✕</span> Exit Distraction-Free Mode
+  </button>
+
+  <!-- Main Content Layout -->
+  <main class="main-layout">
+
+    <!-- VIEW 1: DAILY DEVOTIONAL (Default) -->
+    <div id="view-daily" class="view-panel active">
+
+      <!-- Day Navigation Bar -->
+      <div class="day-navigation-bar">
+        <button class="nav-arrow-btn" id="prev-day-btn">
+          <span>←</span> Previous
+        </button>
+        <div class="day-badge-center">
+          <div class="day-pill-tag" id="day-pill-tag">Day 1 of 365</div>
+          <div class="date-indicator" id="current-date-indicator">Today</div>
+        </div>
+        <button class="nav-arrow-btn" id="next-day-btn">
+          Next <span>→</span>
+        </button>
+      </div>
+
+      <!-- Day Header & Theme Card -->
+      <div class="day-header-card" id="day-header-card">
+        <div class="character-title-row">
+          <h2 class="character-name-huge" id="character-name-display">Adam</h2>
+          <div class="character-season-sub" id="character-season-display">Creation and the Breath of Life</div>
+        </div>
+        <div class="day-theme-banner" id="day-theme-display">
+          God speaks the cosmos into being and crowns creation with His own image.
+        </div>
+
+        <!-- Daily Checklist -->
+        <div class="daily-checklist-card">
+          <div class="check-item" id="check-reading">
+            <div class="check-circle">✓</div>
+            <span>2 Chapters</span>
+          </div>
+          <div class="check-item" id="check-verse">
+            <div class="check-circle">✓</div>
+            <span>Memory Verse</span>
+          </div>
+          <div class="check-item" id="check-quiz">
+            <div class="check-circle">✓</div>
+            <span>Quiz</span>
+          </div>
+          <div class="check-item" id="check-prayer">
+            <div class="check-circle">✓</div>
+            <span>Prayer</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Spaced Repetition Due Alert (Conditional) -->
+      <div class="review-due-alert" id="review-due-alert" style="display: none;">
+        <span class="review-due-icon">🔔</span>
+        <div class="review-due-content">
+          <h4>Memory Verses Due for Review Today</h4>
+          <p>Reinforce what you memorized so God's Word sticks in your heart:</p>
+          <div class="review-verses-list" id="review-verses-list"></div>
+        </div>
+      </div>
+
+      <!-- 1. MEMORY VERSE & CRAM IT -->
+      <section class="devotional-section" id="verse-section">
+        <div class="section-header-row">
+          <div class="section-title">
+            <span class="section-icon">💎</span>
+            <h3>Memory Verse of the Day</h3>
+          </div>
+          <button class="verse-audio-btn" id="audio-tts-btn" title="Read verse aloud">
+            <span id="audio-btn-icon">🔊</span> Listen
+          </button>
+        </div>
+
+        <div class="memory-verse-display">
+          <div class="verse-text-large" id="verse-text-display">Loading verse...</div>
+          <div class="verse-reference-badge" id="verse-ref-display">Genesis 1:27</div>
+          <div class="verse-why-note" id="verse-why-display">Why it matters today...</div>
+        </div>
+
+        <!-- Cram It Practice Box -->
+        <div class="cram-box">
+          <div class="cram-mode-tabs">
+            <button class="cram-tab-btn active" data-step="read">1. Read Aloud 3x</button>
+            <button class="cram-tab-btn" data-step="blanks">2. Fill-in-Blank</button>
+            <button class="cram-tab-btn" data-step="letters">3. First Letters</button>
+            <button class="cram-tab-btn" data-step="recall">4. Full Recall</button>
+          </div>
+
+          <!-- Step 1: Read Aloud -->
+          <div class="cram-content-panel" id="cram-step-read">
+            <div class="read-aloud-view">
+              <div class="tap-counter-circle" id="tap-counter-circle">
+                <span class="tap-number" id="tap-count-num">0</span>
+                <span class="tap-target">of 3 Reads</span>
+              </div>
+              <p style="font-size: 0.85rem; color: var(--text-muted);">Tap the circle each time you read the verse aloud.</p>
+            </div>
+          </div>
+
+          <!-- Step 2: Fill in the Blank -->
+          <div class="cram-content-panel" id="cram-step-blanks" style="display: none;">
+            <div class="blanks-verse-box" id="blanks-container"></div>
+            <div class="cram-actions-row">
+              <button class="btn-secondary" id="check-blanks-btn">Check Answers</button>
+              <button class="btn-secondary" id="reveal-blanks-btn">Reveal Word Hints</button>
+            </div>
+          </div>
+
+          <!-- Step 3: First Letters -->
+          <div class="cram-content-panel" id="cram-step-letters" style="display: none;">
+            <div class="first-letters-display" id="first-letters-box"></div>
+            <p style="text-align: center; font-size: 0.85rem; color: var(--text-muted);">Recite the verse aloud using only the first letters as triggers.</p>
+          </div>
+
+          <!-- Step 4: Full Recall -->
+          <div class="cram-content-panel" id="cram-step-recall" style="display: none;">
+            <p style="font-size: 0.88rem; color: var(--text-secondary); margin-bottom: 0.5rem;">The verse is hidden! Type it from memory below:</p>
+            <textarea class="recall-textarea" id="recall-input" placeholder="Type the verse from memory here..."></textarea>
+            <button class="btn-primary" id="check-recall-btn" style="width: 100%;">Check My Memory</button>
+            <div class="recall-diff-box" id="recall-diff-result" style="display: none;"></div>
+          </div>
+        </div>
+
+        <!-- "I've Got It" Button -->
+        <button class="memorized-toggle-btn" id="memorized-btn">
+          <span id="memorized-check-icon">○</span>
+          <span id="memorized-btn-text">I've Got It — Mark as Memorized Today</span>
+        </button>
+      </section>
+
+      <!-- 2. CHARACTER PROFILE -->
+      <section class="devotional-section" id="profile-section">
+        <div class="section-header-row">
+          <div class="section-title">
+            <span class="section-icon">👤</span>
+            <h3 id="profile-title-display">Character Profile</h3>
+          </div>
+        </div>
+
+        <div class="profile-meta-grid">
+          <div class="profile-meta-item">
+            <div class="profile-meta-label">Who They Were</div>
+            <div class="profile-meta-value" id="profile-who"></div>
+          </div>
+          <div class="profile-meta-item">
+            <div class="profile-meta-label">Where & When</div>
+            <div class="profile-meta-value" id="profile-when-where"></div>
+          </div>
+          <div class="profile-meta-item" style="grid-column: 1 / -1;">
+            <div class="profile-meta-label">Family & Background</div>
+            <div class="profile-meta-value" id="profile-family"></div>
+          </div>
+        </div>
+
+        <div class="profile-blocks-section">
+          <div>
+            <div class="profile-block-heading">Key Biblical Moments</div>
+            <ul class="bullet-list-custom" id="profile-key-moments"></ul>
+          </div>
+
+          <div class="strengths-failures-grid">
+            <div class="strengths-card">
+              <div class="profile-block-heading" style="color: var(--success);">Strengths & Faith</div>
+              <ul class="bullet-list-custom" id="profile-strengths"></ul>
+            </div>
+            <div class="failures-card">
+              <div class="profile-block-heading" style="color: var(--danger);">Failures & Flaws</div>
+              <ul class="bullet-list-custom" id="profile-failures"></ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- 3. TODAY'S READING (TWO CHAPTERS) -->
+      <section class="devotional-section" id="reading-section">
+        <div class="section-header-row">
+          <div class="section-title">
+            <span class="section-icon">📜</span>
+            <h3>Today's Bible Reading</h3>
+          </div>
+          <button class="btn-secondary" id="enter-df-btn" title="Read without distractions">
+            <span>👓</span> Distraction-Free
+          </button>
+        </div>
+
+        <div class="reading-controls-bar">
+          <span style="font-size: 0.85rem; color: var(--text-muted);">Text Size:</span>
+          <div class="font-size-toggles">
+            <button class="font-size-btn" data-size="small">A-</button>
+            <button class="font-size-btn active" data-size="medium">A</button>
+            <button class="font-size-btn" data-size="large">A+</button>
+            <button class="font-size-btn" data-size="xlarge">A++</button>
+          </div>
+        </div>
+
+        <!-- Chapter 1 Reader -->
+        <div class="chapter-reader-card" id="chapter-1-container">
+          <div class="chapter-heading-row">
+            <div>
+              <div class="chapter-ref-title" id="ch1-title">Chapter 1</div>
+              <div class="chapter-theme-sub" id="ch1-sub"></div>
+            </div>
+            <button class="chapter-read-btn" id="ch1-read-btn">
+              <span>○</span> Mark as Read
+            </button>
+          </div>
+          <div class="scripture-text-body" id="ch1-text"></div>
+        </div>
+
+        <!-- Chapter 2 Reader -->
+        <div class="chapter-reader-card" id="chapter-2-container">
+          <div class="chapter-heading-row">
+            <div>
+              <div class="chapter-ref-title" id="ch2-title">Chapter 2</div>
+              <div class="chapter-theme-sub" id="ch2-sub"></div>
+            </div>
+            <button class="chapter-read-btn" id="ch2-read-btn">
+              <span>○</span> Mark as Read
+            </button>
+          </div>
+          <div class="scripture-text-body" id="ch2-text"></div>
+        </div>
+      </section>
+
+      <!-- 4. WHAT GOD IS SAYING -->
+      <section class="devotional-section" id="reflection-section">
+        <div class="section-header-row">
+          <div class="section-title">
+            <span class="section-icon">🕊️</span>
+            <h3>What God Is Saying</h3>
+          </div>
+        </div>
+        <div class="reflection-headline" id="reflection-headline"></div>
+        <div class="reflection-body" id="reflection-body"></div>
+      </section>
+
+      <!-- 5. LESSONS FROM THIS CHARACTER -->
+      <section class="devotional-section" id="lessons-section">
+        <div class="section-header-row">
+          <div class="section-title">
+            <span class="section-icon">💡</span>
+            <h3>Lessons From This Character</h3>
+          </div>
+        </div>
+        <div class="lessons-container" id="lessons-container"></div>
+      </section>
+
+      <!-- 6. MY NOTES -->
+      <section class="devotional-section" id="notes-section">
+        <div class="section-header-row">
+          <div class="section-title">
+            <span class="section-icon">✍️</span>
+            <h3>My Notes & Insights</h3>
+          </div>
+        </div>
+        <textarea class="notes-textarea" id="notes-textarea" placeholder="Write what God is teaching you today..."></textarea>
+        <div class="notes-status-row">
+          <span id="notes-save-status">Auto-saved</span>
+          <span id="notes-word-count">0 words</span>
+        </div>
+      </section>
+
+      <!-- 7. QUIZ -->
+      <section class="devotional-section" id="quiz-section">
+        <div class="section-header-row">
+          <div class="section-title">
+            <span class="section-icon">🎯</span>
+            <h3>Today's Quiz</h3>
+          </div>
+          <span style="font-size: 0.85rem; color: var(--text-muted);" id="quiz-count-badge">5 Questions</span>
+        </div>
+
+        <div id="quiz-questions-container"></div>
+
+        <div class="quiz-score-banner" id="quiz-score-banner" style="display: none;">
+          <div class="score-display-text" id="quiz-score-text">Score: 5 / 5</div>
+          <p id="quiz-score-sub" style="color: var(--text-secondary); margin-bottom: 0.75rem;">Great job! You took today's quiz.</p>
+          <button class="btn-secondary" id="retake-quiz-btn">Retake Quiz</button>
+        </div>
+      </section>
+
+      <!-- 8. CLOSING PRAYER -->
+      <section class="devotional-section" id="prayer-section">
+        <div class="section-header-row">
+          <div class="section-title">
+            <span class="section-icon">🙏</span>
+            <h3>Closing Prayer</h3>
+          </div>
+        </div>
+
+        <div class="prayer-display-card">
+          <div class="prayer-text-body" id="guided-prayer-text"></div>
+          
+          <div style="margin-top: 1rem; border-top: 1px dashed var(--border-subtle); padding-top: 0.75rem;">
+            <label for="custom-prayer-input" style="display: block; font-size: 0.88rem; font-weight: 600; color: var(--text-secondary); margin-bottom: 0.35rem;">
+              Add your own prayer words to the Father:
+            </label>
+            <textarea class="notes-textarea" id="custom-prayer-input" style="min-height: 80px;" placeholder="Lord, I also pray that..."></textarea>
+          </div>
+        </div>
+
+        <button class="amen-button" id="amen-prayer-btn">
+          <span>Amen, I've Prayed</span>
+        </button>
+      </section>
+
+    </div>
+
+    <!-- VIEW 2: 365-DAY CALENDAR & PROGRESS -->
+    <div id="view-calendar" class="view-panel" style="display: none;">
+      <div class="day-header-card">
+        <h2 style="font-size: 1.5rem; margin-bottom: 0.5rem;">365-Day Plan & Progress</h2>
+        <p style="color: var(--text-secondary); margin-bottom: 1rem;">Track your year-long character study through Scripture. Tap any day to jump straight in.</p>
+        
+        <div style="display: flex; justify-content: space-between; font-size: 0.88rem; margin-bottom: 0.4rem;">
+          <span id="calendar-progress-label">0 of 365 days completed</span>
+          <span id="calendar-percent-label">0%</span>
+        </div>
+        <div style="width: 100%; height: 8px; background-color: var(--bg-secondary); border-radius: 4px; overflow: hidden; margin-bottom: 1.25rem;">
+          <div id="calendar-progress-bar" style="height: 100%; width: 0%; background-color: var(--accent); transition: width 0.3s;"></div>
+        </div>
+
+        <!-- 365 Days Grid -->
+        <div class="days-grid" id="full-days-grid"></div>
+      </div>
+    </div>
+
+    <!-- VIEW 3: MEMORY VERSES LIBRARY -->
+    <div id="view-verses" class="view-panel" style="display: none;">
+      <div class="day-header-card">
+        <h2 style="font-size: 1.5rem; margin-bottom: 0.5rem;">Memory Verses Library</h2>
+        <p style="color: var(--text-secondary); margin-bottom: 1rem;">Every memory verse across the 365-day plan, with your memorization status and spaced review intervals.</p>
+        <div id="verses-library-list"></div>
+      </div>
+    </div>
+
+    <!-- VIEW 4: CHARACTERS STUDIED -->
+    <div id="view-characters" class="view-panel" style="display: none;">
+      <div class="day-header-card">
+        <h2 style="font-size: 1.5rem; margin-bottom: 0.5rem;">Characters I've Studied</h2>
+        <p style="color: var(--text-secondary); margin-bottom: 1rem;">Review the men and women of Scripture you have encountered, along with your notes.</p>
+        <div id="characters-studied-list"></div>
+      </div>
+    </div>
+
+    <!-- VIEW 5: QUIZ SCORES & METRICS -->
+    <div id="view-scores" class="view-panel" style="display: none;">
+      <div class="day-header-card">
+        <h2 style="font-size: 1.5rem; margin-bottom: 0.5rem;">Quiz Performance</h2>
+        <p style="color: var(--text-secondary); margin-bottom: 1rem;">Track your comprehension of Scripture readings and identify areas for deeper study.</p>
+        <div id="quiz-metrics-container"></div>
+      </div>
+    </div>
+
+    <!-- VIEW 6: WEEKLY REVIEW -->
+    <div id="view-weekly" class="view-panel" style="display: none;">
+      <div class="day-header-card">
+        <h2 style="font-size: 1.5rem; margin-bottom: 0.5rem;">Weekly Review & Reflection</h2>
+        <p style="color: var(--text-secondary); margin-bottom: 1rem;">Pause at the end of each week to consolidate what God has taught you through His servants.</p>
+        <div id="weekly-review-container"></div>
+      </div>
+    </div>
+
+    <!-- VIEW 7: SETTINGS & BACKUP -->
+    <div id="view-settings" class="view-panel" style="display: none;">
+      <div class="day-header-card">
+        <h2 style="font-size: 1.5rem; margin-bottom: 0.75rem;">Settings & Backup</h2>
+        
+        <div style="display: flex; flex-direction: column; gap: 1.25rem;">
+          <div>
+            <label style="display: block; font-weight: 600; margin-bottom: 0.35rem;">Start Date for Day 1</label>
+            <input type="date" id="settings-start-date" style="padding: 0.5rem; border: 1px solid var(--border-strong); border-radius: var(--radius-sm); background: var(--bg-card); color: var(--text-primary);">
+            <p style="font-size: 0.8rem; color: var(--text-muted); margin-top: 0.25rem;">Choose the date your 365-day journey began.</p>
+          </div>
+
+          <div>
+            <label style="display: block; font-weight: 600; margin-bottom: 0.35rem;">Daily Reminder Notification</label>
+            <div style="display: flex; gap: 0.5rem; align-items: center;">
+              <input type="time" id="settings-reminder-time" value="07:00" style="padding: 0.5rem; border: 1px solid var(--border-strong); border-radius: var(--radius-sm); background: var(--bg-card); color: var(--text-primary);">
+              <button class="btn-secondary" id="enable-notifications-btn">Enable Notifications</button>
+            </div>
+            <p style="font-size: 0.8rem; color: var(--text-muted); margin-top: 0.25rem;">Receive an optional quiet reminder to spend time with God.</p>
+          </div>
+
+          <div style="border-top: 1px solid var(--border-subtle); padding-top: 1rem;">
+            <label style="display: block; font-weight: 600; margin-bottom: 0.35rem;">Data Backup & Privacy</label>
+            <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 0.75rem;">All your notes, memorization, and quiz scores are stored 100% locally on your device.</p>
+            <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+              <button class="btn-primary" id="export-backup-btn">Export Backup (JSON)</button>
+              <button class="btn-secondary" id="import-backup-trigger-btn">Import Backup</button>
+              <input type="file" id="import-backup-input" accept=".json" style="display: none;">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- Bottom Navigation Bar -->
+  <nav class="bottom-nav">
+    <div class="nav-tabs-container">
+      <button class="nav-tab-item active" data-view="daily">
+        <span class="nav-tab-icon">📖</span>
+        <span>Today</span>
+      </button>
+      <button class="nav-tab-item" data-view="calendar">
+        <span class="nav-tab-icon">📅</span>
+        <span>Calendar</span>
+      </button>
+      <button class="nav-tab-item" data-view="verses">
+        <span class="nav-tab-icon">💎</span>
+        <span>Verses</span>
+      </button>
+      <button class="nav-tab-item" data-view="characters">
+        <span class="nav-tab-icon">👤</span>
+        <span>Characters</span>
+      </button>
+      <button class="nav-tab-item" data-view="scores">
+        <span class="nav-tab-icon">🎯</span>
+        <span>Scores</span>
+      </button>
+      <button class="nav-tab-item" data-view="weekly">
+        <span class="nav-tab-icon">🗓️</span>
+        <span>Weekly</span>
+      </button>
+      <button class="nav-tab-item" data-view="settings">
+        <span class="nav-tab-icon">⚙️</span>
+        <span>Settings</span>
+      </button>
+    </div>
+  </nav>
+
+  <!-- Day Jumper Modal -->
+  <div class="modal-backdrop" id="day-jumper-modal" style="display: none;">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h3>Jump to Any Day</h3>
+        <button class="icon-btn" id="close-jumper-btn">✕</button>
+      </div>
+      <div class="modal-body">
+        <p style="font-size: 0.88rem; color: var(--text-secondary); margin-bottom: 0.75rem;">
+          Jump freely to catch up or review without any guilt:
+        </p>
+        <div class="days-grid" id="modal-days-grid"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Data Scripts (Window globals for zero-dependency standalone execution) -->
+  <script src="./data/plan365.js"></script>
+  <script src="./data/days_content.js"></script>
+
+  <!-- Application Logic -->
+  <script src="./src/app.js"></script>
+
+  <!-- Service Worker Registration -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js').then((reg) => {
+          console.log('[PWA] Service Worker registered:', reg.scope);
+        }).catch((err) => {
+          console.log('[PWA] Service Worker registration failed:', err);
+        });
+      });
+    }
+  </script>
+</body>
+</html>
+
