@@ -1,4 +1,4 @@
-// Know Him More - Complete Days 1 to 247 Content (Batches 1 to 8 Complete)
+// Know Him More - Complete Days 1 to 277 Content (Batches 1 to 9 Complete)
 window.DAYS_CONTENT = {
   "1": {
     "day": 1,
@@ -54703,6 +54703,6351 @@ window.DAYS_CONTENT = {
       "guidedPrayer": "Lord Jesus, Son of Man, You have all authority in heaven and on earth to forgive sins and restore life! Thank You for the gift of Christian community and praying friends who grab the corners of our mats when we are too weak to walk. Give me the creative, relentless love of those four friends. Put a burden in my heart for those in my life who are paralyzed by guilt, despair, or skepticism. Teach me to tear through every roof of obstacle, embarrassment, or fear to lower them into Your presence. Say to them, and say to me: 'Your sins are forgiven; arise and walk!'",
       "versePrayerLine": "Son of Man, You have authority to forgive sins; seeing our faith, heal and restore those we bring to Your feet.",
       "prompt": "Spend five minutes in fervent intercessory prayer for a specific friend who is far from God, holding their mat before Jesus."
+    }
+  },
+  "248": {
+    "day": 248,
+    "character": "Matthew the Tax Collector",
+    "season": "Leaving the Tax Office: Grace Calls the Despised Outcast",
+    "theme": "Grace interrupts corrupt occupations and invites sinners to leave all behind to follow Christ.",
+    "memoryVerse": {
+      "reference": "Matthew 9:13",
+      "text": "“But you go and learn what this means: ‘I desire mercy, and not sacrifice,’ for I came not to call the righteous, but sinners to repentance.”",
+      "whyItMatters": "Jesus did not come to start an exclusive club for self-righteous moralists; He is the Great Physician who seeks out spiritually sick and broken people.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "learn",
+          "mercy",
+          "sacrifice",
+          "righteous",
+          "sinners"
+        ],
+        "firstLetters": "“B y g a l w t m: ‘I d m, a n s,’ f I c n t c t r, b s t r.”"
+      }
+    },
+    "profile": {
+      "title": "Levi son of Alphaeus (Matthew): From Extortioner to Apostle and Evangelist",
+      "who": "A Jewish publican (tax collector) employed by Herod Antipas's government at the busy customs tollbooth in Capernaum along the international trade route, viewed by his fellow Jews as an unclean traitor and thief, until Jesus walked past, looked upon him with transforming grace, and called him to follow.",
+      "whenAndWhere": "The tax booth of Capernaum on the Sea of Galilee, circa AD 28.",
+      "family": "Son of Alphaeus; later listed among the Twelve Apostles; author of the First Gospel.",
+      "keyMoments": [
+        "Sat in his tax collector's booth (telonion) collecting transit tolls on fish, grain, and caravans passing through Capernaum.",
+        "Jesus walked by, saw him, and spoke two life-altering words: 'Follow me!'",
+        "Luke 5:28 records his radical response: 'He left everything, and rose up and followed him.' Walked away from immense financial wealth to follow a penniless itinerant Rabbi.",
+        "Hosted a great welcoming banquet in his house for Jesus, inviting a huge crowd of tax collectors and notorious sinners so they could meet his new Master.",
+        "The Pharisees and scribes grumbled to Jesus' disciples: 'Why does your teacher eat and drink with tax collectors and sinners?'",
+        "Jesus overheard and gave His immortal manifesto: 'Those who are healthy have no need of a physician, but those who are sick. But you go and learn what this means: “I desire mercy, and not sacrifice,” for I came not to call the righteous, but sinners to repentance.'",
+        "Appointed one of the Twelve Apostles; used his trained scribal and administrative skills to write the Gospel of Matthew, presenting Jesus as the promised Messianic King.",
+        "Demonstrated profound humility: in his own Gospel, he uniquely refers to himself as 'Matthew the tax collector' (Matthew 10:3), forever remembering the pit from which grace rescued him."
+      ],
+      "strengths": [
+        "Instant, decisive surrender: abandoned a lucrative civil franchise with zero hesitation.",
+        "Evangelistic generosity: immediately used his home, wealth, and network to introduce outcast friends to Jesus.",
+        "Lifelong humility that celebrated God's unmerited mercy."
+      ],
+      "failures": [
+        "Lived years in extortion and complicity with the Roman-backed Herodian regime before meeting Christ."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Matthew 9",
+        "title": "The Call of Matthew and the Great Physician",
+        "verses": [
+          {
+            "number": 9,
+            "text": "As Jesus passed by from there, he saw a man, called Matthew, sitting at the tax collection office. He said to him, “Follow me.” He got up and followed him."
+          },
+          {
+            "number": 10,
+            "text": "As he sat in the house, behold, many tax collectors and sinners came and sat down with Jesus and his disciples."
+          },
+          {
+            "number": 11,
+            "text": "When the Pharisees saw it, they said to his disciples, “Why does your teacher eat with tax collectors and sinners?”"
+          },
+          {
+            "number": 12,
+            "text": "When Jesus heard it, he said to them, “Those who are healthy have no need for a physician, but those who are sick.”"
+          },
+          {
+            "number": 13,
+            "text": "“But you go and learn what this means: ‘I desire mercy, and not sacrifice,’ for I came not to call the righteous, but sinners to repentance.”"
+          }
+        ]
+      },
+      {
+        "reference": "Luke 5",
+        "title": "Levi Leaves Everything and Throws a Great Feast",
+        "verses": [
+          {
+            "number": 27,
+            "text": "After these things he went out, and saw a tax collector named Levi sitting at the tax collection office, and said to him, “Follow me!”"
+          },
+          {
+            "number": 28,
+            "text": "He left everything, and rose up and followed him."
+          },
+          {
+            "number": 29,
+            "text": "Levi made a great feast for him in his house. There was a great crowd of tax collectors and others who were reclining with them."
+          },
+          {
+            "number": 31,
+            "text": "Jesus answered them, “Those who are healthy have no need of a physician, but those who are sick.”"
+          },
+          {
+            "number": 32,
+            "text": "“I have not come to call the righteous, but sinners to repentance.”"
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Jesus Does Not Call the Qualified; He Calls the Sick and Transforms Them by Mercy",
+      "reflection": "In first-century Jewish society, tax collectors were despised above all others. They were barred from the synagogue, disqualified as legal witnesses, and considered irredeemable traitors who grew rich on extortion. Yet when Jesus walked through Capernaum, His eyes rested on Levi's tax booth. Where everyone else saw a greedy crook, Jesus saw a future apostle and Gospel writer! And look at Levi's response: fishermen Peter and John could return to their fishing boats after the resurrection, but once a tax collector walked away from his imperial booth, his lucrative franchise was gone forever. Levi burned his ships! He left everything, got up, and followed Jesus. Then he threw a party so all his fellow outcasts could meet the Great Physician. No past is too dark for the grace of Jesus Christ; His call is: 'Follow Me.'"
+    },
+    "lessons": [
+      {
+        "lesson": "No One Is Beyond the Reach of Sovereign Grace",
+        "verse": "Matthew 9:9",
+        "detail": "Jesus stopped at the tollbooth of a despised extortioner, proving that no person's background disqualifies them from Christ's call.",
+        "question": "Is there someone in your life whom you have mentally written off as too hardened or worldly to ever follow Jesus?"
+      },
+      {
+        "lesson": "Leave the Old Tollbooth Completely Behind",
+        "verse": "Luke 5:28",
+        "detail": "Levi left everything: his ledger books, his coins, and his corrupt career, exchanging temporary wealth for eternal treasure.",
+        "question": "What old habit, compromised compromise, or worldly identity must you leave behind to follow Jesus with an undivided heart?"
+      },
+      {
+        "lesson": "Introduce Your Circle of Friends to Jesus",
+        "verse": "Matthew 9:10; Luke 5:29",
+        "detail": "Matthew immediately opened his home and banquet table to bring his fellow tax collectors and sinner friends into contact with Christ.",
+        "question": "How can you use your home, dinner table, or hospitality to introduce non-believing friends to the Savior?"
+      },
+      {
+        "lesson": "Admit Your Sickness to Receive the Physician",
+        "verse": "Matthew 9:12-13",
+        "detail": "A doctor cannot heal someone who insists they are healthy; Jesus saves only those who admit their moral bankruptcy and need for repentance.",
+        "question": "Do you approach Jesus as a self-righteous critic, or as a broken patient who desperately needs His healing mercy?"
+      }
+    ],
+    "notesPrompt": "Reflect on Matthew leaving his tax booth behind. What 'booth' of security or old compromise have you walked away from—or still need to walk away from—to follow Jesus?",
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple-choice",
+        "question": "What was Matthew (Levi) doing when Jesus spoke to him in Matthew 9:9?",
+        "options": [
+          "Fishing on the Sea of Galilee",
+          "Sitting at the tax collection office (tollbooth)",
+          "Preaching in the synagogue of Capernaum",
+          "Fasting on the mountaintop"
+        ],
+        "correctIndex": 1,
+        "reference": "Matthew 9:9",
+        "explanation": "Matthew 9:9 states that Jesus saw a man called Matthew sitting at the tax collection office and called him."
+      },
+      {
+        "id": 2,
+        "type": "multiple-choice",
+        "question": "According to Luke 5:28, how did Levi respond to Jesus' call of 'Follow me'?",
+        "options": [
+          "He asked for three days to settle his accounts",
+          "He left everything, rose up, and followed Him",
+          "He laughed and gave Jesus a silver coin",
+          "He said he was too busy with Roman business"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 5:28",
+        "explanation": "Luke 5:28 records: 'He left everything, and rose up and followed him.'"
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+        "question": "What did Levi host immediately after choosing to follow Jesus in Luke 5:29?",
+        "options": [
+          "A great debate with the Roman soldiers",
+          "A great feast in his house with a crowd of tax collectors and others",
+          "A private prayer retreat in the desert",
+          "A trip to Jerusalem to see the high priest"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 5:29",
+        "explanation": "Levi made a great feast for Him in his house with a large crowd of tax collectors and others reclining with them."
+      },
+      {
+        "id": 4,
+        "type": "multiple-choice",
+        "question": "What Old Testament verse did Jesus tell the self-righteous Pharisees to go and learn in Matthew 9:13?",
+        "options": [
+          "Eye for eye, and tooth for tooth",
+          "I desire mercy, and not sacrifice (Hosea 6:6)",
+          "The Lord is my shepherd",
+          "Woe to the rebellious city"
+        ],
+        "correctIndex": 1,
+        "reference": "Matthew 9:13",
+        "explanation": "Jesus said: 'Go and learn what this means: “I desire mercy, and not sacrifice,” for I came not to call the righteous, but sinners to repentance.'"
+      },
+      {
+        "id": 5,
+        "type": "true-false",
+        "question": "True or False: Jesus stated that healthy people need a doctor just as much as sick people.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Matthew 9:12",
+        "explanation": "False. Jesus explained: 'Those who are healthy have no need for a physician, but those who are sick.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus, Great Physician of my soul, thank You that You did not come to call the righteous, but sinners to repentance. Thank You that You saw Matthew at his tax booth and You saw me in my brokenness, calling me by name. Deliver me from self-righteous judgment toward others. Give me the courage of Levi to leave every compromise and worldly entitlement behind to follow You. Open my home and my heart in generous hospitality, that my friends and colleagues may encounter the life-changing power of Your saving mercy.",
+      "versePrayerLine": "You desire mercy and not sacrifice, Lord Jesus; heal my sick soul and teach me to follow You with an undivided heart.",
+      "prompt": "Reach out to someone in your social circle who feels far from God and show them the welcoming love and mercy of Jesus today."
+    }
+  },
+  "249": {
+    "day": 249,
+    "character": "The Roman Centurion",
+    "season": "Unmatched Faith: Only Speak the Word, and My Servant Shall Be Healed",
+    "theme": "Deep humility paired with absolute trust in Christ's sovereign word astonishes the Savior.",
+    "memoryVerse": {
+      "reference": "Luke 7:9",
+      "text": "When Jesus heard these things, he marveled at him, and turned and said to the multitude who followed him, “I tell you, I have not found such great faith, no, not in Israel.”",
+      "whyItMatters": "The greatest faith in the Gospels was found not in a temple priest or Pharisee, but in a Gentile soldier who understood that Jesus' spoken word holds absolute authority across all space and disease.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "marveled",
+          "multitude",
+          "great",
+          "faith",
+          "Israel"
+        ],
+        "firstLetters": "W J h t t, h m a h, a t a s t t m w f h, “I t y, I h n f s g f, n, n i I.”"
+      }
+    },
+    "profile": {
+      "title": "The Roman Centurion of Capernaum: The Commander Who Marvelled the Son of God",
+      "who": "A Roman officer commanding one hundred legionnaires in Capernaum who loved the Jewish nation and personally funded the building of their synagogue; when his beloved servant fell paralyzed and near death, he displayed breathtaking humility and unparalleled faith in Christ's spoken authority.",
+      "whenAndWhere": "Capernaum in Galilee, circa AD 28.",
+      "family": "A Roman Gentile military commander in Galilee; deeply attached to his sick bondservant.",
+      "keyMoments": [
+        "Had a bondservant who was dear to him, sick with paralysis and tormented at the point of death.",
+        "Having heard of Jesus, sent Jewish elders begging Jesus to come and save his servant; the elders pleaded earnestly: 'He is worthy for you to do this for him, for he loves our nation, and he built our synagogue himself.'",
+        "Jesus went with them; when He was not far from the house, the centurion sent friends with a message of astonishing humility: 'Lord, don't trouble yourself, for I am not worthy for you to come under my roof. Therefore I didn't even think myself worthy to come to you...'",
+        "Unveiled his understanding of spiritual authority: '...but say the word, and my servant will be healed. For I also am a man placed under authority, having under myself soldiers. I tell this one, “Go!” and he goes; and to another, “Come!” and he comes; and to my servant, “Do this!” and he does it.'",
+        "Understood that just as Caesar's authority backed his military commands, the authority of the Almighty God backed Jesus' words: distance was completely irrelevant to divine power.",
+        "When Jesus heard this, He marveled at him (one of only two times Jesus 'marveled' in the Gospels; the other was at the unbelief of Nazareth in Mark 6:6).",
+        "Turned to the crowd and said: 'I tell you, I have not found such great faith, no, not in Israel!'",
+        "Prophesied that many Gentiles would come from east and west to recline at the banquet table with Abraham, Isaac, and Jacob in the Kingdom of Heaven.",
+        "Those who were sent returned to the house and found the servant completely whole in that very hour."
+      ],
+      "strengths": [
+        "Rare, genuine love for an enslaved subordinate in a brutal Roman military culture.",
+        "Extreme personal humility: felt completely unworthy to have Jesus enter his home.",
+        "Supreme theological insight: recognized that Jesus operates in the absolute authority of the Creator."
+      ],
+      "failures": [
+        "None noted; held up by Christ as the premier model of faith in all Israel."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Luke 7",
+        "title": "The Faith of the Roman Centurion in Capernaum",
+        "verses": [
+          {
+            "number": 2,
+            "text": "A certain centurion's servant, who was dear to him, was sick and at the point of death."
+          },
+          {
+            "number": 6,
+            "text": "Jesus went with them. When he was now not far from the house, the centurion sent friends to him, saying to him, “Lord, don't trouble yourself, for I am not worthy for you to come under my roof.”"
+          },
+          {
+            "number": 7,
+            "text": "“Therefore I didn't even think myself worthy to come to you; but say the word, and my servant will be healed.”"
+          },
+          {
+            "number": 8,
+            "text": "“For I also am a man placed under authority, having under myself soldiers. I tell this one, ‘Go!’ and he goes; and to another, ‘Come!’ and he comes; and to my servant, ‘Do this!’ and he does it.”"
+          },
+          {
+            "number": 9,
+            "text": "When Jesus heard these things, he marveled at him, and turned and said to the multitude who followed him, “I tell you, I have not found such great faith, no, not in Israel.”"
+          },
+          {
+            "number": 10,
+            "text": "Those who were sent, returning to the house, found that the servant who had been sick was well."
+          }
+        ]
+      },
+      {
+        "reference": "Matthew 8",
+        "title": "Gentiles Reclining with Abraham in the Kingdom",
+        "verses": [
+          {
+            "number": 8,
+            "text": "The centurion answered, “Lord, I'm not worthy for you to come under my roof. Just say the word, and my servant will be healed.”"
+          },
+          {
+            "number": 10,
+            "text": "When Jesus heard it, he marveled, and said to those who followed, “Most certainly I tell you, I haven't found so great a faith, not even in Israel.”"
+          },
+          {
+            "number": 11,
+            "text": "“I tell you that many will come from the east and the west, and will sit down with Abraham, Isaac, and Jacob in the Kingdom of Heaven.”"
+          },
+          {
+            "number": 13,
+            "text": "Jesus said to the centurion, “Go your way. As you have believed, so be it done for you.” His servant was healed in that hour."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Great Faith Knows Its Own Unworthiness and Rests Wholly on Christ's Spoken Word",
+      "reflection": "Contrast how the elders of Capernaum described the centurion with how the centurion described himself. The elders told Jesus: 'He is WORTHY that You should do this!' But the centurion sent word to Jesus: 'Lord, I am NOT worthy that You should come under my roof!' True faith is never arrogant, entitled, or demanding; it is soaked in profound humility. And notice the brilliance of this soldier's faith: he understood chain of command. He said: 'I am a man under authority, and I have soldiers under me; I say Go, and he goes.' He realized: Jesus is the Commander-in-Chief of the entire universe! Sickness, paralysis, distance, and fever are all subordinates under Christ's absolute command. Jesus does not even need to be physically in the room; He simply needs to speak the word! When you combine low thoughts of yourself with high, exalted thoughts of Jesus' authority, you possess the kind of faith that causes the Savior to marvel."
+    },
+    "lessons": [
+      {
+        "lesson": "True Greatness Walks in Deep Humility",
+        "verse": "Luke 7:6-7",
+        "detail": "A powerful Roman commander did not consider himself worthy even to stand in Jesus' presence or invite Him under his roof.",
+        "question": "When you pray, do you approach God with an attitude of entitlement, or with reverent, grateful humility?"
+      },
+      {
+        "lesson": "Christ's Word Transcends Distance and Space",
+        "verse": "Matthew 8:8",
+        "detail": "'Just say the word, and my servant will be healed.' Jesus is not limited by physical proximity; His spoken word operates anywhere.",
+        "question": "Do you believe Jesus can intervene in the life of a loved one thousands of miles away simply through Your prayers?"
+      },
+      {
+        "lesson": "Understand Spiritual Chain of Command",
+        "verse": "Luke 7:8",
+        "detail": "Because Jesus was completely under the Father's authority, all spiritual and physical realities were subject to His command.",
+        "question": "Is your life fully surrendered under Christ's lordship, so that His authority can flow freely through you?"
+      },
+      {
+        "lesson": "Faith Causes Jesus to Marvel",
+        "verse": "Luke 7:9",
+        "detail": "Jesus was astonished not by Roman military splendor, but by unreserved trust in His word from an unexpected Gentile.",
+        "question": "Does your response to God's promises in Scripture bring joy and astonishment to the heart of Jesus?"
+      }
+    ],
+    "notesPrompt": "Reflect on the centurion's prayer: 'Lord, I am not worthy... just say the word.' What situation in your life or family requires a single spoken word of authority from Jesus today?",
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple-choice",
+        "question": "What reason did the Jewish elders give to Jesus as to why the centurion was worthy of help in Luke 7:4-5?",
+        "options": [
+          "He was related to King Herod",
+          "He loves our nation, and he built our synagogue himself",
+          "He had arrested fifty Roman criminals",
+          "He gave them a thousand pieces of silver"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 7:4-5",
+        "explanation": "The elders pleaded: 'He is worthy for you to do this for him, for he loves our nation, and he built our synagogue himself.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple-choice",
+        "question": "What message did the centurion send to Jesus as He was approaching his house in Luke 7:6-7?",
+        "options": [
+          "Bring twelve more disciples with You",
+          "Lord, don't trouble yourself, for I am not worthy for you to come under my roof; but say the word, and my servant will be healed",
+          "Wait outside until morning",
+          "The servant has already died"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 7:6-7",
+        "explanation": "The centurion said: 'Lord, don't trouble yourself, for I am not worthy for you to come under my roof... but say the word, and my servant will be healed.'"
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+        "question": "How did Jesus react when He heard the centurion's words in Luke 7:9?",
+        "options": [
+          "He was angry at his delay",
+          "He marveled at him and declared He had not found such great faith, no, not in Israel",
+          "He commanded the crowds to silence the messenger",
+          "He walked away toward Jerusalem"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 7:9",
+        "explanation": "Jesus marveled at him and told the crowd: 'I tell you, I have not found such great faith, no, not in Israel.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple-choice",
+        "question": "What prophecy did Jesus make about the nations in Matthew 8:11?",
+        "options": [
+          "That Rome would conquer the ends of the earth",
+          "That many will come from east and west to sit down with Abraham, Isaac, and Jacob in the Kingdom of Heaven",
+          "That the temple would stand for ten thousand years",
+          "That all soldiers would leave their armies"
+        ],
+        "correctIndex": 1,
+        "reference": "Matthew 8:11",
+        "explanation": "Jesus prophesied: 'I tell you that many will come from the east and the west, and will sit down with Abraham, Isaac, and Jacob in the Kingdom of Heaven.'"
+      },
+      {
+        "id": 5,
+        "type": "true-false",
+        "question": "True or False: According to Luke 7:10, when the messengers returned to the house, the servant was still desperately sick.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 7:10",
+        "explanation": "False. Those who were sent returned to the house and found the servant who had been sick was completely well."
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, King of kings and Lord of hosts, all authority in heaven and on earth has been placed into Your hands. Like the Roman centurion, I confess with my whole heart: I am not worthy that You should come under my roof, nor am I worthy of the least of Your mercies. Yet You love me with an everlasting love! I believe that You have absolute authority over every sickness, every circumstance, and every distance. Just speak the word, Lord Jesus, and my heart shall be healed. Help me to trust Your spoken Word with unshakable, childlike faith.",
+      "versePrayerLine": "Lord, I am not worthy that You should come under my roof; just say the word, and Your servant shall be healed.",
+      "prompt": "Identify a situation where you feel powerless, and pray with the centurion's faith: 'Lord, just say the word.'"
+    }
+  },
+  "250": {
+    "day": 250,
+    "character": "The Bleeding Woman & Jairus",
+    "season": "Touching the Hem of His Robe: Daughter, Your Faith Has Made You Well",
+    "theme": "Desperate faith touches Jesus in the pressing crowd, finding tender identity as a beloved daughter.",
+    "memoryVerse": {
+      "reference": "Mark 5:34",
+      "text": "He said to her, “Daughter, your faith has made you well. Go in peace, and be cured of your disease.”",
+      "whyItMatters": "While the curious crowd bumped against Jesus without effect, one touch of desperate faith drew forth His power, receiving not merely physical healing but the royal title 'Daughter'.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "Daughter",
+          "faith",
+          "well",
+          "peace",
+          "cured"
+        ],
+        "firstLetters": "H s t h, “D, y f h m y w. G i p, a b c o y d.”"
+      }
+    },
+    "profile": {
+      "title": "The Suffering Woman and Jairus the Synagogue Ruler: Twin Miracles of Desperate Faith",
+      "who": "An anonymous woman who had suffered chronic hemorrhaging for twelve years, bankrupt from doctors who made her worse, who pressed through a suffocating crowd to touch the hem of Jesus' garment; interwoven with Jairus, an esteemed synagogue ruler whose twelve-year-old daughter lay dying.",
+      "whenAndWhere": "Capernaum on the Sea of Galilee, circa AD 28.",
+      "family": "Jairus, ruler of the synagogue, father of a dying 12-year-old daughter; the woman was an isolated social outcast made ceremonially unclean for twelve years under Levitical law (Leviticus 15:25-30).",
+      "keyMoments": [
+        "Jairus, a prominent synagogue ruler, fell at Jesus' feet, begging Him earnestly: 'My little daughter is at the point of death. Please come and lay your hands on her, that she may be made healthy, and live.'",
+        "As Jesus went with him, a massive multitude pressed against Him.",
+        "A woman with a discharge of blood for twelve years had suffered much under many physicians, spent all her savings, and was no better, but grew worse.",
+        "Having heard the things concerning Jesus, came in the crowd behind Him and said in her heart: 'If I just touch his clothes, I will be made well.'",
+        "Reached out and touched the blue tassel (tzitzit) of His garment; immediately the fountain of her blood was dried up, and she felt in her body that she was healed of her plague.",
+        "Jesus immediately perceived that power had gone out from Him; turned around in the crowd and asked: 'Who touched my clothes?'",
+        "The disciples answered bewildered: 'You see the multitude pressing against you, and you say, “Who touched me?”'",
+        "The woman, fearing and trembling, knowing what had been done to her, came and fell down before Him, and told Him all the truth.",
+        "Jesus spoke the sweetest words in the Gospels: 'Daughter, your faith has made you well. Go in peace, and be cured of your disease.'",
+        "While He was still speaking, messengers came from Jairus's house: 'Your daughter has died. Why trouble the Teacher any further?'",
+        "Jesus overheard and told Jairus: 'Don't be afraid, only believe!' Went into the home, took the dead girl by the hand, said 'Talitha cumi' (Little girl, arise!), and she immediately arose and walked."
+      ],
+      "strengths": [
+        "The woman's audacious, overcoming faith that refused to let social stigma or legal uncleanness stop her from reaching Christ.",
+        "Jairus's humility: a synagogue official falling in the dirt before an unsanctioned Rabbi.",
+        "Both demonstrated faith that looked exclusively to Jesus for salvation."
+      ],
+      "failures": [
+        "Jairus's friends succumbed to despair the moment physical death occurred."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Mark 5",
+        "title": "The Woman with the Issue of Blood and Jairus's Daughter",
+        "verses": [
+          {
+            "number": 25,
+            "text": "A certain woman, who had an issue of blood for twelve years,"
+          },
+          {
+            "number": 26,
+            "text": "and had suffered many things by many physicians, and had spent all that she had, and was no better, but rather grew worse,"
+          },
+          {
+            "number": 27,
+            "text": "having heard the things concerning Jesus, came up behind him in the crowd, and touched his clothes."
+          },
+          {
+            "number": 28,
+            "text": "For she said, “If I just touch his clothes, I will be made well.”"
+          },
+          {
+            "number": 29,
+            "text": "Immediately the flow of her blood was dried up, and she felt in her body that she was healed of her affliction."
+          },
+          {
+            "number": 30,
+            "text": "Immediately Jesus, perceiving in himself that the power had gone out from him, turned around in the crowd, and asked, “Who touched my clothes?”"
+          },
+          {
+            "number": 34,
+            "text": "He said to her, “Daughter, your faith has made you well. Go in peace, and be cured of your disease.”"
+          },
+          {
+            "number": 36,
+            "text": "But Jesus, hearing the message spoken, said to the ruler of the synagogue, “Don't be afraid, only believe.”"
+          },
+          {
+            "number": 41,
+            "text": "Taking the child by the hand, he said to her, “Talitha cumi!” which means, being interpreted, “Girl, I tell you, get up!”"
+          },
+          {
+            "number": 42,
+            "text": "Immediately the girl rose up and walked... They were overcome with great amazement."
+          }
+        ]
+      },
+      {
+        "reference": "Luke 8",
+        "title": "Power Departing from Jesus in the Pressing Crowd",
+        "verses": [
+          {
+            "number": 43,
+            "text": "A woman who had a flow of blood for twelve years, who had spent all her living on physicians, and could not be healed by any,"
+          },
+          {
+            "number": 44,
+            "text": "came behind him, and touched the fringe of his cloak, and immediately the flow of her blood stopped."
+          },
+          {
+            "number": 46,
+            "text": "Jesus said, “Someone did touch me, for I perceived that power has gone out of me.”"
+          },
+          {
+            "number": 48,
+            "text": "He said to her, “Daughter, cheer up. Your faith has made you well. Go in peace.”"
+          },
+          {
+            "number": 50,
+            "text": "But Jesus hearing it, answered him, “Don't be afraid. Only believe, and she will be healed.”"
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "A Single Touch of Faith Draws Living Power from Christ Even in a Pressing Crowd",
+      "reflection": "Look at the profound contrast in this story. Hundreds of people were jostling, shoving, and bumping against Jesus as He walked through the narrow streets of Capernaum. Yet not a single drop of healing virtue flowed to the curious crowd. But when one trembling, bleeding woman reached out her finger and touched the blue tassel of His robe in faith, Jesus stopped dead in His tracks! 'Who touched Me?' Why did Jesus stop? She was already healed in her body; she could have slipped away into the crowd. But Jesus wanted to give her far more than physical healing: He wanted to restore her soul! She fell at His feet trembling, and Jesus spoke a word He never used for any other individual in the Gospels: 'DAUGHTER.' For twelve years she had been an untouchable outcast; now she was a beloved daughter of the King! And to Jairus standing by in panic, Jesus spoke the eternal lifeline: 'Don't be afraid, only believe.'"
+    },
+    "lessons": [
+      {
+        "lesson": "There Is a Difference Between Pressing and Touching",
+        "verse": "Mark 5:31; Luke 8:45-46",
+        "detail": "Many people bump casually against Jesus in church services and religious routines; only the reach of desperate faith draws forth His divine power.",
+        "question": "Are you merely bumping against Jesus through religious habit, or reaching out to touch Him in personal, desperate faith?"
+      },
+      {
+        "lesson": "Earthly Solutions Run Dry; Christ Never Fails",
+        "verse": "Mark 5:26",
+        "detail": "Twelve years of worldly physicians took all her money and left her worse; one second with Jesus dried up the fountain of her affliction.",
+        "question": "Are you exhausting your resources on worldly remedies for wounds that only Christ can heal?"
+      },
+      {
+        "lesson": "From Outcast to Beloved 'Daughter'",
+        "verse": "Mark 5:34",
+        "detail": "Jesus did not merely cure her disease; He gave her a new identity, addressing her as 'Daughter' and sending her in Shalom peace.",
+        "question": "Do you know yourself as a cherished son or daughter of God, secure in His tender family love?"
+      },
+      {
+        "lesson": "Don't Be Afraid, Only Believe",
+        "verse": "Mark 5:36",
+        "detail": "When human reports say 'It's over, the child is dead,' Jesus says: 'Don't be afraid, only believe.' His power begins where human hope ends.",
+        "question": "What 'dead' dream or impossible situation in your life needs to hear Jesus whisper: 'Don't be afraid, only believe'?"
+      }
+    ],
+    "notesPrompt": "Reflect on the woman's bold reach through the crowd: 'If I just touch His clothes, I will be made well.' What burden, shame, or long-standing struggle are you bringing to the hem of Jesus' garment today?",
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple-choice",
+        "question": "How long had the woman been suffering from her flow of blood in Mark 5:25?",
+        "options": [
+          "Seven years",
+          "Twelve years",
+          "Thirty-eight years",
+          "Three months"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 5:25",
+        "explanation": "Mark 5:25 notes: 'A certain woman, who had an issue of blood for twelve years...'"
+      },
+      {
+        "id": 2,
+        "type": "multiple-choice",
+        "question": "What happened to the woman's condition after seeing many physicians and spending all she had in Mark 5:26?",
+        "options": [
+          "She was completely cured",
+          "She was no better, but rather grew worse",
+          "She became a physician herself",
+          "She inherited more wealth"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 5:26",
+        "explanation": "She had suffered many things of many physicians, spent all she had, and was no better, but rather grew worse."
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+        "question": "What question did Jesus ask immediately after the woman touched the hem of His garment in Mark 5:30?",
+        "options": [
+          "Where is Jairus's house?",
+          "Who touched my clothes?",
+          "Why are you weeping?",
+          "Who brought this money?"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 5:30",
+        "explanation": "Jesus, perceiving that power had gone out from Him, turned around in the crowd and asked: 'Who touched my clothes?'"
+      },
+      {
+        "id": 4,
+        "type": "multiple-choice",
+        "question": "What tender title did Jesus use when speaking to the healed woman in Mark 5:34?",
+        "options": [
+          "Woman of Capernaum",
+          "Daughter",
+          "Sister of Abraham",
+          "Servant of God"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 5:34",
+        "explanation": "Jesus said to her: 'Daughter, your faith has made you well. Go in peace, and be cured of your disease.'"
+      },
+      {
+        "id": 5,
+        "type": "true-false",
+        "question": "True or False: When messengers told Jairus that his daughter was dead, Jesus told him to give up and go home.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 5:36",
+        "explanation": "False. Jesus told Jairus: 'Don't be afraid, only believe.' He then went to the house and raised the girl from the dead."
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, Fountain of all life and healing, I press through the noisy crowds of distractions, doubts, and fears today to touch the hem of Your garment in faith. You know the afflictions that have drained my strength and the areas where earthly remedies have failed. Release Your healing power into my body, my mind, and my spirit. Speak to my trembling heart that tender word: 'Daughter, Son, your faith has made you well; go in peace.' And when bad news whispers that all hope is lost, anchor my soul in Your command: 'Don't be afraid, only believe!'",
+      "versePrayerLine": "Daughter, your faith has made you well; go in peace and be healed of your disease by the power of Jesus.",
+      "prompt": "Reach out in faith right now and lay hold of Jesus for an area of health, relationships, or peace where you need His touch."
+    }
+  },
+  "251": {
+    "day": 251,
+    "character": "Jesus",
+    "season": "Calming the Sea: Peace, Be Still",
+    "theme": "The sovereign Creator commands the wind and sea with a whisper, imparting His supernatural calm to fearful hearts.",
+    "memoryVerse": {
+      "reference": "Mark 4:39",
+      "text": "He awoke, and rebuked the wind, and said to the sea, “Peace! Be still!” The wind ceased, and there was a great calm.",
+      "whyItMatters": "The storms that terrify experienced sailors are nothing to the Creator who sleeps peacefully on a cushion; a single word from Jesus commands the fiercest tempest into perfect calm.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "rebuked",
+          "wind",
+          "Peace",
+          "ceased",
+          "calm"
+        ],
+        "firstLetters": "H a, a r t w, a s t t s, “P! B s!” T w c, a t w a g c."
+      }
+    },
+    "profile": {
+      "title": "Jesus the Lord of Creation: The Voice That Muzzled the Tempest",
+      "who": "After an exhausting day of parabolic teaching by the Sea of Galilee, Jesus commanded His disciples to cross to the other side; while He slept exhausted on a steersman's cushion in the stern, a ferocious hurricane-force squall struck, threatening to sink the boat until Jesus arose and commanded the elements into glassy stillness.",
+      "whenAndWhere": "The Sea of Galilee (Lake Kinneret), circa AD 28.",
+      "family": "The Creator of heaven and earth traveling in a fishing boat with His disciples.",
+      "keyMoments": [
+        "Having taught the crowds all day from a boat, said to His disciples at evening: 'Let's go over to the other side.'",
+        "A furious storm of wind (lailaps) swooped down from the Golan Heights, and the waves beat into the boat, so that it was already filling with water.",
+        "Experienced fishermen (Peter, Andrew, James, John) panicked as the vessel took on water and prepared to sink.",
+        "Jesus was in the stern, sound asleep on a cushion—demonstrating both His genuine human exhaustion and His complete, tranquil trust in the Father.",
+        "The terrified disciples woke Him with an accusatory cry: 'Teacher, don't you care that we are dying?!'",
+        "Jesus awoke, stood up in the rocking boat, rebuked the raging wind, and commanded the boiling sea: 'Peace! Be still! (Siopa, pephimoso: Be silent! Be muzzled!)'",
+        "Instantly the howling wind ceased, the violently churning waters became like glass, and there was a great calm (galene megale).",
+        "Jesus turned to His trembling disciples: 'Why are you so afraid? How is it that you have no faith?'",
+        "They were struck with a far greater, holy terror (megan phobon) and said to one another: 'Who then is this, that even the wind and the sea obey him?'",
+        "Fulfilled Psalm 107:29: 'He makes the storm a calm, so that its waves are still. Then they are glad because it is calm; so he brings them to their desired haven.'"
+      ],
+      "strengths": [
+        "Absolute sovereign authority over raw elemental nature.",
+        "Perfect inner peace that slept through a howling tempest.",
+        "Pastoral correction that shifted His disciples' fear from the natural storm to holy awe of the Creator."
+      ],
+      "failures": [
+        "None; the Master of winds and waves."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Mark 4",
+        "title": "Jesus Rebukes the Wind and Calms the Sea",
+        "verses": [
+          {
+            "number": 37,
+            "text": "A big wind storm arose, and the waves beat into the boat, so much that the boat was already filled."
+          },
+          {
+            "number": 38,
+            "text": "He himself was in the stern, asleep on the cushion, and they woke him up, and told him, “Teacher, don't you care that we are dying?”"
+          },
+          {
+            "number": 39,
+            "text": "He awoke, and rebuked the wind, and said to the sea, “Peace! Be still!” The wind ceased, and there was a great calm."
+          },
+          {
+            "number": 40,
+            "text": "He said to them, “Why are you so afraid? How is it that you have no faith?”"
+          },
+          {
+            "number": 41,
+            "text": "They were greatly afraid, and said to one another, “Who then is this, that even the wind and the sea obey him?”"
+          }
+        ]
+      },
+      {
+        "reference": "Psalm 107",
+        "title": "Yahweh Calms the Storm and Brings to the Haven",
+        "verses": [
+          {
+            "number": 28,
+            "text": "Then they cry to Yahweh in their trouble, and he brings them out of their distress."
+          },
+          {
+            "number": 29,
+            "text": "He makes the storm a calm, so that its waves are still."
+          },
+          {
+            "number": 30,
+            "text": "Then they are glad because it is calm, so he brings them to their desired haven."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "The Storm Cannot Sink the Boat Where the Lord of Creation Rests",
+      "reflection": "Notice the disciples' panicked cry: 'Teacher, don't You care that we are dying?' How often have we hurled that same accusation at God in our storms! When bills pile up, illness strikes, or relationships collapse, fear whispers: 'God is asleep; He doesn't care.' But remember: Jesus was in the boat with them! If the boat sank, Jesus would have sank. The boat carrying the Creator of the universe could never go down in the Sea of Galilee! Jesus had already said before they set sail: 'Let us go over to the OTHER SIDE'—He did not say, 'Let us go to the bottom of the lake!' His Word was their guarantee. When Jesus stood up and whispered, 'Peace, be still,' the ferocious winds obeyed Him like a trained puppy. Whatever storm is battering your life today, Jesus is in your boat. Rest in His peace; His word will bring you safely to your desired haven."
+    },
+    "lessons": [
+      {
+        "lesson": "Storms Happen Even in Obedience to Jesus",
+        "verse": "Mark 4:35-37",
+        "detail": "The disciples were not in the storm because they ran away like Jonah; they were in the tempest because they obeyed Jesus' command to cross the lake.",
+        "question": "Are you facing unexpected storms while trying to be faithful to God's calling? Remember that obedience does not guarantee zero headwinds."
+      },
+      {
+        "lesson": "Don't Accuse God of Not Caring",
+        "verse": "Mark 4:38",
+        "detail": "The disciples interpreted Jesus' sleep as indifference; God's apparent silence is never a sign of unconcern, but an invitation to trust.",
+        "question": "When God seems silent in your trials, do you doubt His love or lean into His sovereign goodness?"
+      },
+      {
+        "lesson": "Trust the Destination Christ Decreed",
+        "verse": "Mark 4:35",
+        "detail": "Jesus said, 'Let us go over to the other side.' When Christ promises an arrival, no storm in hell can abort the journey.",
+        "question": "What promise of God can you hold onto right now to remind yourself that you are going to make it through?"
+      },
+      {
+        "lesson": "From Terror of the Storm to Awe of the Savior",
+        "verse": "Mark 4:41",
+        "detail": "The disciples shifted from fearing the drowning waves to experiencing holy awe of the Creator who commands the sea.",
+        "question": "Does the greatness of Jesus inspire a holy reverence in your heart that dwarfs every earthly fear?"
+      }
+    ],
+    "notesPrompt": "What 'storm' of anxiety, conflict, or uncertainty is currently rocking your boat? Write out Jesus' words: 'Peace! Be still!' and speak them over your situation in faith.",
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple-choice",
+        "question": "What was Jesus doing in the stern of the boat when the furious squall struck in Mark 4:38?",
+        "options": [
+          "Bailing out water with a bucket",
+          "Asleep on the cushion",
+          "Steering the rudder",
+          "Singing a psalm of David"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 4:38",
+        "explanation": "Mark 4:38 states: 'He himself was in the stern, asleep on the cushion.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple-choice",
+        "question": "What frantic accusation did the terrified disciples shout when they woke Jesus?",
+        "options": [
+          "Take the oars quickly!",
+          "Teacher, don't you care that we are dying?",
+          "Where are the angels?",
+          "Why did You bring us here?"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 4:38",
+        "explanation": "They woke Him up and told Him: 'Teacher, don't you care that we are dying?'"
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+        "question": "What command did Jesus speak to the raging sea in Mark 4:39?",
+        "options": [
+          "Depart to the Jordan",
+          "Peace! Be still!",
+          "Let the dry ground appear",
+          "Halt your thunder"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 4:39",
+        "explanation": "Jesus rebuked the wind and said to the sea: 'Peace! Be still!' and there was a great calm."
+      },
+      {
+        "id": 4,
+        "type": "multiple-choice",
+        "question": "What question did the disciples ask one another in holy awe in Mark 4:41?",
+        "options": [
+          "Will we make it to shore?",
+          "Who then is this, that even the wind and the sea obey him?",
+          "Should we sell our boat?",
+          "Is this Elijah the prophet?"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 4:41",
+        "explanation": "They were greatly afraid and said: 'Who then is this, that even the wind and the sea obey him?'"
+      },
+      {
+        "id": 5,
+        "type": "true-false",
+        "question": "True or False: According to Psalm 107:29, Yahweh makes the storm a calm so that its waves are still.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 0,
+        "reference": "Psalm 107:29",
+        "explanation": "True. Psalm 107:29 confirms: 'He makes the storm a calm, so that its waves are still.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, Creator of the stars and Master of the seas, You hold the raging winds in Your fists! Forgive me for the times I have panicked in the storms of life, crying out in unbelief: 'Lord, don't You care that I am perishing?' Thank You that You are in the boat of my life, and where You are, I can never sink! Stand up in the midst of my churning anxieties today. Speak Your sovereign word of power over my mind and circumstances: 'Peace! Be still!' Replace my frantic terror with holy awe, and lead me safely to Your desired haven.",
+      "versePrayerLine": "Peace! Be still! Speak Your calm over my troubled heart, Lord Jesus, for even the winds and waves obey Your voice.",
+      "prompt": "Take three deep breaths, visualizing Jesus standing in the boat of your life, and repeat His words: 'Peace, be still.'"
+    }
+  },
+  "252": {
+    "day": 252,
+    "character": "The Gerasene Demoniac",
+    "season": "Clothed and in His Right Mind: The Missionary of the Decapolis",
+    "theme": "Christ's authority shatters demonic bondage, commissioning the newly delivered to testify to their household.",
+    "memoryVerse": {
+      "reference": "Mark 5:19",
+      "text": "He didn't allow him, but said to him, “Go to your house, to your friends, and tell them what great things the Lord has done for you, and how he had mercy on you.”",
+      "whyItMatters": "No human soul is too deeply bound or shattered for Christ to liberate; the highest calling of the delivered is to return home and testify of God's great mercy.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "house",
+          "friends",
+          "great",
+          "mercy",
+          "done"
+        ],
+        "firstLetters": "H d a h, b s t h, “G t y h, t y f, a t t w g t t L h d f y, a h h h m o y.”"
+      }
+    },
+    "profile": {
+      "title": "The Man of the Tombs: From Demonic Legion to Apostle of the Ten Cities",
+      "who": "A tormented Gentile man living in the tombs of the Gerasenes (Gadarenes) across the Sea of Galilee, possessed by a legion of demons, naked, screaming day and night, cutting himself with stones, and breaking iron chains, whom Jesus delivered with a word and commissioned as His first missionary to the Decapolis.",
+      "whenAndWhere": "The country of the Gerasenes (eastern shore of Sea of Galilee), circa AD 28.",
+      "family": "A restored Gentile citizen with a home and friends in the Decapolis.",
+      "keyMoments": [
+        "Lived among the rocky burial caves; could not be bound even with chains, having wrenched shackles apart; constantly night and day in the tombs and mountains screaming and cutting himself with sharp rocks.",
+        "Seeing Jesus from afar, ran and fell on his knees before Him; the demonic legion shrieked through his vocal cords: 'What have I to do with you, Jesus, you Son of the Most High God? I adjure you by God, don't torment me!'",
+        "Jesus commanded the unclean spirit to come out; asked his name: 'My name is Legion, for we are many.'",
+        "The demons begged not to be sent out of the region or into the abyss, pleading to enter a herd of about two thousand pigs feeding on the mountainside.",
+        "Jesus gave them permission; the unclean spirits entered the swine, and the herd rushed violently down the steep cliff into the sea and drowned in the waters.",
+        "Herdsmen fled and told it in the city and countryside; the citizens came to see what had happened.",
+        "Found the man who had been possessed by the legion sitting at the feet of Jesus, clothed, and in his right mind; and they were terrified!",
+        "Value system exposed: the citizens, distressed over the loss of their lucrative swine business, begged Jesus to leave their region.",
+        "As Jesus was stepping into the boat, the delivered man begged to go with Him; but Jesus didn't permit him, saying: 'Go to your house, to your friends, and tell them what great things the Lord has done for you, and how he had mercy on you.'",
+        "The man obeyed, proclaiming in all the Decapolis (Ten Cities) how much Jesus had done for him; and all men marveled."
+      ],
+      "strengths": [
+        "Complete, radical transformation: from self-destructive madness to tranquil sanity sitting at Jesus' feet.",
+        "Deep desire for intimate discipleship with Jesus.",
+        "Immediate, obedient evangelism: carried the testimony of Christ throughout ten Gentile cities."
+      ],
+      "failures": [
+        "Had been completely overcome and pulverized by demonic powers prior to Christ's arrival."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Mark 5",
+        "title": "Jesus Delivers the Legion at the Tombs of Gadara",
+        "verses": [
+          {
+            "number": 2,
+            "text": "When he had come out of the boat, immediately a man out of the tombs with an unclean spirit met him,"
+          },
+          {
+            "number": 5,
+            "text": "Always, night and day, in the tombs and in the mountains, he was crying out, and cutting himself with stones."
+          },
+          {
+            "number": 6,
+            "text": "When he saw Jesus from afar, he ran and bowed down to him,"
+          },
+          {
+            "number": 9,
+            "text": "He asked him, “What is your name?” He said to him, “My name is Legion, for we are many.”"
+          },
+          {
+            "number": 15,
+            "text": "They came to Jesus, and saw him who had been possessed by demons sitting, clothed, and in his right mind, even him who had the legion; and they were afraid."
+          },
+          {
+            "number": 19,
+            "text": "He didn't allow him, but said to him, “Go to your house, to your friends, and tell them what great things the Lord has done for you, and how he had mercy on you.”"
+          },
+          {
+            "number": 20,
+            "text": "He went his way, and began to proclaim in Decapolis how great things Jesus had done for him, and everyone marveled."
+          }
+        ]
+      },
+      {
+        "reference": "Luke 8",
+        "title": "Sitting at Jesus' Feet Clothed and in His Right Mind",
+        "verses": [
+          {
+            "number": 27,
+            "text": "When he stepped out onto the land, there met him a certain man out of the city, who had demons for a long time. He wore no clothes, and didn't live in a house, but in the tombs."
+          },
+          {
+            "number": 35,
+            "text": "The people went out to see what had happened. They came to Jesus, and found the man from whom the demons had gone out, sitting at Jesus' feet, clothed and in his right mind; and they were afraid."
+          },
+          {
+            "number": 38,
+            "text": "But the man from whom the demons had gone out begged him that he might go with him, but Jesus sent him away, saying,"
+          },
+          {
+            "number": 39,
+            "text": "“Return to your house, and declare what great things God has done for you.” He went his way, proclaiming throughout the whole city what great things Jesus had done for him."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "No Pit Is Too Deep for Christ's Delivering Power; Go Home and Tell of His Mercy",
+      "reflection": "Look at the condition of this man before Jesus arrived: naked, bleeding from self-inflicted stone wounds, isolated among skeletons in the tombs, screaming in agony night and day. Society had given up on him, chaining him only to watch him break the iron links. Human rehabilitation was utterly helpless. But when Jesus stepped ashore, the legion of demons fell trembling on their faces before the Son of the Most High God! In a single moment of sovereign deliverance, the screaming maniac became a peaceful worshiper: 'sitting at the feet of Jesus, clothed, and in his right mind.' What a breathtaking picture of salvation! And when the man begged to sail away in the boat with Jesus, Jesus gave him a higher assignment: 'Go to your house, to your friends, and tell them what great things the Lord has done for you!' You don't need a theology degree to be a missionary; you just need to tell your friends how Jesus had mercy on you."
+    },
+    "lessons": [
+      {
+        "lesson": "No Soul Is Beyond the Delivering Power of Jesus",
+        "verse": "Mark 5:5, 15",
+        "detail": "Even a man possessed by thousands of demons and driven to self-destruction was instantly restored to perfect peace and sanity by Christ.",
+        "question": "Do you believe Jesus can shatter deep addictions, mental torment, and spiritual bondage in people you love?"
+      },
+      {
+        "lesson": "Worldly Values Prize Swine Over Human Souls",
+        "verse": "Mark 5:17",
+        "detail": "The townspeople cared more about their lost herd of pigs than a delivered, restored human being, begging Jesus to leave their territory.",
+        "question": "Do financial interests or material possessions ever blind you to the supreme value of an eternal human soul?"
+      },
+      {
+        "lesson": "Your Mission Field Begins in Your Own Home",
+        "verse": "Mark 5:19",
+        "detail": "Jesus told the delivered man to start by going home to his family and friends to share God's mercy.",
+        "question": "Have you shared with your family and close friends the story of what great things Jesus has done in your life?"
+      },
+      {
+        "lesson": "The Power of a Personal Testimony",
+        "verse": "Mark 5:20",
+        "detail": "The man's simple, honest testimony of Christ's mercy caused the entire region of the Decapolis (ten cities) to marvel.",
+        "question": "Can you summarize your personal testimony into a simple, compelling story of God's mercy to share with an unbeliever?"
+      }
+    ],
+    "notesPrompt": "Write down your personal testimony in three sentences: 1) What my life was like before Jesus, 2) How Jesus met and delivered me, 3) What great things He has done for me since.",
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple-choice",
+        "question": "Where did the demon-possessed man live before Jesus met him in Mark 5:2-3?",
+        "options": [
+          "In a palace in Tiberias",
+          "Among the tombs in the mountains",
+          "On a fishing boat on the lake",
+          "In a synagogue in Capernaum"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 5:2-3",
+        "explanation": "Mark 5:2-3 states that the man with an unclean spirit had his dwelling among the tombs."
+      },
+      {
+        "id": 2,
+        "type": "multiple-choice",
+        "question": "What name did the unclean spirits give when Jesus asked in Mark 5:9?",
+        "options": [
+          "Beelzebub",
+          "Legion, for we are many",
+          "Molech",
+          "Mammon"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 5:9",
+        "explanation": "He answered: 'My name is Legion, for we are many.'"
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+        "question": "How did the townspeople find the man after Jesus had cast out the demons in Mark 5:15?",
+        "options": [
+          "Still screaming and breaking chains",
+          "Sitting at the feet of Jesus, clothed, and in his right mind",
+          "Running away toward Jerusalem",
+          "Fast asleep in the tombs"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 5:15",
+        "explanation": "They saw him who had been possessed sitting, clothed, and in his right mind."
+      },
+      {
+        "id": 4,
+        "type": "multiple-choice",
+        "question": "What commission did Jesus give the delivered man when he begged to go with Him in Mark 5:19?",
+        "options": [
+          "Build a monastery in the desert",
+          "Go to your house, to your friends, and tell them what great things the Lord has done for you, and how he had mercy on you",
+          "Become the mayor of the Decapolis",
+          "Fast for forty days in the tombs"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 5:19",
+        "explanation": "Jesus said: 'Go to your house, to your friends, and tell them what great things the Lord has done for you, and how he had mercy on you.'"
+      },
+      {
+        "id": 5,
+        "type": "true-false",
+        "question": "True or False: According to Mark 5:20, the delivered man went into the Decapolis and everyone ignored him completely.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 5:20",
+        "explanation": "False. He proclaimed in the Decapolis how great things Jesus had done for him, and everyone marveled."
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, Son of the Most High God, all the demonic powers of darkness tremble and bow at Your feet! Thank You that You crossed the stormy sea to deliver a single, forgotten outcast in the tombs. Thank You that You have delivered my soul from the power of darkness, clothing me in Your righteousness and restoring me to my right mind. Forgive me when I keep silent about Your salvation. Send me to my home, my family, and my friends today to declare the great things You have done and the boundless mercy You have poured upon my life.",
+      "versePrayerLine": "I will go to my home and tell what great things the Lord has done for me, and how He had mercy on my soul.",
+      "prompt": "Share a brief testimony of God's mercy with a family member or friend today, declaring what Jesus has done for you."
+    }
+  },
+  "253": {
+    "day": 253,
+    "character": "The Syrophoenician Woman",
+    "season": "Great Is Your Faith: Even the Dogs Eat the Crumbs",
+    "theme": "Unyielding, humble faith perseveres through seeming delays to claim deliverance for a child.",
+    "memoryVerse": {
+      "reference": "Matthew 15:28",
+      "text": "Then Jesus answered her, “Woman, great is your faith! Be it done to you even as you desire.” And her daughter was healed from that hour.",
+      "whyItMatters": "Persistent faith refuses to be discouraged by silence or seeming obstacles, taking low place before Christ and holding fast to His boundless goodness.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "Woman",
+          "great",
+          "faith",
+          "desire",
+          "healed"
+        ],
+        "firstLetters": "T J a h, “W, g i y f! B i d t y e a y d.” A h d w h f t h."
+      }
+    },
+    "profile": {
+      "title": "The Syrophoenician (Canaanite) Mother: The Tenacious Faith That Claimed Crumbs from the Table",
+      "who": "A Gentile woman of Canaanite/Syrophoenician descent living in the coastal region of Tyre and Sidon whose daughter was severely demonized; she fell at Jesus' feet, persevered through initial silence and ethnic tension, accepted the humble position of a household pet ('little dog'), and wrested from the Savior the highest commendation of faith.",
+      "whenAndWhere": "The region of Tyre and Sidon (Phoenicia, modern Lebanon), circa AD 29.",
+      "family": "A Greek, Syrophoenician mother fighting for the deliverance of her young daughter.",
+      "keyMoments": [
+        "Jesus withdrew to the pagan coastal region of Tyre and Sidon seeking seclusion, but could not be hidden.",
+        "A Canaanite woman came crying out loudly: 'Have mercy on me, Lord, you son of David! My daughter is severely demonized!'",
+        "Test One (Silence): Jesus answered her not a word. The disciples begged Him: 'Send her away; for she cries after us.'",
+        "Test Two (Theological Boundary): Jesus explained to His disciples: 'I wasn't sent to anyone but the lost sheep of the house of Israel.'",
+        "The woman did not take offense; she pressed closer, threw herself prostrate at His feet, and uttered a desperate three-word cry: 'Lord, help me!'",
+        "Test Three (Humble Metaphor): Jesus tested her: 'It is not appropriate to take the children's bread and throw it to the little dogs (kunariois—household puppies).' Under Jewish culture, Gentiles were often called dogs.",
+        "The Masterstroke of Faith: The woman seized Christ's own metaphor with holy wit and relentless humility: 'Yes, Lord, but even the dogs eat the crumbs which fall from their masters' table!'",
+        "She reasoned: If Jesus is the Master, even a fallen crumb from His boundless table is more than enough to cast out a demon!",
+        "Jesus marvelled with deep delight: 'O woman, great is your faith! Be it done to you even as you desire.'",
+        "Mark 7:29 adds: 'For this saying, go your way. The demon has gone out of your daughter.'",
+        "She went home, found the child laid on the bed, and the demon was completely gone."
+      ],
+      "strengths": [
+        "Fierce, sacrificial maternal intercession that would not take no for an answer.",
+        "Supreme humility: willingly accepted the lowest status to lay claim to grace.",
+        "Quick spiritual wit that turned an apparent rebuff into an airtight plea for mercy.",
+        "Absolute conviction that even a crumb from Christ's table held infinite power."
+      ],
+      "failures": [
+        "None noted; celebrated alongside the Roman centurion as having 'great faith'."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Matthew 15",
+        "title": "The Canaanite Woman's Great Faith in Tyre and Sidon",
+        "verses": [
+          {
+            "number": 21,
+            "text": "Jesus went out from there, and withdrew into the region of Tyre and Sidon."
+          },
+          {
+            "number": 22,
+            "text": "Behold, a Canaanite woman came out from those borders, and cried, saying, “Have mercy on me, Lord, you son of David! My daughter is severely demonized!”"
+          },
+          {
+            "number": 23,
+            "text": "But he answered her not a word. His disciples came and begged him, saying, “Send her away; for she cries after us.”"
+          },
+          {
+            "number": 25,
+            "text": "But she came and worshiped him, saying, “Lord, help me!”"
+          },
+          {
+            "number": 26,
+            "text": "But he answered, “It is not appropriate to take the children's bread and throw it to the dogs.”"
+          },
+          {
+            "number": 27,
+            "text": "But she said, “Yes, Lord, but even the dogs eat the crumbs which fall from their masters' table.”"
+          },
+          {
+            "number": 28,
+            "text": "Then Jesus answered her, “Woman, great is your faith! Be it done to you even as you desire.” And her daughter was healed from that hour."
+          }
+        ]
+      },
+      {
+        "reference": "Mark 7",
+        "title": "The Syrophoenician Woman and the Crumbs for the Children",
+        "verses": [
+          {
+            "number": 25,
+            "text": "For having heard of him, a woman, whose little daughter had an unclean spirit, came and fell down at his feet."
+          },
+          {
+            "number": 26,
+            "text": "Now the woman was a Greek, a Syrophoenician by race. She begged him that he would cast the demon out of her daughter."
+          },
+          {
+            "number": 28,
+            "text": "She answered him, “Yes, Lord. Yet even the dogs under the table eat the children's crumbs.”"
+          },
+          {
+            "number": 29,
+            "text": "He said to her, “For this saying, go your way. The demon has gone out of your daughter.”"
+          },
+          {
+            "number": 30,
+            "text": "She went away to her house, and found the child was lying on the bed, and the demon was gone out."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Persistent Faith Refuses to Take Offense and Finds a Way to the Master's Table",
+      "reflection": "Why did Jesus treat this desperate mother with apparent coldness? First silence, then stating He was sent only to Israel, then comparing her to a household dog! Was Jesus being harsh? Never! Jesus was drawing out the diamond of her faith for all eternity to see. Shallow faith is easily offended; it walks away pouting after the first unanswered prayer. But this mother's faith was unbreakable. She didn't argue with Christ's assessment; she simply said: 'Yes, Lord! You are right; I have no claim as a daughter at the banquet table. But even the little dogs under the table eat the crumbs that fall from the children!' Think about her theology: she saw Jesus as so lavishly rich that a single crumb falling from His table was more than enough to obliterate a demon and deliver her child! Jesus was thrilled. He shouted: 'Woman, great is your faith!' Do not let delays or silence discourage you; press in closer, bow lower, and lay claim to the crumbs of His boundless grace."
+    },
+    "lessons": [
+      {
+        "lesson": "Don't Mistake God's Silence for Rejection",
+        "verse": "Matthew 15:23",
+        "detail": "When Jesus answered her not a word, she did not quit; she used the silence to press past the disciples straight to Christ's feet.",
+        "question": "When God seems silent in response to your prayers, do you give up, or do you press into deeper intercession?"
+      },
+      {
+        "lesson": "Refuse the Trap of Offense",
+        "verse": "Matthew 15:26-27",
+        "detail": "She had every excuse to take offense at being called a dog, but chose humility over pride and secured her daughter's deliverance.",
+        "question": "Are you allowing wounded pride or sensitivity to rob you of spiritual breakthroughs in prayer?"
+      },
+      {
+        "lesson": "Even Christ's Crumbs Contain Infinite Power",
+        "verse": "Matthew 15:27",
+        "detail": "She recognized that Jesus is so glorious that the smallest overflow of His mercy is greater than all demonic oppression.",
+        "question": "Do you realize that the slightest touch of Christ's grace is more than enough to solve your greatest crisis?"
+      },
+      {
+        "lesson": "Intercede Relentlessly for Your Children",
+        "verse": "Mark 7:25-26",
+        "detail": "This mother would not stop until her daughter was set free; parental intercession is an unstoppable force before God's throne.",
+        "question": "Are you persistently interceding for the spiritual deliverance, salvation, and protection of your children?"
+      }
+    ],
+    "notesPrompt": "Reflect on Matthew 15:27: 'Yes, Lord, but even the dogs eat the crumbs.' What impossible prayer request are you bringing to Jesus today, claiming that even a 'crumb' of His mercy is enough?",
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple-choice",
+        "question": "From what region was the woman who cried out to Jesus in Matthew 15:21-22?",
+        "options": [
+          "Jerusalem and Jericho",
+          "Tyre and Sidon (Phoenicia)",
+          "Egypt and Alexandria",
+          "Samaria"
+        ],
+        "correctIndex": 1,
+        "reference": "Matthew 15:21-22",
+        "explanation": "Jesus withdrew into the region of Tyre and Sidon, where a Canaanite woman came crying out to Him."
+      },
+      {
+        "id": 2,
+        "type": "multiple-choice",
+        "question": "How did Jesus initially respond to the woman's desperate cry in Matthew 15:23?",
+        "options": [
+          "He healed her daughter instantly",
+          "He answered her not a word",
+          "He commanded His disciples to arrest her",
+          "He gave her three loaves of bread"
+        ],
+        "correctIndex": 1,
+        "reference": "Matthew 15:23",
+        "explanation": "Matthew 15:23 records: 'But he answered her not a word.'"
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+        "question": "What three-word prayer did the woman cry as she worshiped at Jesus' feet in Matthew 15:25?",
+        "options": [
+          "Lord, save Rome!",
+          "Lord, help me!",
+          "Give me gold!",
+          "Pity my nation!"
+        ],
+        "correctIndex": 1,
+        "reference": "Matthew 15:25",
+        "explanation": "Matthew 15:25 notes: 'But she came and worshiped him, saying, “Lord, help me!”'"
+      },
+      {
+        "id": 4,
+        "type": "multiple-choice",
+        "question": "What memorable answer did the woman give when Jesus spoke of the children's bread and the dogs?",
+        "options": [
+          "I am not a dog, I am a noble Greek!",
+          "Yes, Lord, but even the dogs eat the crumbs which fall from their masters' table",
+          "Your disciples are selfish",
+          "Give the bread to the priests instead"
+        ],
+        "correctIndex": 1,
+        "reference": "Matthew 15:27",
+        "explanation": "She replied: 'Yes, Lord, but even the dogs eat the crumbs which fall from their masters' table.'"
+      },
+      {
+        "id": 5,
+        "type": "true-false",
+        "question": "True or False: According to Matthew 15:28, Jesus told the woman that her faith was weak and small.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Matthew 15:28",
+        "explanation": "False. Jesus exclaimed: 'Woman, great is your faith! Be it done to you even as you desire.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, You are the Master of the banquet table, whose mercy is limitless and whose power has no bounds! Forgive me for the times I have grown impatient, offended, or discouraged when Your answer seemed delayed. Grant me the unyielding, humble tenacity of the Syrophoenician mother. I take my place at Your feet, crying from the depths of my soul: 'Lord, help me!' I know that even a single crumb of Your grace is more than enough to shatter demonic oppression, heal broken bodies, and restore my loved ones. Great is Your faithfulness, Lord Jesus!",
+      "versePrayerLine": "Lord, help me! Even the crumbs from Your table are rich with healing and delivering power for my soul.",
+      "prompt": "Bring a loved one before Jesus in persistent intercession today, refusing to let delays stop your prayers."
+    }
+  },
+  "254": {
+    "day": 254,
+    "character": "Jesus",
+    "season": "Feeding the Five Thousand: I Am the Bread of Life",
+    "theme": "Jesus multiplies humble offerings to satisfy thousands, revealing Himself as the true Bread of Life.",
+    "memoryVerse": {
+      "reference": "John 6:35",
+      "text": "Jesus said to them, “I am the bread of life. Whoever comes to me will not be hungry, and whoever believes in me will never be thirsty.”",
+      "whyItMatters": "Earthly food satisfies only for a few hours, but Jesus Christ is the living bread from heaven who permanently quenches the hunger and thirst of the human soul.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "bread",
+          "life",
+          "hungry",
+          "believes",
+          "thirsty"
+        ],
+        "firstLetters": "J s t t, “I a t b o l. W c t m w n b h, a w b i m w n b t.”"
+      }
+    },
+    "profile": {
+      "title": "Jesus the Bread of Life: Multiplier of Loaves and Shepherd of the Multitudes",
+      "who": "On a desolate hillside near Bethsaida on the northeastern shore of the Sea of Galilee, Jesus looked upon a hungry crowd of five thousand men besides women and children with deep compassion, took a boy's lunch of five barley loaves and two small fish, gave thanks, multiplied the food to feed the entire multitude with twelve baskets left over, and revealed Himself as the true Bread of Life.",
+      "whenAndWhere": "A hillside near Bethsaida (Galilee), near Passover time, circa AD 29.",
+      "family": "The Son of God revealing Himself as the true Manna from heaven.",
+      "keyMoments": [
+        "Traveled by boat with His disciples to a deserted place to rest, but the multitudes ran on foot around the lake and arrived ahead of them.",
+        "Seeing the great crowd, Jesus was moved with compassion for them because they were like sheep without a shepherd; welcomed them, taught them many things, and healed their sick.",
+        "As evening fell, the disciples urged Him: 'Send the multitudes away into the surrounding country and villages to buy themselves bread, for they have nothing to eat.'",
+        "Jesus gave the impossible test: 'You give them something to eat!' Philip calculated: 'Two hundred denarii worth of bread is not enough for each of them to get a little.'",
+        "Andrew found a young boy with five small barley loaves and two fish, but asked: 'What are these among so many?'",
+        "Jesus commanded the crowd to sit down in groups of fifties and hundreds on the green grass; took the five loaves and two fish, looked up to heaven, blessed and broke the loaves, and gave them to the disciples to distribute.",
+        "All five thousand men (plus women and children, likely 15,000+ people) ate and were completely satisfied; gathered twelve full wicker baskets (kophinoi) of leftover broken pieces so that nothing was wasted.",
+        "The crowd attempted to take Jesus by force to make Him an earthly king; Jesus withdrew alone to the mountain to pray.",
+        "The next day in the synagogue at Capernaum, the crowd sought Him for more bread; Jesus challenged them: 'Don't work for the food which perishes, but for the food which remains to eternal life... I am the bread of life! Whoever comes to me will not be hungry, and whoever believes in me will never be thirsty.'"
+      ],
+      "strengths": [
+        "Infinite compassion that attended to both spiritual teaching and physical hunger.",
+        "Miraculous creative power that generated abundance out of insignificant resources.",
+        "Total refusal of cheap political stardom in favor of eternal spiritual redemption."
+      ],
+      "failures": [
+        "None; the Living Bread of God."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "John 6",
+        "title": "The Multiplication of Loaves and the Bread of Life Discourse",
+        "verses": [
+          {
+            "number": 5,
+            "text": "Jesus therefore, lifting up his eyes, and seeing that a great multitude was coming to him, said to Philip, “Where are we to buy bread, that these may eat?”"
+          },
+          {
+            "number": 9,
+            "text": "“There is a boy here who has five barley loaves and two fish, but what are these among so many?”"
+          },
+          {
+            "number": 11,
+            "text": "Jesus took the loaves; and having given thanks, he distributed to the disciples, and the disciples to those who were sitting down; likewise also of the fish as much as they desired."
+          },
+          {
+            "number": 12,
+            "text": "When they were filled, he said to his disciples, “Gather up the broken pieces which are left over, that nothing be lost.”"
+          },
+          {
+            "number": 35,
+            "text": "Jesus said to them, “I am the bread of life. Whoever comes to me will not be hungry, and whoever believes in me will never be thirsty.”"
+          },
+          {
+            "number": 51,
+            "text": "“I am the living bread which came down out of heaven. If anyone eats of this bread, he will live forever. Yes, the bread which I will give for the life of the world is my flesh.”"
+          }
+        ]
+      },
+      {
+        "reference": "Mark 6",
+        "title": "Compassion for the Shepherdless Multitude",
+        "verses": [
+          {
+            "number": 34,
+            "text": "Jesus came out, saw a great multitude, and he had compassion on them, because they were like sheep without a shepherd, and he began to teach them many things."
+          },
+          {
+            "number": 41,
+            "text": "He took the five loaves and the two fish, and looking up to heaven, he blessed and broke the loaves, and he gave to the disciples to set before them, and he divided the two fish among them all."
+          },
+          {
+            "number": 42,
+            "text": "They all ate, and were filled."
+          },
+          {
+            "number": 43,
+            "text": "They took up twelve baskets full of broken pieces and also of the fish."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Give What Little You Have to Jesus; He Multiplies It to Satisfy the Multitudes",
+      "reflection": "The miracle of the feeding of the five thousand is the only miracle recorded in all four Gospels. Why is it so crucial? Because it reveals both our human inadequacy and Christ's limitless sufficiency. Look at the disciples: faced with fifteen thousand hungry people, their solution was: 'Send them away!' But Jesus said: 'YOU give them something to eat.' God deliberately brings us into situations where our resources are laughable compared to the need. A boy had five small barley loaves and two tiny sardines. Humanly speaking: 'What are these among so many?' But in the hands of Jesus, consecrated with thanksgiving and broken in compassion, those five crackers fed an army! And notice the leftovers: twelve baskets full—one for each doubting disciple to carry home! Jesus did not just perform a magic trick; He gave them a sign pointing to Himself: 'I am the Bread of Life.' Stop trying to satisfy your eternal hunger with the perishable junk food of this world; feed on Christ, and you will never hunger again."
+    },
+    "lessons": [
+      {
+        "lesson": "Don't Send People Away; Bring Your Scarcity to Jesus",
+        "verse": "Mark 6:37; John 6:9",
+        "detail": "Our natural instinct is to dismiss overwhelming problems; Jesus calls us to place our meager resources directly into His hands.",
+        "question": "What task or ministry looks overwhelmingly impossible compared to the small talents or funds you currently possess?"
+      },
+      {
+        "lesson": "Thanksgiving Multiplies Resources",
+        "verse": "John 6:11",
+        "detail": "Jesus gave thanks for five loaves before they were multiplied; gratitude for small beginnings unlocks divine multiplication.",
+        "question": "Do you complain about what you lack, or do you give joyful thanks for the little you currently have?"
+      },
+      {
+        "lesson": "Nothing Is Wasted in God's Economy",
+        "verse": "John 6:12",
+        "detail": "Jesus commanded the fragments gathered so nothing was lost; God cares for the smallest details and fragments of our lives.",
+        "question": "Are you stewarding the 'leftovers' and small opportunities of your time, resources, and influence with care?"
+      },
+      {
+        "lesson": "Feed on Christ, the Living Bread",
+        "verse": "John 6:35",
+        "detail": "Physical food perishes, but daily communion with Jesus through His Word and Spirit permanently satisfies the deep hunger of the soul.",
+        "question": "Are you feeding your spiritual appetite daily on Jesus, or starving your soul on worldly distractions?"
+      }
+    ],
+    "notesPrompt": "What is the 'five loaves and two fish' in your life right now (small talent, limited time, modest savings) that you need to place in Jesus' hands with thanksgiving?",
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple-choice",
+        "question": "Why did Jesus have deep compassion on the great multitude in Mark 6:34?",
+        "options": [
+          "Because they had paid a large fee to hear Him",
+          "Because they were like sheep without a shepherd",
+          "Because the Romans were pursuing them",
+          "Because they built Him a house"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 6:34",
+        "explanation": "Mark 6:34 states: 'He had compassion on them, because they were like sheep without a shepherd.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple-choice",
+        "question": "What provision did Andrew find from a young boy in John 6:9?",
+        "options": [
+          "A bag of dried figs and raisins",
+          "Five barley loaves and two fish",
+          "Seven honey cakes and goat cheese",
+          "Twelve jars of olives"
+        ],
+        "correctIndex": 1,
+        "reference": "John 6:9",
+        "explanation": "Andrew said: 'There is a boy here who has five barley loaves and two fish, but what are these among so many?'"
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+        "question": "How many baskets of leftover fragments were gathered after everyone was filled in John 6:13?",
+        "options": [
+          "Seven baskets",
+          "Twelve baskets",
+          "Three baskets",
+          "Fifty baskets"
+        ],
+        "correctIndex": 1,
+        "reference": "John 6:13",
+        "explanation": "They gathered them up, and filled twelve baskets with broken pieces from the five barley loaves."
+      },
+      {
+        "id": 4,
+        "type": "multiple-choice",
+        "question": "What great 'I AM' declaration did Jesus proclaim to the crowd in John 6:35?",
+        "options": [
+          "I am the gate of the sheep",
+          "I am the bread of life; whoever comes to me will not be hungry, and whoever believes in me will never be thirsty",
+          "I am the true vine",
+          "I am the light of Jerusalem"
+        ],
+        "correctIndex": 1,
+        "reference": "John 6:35",
+        "explanation": "Jesus declared: 'I am the bread of life. Whoever comes to me will not be hungry, and whoever believes in me will never be thirsty.'"
+      },
+      {
+        "id": 5,
+        "type": "true-false",
+        "question": "True or False: According to John 6:15, Jesus gladly allowed the crowd to crown Him as their earthly political king.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "John 6:15",
+        "explanation": "False. Perceiving that they were about to come and take Him by force to make Him king, Jesus withdrew again to the mountain by Himself alone."
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, You are the Living Bread of Life who came down from heaven to give life to the world! Forgive me for the ways I have spent my labor and energy on food that perishes, trying to satisfy my soul with the empty pleasures of this world. Today I place the five loaves and two fish of my small life into Your hands. Bless what I have, break it in Your compassion, and multiply it to feed a hungry world. May I feast on Your truth daily, knowing that whoever comes to You shall never hunger and whoever believes in You shall never thirst.",
+      "versePrayerLine": "You are the Bread of Life, Lord Jesus; satisfy my hungry soul with Your presence and multiply my small gifts for Your glory.",
+      "prompt": "Offer a prayer of thanksgiving for your limited resources, asking Jesus to multiply them to bless someone in need today."
+    }
+  },
+  "255": {
+    "day": 255,
+    "character": "Peter",
+    "season": "Walking on Stormy Waves: Lord, Save Me!",
+    "theme": "Faith dares to step out of the boat onto stormy waves, supported by the outstretched hand of the Savior.",
+    "memoryVerse": {
+      "reference": "Matthew 14:31",
+      "text": "Immediately Jesus stretched out his hand, took hold of him, and said to him, “You of little faith, why did you doubt?”",
+      "whyItMatters": "Even when our faith falters and we begin to sink beneath life's terrifying waves, the instant we cry 'Lord, save me!', Christ's outstretched hand catches us and lifts us up.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "stretched",
+          "hand",
+          "hold",
+          "faith",
+          "doubt"
+        ],
+        "firstLetters": "I J s o h h, t h o h, a s t h, “Y o l f, w d y d?”"
+      }
+    },
+    "profile": {
+      "title": "Simon Peter: The Disciple Who Dared to Walk on Water",
+      "who": "In the fourth watch of the night (between 3 and 6 AM), while the disciples rowed against a violent headwind on the Sea of Galilee, Jesus walked toward them upon the waves; Peter asked to come out to Him on the water, stepped out of the boat, walked on the sea, took his eyes off Jesus to look at the storm, began to sink, and cried for rescue, experiencing Christ's instant salvation.",
+      "whenAndWhere": "The Sea of Galilee, circa AD 29.",
+      "family": "Son of Jonah; brother of Andrew; fisherman of Bethsaida/Capernaum; leader of the Twelve.",
+      "keyMoments": [
+        "Jesus constrained His disciples to get into the boat and go ahead of Him to the other side while He went up into the mountain alone to pray.",
+        "By the fourth watch of the night, the boat was in the middle of the sea, battered by waves and straining against a fierce headwind.",
+        "Jesus came walking on the sea toward them; seeing a figure walking on water, the disciples cried out in sheer terror, thinking it was a ghost (phantasma).",
+        "Jesus immediately calmed them: 'Cheer up! It is I! Don't be afraid!' (Literally: 'Ego eimi'—I AM! Do not fear!).",
+        "Peter blurted out: 'Lord, if it is you, command me to come to you on the waters!'",
+        "Jesus said one word: 'Come!'",
+        "Peter climbed over the gunwale of the boat, planted his feet on the churning waves, and began walking on the water toward Jesus.",
+        "Seeing the boisterous wind and towering waves, Peter took his eyes off Jesus, was seized with terror, and began to sink like a stone.",
+        "Cried out the most effective three-word prayer in Scripture: 'Lord, save me!'",
+        "Immediately Jesus stretched out His hand, caught hold of him, and said: 'You of little faith, why did you doubt?'",
+        "When they climbed into the boat together, the wind ceased; those in the boat worshiped Him, saying: 'Truly you are the Son of God!'"
+      ],
+      "strengths": [
+        "Audacious, pioneering faith: was the only disciple with the courage to leave the boat.",
+        "Immediate recognition of his helplessness when sinking: cried straight to Jesus.",
+        "Heart of worship: bowed before Christ as the Son of God."
+      ],
+      "failures": [
+        "Allowed the sensory distraction of the wind and waves to steal his focus from Christ, causing him to sink."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Matthew 14",
+        "title": "Jesus and Peter Walk on the Sea of Galilee",
+        "verses": [
+          {
+            "number": 25,
+            "text": "In the fourth watch of the night, Jesus came to them, walking on the sea."
+          },
+          {
+            "number": 27,
+            "text": "But immediately Jesus spoke to them, saying, “Cheer up! It is I! Don't be afraid.”"
+          },
+          {
+            "number": 28,
+            "text": "Peter answered him and said, “Lord, if it is you, command me to come to you on the waters.”"
+          },
+          {
+            "number": 29,
+            "text": "He said, “Come!” Peter stepped down from the boat, and walked on the waters to come to Jesus."
+          },
+          {
+            "number": 30,
+            "text": "But when he saw that the wind was strong, he was afraid, and beginning to sink, he cried out, saying, “Lord, save me!”"
+          },
+          {
+            "number": 31,
+            "text": "Immediately Jesus stretched out his hand, took hold of him, and said to him, “You of little faith, why did you doubt?”"
+          },
+          {
+            "number": 32,
+            "text": "When they got up into the boat, the wind ceased."
+          },
+          {
+            "number": 33,
+            "text": "Those who were in the boat worshiped him, saying, “You are truly the Son of God!”"
+          }
+        ]
+      },
+      {
+        "reference": "Psalm 69",
+        "title": "Save Me O God For the Waters Have Come In",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Save me, God, for the waters have come up to my neck!"
+          },
+          {
+            "number": 2,
+            "text": "I sink in deep mire, where there is no foothold. I have come into deep waters, where the floods overflow me."
+          },
+          {
+            "number": 14,
+            "text": "Deliver me out of the mire, and don't let me sink. Let me be delivered from those who hate me, and out of the deep waters."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Keep Your Eyes on Jesus; Even When You Sink, His Hand Will Catch You",
+      "reflection": "Many people criticize Peter for sinking. But never forget: eleven disciples never left the boat! Only Peter had the faith to climb over the edge and walk on liquid waves toward Jesus! Peter walked on water as long as his gaze was locked on the Master. But the second he shifted his eyes to the strong wind and foaming waves, gravity asserted its claim and he began to sink. What you fix your eyes on determines whether you walk or sink! If you stare at your bank account, medical reports, or the world's storms, you will drown in anxiety. But look at Peter's reaction: he didn't try to swim, nor did he yell at the boat; he cried: 'Lord, save me!' And notice Matthew's word: 'IMMEDIATELY Jesus stretched out His hand and caught him.' Jesus did not let him go under. He grabbed him, lifted him onto the waves, and walked him back into the boat. Keep your eyes on Jesus; His hand is always close enough to catch you."
+    },
+    "lessons": [
+      {
+        "lesson": "Step Out of the Boat of False Comfort",
+        "verse": "Matthew 14:28-29",
+        "detail": "True spiritual adventures with Jesus require leaving the safe, conventional boat and stepping onto the waves at His command.",
+        "question": "What 'boat' of comfort, routine, or human security is Jesus inviting you to step out of today?"
+      },
+      {
+        "lesson": "Focus Determines Your Trajectory",
+        "verse": "Matthew 14:30",
+        "detail": "Eyes on Jesus = walking on waves; eyes on the wind = sinking in fear. Guard your spiritual focus against sensory panic.",
+        "question": "Are you staring at the storm of your problems or fixing your gaze on the Jesus who commands the waves?"
+      },
+      {
+        "lesson": "The Power of the Shortest Prayer: 'Lord, Save Me!'",
+        "verse": "Matthew 14:30",
+        "detail": "When sinking, you don't need elegant, poetic theology; an honest, desperate cry straight to Jesus brings instant rescue.",
+        "question": "Have you cried out 'Lord, save me!' in your current trial, or are you still trying to paddle yourself to shore?"
+      },
+      {
+        "lesson": "Christ's Hand Is Faster Than Gravity",
+        "verse": "Matthew 14:31",
+        "detail": "Jesus stretched out His hand immediately to catch Peter; Christ never allows the faltering believer to perish in deep waters.",
+        "question": "Can you trust that even when your faith falters, Christ's faithful grip on your life will never fail?"
+      }
+    ],
+    "notesPrompt": "Reflect on Matthew 14:30-31: taking your eyes off the waves and fixing them on Jesus. What specific distraction or fear has caused you to 'sink' recently, and how will you fix your eyes on Christ today?",
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple-choice",
+        "question": "At what time of the night did Jesus come walking on the water to His disciples in Matthew 14:25?",
+        "options": [
+          "At twilight",
+          "At midnight",
+          "In the fourth watch of the night (approx. 3 AM to 6 AM)",
+          "At sunrise"
+        ],
+        "correctIndex": 2,
+        "reference": "Matthew 14:25",
+        "explanation": "Matthew 14:25 states: 'In the fourth watch of the night, Jesus came to them, walking on the sea.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple-choice",
+        "question": "What one-word command did Jesus give to Peter when Peter asked to come out to Him on the water?",
+        "options": [
+          "Wait!",
+          "Come!",
+          "Believe!",
+          "Hurry!"
+        ],
+        "correctIndex": 1,
+        "reference": "Matthew 14:29",
+        "explanation": "Jesus said to Peter: 'Come!' and Peter stepped down from the boat and walked on the waters."
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+        "question": "Why did Peter begin to sink after walking on the water in Matthew 14:30?",
+        "options": [
+          "His clothes were too heavy",
+          "When he saw that the wind was strong, he was afraid",
+          "A wave struck him on the shoulder",
+          "Jesus pushed him down"
+        ],
+        "correctIndex": 1,
+        "reference": "Matthew 14:30",
+        "explanation": "Matthew 14:30 notes: 'But when he saw that the wind was strong, he was afraid, and beginning to sink, he cried out, saying, “Lord, save me!”'"
+      },
+      {
+        "id": 4,
+        "type": "multiple-choice",
+        "question": "What did Jesus immediately do when Peter cried 'Lord, save me!' in Matthew 14:31?",
+        "options": [
+          "He told him to swim back to the boat",
+          "He immediately stretched out His hand, took hold of him, and lifted him up",
+          "He let him sink under the water for ten seconds to teach him a lesson",
+          "He called John to throw a rope"
+        ],
+        "correctIndex": 1,
+        "reference": "Matthew 14:31",
+        "explanation": "Immediately Jesus stretched out His hand, took hold of him, and said: 'You of little faith, why did you doubt?'"
+      },
+      {
+        "id": 5,
+        "type": "true-false",
+        "question": "True or False: According to Matthew 14:33, after Jesus and Peter climbed into the boat, the disciples worshiped Him saying, 'You are truly the Son of God!'",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 0,
+        "reference": "Matthew 14:33",
+        "explanation": "True. Those in the boat worshiped Him saying: 'You are truly the Son of God!'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, Son of the Living God, You walk upon the stormiest waters and command the boisterous winds! Forgive me for the times I have allowed the howling gales of life to pull my gaze away from Your radiant face. When fear strikes and I begin to sink into the deep waters of anxiety and doubt, hear my cry: 'Lord, save me!' Stretch out Your mighty hand and take hold of my life. Lift me above the waves of circumstance, walk with me into the boat of Your peace, and receive the heartfelt worship of my soul: You are truly the Son of God!",
+      "versePrayerLine": "Lord, save me! Stretch out Your hand and catch my soul when I sink, keeping my eyes fixed on You.",
+      "prompt": "If you feel overwhelmed by a 'storm' today, close your eyes, picture Jesus reaching out His hand, and whisper: 'Lord, save me.'"
+    }
+  },
+  "256": {
+    "day": 256,
+    "character": "Peter",
+    "season": "Caesarea Philippi: The Great Confession of Faith",
+    "theme": "Divine revelation unveils the true identity of Jesus as the Messiah, the rock upon which His church stands.",
+    "memoryVerse": {
+      "reference": "Matthew 16:16",
+      "text": "Simon Peter answered, “You are the Christ, the Son of the living God.”",
+      "whyItMatters": "Our eternal destiny hinges on answering Jesus' personal question: 'Who do you say that I am?' not by human intellect, but by Father-given revelation.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "answered",
+          "Christ",
+          "Son",
+          "living",
+          "God"
+        ],
+        "firstLetters": "S P a, “Y a t C, t S o t l G.”"
+      }
+    },
+    "profile": {
+      "title": "Simon Peter at Caesarea Philippi: The Rock and the Revelation",
+      "who": "Simon, son of Jonah, fisherman from Bethsaida who spoke with bold clarity under the illumination of the Heavenly Father, confessing Jesus as the long-awaited Anointed King, yet immediately struggled when Jesus explained the necessity of the cross.",
+      "whenAndWhere": "Caesarea Philippi, at the northern headwaters of the Jordan River beneath Mount Hermon, circa AD 29.",
+      "family": "Son of Jonah, brother of Andrew, married (living in Capernaum).",
+      "keyMoments": [
+        "Hearing Jesus ask what the crowds were saying versus who the disciples personally knew Him to be.",
+        "Speaking up fearlessly to confess Jesus as the Christ, the Son of the living God.",
+        "Receiving Jesus' blessing and the promise that the gates of Hades would not prevail against Christ's church.",
+        "Stumbling minutes later by rebuking Jesus for predicting His crucifixion, earning the sharp correction: 'Get behind me, Satan!'"
+      ],
+      "strengths": "Quickness of heart to perceive spiritual reality, fearless verbal witness, deep affection for Christ.",
+      "failures": "Trying to protect Jesus from suffering, imposing human concepts of triumphant glory rather than the Father's path of sacrificial redemption."
+    },
+    "scripture": [
+      {
+        "reference": "Matthew 16",
+        "title": "Peter's Confession and the Cost of Discipleship",
+        "verses": [
+          {
+            "number": 13,
+            "text": "Now when Jesus came into the parts of Caesarea Philippi, he asked his disciples, saying, “Who do men say that I, the Son of Man, am?”"
+          },
+          {
+            "number": 14,
+            "text": "They said, “Some say John the Baptizer, some, Elijah, and others, Jeremiah, or one of the prophets.”"
+          },
+          {
+            "number": 15,
+            "text": "He said to them, “But who do you say that I am?”"
+          },
+          {
+            "number": 16,
+            "text": "Simon Peter answered, “You are the Christ, the Son of the living God.”"
+          },
+          {
+            "number": 17,
+            "text": "Jesus answered him, “Blessed are you, Simon Bar Jonah, for flesh and blood has not revealed this to you, but my Father who is in heaven."
+          },
+          {
+            "number": 18,
+            "text": "I also tell you that you are Peter, and on this rock I will build my assembly, and the gates of Hades will not prevail against it."
+          },
+          {
+            "number": 19,
+            "text": "I will give to you the keys of the Kingdom of Heaven, and whatever you bind on earth will have been bound in heaven; and whatever you release on earth will have been released in heaven.”"
+          },
+          {
+            "number": 24,
+            "text": "Then Jesus said to his disciples, “If anyone desires to come after me, let him deny himself, take up his cross, and follow me."
+          }
+        ]
+      },
+      {
+        "reference": "Mark 8",
+        "title": "Spiritual Sight and Taking Up the Cross",
+        "verses": [
+          {
+            "number": 27,
+            "text": "Jesus went out, with his disciples, into the villages of Caesarea Philippi. On the way he asked his disciples, “Who do men say that I am?”"
+          },
+          {
+            "number": 28,
+            "text": "They told him, saying, “John the Baptizer; and others, Elijah; but others, one of the prophets.”"
+          },
+          {
+            "number": 29,
+            "text": "He said to them, “But who do you say that I am?” Peter answered, “You are the Christ.”"
+          },
+          {
+            "number": 31,
+            "text": "He began to teach them that the Son of Man must suffer many things, and be rejected by the elders, the chief priests, and the scribes, and be killed, and after three days rise again."
+          },
+          {
+            "number": 34,
+            "text": "He called the multitude to himself with his disciples, and said to them, “Whoever wants to come after me, let him deny himself, and take up his cross, and follow me."
+          },
+          {
+            "number": 35,
+            "text": "For whoever wants to save his life will lose it; and whoever will lose his life for my sake and the Good News will save it."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "True faith in Christ is born not of fleshly cleverness but of divine revelation, and embraces both the King and His cross.",
+      "reflection": "Notice the deliberate geographic backdrop of this encounter: Caesarea Philippi was saturated with shrines to the Greek god Pan and temples celebrating Caesar Augustus as a divine emperor. Amidst pagan ruins and imperial propaganda, Jesus asks the quiet question: 'Who do you say that I am?' Popular opinion gave polite compliments—Elijah, Jeremiah, a noble prophet. But Jesus refuses to be cataloged as merely an inspiring reformer. Peter's answer pierces through all ambiguity: 'You are the Christ, the Son of the living God.' Jesus clarifies immediately that no university degree or intellectual horsepower produced that answer—the Heavenly Father pulled back the veil. Yet having seen the crown, Peter immediately choked on the cross. When Jesus spoke of suffering and death, Peter wanted a conqueror without wounds. God is teaching us today that authentic discipleship receives Christ on His terms, not ours. We confess Him as sovereign Lord, and then we take up our own cross daily to follow Him into life."
+    },
+    "lessons": [
+      {
+        "lesson": "Secondhand opinions about Jesus will never sustain your soul; you must answer Him personally.",
+        "verse": "Matthew 16:15",
+        "detail": "It is easy to quote what scholars, pastors, or culture think about Christ, but faith begins when you look Him in the eye and make your own confession.",
+        "question": "If Jesus asked you point-blank right now, 'Who do you say that I am?' what would your honest life choices answer?"
+      },
+      {
+        "lesson": "Spiritual perception is an unearned gift of grace from the Father.",
+        "verse": "Matthew 16:17",
+        "detail": "Human intellect and clever analysis cannot regenerate a soul; revelation requires the sovereign illumination of the Holy Spirit opening blinded eyes.",
+        "question": "Are you relying on your own mental sharpness to understand spiritual truth, or humbly asking the Father for revelation?"
+      },
+      {
+        "lesson": "The church of Jesus Christ is built on an immovable rock that hell cannot overthrow.",
+        "verse": "Matthew 16:18",
+        "detail": "No persecution, cultural collapse, or demonic assault can demolish the assembly Christ builds upon the confession of His Lordship.",
+        "question": "When worldly news looks bleak, does your confidence rest in institutional power or in Christ's unbroken promise to build His church?"
+      },
+      {
+        "lesson": "Following the Messiah requires embracing the way of self-denial and the daily cross.",
+        "verse": "Matthew 16:24",
+        "detail": "We cannot compartmentalize Christ as our Savior while rejecting His call to crucify our self-centered agendas and follow His lead.",
+        "question": "What personal comfort, ambition, or habit are you holding back from the altar of cross-bearing obedience today?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q256_1",
+        "type": "multiple_choice",
+        "question": "In what region did Jesus ask His disciples who people said the Son of Man was?",
+        "options": [
+          "Capernaum by the Sea",
+          "Jerusalem in the Temple",
+          "Caesarea Philippi",
+          "Bethlehem of Judea"
+        ],
+        "correctIndex": 2,
+        "reference": "Matthew 16:13",
+        "explanation": "Matthew 16:13 records that this watershed conversation occurred in the district of Caesarea Philippi."
+      },
+      {
+        "id": "q256_2",
+        "type": "multiple_choice",
+        "question": "What was Simon Peter's historic confession of faith?",
+        "options": [
+          "You are Elijah who was prophesied to return",
+          "You are the Christ, the Son of the living God",
+          "You are the greatest teacher in Israel",
+          "You are John the Baptist raised from the dead"
+        ],
+        "correctIndex": 1,
+        "reference": "Matthew 16:16",
+        "explanation": "Peter explicitly confessed: 'You are the Christ, the Son of the living God.'"
+      },
+      {
+        "id": "q256_3",
+        "type": "true_false",
+        "question": "Jesus told Peter that human flesh and blood had taught him this profound revelation.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Matthew 16:17",
+        "explanation": "False. Jesus declared, 'flesh and blood has not revealed this to you, but my Father who is in heaven.'"
+      },
+      {
+        "id": "q256_4",
+        "type": "multiple_choice",
+        "question": "What did Jesus say would NOT prevail against His church built upon the rock?",
+        "options": [
+          "The armies of Rome",
+          "The gates of Hades",
+          "The hatred of the Pharisees",
+          "The storms of the sea"
+        ],
+        "correctIndex": 1,
+        "reference": "Matthew 16:18",
+        "explanation": "Jesus promised: 'on this rock I will build my assembly, and the gates of Hades will not prevail against it.'"
+      },
+      {
+        "id": "q256_5",
+        "type": "multiple_choice",
+        "question": "What must anyone who desires to come after Jesus do, according to Matthew 16:24?",
+        "options": [
+          "Earn a high degree in theology",
+          "Retreat to a desert monastery",
+          "Deny himself, take up his cross, and follow Him",
+          "Make large donations to religious charities"
+        ],
+        "correctIndex": 2,
+        "reference": "Matthew 16:24",
+        "explanation": "Jesus said: 'If anyone desires to come after me, let him deny himself, take up his cross, and follow me.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Heavenly Father, I worship You as the living God who graciously pulls back the curtain of spiritual blindness to reveal Your Beloved Son. I confess with Peter today that Jesus is the Christ, the Messiah, the Anointed King over every corner of my life. Forgive me for the times I have settled for popular culture's muted praise rather than declaring Your absolute deity. Strip away my fear of the cross; grant me grace to deny self-centered ambitions, take up my cross gladly, and follow wherever the Master leads, knowing that losing my life for His sake is the only true way to find it.",
+      "versePrayerLine": "Simon Peter answered, “You are the Christ, the Son of the living God.”",
+      "prompt": "Take a moment to speak directly to Jesus: Who is He to you personally today, and what cross is He inviting you to carry in joyful obedience?"
+    }
+  },
+  "257": {
+    "day": 257,
+    "character": "Jesus",
+    "season": "The Transfiguration: The Unveiled Glory on the Holy Mountain",
+    "theme": "The radiant glory of the Son of God shines forth on the mountain, commanding our total, obedient attention.",
+    "memoryVerse": {
+      "reference": "Matthew 17:5",
+      "text": "While he was still speaking, behold, a bright cloud overshadowed them. Behold, a voice out of the cloud said, “This is my beloved Son, in whom I am well pleased. Listen to him.”",
+      "whyItMatters": "Amidst all human voices, prophets, and religious figures, God the Father establishes one supreme authority for all eternity: His Son Jesus, whom we must listen to and obey.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "bright",
+          "cloud",
+          "beloved",
+          "pleased",
+          "Listen"
+        ],
+        "firstLetters": "W h w s s, b, a b c o t. B, a v o o t c s, “T i m b S, i w I a w p. L t h.”"
+      }
+    },
+    "profile": {
+      "title": "Jesus at the Mount of Transfiguration: The Radiance of Heaven Unveiled",
+      "who": "Jesus Christ, the eternal Son of God in human flesh, who led Peter, James, and John up a high mountain where His veiled majesty erupted into blinding light, appearing alongside Moses (the Law) and Elijah (the Prophets) to speak of His impending departure (exodus) in Jerusalem.",
+      "whenAndWhere": "Mount Hermon (or Mount Tabor), northern Galilee, circa AD 29.",
+      "family": "The eternal Son of the Father, born of the Virgin Mary, lineage of David.",
+      "keyMoments": [
+        "Leading Peter, James, and John up into a high mountain apart to pray.",
+        "Being transfigured before them: His face shining like the sun and His garments gleaming dazzling white.",
+        "Speaking with Moses and Elijah about His coming death, resurrection, and departure in Jerusalem.",
+        "Overwhelming the trembling disciples as the luminous Shekinah cloud settled and the Father commanded: 'Listen to Him!'"
+      ],
+      "strengths": "Supreme divine glory, perfect filial obedience to the Father, compassionate gentleness to terrified disciples.",
+      "failures": "None; Holy, blameless, and undefiled."
+    },
+    "scripture": [
+      {
+        "reference": "Matthew 17",
+        "title": "The Transfiguration of Christ and the Father's Voice",
+        "verses": [
+          {
+            "number": 1,
+            "text": "After six days, Jesus took with him Peter, James, and John his brother, and brought them up into a high mountain by themselves."
+          },
+          {
+            "number": 2,
+            "text": "He was transfigured before them. His face shone like the sun, and his garments became as white as the light."
+          },
+          {
+            "number": 3,
+            "text": "Behold, Moses and Elijah appeared to them talking with him."
+          },
+          {
+            "number": 4,
+            "text": "Peter answered, and said to Jesus, “Lord, it is good for us to be here. If you want, let’s make three tents here: one for you, one for Moses, and one for Elijah.”"
+          },
+          {
+            "number": 5,
+            "text": "While he was still speaking, behold, a bright cloud overshadowed them. Behold, a voice out of the cloud said, “This is my beloved Son, in whom I am well pleased. Listen to him.”"
+          },
+          {
+            "number": 6,
+            "text": "When the disciples heard it, they fell on their faces, and were very afraid."
+          },
+          {
+            "number": 7,
+            "text": "Jesus came and touched them and said, “Get up, and don’t be afraid.”"
+          },
+          {
+            "number": 8,
+            "text": "Lifting up their eyes, they saw no one, except Jesus alone."
+          }
+        ]
+      },
+      {
+        "reference": "2 Peter 1",
+        "title": "Eyewitnesses of His Majesty and the Prophetic Word",
+        "verses": [
+          {
+            "number": 16,
+            "text": "For we didn’t follow cunningly devised fables, when we made known to you the power and coming of our Lord Jesus Christ, but we were eyewitnesses of his majesty."
+          },
+          {
+            "number": 17,
+            "text": "For he received from God the Father honor and glory, when the voice came to him from the Majestic Glory, “This is my beloved Son, in whom I am well pleased.”"
+          },
+          {
+            "number": 18,
+            "text": "We heard this voice come out of heaven when we were with him on the holy mountain."
+          },
+          {
+            "number": 19,
+            "text": "We have the more sure word of prophecy; and you do well that you heed it, as to a lamp shining in a dark place, until the day dawns, and the morning star arises in your hearts."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "In the Transfiguration, the Father removes the veil from Jesus so we never doubt that the Crucified Savior is the Glorious Lord of the universe.",
+      "reflection": "For thirty-three years, Christ walked among men with His divine radiance veiled behind ordinary Galilean carpentry garb. But on that quiet mountain summit, the curtain was drawn aside for a stunning moment. His face blazed like the unmitigated sun; His clothing beamed with celestial purity. Moses represented the Law; Elijah represented the Prophets. Both great men pointed forward to Christ, but neither could stand as His peer. When Peter proposed building three equal tabernacles, the Father Himself interrupted: the luminous glory-cloud swallowed them, and the Father made His definitive decree: 'This is My beloved Son... Listen to Him!' Moses was a servant in God's house; Jesus is the Son over the house. When the trembling disciples fell face-down in terror, Jesus walked over, laid His gentle hand upon them, and whispered, 'Get up, and don't be afraid.' When they looked up, Moses and Elijah were gone—only Jesus remained. He is all-sufficient. When you hear His voice, you are hearing the final, perfect word of God."
+    },
+    "lessons": [
+      {
+        "lesson": "Jesus is the supreme fulfillment of the Law and the Prophets; He has no equals.",
+        "verse": "Matthew 17:5",
+        "detail": "We must never elevate even the greatest biblical leaders or human mentors to the rank of Christ; He alone commands our total adoration.",
+        "question": "Is there any human teacher or spiritual tradition you have subtly placed on an equal pedestal with Jesus?"
+      },
+      {
+        "lesson": "True intimacy with God's majesty produces reverent awe and trembling worship.",
+        "verse": "Matthew 17:6",
+        "detail": "A shallow view of God treats Him flippantly, but genuine revelation of His holy glory brings us to our knees in sober adoration.",
+        "question": "Does your prayer life reflect holy reverence for the majestic King of the universe?"
+      },
+      {
+        "lesson": "Christ's touch banishes paralyzing fear and calls us back to our feet.",
+        "verse": "Matthew 17:7",
+        "detail": "The same Lord who radiates unapproachable holy light stoops down in tenderness to touch our trembling shoulders and restore our courage.",
+        "question": "In what area of your life are you paralyzed by fear, needing to feel the reassuring touch of Christ?"
+      },
+      {
+        "lesson": "When all temporary wonders fade, Jesus alone must remain the center of our gaze.",
+        "verse": "Matthew 17:8",
+        "detail": "Spiritual mountaintop highs come and go, but the abiding presence of Jesus alone is what sustains us through valley trials.",
+        "question": "Are you chasing spiritual emotional experiences, or resting peacefully in the constant presence of Jesus alone?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q257_1",
+        "type": "multiple_choice",
+        "question": "Which three disciples accompanied Jesus up the mountain of transfiguration?",
+        "options": [
+          "Peter, Andrew, and Philip",
+          "Peter, James, and John",
+          "Thomas, Matthew, and Jude",
+          "Simon the Zealot, James, and Bartholomew"
+        ],
+        "correctIndex": 1,
+        "reference": "Matthew 17:1",
+        "explanation": "Matthew 17:1 notes that Jesus took Peter, James, and John his brother into a high mountain."
+      },
+      {
+        "id": "q257_2",
+        "type": "multiple_choice",
+        "question": "Which two Old Testament figures appeared talking with Jesus?",
+        "options": [
+          "Abraham and David",
+          "Moses and Elijah",
+          "Noah and Daniel",
+          "Joshua and Samuel"
+        ],
+        "correctIndex": 1,
+        "reference": "Matthew 17:3",
+        "explanation": "Matthew 17:3 states: 'Behold, Moses and Elijah appeared to them talking with him.'"
+      },
+      {
+        "id": "q257_3",
+        "type": "multiple_choice",
+        "question": "What did the voice out of the bright cloud command the disciples to do regarding Jesus?",
+        "options": [
+          "Build three shrines",
+          "Listen to him",
+          "Run down the mountain",
+          "Fast for forty days"
+        ],
+        "correctIndex": 1,
+        "reference": "Matthew 17:5",
+        "explanation": "The Father's voice out of the cloud declared: 'This is my beloved Son, in whom I am well pleased. Listen to him.'"
+      },
+      {
+        "id": "q257_4",
+        "type": "true_false",
+        "question": "When the disciples opened their eyes after Jesus touched them, Moses and Elijah were still standing beside Him.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Matthew 17:8",
+        "explanation": "False. Matthew 17:8 says: 'Lifting up their eyes, they saw no one, except Jesus alone.'"
+      },
+      {
+        "id": "q257_5",
+        "type": "multiple_choice",
+        "question": "According to 2 Peter 1:16, what did the apostles attest about their message?",
+        "options": [
+          "They had discovered a secret philosophy",
+          "They were eyewitnesses of His majesty",
+          "They were repeating folklore from Babylon",
+          "They had invented symbolic myths"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Peter 1:16",
+        "explanation": "Peter insists: 'we were eyewitnesses of his majesty.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, I behold Your unveiled glory with wonder and trembling thanksgiving. You are not merely a moral philosopher or an ancient prophet; You are the Beloved Son of the Living God, radiating the uncreated light of heaven. Forgive me for the casual, hurried ways I often approach Your holy presence. Quiet the frantic noise of my thoughts and the conflicting opinions of this world so that I may truly listen to You. Reach out Your hand to touch my fearful soul, lift me from the dust, and let my eyes be fixed on You alone as I walk through every valley.",
+      "versePrayerLine": "Behold, a voice out of the cloud said, “This is my beloved Son, in whom I am well pleased. Listen to him.”",
+      "prompt": "Sit in silent reverence for two minutes: ask the Lord to quiet other voices and tune your spiritual ears to His singular command."
+    }
+  },
+  "258": {
+    "day": 258,
+    "character": "The Father of the Epileptic Boy",
+    "season": "The Valley of Despair: 'Lord, I Believe; Help My Unbelief!'",
+    "theme": "Honest, tear-stained admission of human weakness invites the delivering power of Christ into impossible situations.",
+    "memoryVerse": {
+      "reference": "Mark 9:24",
+      "text": "Immediately the father of the child cried out with tears, “I believe, Lord. Help my unbelief!”",
+      "whyItMatters": "God does not demand flawless, unshakable faith before He acts; He honors the desperate, honest heart that brings its brokenness straight to Jesus.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "cried",
+          "tears",
+          "believe",
+          "Help",
+          "unbelief"
+        ],
+        "firstLetters": "I t f o t c c o w t, “I b, L. H m u!”"
+      }
+    },
+    "profile": {
+      "title": "The Father of the Epileptic Boy: The Cry of Desperate Faith",
+      "who": "An anguished father whose only son was possessed by a mute and violent spirit that threw the boy into fire and water from childhood; after the nine disciples in the valley failed to cast it out, the father ran to Jesus, uttering the immortal paradox of struggling faith.",
+      "whenAndWhere": "The foot of Mount Hermon, Galilee/Perea, circa AD 29.",
+      "family": "A tormented, mute boy (his only son).",
+      "keyMoments": [
+        "Watching his son suffer violent convulsions, foam at the mouth, and grind his teeth for years.",
+        "Bringing the boy to Jesus' disciples while the Master was on the mountain, only to see them fail completely.",
+        "Hearing Jesus ask him how long the child had suffered, and pleading: 'If you can do anything, have compassion on us.'",
+        "Bursting into tears upon hearing Jesus' rebuke ('If you can believe! All things are possible to him who believes') and crying: 'I believe, Lord. Help my unbelief!'",
+        "Watching Jesus command the foul spirit to depart forever, and receiving his fully restored son back into his arms."
+      ],
+      "strengths": "Deep paternal devotion, persistence despite bitter disappointment, radical transparency about his inner doubts.",
+      "failures": "Initially conditioned his request with a hesitant 'if you can do anything,' doubting Christ's full ability."
+    },
+    "scripture": [
+      {
+        "reference": "Mark 9",
+        "title": "Healing the Boy with an Evil Spirit",
+        "verses": [
+          {
+            "number": 17,
+            "text": "One of the multitude answered, “Teacher, I brought to you my son, who has a mute spirit;"
+          },
+          {
+            "number": 18,
+            "text": "and wherever it seizes him, it throws him down, and he foams at the mouth, and grinds his teeth, and wastes away. I asked your disciples to cast it out, and they weren’t able.”"
+          },
+          {
+            "number": 19,
+            "text": "He answered him, “Unbelieving generation, how long will I be with you? How long will I bear with you? Bring him to me.”"
+          },
+          {
+            "number": 21,
+            "text": "He asked his father, “How long has it been which has come to him?” He said, “From childhood."
+          },
+          {
+            "number": 22,
+            "text": "Often it has cast him both into the fire and into the water, to destroy him. But if you can do anything, have compassion on us, and help us.”"
+          },
+          {
+            "number": 23,
+            "text": "Jesus said to him, “If you can believe, all things are possible to him who believes.”"
+          },
+          {
+            "number": 24,
+            "text": "Immediately the father of the child cried out with tears, “I believe, Lord. Help my unbelief!”"
+          },
+          {
+            "number": 25,
+            "text": "When Jesus saw that a multitude came running together, he rebuked the unclean spirit, saying to him, “You mute and deaf spirit, I command you, come out of him, and never enter him again!”"
+          },
+          {
+            "number": 27,
+            "text": "But Jesus took him by the hand, and raised him up; and he arose."
+          }
+        ]
+      },
+      {
+        "reference": "Luke 9",
+        "title": "The Valley Battle and God's Majesty",
+        "verses": [
+          {
+            "number": 38,
+            "text": "Behold, a man from the crowd called out, saying, “Teacher, I beg you to look at my son, for he is my only child."
+          },
+          {
+            "number": 39,
+            "text": "Behold, a spirit takes him, and he suddenly cries out, and it convulses him so that he foams at the mouth, and it is hard for it to leave him, bruising him severely."
+          },
+          {
+            "number": 40,
+            "text": "I begged your disciples to cast it out, and they couldn’t.”"
+          },
+          {
+            "number": 42,
+            "text": "While he was still coming, the demon threw him down and convulsed him violently. But Jesus rebuked the unclean spirit, and healed the boy, and gave him back to his father."
+          },
+          {
+            "number": 43,
+            "text": "They were all astonished at the majesty of God."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Christ does not wait for our faith to be free of doubts; He meets us at the threshold of our honest cry for help.",
+      "reflection": "Coming down from the glorious mountaintop transfiguration, Jesus steps straight into the messy, chaotic heartbreak of the valley. Here is a father exhausted by years of trauma, watching his beloved only son repeatedly thrown toward destruction by an evil spirit. Worse, the disciples failed publicly, leaving the crowd arguing and the father despondent. When the father timidly says, 'If you can do anything, have compassion on us,' Jesus turns the question back: the issue is never whether Christ can do it; the issue is whether we will trust Him. Stung to the quick, the father does not put on a brave religious mask. He weeps. He confesses both his fragile belief and his lingering unbelief in a single breath: 'Lord, I believe; help my unbelief!' That raw, unpretentious cry is the sweetest music to Jesus' ears. Christ did not turn away because the father's faith was trembling; He took the boy by the hand, silenced the demon forever, and handed the child back whole. God is telling you today: do not wait until your doubts are completely resolved to pray. Bring your trembling faith to Jesus right now."
+    },
+    "lessons": [
+      {
+        "lesson": "Pretending to have strong faith delays healing; authentic confession unleashes God's grace.",
+        "verse": "Mark 9:24",
+        "detail": "Jesus does not despise our honest struggles with doubt; He despises hypocritical pretense that refuses to cry out for mercy.",
+        "question": "What secret doubt or anxiety have you been hiding behind a pious outward facade?"
+      },
+      {
+        "lesson": "The failure of religious people or church leaders must never cause you to abandon Christ Himself.",
+        "verse": "Mark 9:18",
+        "detail": "The nine disciples failed miserably in their own strength, but Jesus Himself was entirely able and willing to rescue the child.",
+        "question": "Has disappointment with other believers ever cooled your expectation of what Christ can do in your life?"
+      },
+      {
+        "lesson": "Jesus reaches into generational and lifelong wounds with absolute authority.",
+        "verse": "Mark 9:21, 25",
+        "detail": "Even though this boy had been tormented since early childhood, decades of demonic oppression evaporated in a single command of Jesus.",
+        "question": "Are you tempted to believe that a longstanding struggle in your life or family is beyond Christ's power to break?"
+      },
+      {
+        "lesson": "All things are possible to the one who anchors their trust in the limitless power of Jesus.",
+        "verse": "Mark 9:23",
+        "detail": "Faith is not believing in our own willpower, but resting our helplessness upon the omnipotent goodness of God.",
+        "question": "How would your prayer requests change today if you genuinely believed that all things are possible with God?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q258_1",
+        "type": "multiple_choice",
+        "question": "What problem did the father report about Jesus' disciples when he brought his son to them?",
+        "options": [
+          "They charged him money",
+          "They weren't able to cast out the spirit",
+          "They were asleep in a tent",
+          "They sent him away angrily"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 9:18",
+        "explanation": "The father explained: 'I asked your disciples to cast it out, and they weren’t able.'"
+      },
+      {
+        "id": "q258_2",
+        "type": "multiple_choice",
+        "question": "How long had the boy been afflicted by this violent spirit?",
+        "options": [
+          "For three days",
+          "Since last Passover",
+          "From childhood",
+          "Only when he was tired"
+        ],
+        "correctIndex": 2,
+        "reference": "Mark 9:21",
+        "explanation": "When Jesus asked how long this had been happening, the father replied: 'From childhood.'"
+      },
+      {
+        "id": "q258_3",
+        "type": "multiple_choice",
+        "question": "What famous cry did the weeping father utter to Jesus?",
+        "options": [
+          "I am righteous, reward me!",
+          "I believe, Lord. Help my unbelief!",
+          "Depart from me, for I am a sinful man!",
+          "Show us a sign from heaven!"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 9:24",
+        "explanation": "Mark 9:24 records: 'Immediately the father of the child cried out with tears, “I believe, Lord. Help my unbelief!”'"
+      },
+      {
+        "id": "q258_4",
+        "type": "true_false",
+        "question": "Jesus refused to heal the boy because the father's faith was imperfect and tinged with doubt.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 9:25-27",
+        "explanation": "False. Jesus immediately rebuked the spirit, took the boy by the hand, raised him up, and gave him back whole to his father."
+      },
+      {
+        "id": "q258_5",
+        "type": "multiple_choice",
+        "question": "According to Luke 9:38, what special status did this boy have to his father?",
+        "options": [
+          "He was his eldest heir",
+          "He was his only child",
+          "He was a young priest",
+          "He was adopted"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 9:38",
+        "explanation": "The father begged Jesus to look at his son, 'for he is my only child.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "O Lord Jesus, I come before You today with no pretenses and no religious masks. You know the exact measure of my faith, and You know the questions and fears that linger in the shadows of my mind. With the desperate father, I cry out from the depths of my soul: I believe, Lord; help my unbelief! Forgive me for measuring Your power by the failures of men or the duration of my struggles. Take my trembling hand and the impossible situations in my family, my health, and my heart. Speak Your authoritative word of deliverance, and glorify the Father's majesty in my life today.",
+      "versePrayerLine": "Immediately the father of the child cried out with tears, “I believe, Lord. Help my unbelief!”",
+      "prompt": "Name the one situation you have almost given up on: hand it over to Jesus right now, saying aloud, 'I believe, Lord; help my unbelief.'"
+    }
+  },
+  "259": {
+    "day": 259,
+    "character": "The Samaritan Woman at Sychar",
+    "season": "Jacob's Well: The Fountain of Living Water",
+    "theme": "Jesus crosses racial and social divides to offer living water that permanently satisfies thirsty sinners.",
+    "memoryVerse": {
+      "reference": "John 4:14",
+      "text": "“but whoever drinks of the water that I will give him will never thirst again; but the water that I will give him will become in him a well of water springing up to eternal life.”",
+      "whyItMatters": "Earthly pleasures leave us repeatedly parched and unsatisfied, but the Holy Spirit given by Christ creates an internal, bubbling fountain of joy that never runs dry.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "drinks",
+          "water",
+          "thirst",
+          "well",
+          "eternal"
+        ],
+        "firstLetters": "“b w d o t w t I w g h w n t a; b t w t I w g h w b i h a w o w s u t e l.”"
+      }
+    },
+    "profile": {
+      "title": "The Samaritan Woman at the Well: Transformed from Shame to Evangelist",
+      "who": "An unnamed Samaritan woman from Sychar carrying a history of five failed marriages and currently living with a man outside of marriage; arriving alone at high noon to avoid community gossip, she encountered Jesus sitting weary by Jacob's well and was thoroughly transformed by His omniscient grace.",
+      "whenAndWhere": "Jacob's Well near Sychar in Samaria, circa AD 28.",
+      "family": "Had five former husbands; living with an unmarried partner.",
+      "keyMoments": [
+        "Coming to draw water at the sixth hour (noon) in the heat of the day to avoid the village women.",
+        "Being stunned when a Jewish Rabbi broke cultural, ethnic, and gender taboos to ask her: 'Give me a drink.'",
+        "Having her secret marital history gently yet unmistakably unmasked by Jesus' prophetic insight.",
+        "Receiving Christ's revelation about worshipping the Father in spirit and truth, and hearing His clear declaration: 'I who speak to you am he.'",
+        "Leaving her water jar behind to run into town shouting: 'Come, see a man who told me everything that I did. Can this be the Christ?'"
+      ],
+      "strengths": "Quick intellectual engagement, honesty when confronted with her sins, bold evangelistic enthusiasm that ignited a revival.",
+      "failures": "Long history of seeking fulfillment through broken romantic relationships, initially deflecting conviction into theological debate."
+    },
+    "scripture": [
+      {
+        "reference": "John 4",
+        "title": "Living Water and the Samaritan Harvest",
+        "verses": [
+          {
+            "number": 7,
+            "text": "A woman of Samaria came to draw water. Jesus said to her, “Give me a drink.”"
+          },
+          {
+            "number": 9,
+            "text": "The Samaritan woman therefore said to him, “How is it that you, being a Jew, ask for a drink from me, a Samaritan woman?” (For Jews have no dealings with Samaritans.)"
+          },
+          {
+            "number": 10,
+            "text": "Jesus answered her, “If you knew the gift of God, and who it is who says to you, ‘Give me a drink,’ you would have asked him, and he would have given you living water.”"
+          },
+          {
+            "number": 13,
+            "text": "Jesus answered her, “Everyone who drinks of this water will thirst again,"
+          },
+          {
+            "number": 14,
+            "text": "but whoever drinks of the water that I will give him will never thirst again; but the water that I will give him will become in him a well of water springing up to eternal life.”"
+          },
+          {
+            "number": 18,
+            "text": "“for you have had five husbands; and he whom you now have is not your husband. This you have said truly.”"
+          },
+          {
+            "number": 23,
+            "text": "“But the hour comes, and now is, when the true worshipers will worship the Father in spirit and truth, for the Father seeks such to be his worshipers."
+          },
+          {
+            "number": 24,
+            "text": "God is spirit, and those who worship him must worship in spirit and truth.”"
+          },
+          {
+            "number": 26,
+            "text": "Jesus said to her, “I who speak to you am he.”"
+          },
+          {
+            "number": 28,
+            "text": "So the woman left her water pot, and went away into the city, and said to the people,"
+          },
+          {
+            "number": 29,
+            "text": "“Come, see a man who told me everything that I did. Can this be the Christ?”"
+          },
+          {
+            "number": 39,
+            "text": "From that city many of the Samaritans believed in him because of the word of the woman, who testified, “He told me everything that I did.”"
+          }
+        ]
+      },
+      {
+        "reference": "Isaiah 12",
+        "title": "Drawing Joyfully from the Wells of Salvation",
+        "verses": [
+          {
+            "number": 1,
+            "text": "In that day you will say, “I will give thanks to you, Yahweh; for though you were angry with me, your anger is turned away, and you comfort me."
+          },
+          {
+            "number": 2,
+            "text": "Behold, God is my salvation. I will trust, and will not be afraid; for Yah, Yahweh, is my strength and song; and he has become my salvation.”"
+          },
+          {
+            "number": 3,
+            "text": "Therefore with joy you will draw water out of the wells of salvation."
+          },
+          {
+            "number": 4,
+            "text": "In that day you will say, “Give thanks to Yahweh! Call on his name! Declare his doings among the peoples! Proclaim that his name is exalted!”"
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Jesus knows every detail of our messy past, yet meets us at our point of deepest thirst to make us worshipers and witnesses.",
+      "reflection": "The journey through Samaria was not an accident—John 4:4 says Jesus 'needed' to pass through Samaria. Divine appointment drove Him to Jacob's well. In the ancient Near East, drawing water at midday was the badge of an outcast; the respected women drew together in the cool of the morning. Here was a woman exhausted by broken covenants, seeking water alone in the scorching sun. Jesus met her with disarming vulnerability, asking for a sip of water, and then offered her the boundless fountain of the Holy Spirit. Notice His tender surgical skill: He did not sweep her sin under the rug, nor did He condemn her with self-righteous scorn. He brought her hidden shame into the light so that He could wash it clean. When she tried to hide behind a debate over mountain shrines, Jesus elevated her gaze to true worship in spirit and truth. And when she surrendered, she left behind the heavy waterpot that defined her old drudgery and ran to evangelize the very neighbors she once avoided. God is reminding us that our past failures do not disqualify us from His grace; when Christ fills us, our former shame becomes our boldest testimony."
+    },
+    "lessons": [
+      {
+        "lesson": "Only Jesus can satisfy the relentless thirst of the human soul.",
+        "verse": "John 4:13-14",
+        "detail": "Relationships, career achievements, and sensual pleasures are broken cisterns; only Christ's living water can quench our spiritual emptiness forever.",
+        "question": "What 'wells' in this world have you been returning to repeatedly, only to end up thirsty again?"
+      },
+      {
+        "lesson": "God's conviction of our sin is always accompanied by the offer of full redemption.",
+        "verse": "John 4:18-19",
+        "detail": "Jesus exposed her five marriages not to humiliate her, but to diagnose the soul-sickness that only His sovereign mercy could heal.",
+        "question": "Are you willing to let Jesus expose the hidden corners of your life so He can cleanse and restore you?"
+      },
+      {
+        "lesson": "True worship is an internal reality of the heart and truth, not mere external geography or ritual.",
+        "verse": "John 4:23-24",
+        "detail": "The Father is not seeking majestic cathedrals or rigid rituals; He seeks sincere hearts bowed in the Holy Spirit and biblical truth.",
+        "question": "Is your worship on Sundays driven by genuine communion with God or mechanical religious routine?"
+      },
+      {
+        "lesson": "When Christ transforms your shame, you naturally leave your old burdens and tell others.",
+        "verse": "John 4:28-29",
+        "detail": "The woman left her heavy water jar behind—the symbol of her daily toil and isolation—to become a blazing missionary to her whole town.",
+        "question": "Has encountering Christ loosened your grip on past regrets so you can tell others of His redeeming mercy?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q259_1",
+        "type": "multiple_choice",
+        "question": "Why did the Samaritan woman express surprise when Jesus asked her for a drink?",
+        "options": [
+          "Because Jesus was carrying His own bucket",
+          "Because Jews had no dealings with Samaritans and rabbis rarely spoke to lone women",
+          "Because the well was dry",
+          "Because she had taken a vow of silence"
+        ],
+        "correctIndex": 1,
+        "reference": "John 4:9",
+        "explanation": "John 4:9 explains that Jews had no dealings with Samaritans, making Jesus' request shocking across ethnic and gender barriers."
+      },
+      {
+        "id": "q259_2",
+        "type": "multiple_choice",
+        "question": "What did Jesus say would happen to anyone who drinks the water He provides?",
+        "options": [
+          "They will need to wash three times a day",
+          "They will never thirst again, and it will become a well springing to eternal life",
+          "They will immediately become wealthy",
+          "They will never experience physical hunger"
+        ],
+        "correctIndex": 1,
+        "reference": "John 4:14",
+        "explanation": "Jesus declared that whoever drinks His water will never thirst again, but it will spring up to eternal life."
+      },
+      {
+        "id": "q259_3",
+        "type": "multiple_choice",
+        "question": "How many husbands did Jesus reveal the Samaritan woman had previously had?",
+        "options": [
+          "Two",
+          "Three",
+          "Five",
+          "Seven"
+        ],
+        "correctIndex": 2,
+        "reference": "John 4:18",
+        "explanation": "Jesus stated: 'for you have had five husbands; and he whom you now have is not your husband.'"
+      },
+      {
+        "id": "q259_4",
+        "type": "true_false",
+        "question": "Jesus said true worshipers must travel specifically to Jerusalem rather than worshiping anywhere in spirit and truth.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "John 4:21-24",
+        "explanation": "False. Jesus taught that the hour has come when true worshipers worship the Father in spirit and truth, regardless of the mountain."
+      },
+      {
+        "id": "q259_5",
+        "type": "multiple_choice",
+        "question": "What did the woman leave behind at the well when she ran into the city to tell the people about Jesus?",
+        "options": [
+          "Her veil",
+          "Her sandals",
+          "Her water pot",
+          "Her money pouch"
+        ],
+        "correctIndex": 2,
+        "reference": "John 4:28",
+        "explanation": "John 4:28 says: 'So the woman left her water pot, and went away into the city...'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus, I thank You that You came seeking weary and broken outcasts like me. Forgive me for digging broken cisterns of approval, achievement, and worldly pleasure that can never satisfy my deepest thirst. Fill me today with Your Holy Spirit—let Your living water spring up within me as a perpetual fountain of life, joy, and peace. Strip away every mask of hypocrisy, heal every wound of former shame, and give me the boldness of the Samaritan woman to invite everyone around me to come and meet the Savior who knows everything about us and loves us still.",
+      "versePrayerLine": "“whoever drinks of the water that I will give him will never thirst again; but the water that I will give him will become in him a well of water springing up to eternal life.”",
+      "prompt": "Identify any 'waterpot' of past shame or futile habits you need to drop at Jesus' feet right now."
+    }
+  },
+  "260": {
+    "day": 260,
+    "character": "Nicodemus",
+    "season": "Night Visitor to Bold Disciple: You Must Be Born Again",
+    "theme": "The boundless love of God offers supernatural new birth to religious scholars and sinners alike.",
+    "memoryVerse": {
+      "reference": "John 3:16",
+      "text": "For God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.",
+      "whyItMatters": "This golden verse of Scripture summarizes the entire Gospel: the Father's unconditional love, the sacrificial gift of the Son, and the simple invitation to trust Him and receive everlasting life.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "loved",
+          "world",
+          "gave",
+          "believes",
+          "eternal"
+        ],
+        "firstLetters": "F G s l t w, t h g h o a o S, t w b i h s n p, b h e l."
+      }
+    },
+    "profile": {
+      "title": "Nicodemus: The Pharisee Who Stepped Out of the Shadows into the Light",
+      "who": "A Pharisee, member of the Jewish ruling Sanhedrin, and renowned 'teacher of Israel' who initially approached Jesus under cover of darkness to question His signs, received the staggering doctrine of regeneration from above, and eventually defended Jesus before the council and boldly prepared His body for burial.",
+      "whenAndWhere": "Jerusalem, Judea, circa AD 28–30.",
+      "family": "Prominent aristocratic Jewish ruling family.",
+      "keyMoments": [
+        "Coming to Jesus by night, acknowledging Him as a teacher come from God due to His miracles.",
+        "Being completely bewildered by Jesus' declaration: 'Unless one is born anew, he can’t see God's Kingdom.'",
+        "Hearing the Gospel revealed in miniature: the serpent lifted up in the wilderness and the boundless gift of John 3:16.",
+        "Speaking up courageously in the Sanhedrin against unfair condemnation: 'Does our law judge a man, unless it first hears from him?' (John 7:51).",
+        "Stepping into broad daylight after the Crucifixion alongside Joseph of Arimathea, bringing a hundred pounds of myrrh and aloes to honor the Lord's body (John 19:39)."
+      ],
+      "strengths": "Intellectual honesty, genuine search for truth, moral courage that steadily grew from timid secrecy to open devotion.",
+      "failures": "Initially hindered by religious pride and human fear of peer disapproval, stumbling over the mystery of grace."
+    },
+    "scripture": [
+      {
+        "reference": "John 3",
+        "title": "The New Birth and the Great Love of God",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews."
+          },
+          {
+            "number": 2,
+            "text": "The same came to him by night, and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do, unless God is with him.”"
+          },
+          {
+            "number": 3,
+            "text": "Jesus answered him, “Most certainly, I tell you, unless one is born anew, he can’t see God’s Kingdom.”"
+          },
+          {
+            "number": 4,
+            "text": "Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb, and be born?”"
+          },
+          {
+            "number": 5,
+            "text": "Jesus answered, “Most certainly I tell you, unless one is born of water and spirit, he can’t enter into God’s Kingdom."
+          },
+          {
+            "number": 6,
+            "text": "That which is born of the flesh is flesh. That which is born of the Spirit is spirit."
+          },
+          {
+            "number": 14,
+            "text": "As Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up,"
+          },
+          {
+            "number": 15,
+            "text": "that whoever believes in him should not perish, but have eternal life."
+          },
+          {
+            "number": 16,
+            "text": "For God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life."
+          },
+          {
+            "number": 17,
+            "text": "For God didn’t send his Son into the world to judge the world, but that the world should be saved through him."
+          }
+        ]
+      },
+      {
+        "reference": "Ezekiel 36",
+        "title": "A New Heart and a New Spirit",
+        "verses": [
+          {
+            "number": 25,
+            "text": "I will sprinkle clean water on you, and you will be clean. I will cleanse you from all your filthiness, and from all your idols."
+          },
+          {
+            "number": 26,
+            "text": "I will also give you a new heart, and I will put a new spirit within you. I will take away the stony heart out of your flesh, and I will give you a heart of flesh."
+          },
+          {
+            "number": 27,
+            "text": "I will put my Spirit within you, and cause you to walk in my statutes. You will keep my ordinances and do them."
+          },
+          {
+            "number": 28,
+            "text": "You will dwell in the land that I gave to your fathers. You will be my people, and I will be your God."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Morality and religious credentials cannot earn heaven; every human heart requires supernatural regeneration by the Spirit of God.",
+      "reflection": "If anyone on earth seemed eligible for the Kingdom of God by human standards, it was Nicodemus. He was a Pharisee of impeccable moral discipline, a respected ruler of the Sanhedrin, and a master scholar steeped in the Scriptures. Yet Jesus swept all his credentials off the table in His very first sentence: 'Unless one is born anew, he cannot see the Kingdom of God.' Education cannot reform the fallen human nature; religious ritual cannot polish it into holiness. What is born of flesh remains flesh. Only the sovereign wind of the Holy Spirit, washing our souls with the clean water of Ezekiel 36 and imparting a new heart, can bring spiritual life. And how does this miraculous birth occur? Jesus pointed Nicodemus back to Numbers 21: just as poisoned Israelites looked in faith at the bronze serpent lifted on a pole, so sinners look to Christ lifted up on the cross. John 3:16 anchors this mystery in the infinite, beating heart of the Father: God loved this rebel world so immensely that He gave His supreme treasure—His only Son—so that anyone who believes will never perish."
+    },
+    "lessons": [
+      {
+        "lesson": "Religious pedigree and outward morality can never substitute for the supernatural new birth.",
+        "verse": "John 3:3, 6",
+        "detail": "Going to church, knowing theology, and living an upright life do not save; our dead spirits must be awakened to life by the Holy Spirit.",
+        "question": "Can you point to a real work of the Holy Spirit regenerating your heart, rather than merely trusting in religious upbringing?"
+      },
+      {
+        "lesson": "Faith looks to the crucified Savior just as Israel looked to the lifted serpent for healing.",
+        "verse": "John 3:14-15",
+        "detail": "We do not heal ourselves by striving; salvation comes through looking in humble reliance upon Jesus who took the venom of our sin on the cross.",
+        "question": "Are you still trying to cure your own moral failings, or casting your gaze wholly on the finished work of Christ?"
+      },
+      {
+        "lesson": "God's motivation in redemption is extravagant, self-giving love, not condemning wrath.",
+        "verse": "John 3:16-17",
+        "detail": "Jesus did not come to execute immediate judgment on a guilty planet, but to extend a rescue mission paid for with His own blood.",
+        "question": "Do you view God primarily as an angry judge waiting for you to slip, or as a loving Father who gave His all to save you?"
+      },
+      {
+        "lesson": "True faith may start timidly in the dark, but it inevitably grows into bold, open allegiance.",
+        "verse": "John 19:39",
+        "detail": "Nicodemus began by creeping through Jerusalem's alleyways at night, but in the end he publicly identified with the crucified Lord.",
+        "question": "Are you hiding your discipleship out of fear of peers, or stepping into the light of public devotion to Jesus?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q260_1",
+        "type": "multiple_choice",
+        "question": "What religious and political group did Nicodemus belong to?",
+        "options": [
+          "The Sadducees",
+          "The Pharisees and Jewish ruling council",
+          "The Essenes of Qumran",
+          "The Roman Senate"
+        ],
+        "correctIndex": 1,
+        "reference": "John 3:1",
+        "explanation": "John 3:1 states: 'Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.'"
+      },
+      {
+        "id": "q260_2",
+        "type": "multiple_choice",
+        "question": "What must happen to a person before they can see or enter the Kingdom of God, according to Jesus?",
+        "options": [
+          "They must memorize the entire Torah",
+          "They must be born anew (born of water and Spirit)",
+          "They must donate all their wealth to the temple",
+          "They must enter a monastery"
+        ],
+        "correctIndex": 1,
+        "reference": "John 3:3, 5",
+        "explanation": "Jesus insisted: 'unless one is born anew, he can’t see God’s Kingdom' and must be 'born of water and spirit.'"
+      },
+      {
+        "id": "q260_3",
+        "type": "multiple_choice",
+        "question": "What Old Testament event did Jesus cite to illustrate how the Son of Man must be lifted up?",
+        "options": [
+          "Noah building the ark",
+          "Moses lifting up the serpent in the wilderness",
+          "Elijah calling down fire on Mount Carmel",
+          "David slaying Goliath"
+        ],
+        "correctIndex": 1,
+        "reference": "John 3:14",
+        "explanation": "Jesus said: 'As Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up.'"
+      },
+      {
+        "id": "q260_4",
+        "type": "true_false",
+        "question": "According to John 3:17, God sent His Son into the world primarily to condemn the world.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "John 3:17",
+        "explanation": "False. John 3:17 declares: 'For God didn’t send his Son into the world to judge the world, but that the world should be saved through him.'"
+      },
+      {
+        "id": "q260_5",
+        "type": "multiple_choice",
+        "question": "What did God promise to do for His people in Ezekiel 36:26?",
+        "options": [
+          "Give them victory over all Roman legions",
+          "Give them a new heart, a new spirit, and remove their stony heart",
+          "Rebuild Solomon's golden palace",
+          "Make them wealthy merchants"
+        ],
+        "correctIndex": 1,
+        "reference": "Ezekiel 36:26",
+        "explanation": "God promised: 'I will also give you a new heart, and I will put a new spirit within you. I will take away the stony heart...'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Gracious Father, I stand in absolute awe of Your boundless love. You did not abandon this rebellious world to its deserved condemnation, but gave Your only begotten Son to die upon the cross that I might live. Thank You for the miracle of the new birth—that You took away my hard, stony heart of self-righteousness and breathed Your Holy Spirit into my soul. Like Nicodemus, lead me out of the shadows of timid compromise into the blazing daylight of courageous devotion. May my entire life proclaim the wonder of Your sovereign grace to a dying world.",
+      "versePrayerLine": "For God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.",
+      "prompt": "Rest in God's love: thank Him for the exact moment He gave you spiritual new birth and opened your eyes to Christ."
+    }
+  },
+  "261": {
+    "day": 261,
+    "character": "The Man Born Blind",
+    "season": "The Pool of Siloam: 'One Thing I Know: I Was Blind, Now I See!'",
+    "theme": "An undeniable personal encounter with Christ silences the theological skepticism of the proud.",
+    "memoryVerse": {
+      "reference": "John 9:25",
+      "text": "He therefore answered, “I don’t know if he is a sinner. One thing I know: that though I was blind, now I see.”",
+      "whyItMatters": "Skeptics and critics can argue with abstract theological theories, but no one can dismantle the undeniable testimony of a life transformed by the power of Jesus Christ.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "answered",
+          "sinner",
+          "blind",
+          "now",
+          "see"
+        ],
+        "firstLetters": "H t a, “I d k i h i a s. O t I k: t t I w b, n I s.”"
+      }
+    },
+    "profile": {
+      "title": "The Man Born Blind: The Unshakable Beggar Who Stood Down the Sanhedrin",
+      "who": "A man blind from birth who survived by begging outside the Jerusalem temple; after Jesus anointed his eyes with clay and sent him to wash in the Pool of Siloam, he received sight, fearlessly withstood intimidating interrogation by the religious authorities, and fell in worship before Jesus as the Son of God.",
+      "whenAndWhere": "Jerusalem, near the Pool of Siloam and the Temple, circa AD 29.",
+      "family": "Parents lived in Jerusalem (who were intimidated by the Pharisees' threat of synagogue expulsion).",
+      "keyMoments": [
+        "Sitting in lifelong darkness, being treated as an object lesson of divine punishment by the disciples.",
+        "Having mud placed on his eyes by Jesus and obeying the command to go wash in the Pool of Siloam.",
+        "Returning with blazing vision, causing astonishment among his neighbors who doubted his identity.",
+        "Being interrogated repeatedly by the Pharisees and boldly refuting their insults with common-sense logic.",
+        "Being cast out of the synagogue, only to be found by Jesus, who revealed Himself as the Son of God, prompting the man's cry: 'Lord, I believe!' and falling to worship Him."
+      ],
+      "strengths": "Instant obedience to Christ's strange instruction, unflinching courage under hostile cross-examination, honest loyalty to the truth.",
+      "failures": "Initially had very limited understanding of who Jesus was, referring to Him first merely as 'a man called Jesus.'"
+    },
+    "scripture": [
+      {
+        "reference": "John 9",
+        "title": "Sight to the Blind and Blindness to the Proud",
+        "verses": [
+          {
+            "number": 1,
+            "text": "As he passed by, he saw a man blind from birth."
+          },
+          {
+            "number": 2,
+            "text": "His disciples asked him, “Rabbi, who sinned, this man or his parents, that he was born blind?”"
+          },
+          {
+            "number": 3,
+            "text": "Jesus answered, “This isn’t because this man sinned, nor his parents; but that the works of God might be revealed in him."
+          },
+          {
+            "number": 6,
+            "text": "When he had said this, he spat on the ground, made mud with the saliva, anointed the blind man’s eyes with the mud,"
+          },
+          {
+            "number": 7,
+            "text": "and said to him, “Go, wash in the pool of Siloam” (which means “Sent”). So he went away, washed, and came back seeing."
+          },
+          {
+            "number": 24,
+            "text": "So they called the man who was blind a second time, and said to him, “Give glory to God. We know that this man is a sinner.”"
+          },
+          {
+            "number": 25,
+            "text": "He therefore answered, “I don’t know if he is a sinner. One thing I know: that though I was blind, now I see.”"
+          },
+          {
+            "number": 34,
+            "text": "They answered him, “You were altogether born in sins, and do you teach us?” Then they threw him out."
+          },
+          {
+            "number": 35,
+            "text": "Jesus heard that they had thrown him out, and finding him, he said, “Do you believe in the Son of God?”"
+          },
+          {
+            "number": 38,
+            "text": "He said, “Lord, I believe!” and he worshiped him."
+          }
+        ]
+      },
+      {
+        "reference": "Psalm 146",
+        "title": "Yahweh Opens the Eyes of the Blind",
+        "verses": [
+          {
+            "number": 5,
+            "text": "Happy is he who has the God of Jacob for his help, whose hope is in Yahweh, his God:"
+          },
+          {
+            "number": 7,
+            "text": "who executes justice for the oppressed; who gives food to the hungry. Yahweh frees the prisoners."
+          },
+          {
+            "number": 8,
+            "text": "Yahweh opens the eyes of the blind. Yahweh raises up those who are bowed down. Yahweh loves the righteous."
+          },
+          {
+            "number": 10,
+            "text": "Yahweh will reign forever; your God, O Zion, to all generations. Praise Yah!"
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Christ turns our deepest suffering into a canvas for God's glory, and seeks out the rejected who are cast out for His name.",
+      "reflection": "When the disciples saw the blind beggar, their first reaction was cold, theoretical speculation: 'Who sinned, this man or his parents?' We love to turn other people's pain into abstract theological debates. But Jesus shattered their fatalistic assumptions: this blindness was not a personal retribution for sin, but an opportunity for the mighty works of God to be displayed in him! Jesus spat on the ground, anointed his eyes with clay, and sent him stumbling down to Siloam. Obedience produced sight. But physical sight was only stage one; the real drama unfolded under the hostile glare of the religious elite. While his own parents cowered in fear of being excommunicated, this uneducated beggar ran rings around the Pharisees with ironclad logic: 'Never since the world began has it been heard that anyone opened the eyes of a man born blind. If this man were not from God, he could do nothing!' Infuriated, they excommunicated him. But notice what happened next: the moment religion cast him out, Jesus came looking for him. Rejection by the world is often the very doorway to the most intimate, life-changing encounter with the Son of God."
+    },
+    "lessons": [
+      {
+        "lesson": "Your personal testimony of what Jesus has done for you is an unshakeable weapon against skepticism.",
+        "verse": "John 9:25",
+        "detail": "You do not need a theology doctorate to witness for Christ; simple honesty about your personal transformation ('I was blind, now I see') carries unstoppable power.",
+        "question": "Can you summarize your personal testimony of Christ's transforming power in one or two sentences?"
+      },
+      {
+        "lesson": "Tragedy and affliction in your life are not signs of abandonment, but platforms for God's glory.",
+        "verse": "John 9:3",
+        "detail": "God often permits prolonged difficulty so that when His delivering grace breaks through, His majestic power is unmistakably magnified.",
+        "question": "How might God be intending to display His glory through the difficult circumstances you are facing right now?"
+      },
+      {
+        "lesson": "When religious or worldly systems reject you for standing with Christ, Jesus will personally seek you out.",
+        "verse": "John 9:35",
+        "detail": "The man was cast out of the synagogue into loneliness, but Jesus heard about it and immediately sought him out to reveal His full identity.",
+        "question": "Have you ever experienced social rejection for your faith? Did you feel Christ's comforting presence drawn near?"
+      },
+      {
+        "lesson": "True sight progresses from knowing Jesus as a miracle-worker to bowing before Him in worship as Lord.",
+        "verse": "John 9:38",
+        "detail": "The blind man started by calling Jesus 'a man,' then 'a prophet,' and finally confessed 'Lord, I believe!' and fell prostrate in worship.",
+        "question": "Is your relationship with Jesus growing deeper in personal worship, or stuck at mere intellectual acknowledgment?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q261_1",
+        "type": "multiple_choice",
+        "question": "What did the disciples assume caused the man's congenital blindness?",
+        "options": [
+          "A physical injury at birth",
+          "Either the man's personal sin or his parents' sin",
+          "A curse from a Roman soldier",
+          "Poor nutrition in the village"
+        ],
+        "correctIndex": 1,
+        "reference": "John 9:2",
+        "explanation": "The disciples asked: 'Rabbi, who sinned, this man or his parents, that he was born blind?'"
+      },
+      {
+        "id": "q261_2",
+        "type": "multiple_choice",
+        "question": "To which pool did Jesus send the man to wash the mud from his eyes?",
+        "options": [
+          "Pool of Bethesda",
+          "Pool of Siloam",
+          "Sea of Galilee",
+          "River Jordan"
+        ],
+        "correctIndex": 1,
+        "reference": "John 9:7",
+        "explanation": "John 9:7 states: 'Go, wash in the pool of Siloam (which means “Sent”). So he went away, washed, and came back seeing.'"
+      },
+      {
+        "id": "q261_3",
+        "type": "multiple_choice",
+        "question": "What memorable answer did the healed man give the Pharisees when they claimed Jesus was a sinner?",
+        "options": [
+          "I will call my lawyer",
+          "One thing I know: that though I was blind, now I see",
+          "You are the rulers, you decide",
+          "I want my blindness back"
+        ],
+        "correctIndex": 1,
+        "reference": "John 9:25",
+        "explanation": "The man boldly stated: 'One thing I know: that though I was blind, now I see.'"
+      },
+      {
+        "id": "q261_4",
+        "type": "true_false",
+        "question": "The man's parents boldly defended Jesus before the Pharisees without any fear of expulsion.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "John 9:22",
+        "explanation": "False. His parents deflected questions because they feared the Jews, who had agreed to excommunicate anyone confessing Christ."
+      },
+      {
+        "id": "q261_5",
+        "type": "multiple_choice",
+        "question": "What did Jesus do when He heard that the Pharisees had thrown the man out of the synagogue?",
+        "options": [
+          "He left Jerusalem immediately",
+          "He found him and asked, 'Do you believe in the Son of God?'",
+          "He protested to the Roman governor",
+          "He sent him back with a letter of appeal"
+        ],
+        "correctIndex": 1,
+        "reference": "John 9:35",
+        "explanation": "John 9:35 records: 'Jesus heard that they had thrown him out, and finding him, he said, “Do you believe in the Son of God?”'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, Light of the World, I praise You for opening the blinded eyes of my heart. Once I was dead in spiritual darkness, alienated from God and unable to see the beauty of Your truth. But You touched me with Your sovereign grace, washed away my defilement, and gave me eyes to behold Your glory. Grant me the unbending courage of this healed beggar. When the world mocks my faith or threatens rejection, let me stand firm upon this one unshakeable truth: though I was once blind in sin, now by Your blood I see. Find me in every hour of loneliness, Lord, and receive my humble worship.",
+      "versePrayerLine": "“One thing I know: that though I was blind, now I see.”",
+      "prompt": "Pray for someone you know who is spiritually blind today: ask Jesus to open their eyes through the undeniable witness of your life."
+    }
+  },
+  "262": {
+    "day": 262,
+    "character": "Jesus",
+    "season": "The Good Shepherd: The Shepherd Who Lays Down His Life for the Sheep",
+    "theme": "The Good Shepherd guards His flock with sacrificial love, ensuring that no one can snatch them from His hand.",
+    "memoryVerse": {
+      "reference": "John 10:11",
+      "text": "“I am the good shepherd. The good shepherd lays down his life for the sheep.”",
+      "whyItMatters": "Unlike hirelings who flee when wolves attack, our Savior voluntarily laid down His life on the cross to rescue, protect, and eternally secure His beloved flock.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "good",
+          "shepherd",
+          "lays",
+          "life",
+          "sheep"
+        ],
+        "firstLetters": "“I a t g s. T g s l d h l f t s.”"
+      }
+    },
+    "profile": {
+      "title": "Jesus the Good Shepherd: The Guardian and Bishop of Our Souls",
+      "who": "Jesus Christ, the true Shepherd of Israel prophesied in Ezekiel 34 and Psalm 23, who calls His own sheep by name, leads them into lush pastures of grace, protects them from predatory wolves, and willingly surrendered His own life on Calvary so that His sheep might have life in boundless abundance.",
+      "whenAndWhere": "Jerusalem, at the Temple during the Feast of Dedication (Hanukkah), circa AD 29.",
+      "family": "The Eternal Son of God, the Great Shepherd of the sheep.",
+      "keyMoments": [
+        "Contrasting Himself with false shepherds and thieves who come only to steal, kill, and destroy.",
+        "Proclaiming: 'I am the door of the sheep. If anyone enters in by me, he will be saved.'",
+        "Declaring that He knows His sheep intimately by name, and His sheep recognize His voice and follow Him.",
+        "Revealing His sovereign authority to voluntarily lay down His life and take it up again.",
+        "Giving the ultimate guarantee of eternal security: 'No one will snatch them out of my hand... and no one is able to snatch them out of my Father's hand.'"
+      ],
+      "strengths": "Infinite sacrificial love, omnipotent protective power, intimate personal knowledge of every single believer.",
+      "failures": "None; The spotless Lamb and supreme Shepherd."
+    },
+    "scripture": [
+      {
+        "reference": "John 10",
+        "title": "The Good Shepherd and His Flock",
+        "verses": [
+          {
+            "number": 7,
+            "text": "Jesus therefore said to them again, “Most certainly, I tell you, I am the sheep’s door."
+          },
+          {
+            "number": 9,
+            "text": "I am the door. If anyone enters in by me, he will be saved, and will go in and go out, and will find pasture."
+          },
+          {
+            "number": 10,
+            "text": "The thief only comes to steal, kill, and destroy. I came that they may have life, and may have it abundantly."
+          },
+          {
+            "number": 11,
+            "text": "I am the good shepherd. The good shepherd lays down his life for the sheep."
+          },
+          {
+            "number": 14,
+            "text": "I am the good shepherd. I know my own, and I’m known by my own;"
+          },
+          {
+            "number": 15,
+            "text": "even as the Father knows me, and I know the Father. I lay down my life for the sheep."
+          },
+          {
+            "number": 27,
+            "text": "My sheep hear my voice, and I know them, and they follow me."
+          },
+          {
+            "number": 28,
+            "text": "I give eternal life to them. They will never perish, and no one will snatch them out of my hand."
+          },
+          {
+            "number": 29,
+            "text": "My Father, who has given them to me, is greater than all. No one is able to snatch them out of my Father’s hand."
+          },
+          {
+            "number": 30,
+            "text": "I and the Father are one.”"
+          }
+        ]
+      },
+      {
+        "reference": "Psalm 23",
+        "title": "Yahweh Is My Shepherd",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Yahweh is my shepherd: I shall lack nothing."
+          },
+          {
+            "number": 2,
+            "text": "He makes me lie down in green pastures. He leads me beside still waters."
+          },
+          {
+            "number": 3,
+            "text": "He restores my soul. He guides me in the paths of righteousness for his name’s sake."
+          },
+          {
+            "number": 4,
+            "text": "Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me. Your rod and your staff, they comfort me."
+          },
+          {
+            "number": 6,
+            "text": "Surely goodness and loving kindness shall follow me all the days of my life, and I will dwell in Yahweh’s house forever."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "You are not a forgotten number in a faceless crowd; the Good Shepherd knows your name, bought you with His blood, and holds you in an unbreakable grip.",
+      "reflection": "In the ancient world, sheep were helpless, defenseless creatures prone to wandering and prey to wolves and bandits. A hireling worked merely for wages; when the fangs of the wolf appeared in the shadows, the hireling ran to save his own skin, leaving the flock to be slaughtered. But Jesus steps forward and says: 'I am the Good Shepherd.' What makes Him good? First, His sacrificial love: He did not run from the cross; He laid down His life between us and the wrath of God. Second, His intimate knowledge: He knows your exact temperament, your secret tears, your weaknesses, and your name. Third, His absolute protection: in John 10:28-29, Jesus gives a double lock on our eternal security. Believers are held in the pierced hand of the Son, and enveloped in the omnipotent hand of the Father. No demon, no failure, no power in heaven or hell can pry open that divine grip. When fear whispers that you are abandoned or that you will stumble into ruin, listen to the calm, steady voice of your Shepherd: you are His, and He will guide you safely all the way home."
+    },
+    "lessons": [
+      {
+        "lesson": "Jesus came to give us abundant, overflowing life, not an anxious religious existence.",
+        "verse": "John 10:10",
+        "detail": "Satan seeks to steal your joy, kill your hope, and destroy your soul; Christ came that you might thrive in the fullness of God's peace and purpose.",
+        "question": "Are you living in the joyful abundance of Christ's life, or settling for a joyless, survival-mode religion?"
+      },
+      {
+        "lesson": "True disciples learn to distinguish the Shepherd's gentle voice from the deceitful clamor of the world.",
+        "verse": "John 10:27",
+        "detail": "Christ's sheep hear His voice through Scripture and the Holy Spirit, rejecting the toxic sirens of temptation and false doctrine.",
+        "question": "What practical steps can you take to quiet worldly distractions so you can hear Jesus' voice more clearly?"
+      },
+      {
+        "lesson": "Our salvation rests securely in the double grip of the Son and the Father.",
+        "verse": "John 10:28-29",
+        "detail": "No believer is kept by their own feeble strength; we are kept by the omnipotent power of God, from whose hands no one can snatch us.",
+        "question": "Does the truth of Christ's unbreakable grip give you peace when you feel spiritually weak or fearful?"
+      },
+      {
+        "lesson": "Because the Lord is our Shepherd, we lack nothing essential for this life or the next.",
+        "verse": "Psalm 23:1",
+        "detail": "When we trust Jesus to shepherd our finances, relationships, and health, we can rest knowing He provides every green pasture and still water we need.",
+        "question": "In what specific area are you struggling with anxiety over lack, forgetting that Yahweh is your Shepherd?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q262_1",
+        "type": "multiple_choice",
+        "question": "What does the Good Shepherd do for the sheep, in contrast to a hired hand?",
+        "options": [
+          "Sells them at the market",
+          "Flees when the wolf comes",
+          "Lays down his life for the sheep",
+          "Demands heavy taxes"
+        ],
+        "correctIndex": 2,
+        "reference": "John 10:11-12",
+        "explanation": "Jesus stated: 'I am the good shepherd. The good shepherd lays down his life for the sheep.'"
+      },
+      {
+        "id": "q262_2",
+        "type": "multiple_choice",
+        "question": "According to John 10:10, what is the thief's purpose versus Jesus' purpose?",
+        "options": [
+          "The thief wants friendship; Jesus wants rules",
+          "The thief comes to steal, kill, and destroy; Jesus came to give abundant life",
+          "The thief wants knowledge; Jesus wants silence",
+          "The thief builds fences; Jesus opens gates"
+        ],
+        "correctIndex": 1,
+        "reference": "John 10:10",
+        "explanation": "Jesus said: 'The thief only comes to steal, kill, and destroy. I came that they may have life, and may have it abundantly.'"
+      },
+      {
+        "id": "q262_3",
+        "type": "multiple_choice",
+        "question": "What promise does Jesus make regarding His sheep in John 10:28?",
+        "options": [
+          "They will never face any earthly trials",
+          "They will never perish, and no one will snatch them out of His hand",
+          "They will all be wealthy rulers",
+          "They will never make a mistake"
+        ],
+        "correctIndex": 1,
+        "reference": "John 10:28",
+        "explanation": "Jesus promised: 'I give eternal life to them. They will never perish, and no one will snatch them out of my hand.'"
+      },
+      {
+        "id": "q262_4",
+        "type": "true_false",
+        "question": "Jesus claimed that He and the Father are two entirely separate and conflicting deities.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "John 10:30",
+        "explanation": "False. Jesus unequivocally declared in John 10:30: 'I and the Father are one.'"
+      },
+      {
+        "id": "q262_5",
+        "type": "multiple_choice",
+        "question": "In Psalm 23:4, why does the psalmist say he will fear no evil in the valley of the shadow of death?",
+        "options": [
+          "Because he carries a sharp sword",
+          "Because 'you are with me; your rod and your staff, they comfort me'",
+          "Because the valley is very short",
+          "Because angels built a fortress"
+        ],
+        "correctIndex": 1,
+        "reference": "Psalm 23:4",
+        "explanation": "David sings: 'I will fear no evil, for you are with me. Your rod and your staff, they comfort me.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, You are my Good Shepherd, and in You I lack nothing. Thank You for laying down Your holy life on the cross to rescue me from the jaws of the enemy. Thank You that You know my name, call me into Your fold, and lead me beside the quiet waters of Your peace. Forgive me for listening to the tempting voices of strangers or wandering away in anxiety. Today I rest secure in Your pierced hands, knowing that Your Father and You hold me with an unbreakable grip that no power in hell can sever. Guide my steps in paths of righteousness for Your name's sake.",
+      "versePrayerLine": "“I am the good shepherd. The good shepherd lays down his life for the sheep.”",
+      "prompt": "Rest your heart in the double grip of the Father and the Son: surrender your biggest fear into the Shepherd's hands."
+    }
+  },
+  "263": {
+    "day": 263,
+    "character": "Martha & Mary of Bethany",
+    "season": "The One Thing Needed: Sitting at the Master's Feet",
+    "theme": "Intimate communion with Christ at His feet is the one essential foundation for all fruitful service.",
+    "memoryVerse": {
+      "reference": "Luke 10:42",
+      "text": "“but one thing is needed. Mary has chosen the good part, which will not be taken away from her.”",
+      "whyItMatters": "Activity for Jesus can easily degenerate into anxious resentment if we neglect the primary priority of sitting quietly at His feet to hear His word.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "one",
+          "needed",
+          "chosen",
+          "good",
+          "part"
+        ],
+        "firstLetters": "“b o t i n. M h c t g p, w w n b t a f h.”"
+      }
+    },
+    "profile": {
+      "title": "Martha and Mary of Bethany: The Distracted Hostess and the Contemplative Disciple",
+      "who": "Two sisters living in Bethany, two miles east of Jerusalem, who welcomed Jesus into their home; while Martha was overwhelmed with frantic culinary preparations and complained of Mary's lack of help, Mary sat peacefully at Jesus' feet drinking in His teaching, prompting Christ's immortal diagnosis of the 'one thing needed.'",
+      "whenAndWhere": "Bethany (near Jerusalem), Judea, circa AD 29.",
+      "family": "Sisters of Lazarus of Bethany; close personal friends of Jesus.",
+      "keyMoments": [
+        "Martha welcomed Jesus into her home with genuine, hospitable love.",
+        "Her sister Mary sat at Jesus' feet (the traditional posture of a rabbinic student/disciple) and listened to His word.",
+        "Martha was distracted (periespato—dragged in circles) about much serving, becoming internally frazzled, anxious, and resentful.",
+        "Approached Jesus and interrupted with frustration: 'Lord, don't you care that my sister left me to serve alone? Tell her therefore to help me!'",
+        "Notice the subtle shift: Martha's service for Jesus had turned into complaining against Jesus and judging her sister.",
+        "Jesus answered her with profound tenderness and double repetition: 'Martha, Martha, you are anxious and troubled about many things. But one thing is needed. Mary has chosen the good part, which will not be taken away from her.'",
+        "Jesus did not condemn hospitality or meal preparation, but rebuked the anxious distraction that crowded out intimate communion with Him.",
+        "Affirmed Mary's radical counter-cultural choice: in first-century culture, women were excluded from formal rabbinic study, but Jesus defended her right to sit as a disciple at His feet.",
+        "Fulfilled Psalm 27:4: 'One thing I have asked of Yahweh, that I will seek after: that I may dwell in Yahweh's house all the days of my life, to see Yahweh's beauty, and to inquire in his temple.'"
+      ],
+      "strengths": [
+        "Martha's generous hospitality, leadership in the home, and deep affection for Jesus.",
+        "Mary's spiritual discernment: prioritizing eternal words over temporary chores.",
+        "Both grew in deep faith and love for Christ."
+      ],
+      "failures": [
+        "Martha allowed busy ministry to breed anxious bitterness and critical judgment of others."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Luke 10",
+        "title": "Mary at the Feet of Jesus and Martha's Distraction",
+        "verses": [
+          {
+            "number": 38,
+            "text": "As they went on their way, he entered into a certain village, and a certain woman named Martha received him into her house."
+          },
+          {
+            "number": 39,
+            "text": "She had a sister called Mary, who also sat at Jesus' feet, and heard his word."
+          },
+          {
+            "number": 40,
+            "text": "But Martha was distracted with much serving, and she came up to him, and said, “Lord, don't you care that my sister left me to serve alone? Ask her therefore to help me.”"
+          },
+          {
+            "number": 41,
+            "text": "Jesus answered her, “Martha, Martha, you are anxious and troubled about many things.”"
+          },
+          {
+            "number": 42,
+            "text": "“But one thing is needed. Mary has chosen the good part, which will not be taken away from her.”"
+          }
+        ]
+      },
+      {
+        "reference": "Psalm 27",
+        "title": "One Thing Desired: To Behold the Beauty of Yahweh",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Yahweh is my light and my salvation. Whom shall I fear? Yahweh is the strength of my life. Of whom shall I be afraid?"
+          },
+          {
+            "number": 4,
+            "text": "One thing I have asked of Yahweh, that I will seek after: that I may dwell in Yahweh's house all the days of my life, to see Yahweh's beauty, and to inquire in his temple."
+          },
+          {
+            "number": 8,
+            "text": "When you said, “Seek my face,” my heart said to you, “I will seek your face, Yahweh.”"
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Service for Christ Must Never Crowd Out Communion with Christ",
+      "reflection": "The tragedy of Martha was not that she was doing something evil. Preparing a meal for Jesus and His disciples was a beautiful, loving act! Her danger was subtle: she was 'distracted with much serving.' The Greek word means being dragged in all directions at once. When our to-do list becomes our master, service for Jesus turns into anxiety, exhaustion, and resentment toward others: 'Lord, don't You care that my sister left me to serve alone?' The moment our serving makes us bitter, critical, or anxious, we have lost the heart of discipleship! Jesus looked at her with tears of affection: 'Martha, Martha, you are anxious and troubled about many things. But ONE THING is needed.' What is that one thing? Sitting at the feet of Jesus, drinking in His word, and beholding His beauty. Before you can serve effectively with Martha's hands, you must first sit with Mary's heart."
+    },
+    "lessons": [
+      {
+        "lesson": "Beware of Ministry Without Devotion",
+        "verse": "Luke 10:40",
+        "detail": "When serving Jesus replaces spending time with Jesus, work for God quickly degenerates into resentment toward others.",
+        "question": "Is your service in church or family producing joy, or are you becoming exhausted, bitter, and resentful?"
+      },
+      {
+        "lesson": "Only 'One Thing' Is Truly Essential",
+        "verse": "Luke 10:42",
+        "detail": "While life presents a thousand pressing demands, Jesus declares that intimate communion at His feet is the sole indispensable priority.",
+        "question": "Does your daily schedule reflect that sitting at Jesus' feet is your primary, non-negotiable priority?"
+      },
+      {
+        "lesson": "The Good Part Cannot Be Taken Away",
+        "verse": "Luke 10:42",
+        "detail": "Cooked meals are eaten and dishes get dirty again, but the spiritual words absorbed at Jesus' feet are an eternal treasure that lasts forever.",
+        "question": "Are you investing the best hours of your day into eternal spiritual nourishment or temporary chores?"
+      },
+      {
+        "lesson": "Seek His Face Above All Else",
+        "verse": "Psalm 27:4, 8",
+        "detail": "Like David in Psalm 27, make your life's singular pursuit beholding the beauty of the Lord and inquiring in His presence.",
+        "question": "How can you simplify your life and quiet your mind so that you can genuinely 'seek His face' today?"
+      }
+    ],
+    "notesPrompt": "Examine your current lifestyle. Are you living more like 'distracted Martha' or 'listening Mary'? What practical adjustments can you make to protect unhurried time at the feet of Jesus?",
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple-choice",
+        "question": "What was Mary doing while Martha was preparing the meal in Luke 10:39?",
+        "options": [
+          "Baking bread in the kitchen",
+          "Sitting at Jesus' feet and hearing His word",
+          "Visiting the market in Bethany",
+          "Sleeping in the courtyard"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 10:39",
+        "explanation": "Luke 10:39 states that Mary 'sat at Jesus' feet, and heard his word.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple-choice",
+        "question": "What complaint did Martha bring to Jesus in Luke 10:40?",
+        "options": [
+          "The disciples had tracked mud into the house",
+          "Lord, don't you care that my sister left me to serve alone? Ask her therefore to help me",
+          "There was no wine left for dinner",
+          "The Pharisees were waiting outside"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 10:40",
+        "explanation": "Martha said: 'Lord, don't you care that my sister left me to serve alone? Ask her therefore to help me.'"
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+        "question": "How did Jesus gently diagnose Martha's internal condition in Luke 10:41?",
+        "options": [
+          "You are wicked and ungrateful",
+          "Martha, Martha, you are anxious and troubled about many things",
+          "You are a terrible cook",
+          "You need to move to Jerusalem"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 10:41",
+        "explanation": "Jesus answered: 'Martha, Martha, you are anxious and troubled about many things.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple-choice",
+        "question": "What did Jesus say about Mary's choice in Luke 10:42?",
+        "options": [
+          "She is lazy and needs to help in the kitchen",
+          "One thing is needed. Mary has chosen the good part, which will not be taken away from her",
+          "She must marry soon",
+          "She should become a priest"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 10:42",
+        "explanation": "Jesus said: 'One thing is needed. Mary has chosen the good part, which will not be taken away from her.'"
+      },
+      {
+        "id": 5,
+        "type": "true-false",
+        "question": "True or False: According to Psalm 27:4, David asked for ten thousand talents of gold above all other things.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Psalm 27:4",
+        "explanation": "False. David asked for one thing: to dwell in the house of Yahweh all the days of his life to behold His beauty and inquire in His temple."
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, Gentle Master and Guest of my heart, forgive me for the frantic distraction that so easily fills my days. How often I become like Martha: anxious, troubled about many things, and resentful toward others, while neglecting the one thing that truly matters. Teach me to sit quietly at Your feet like Mary. Let me drink in Your life-giving words. Reorder my daily priorities so that my service springs from intimate communion, and my soul finds its rest in beholding Your beauty.",
+      "versePrayerLine": "One thing is needed: to sit at Your feet and hear Your word; help me choose the good part that will never be taken away.",
+      "prompt": "Pause all activity for ten minutes today, sit quietly with an open Bible at the feet of Jesus, and let Him speak to your heart."
+    }
+  },
+  "264": {
+    "day": 264,
+    "character": "The Good Samaritan",
+    "season": "Go and Do Likewise: Mercy on the Jericho Road",
+    "theme": "Mercy crosses religious and racial barriers to bandage the bleeding neighbor left by the roadside.",
+    "memoryVerse": {
+      "reference": "Luke 10:37",
+      "text": "He said, “He who showed mercy on him.” Then Jesus said to him, “Go and do likewise.”",
+      "whyItMatters": "True love for God is proved not by theoretical theological debates, but by active, costly mercy that crosses boundaries to bandage the wounded.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "showed",
+          "mercy",
+          "Jesus",
+          "likewise",
+          "Go"
+        ],
+        "firstLetters": "H s, “H w s m o h.” T J s t h, “G a d l.”"
+      }
+    },
+    "profile": {
+      "title": "The Good Samaritan: The Hero of the Jericho Road and Mirror of Christ",
+      "who": "In response to an expert in the Mosaic Law who sought to justify himself by asking 'And who is my neighbor?', Jesus told the immortal parable of a traveler stripped, beaten, and left half-dead on the dangerous seventeen-mile road from Jerusalem to Jericho; while a priest and a Levite crossed to the other side, a despised Samaritan stopped, showed compassion, bandaged his wounds with oil and wine, and paid for his full recovery.",
+      "whenAndWhere": "The road descending from Jerusalem to Jericho (the 'Adummim' or Ascent of Blood), circa AD 29.",
+      "family": "A despised Samaritan traveler; contrasting with the holy Jewish religious establishment.",
+      "keyMoments": [
+        "A lawyer stood up and tested Jesus: 'Teacher, what shall I do to inherit eternal life?' Jesus pointed to the Law: love God with all your heart, soul, strength, and mind, and love your neighbor as yourself.",
+        "Seeking to limit his moral responsibility, the lawyer asked: 'And who is my neighbor?'",
+        "Jesus answered with the Parable of the Good Samaritan: a man was going down from Jerusalem to Jericho and fell among robbers, who stripped him, beat him, and departed, leaving him half-dead.",
+        "By chance a certain priest came down that road; seeing the dying man, he passed by on the other side (perhaps fearing ritual defilement from a corpse under Numbers 19:11).",
+        "Likewise a Levite came to the place, looked at him, and passed by on the other side.",
+        "A certain Samaritan—a member of a despised, half-breed race hated by Jews—journeyed, came where he was, and saw him, and was moved with deep compassion.",
+        "Went to him, poured in oil (soothing) and wine (disinfecting), bandaged his wounds, set him on his own beast, brought him to an inn, and took care of him.",
+        "The next morning, took out two denarii (two days' wages), gave them to the innkeeper: 'Take care of him. Whatever more you spend, when I come back, I will repay you.'",
+        "Jesus asked the lawyer: 'Which of these three, do you think, seemed to be a neighbor to him who fell among the robbers?'",
+        "The lawyer couldn't even bring his lips to utter the word 'Samaritan', answering: 'He who showed mercy on him.' Jesus said: 'Go and do likewise.'"
+      ],
+      "strengths": [
+        "Unrestricted compassion that saw a human being in agony rather than an ethnic enemy.",
+        "Costly, practical generosity: poured out expensive oil, wine, time, his own donkey, and personal funds.",
+        "Open-ended commitment to the victim's complete rehabilitation."
+      ],
+      "failures": [
+        "None in the parable; a radiant reflection of the heart of Jesus Christ Himself."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Luke 10",
+        "title": "The Parable of the Good Samaritan",
+        "verses": [
+          {
+            "number": 30,
+            "text": "Jesus answered, “A certain man was going down from Jerusalem to Jericho, and he fell among robbers, who both stripped him and beat him, and departed, leaving him half dead.”"
+          },
+          {
+            "number": 31,
+            "text": "“By chance a certain priest was going down that way. When he saw him, he passed by on the other side.”"
+          },
+          {
+            "number": 32,
+            "text": "“In the same way a Levite also, when he came to the place, and saw him, passed by on the other side.”"
+          },
+          {
+            "number": 33,
+            "text": "“But a certain Samaritan, as he travelled, came where he was. When he saw him, he was moved with compassion,”"
+          },
+          {
+            "number": 34,
+            "text": "“came to him, and bound up his wounds, pouring on oil and wine. He set him on his own animal, and brought him to an inn, and took care of him.”"
+          },
+          {
+            "number": 35,
+            "text": "“On the next day, when he departed, he took out two denarii, and gave them to the host, and said to him, ‘Take care of him. Whatever more you spend, I will repay you when I return.’”"
+          },
+          {
+            "number": 36,
+            "text": "“Now which of these three do you think seemed to be a neighbor to him who fell among the robbers?”"
+          },
+          {
+            "number": 37,
+            "text": "He said, “He who showed mercy on him.” Then Jesus said to him, “Go and do likewise.”"
+          }
+        ]
+      },
+      {
+        "reference": "Proverbs 3",
+        "title": "Do Not Withhold Good from the Needy",
+        "verses": [
+          {
+            "number": 27,
+            "text": "Don't withhold good from those to whom it is due, when it is in the power of your hand to do it."
+          },
+          {
+            "number": 28,
+            "text": "Don't say to your neighbor, “Go, and come again; tomorrow I will give it,” when you have it by you."
+          },
+          {
+            "number": 3,
+            "text": "Don't let kindness and truth forsake you. Bind them around your neck. Write them on the tablet of your heart."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Christ Is the True Good Samaritan Who Bound Up Our Wounds and Paid Our Full Ransom",
+      "reflection": "The lawyer wanted to debate definitions: 'Who is my neighbor?' He wanted a loophole so he could decide who he was obligated to love and who he could ignore. Jesus answered by redefining the question: don't ask 'Who is my neighbor?'; ask 'Am I BEING a neighbor?' Look at the religious leaders: the priest and the Levite were professional clergy on their way from temple service. They saw the beaten, bloody man and crossed the street! They had correct theology, but zero compassion. But the Samaritan—an outsider despised as a religious heretic—was moved with deep compassion. Early church fathers saw here the Gospel: we are the dying traveler, stripped and beaten by sin and Satan; religion and the Law passed by powerless to save us. But Jesus, despised and rejected of men, came where we were, poured in the oil of the Spirit and the wine of His blood, carried us into the inn of His Church, and paid the full price for our restoration! Go and do likewise."
+    },
+    "lessons": [
+      {
+        "lesson": "Orthodoxy Without Compassion Is Dead",
+        "verse": "Luke 10:31-32",
+        "detail": "The priest and Levite had flawless ceremonial credentials, but their religious busyness blinded them to suffering human need.",
+        "question": "Does your religious routine ever cause you to pass by people who are hurting, lonely, or broken?"
+      },
+      {
+        "lesson": "Compassion Crosses Every Prejudiced Boundary",
+        "verse": "Luke 10:33",
+        "detail": "Jews and Samaritans despised each other, yet this traveler saw beyond race, politics, and religion to bandage a fellow human being.",
+        "question": "Are there people of different backgrounds, lifestyles, or opinions whom God is calling you to show practical mercy to?"
+      },
+      {
+        "lesson": "Love Costs Time, Energy, and Money",
+        "verse": "Luke 10:34-35",
+        "detail": "The Samaritan gave his wine, his oil, his donkey, his afternoon, and two days of wages to nurse an enemy back to health.",
+        "question": "Does your love for others cost you personal convenience and real financial sacrifice?"
+      },
+      {
+        "lesson": "Don't Withhold Good When It Is in Your Power",
+        "verse": "Proverbs 3:27-28",
+        "detail": "Never tell a suffering neighbor to come back tomorrow when you have the capacity to relieve their pain today.",
+        "question": "Is there a practical act of kindness or generosity that you have been delaying that you should do right now?"
+      }
+    ],
+    "notesPrompt": "Reflect on Jesus' command: 'Go and do likewise.' Who is the 'beaten traveler' on the roadside of your everyday routine? What practical step of mercy can you take for them this week?",
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple-choice",
+        "question": "What question did the lawyer ask to justify himself in Luke 10:29?",
+        "options": [
+          "How can I become rich?",
+          "And who is my neighbor?",
+          "When will the kingdom of God come?",
+          "Why do your disciples eat on the Sabbath?"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 10:29",
+        "explanation": "Luke 10:29 states: 'But he, desiring to justify himself, asked Jesus, “And who is my neighbor?”'"
+      },
+      {
+        "id": 2,
+        "type": "multiple-choice",
+        "question": "What two religious figures saw the beaten traveler and passed by on the other side?",
+        "options": [
+          "A Pharisee and a Sadducee",
+          "A priest and a Levite",
+          "A scribe and an elder",
+          "A Roman centurion and a tax collector"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 10:31-32",
+        "explanation": "A priest was going down that way and passed by on the other side; likewise a Levite came, saw him, and passed by on the other side."
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+        "question": "What two substances did the Samaritan pour into the traveler's wounds in Luke 10:34?",
+        "options": [
+          "Water and salt",
+          "Oil and wine",
+          "Honey and milk",
+          "Myrrh and frankincense"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 10:34",
+        "explanation": "He came to him, and bound up his wounds, 'pouring on oil and wine.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple-choice",
+        "question": "How much money did the Samaritan leave with the innkeeper for the wounded man's care?",
+        "options": [
+          "Ten pieces of silver",
+          "Two denarii (approx. two days' wages), with a promise to repay any extra upon return",
+          "One golden coin",
+          "Nothing, he promised to pay later"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 10:35",
+        "explanation": "He took out two denarii, gave them to the host, and said: 'Take care of him. Whatever more you spend, I will repay you when I return.'"
+      },
+      {
+        "id": 5,
+        "type": "true-false",
+        "question": "True or False: According to Proverbs 3:27, we should withhold good from the needy whenever we feel tired.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Proverbs 3:27",
+        "explanation": "False. Proverbs 3:27 commands: 'Don't withhold good from those to whom it is due, when it is in the power of your hand to do it.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, You are the true Good Samaritan who descended into our beaten, broken world when religion and human systems passed us by on the other side. You were moved with compassion; You poured the oil of Your Spirit and the wine of Your blood into our wounds, bore our griefs on Your own shoulders, and paid the full ransom for our eternal restoration! Forgive me for the times I have crossed to the other side to avoid the inconvenience of messy human suffering. Give me Your eyes of compassion. Teach me to bind up the broken, love across every barrier, and go and do likewise in Your holy name.",
+      "versePrayerLine": "He who showed mercy is the true neighbor; Lord Jesus, grant me Your compassionate heart to go and do likewise.",
+      "prompt": "Look for an opportunity today to show practical mercy (giving, bandaging, helping, listening) to someone who cannot repay you."
+    }
+  },
+  "265": {
+    "day": 265,
+    "character": "The Prodigal Son & The Elder Brother",
+    "season": "The Running Father: Extravagant Grace for Runaways and Legalists",
+    "theme": "The extravagant grace of the Father welcomes the repentant runaway home with open arms and joyful feast.",
+    "memoryVerse": {
+      "reference": "Luke 15:20",
+      "text": "“He arose, and came to his father. But while he was still far off, his father saw him, and was moved with compassion, and ran, and fell on his neck, and kissed him.”",
+      "whyItMatters": "God does not wait coldly with folded arms for repentant sinners to grovel; our heavenly Father runs out to meet us, wraps us in His robe of grace, and throws a celebration.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "arose",
+          "father",
+          "compassion",
+          "ran",
+          "kissed"
+        ],
+        "firstLetters": "“H a, a c t h f. B w h w s f o, h f s h, a w m w c, a r, a f o h n, a k h.”"
+      }
+    },
+    "profile": {
+      "title": "The Parable of the Father and Two Sons: The Extravagant Love of God",
+      "who": "In response to Pharisees grumbling that Jesus welcomes sinners and eats with them, Jesus told the crown jewel of His parables: a younger son who demanded his inheritance, wasted it in reckless living in a distant country, and returned home to become a hired servant; only to be met by a running father who restored him with a robe, ring, sandals, and the fattened calf; contrasting with an angry, legalistic older brother who refused to celebrate.",
+      "whenAndWhere": "The road through Perea toward Jerusalem, circa AD 29.",
+      "family": "A wealthy father with two sons: the younger rebellious runaway and the older bitter moralist.",
+      "keyMoments": [
+        "The younger son asked his father for his share of the estate (tantamount to wishing his father dead); the father divided his livelihood between them.",
+        "Traveled into a far country, wasted his substance in wild living, ran out of money just as a severe famine struck, and ended up feeding pigs—the ultimate humiliation for a Jew.",
+        "Longed to fill his stomach with the carob pods the swine ate, but no one gave him anything.",
+        "Came to his senses: 'How many of my father's hired servants have bread enough to spare, and I'm dying with hunger! I will get up and go to my father, and tell him, “Father, I have sinned against heaven, and in your sight. I am no more worthy to be called your son. Make me as one of your hired servants.”'",
+        "He arose and came to his father; but while he was still a long way off, his father saw him, was moved with compassion, pulled up his robes, RAN (breaking Middle Eastern patriarchal dignity), fell on his neck, and kissed him repeatedly.",
+        "The son began his rehearsed confession, but the father interrupted: 'Bring out the best robe, and put it on him! Put a ring on his finger, and sandals on his feet! Bring the fattened calf and kill it, and let's eat and celebrate; for this my son was dead, and is alive again; he was lost, and is found!'",
+        "The older brother returned from the field, heard music and dancing, was furious, and refused to go inside.",
+        "The father came outside and pleaded with him; the older son raged: 'These many years I have served you and never disobeyed your command, yet you never gave me a young goat to celebrate with my friends; but when this son of yours came who devoured your living with prostitutes, you killed the fattened calf for him!'",
+        "The father answered with infinite gentleness: 'Son, you are always with me, and all that is mine is yours. But it was appropriate to celebrate and be glad, for this, your brother, was dead, and is alive again. He was lost, and is found.'"
+      ],
+      "strengths": [
+        "The younger son's honest repentance: came to his senses and returned home.",
+        "The father's boundless, extravagant grace: ran, embraced, restored, and celebrated.",
+        "The father's patient love for the self-righteous older brother."
+      ],
+      "failures": [
+        "The younger son's selfish hedonism and squandering of his father's inheritance.",
+        "The older son's cold legalism, loveless bitterness, and refusal to rejoice over his brother's restoration."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Luke 15",
+        "title": "The Parable of the Prodigal Son and the Waiting Father",
+        "verses": [
+          {
+            "number": 17,
+            "text": "“When he came to himself, he said, ‘How many hired servants of my father's have bread enough to spare, and I'm dying with hunger!’”"
+          },
+          {
+            "number": 18,
+            "text": "“‘I will get up and go to my father, and will tell him, “Father, I have sinned against heaven, and in your sight.”’”"
+          },
+          {
+            "number": 20,
+            "text": "“He arose, and came to his father. But while he was still far off, his father saw him, and was moved with compassion, and ran, and fell on his neck, and kissed him.”"
+          },
+          {
+            "number": 22,
+            "text": "“But the father said to his servants, ‘Bring out the best robe, and put it on him. Put a ring on his hand, and sandals on his feet.’”"
+          },
+          {
+            "number": 24,
+            "text": "“‘for this, my son, was dead, and is alive again. He was lost, and is found.’ They began to celebrate.”"
+          },
+          {
+            "number": 31,
+            "text": "“He said to him, ‘Son, you are always with me, and all that is mine is yours.’”"
+          },
+          {
+            "number": 32,
+            "text": "“‘But it was appropriate to celebrate and be glad, for this, your brother, was dead, and is alive again. He was lost, and is found.’”"
+          }
+        ]
+      },
+      {
+        "reference": "Romans 8",
+        "title": "The Spirit of Adoption and Unfailing Love",
+        "verses": [
+          {
+            "number": 15,
+            "text": "For you didn't receive the spirit of bondservants again to fear, but you received the Spirit of adoption, by whom we cry, “Abba! Father!”"
+          },
+          {
+            "number": 16,
+            "text": "The Spirit himself testifies with our spirit that we are children of God;"
+          },
+          {
+            "number": 38,
+            "text": "For I am persuaded that neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers,"
+          },
+          {
+            "number": 39,
+            "text": "nor height, nor depth, nor any other created thing, will be able to separate us from the love of God, which is in Christ Jesus our Lord."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "The Father Runs to Meet You: Grace Restores You from the Pigpen to the Banquet",
+      "reflection": "Look at the posture of the father in Luke 15:20. In the ancient Near East, an elderly patriarch never ran; running required gathering up his long tunics, exposing his bare legs, which was considered deeply undignified. Why did the father run? In Jewish culture, if a boy lost his Jewish inheritance among the Gentiles, the village elders would gather at the city gate to perform the 'Qetsatsah' ceremony—breaking a clay pot at his feet to declare him permanently cut off from his community! The father ran so he could reach his broken boy before the village elders could shame him! The father absorbed the humiliation and wrapped him in a protective embrace! Before the boy could even finish his speech about becoming a hired hand, the father cut him off: 'Bring out the BEST robe (Christ's righteousness)! Put a ring on his finger (family authority)! Put sandals on his feet (slaves went barefoot, sons wore shoes)! Kill the fattened calf!' God does not tolerate you as a servant; He celebrates you as a beloved child."
+    },
+    "lessons": [
+      {
+        "lesson": "Sin Always Promises Freedom and Delivers a Pigpen",
+        "verse": "Luke 15:13-16",
+        "detail": "The far country of rebellion looked glamorous at first, but ended in bankruptcy, spiritual starvation, and feeding unclean swine.",
+        "question": "Is there a worldly allure in your life that is promising fulfillment but secretly dragging you into spiritual starvation?"
+      },
+      {
+        "lesson": "Repentance Begins When You 'Come to Yourself'",
+        "verse": "Luke 15:17-18",
+        "detail": "True repentance is returning to spiritual sanity: recognizing the Father's overflowing goodness and walking home with honest confession.",
+        "question": "What is keeping you from arising right now and walking straight back into your heavenly Father's open arms?"
+      },
+      {
+        "lesson": "The Father's Grace Outruns Our Guilt",
+        "verse": "Luke 15:20-22",
+        "detail": "While the son was still far off, the father ran, kissed him, and covered his filthy rags with the best robe of honor.",
+        "question": "Do you view God as an angry warden waiting to punish you, or as a loving Father running to welcome you home?"
+      },
+      {
+        "lesson": "Beware of the Bitter Heart of the Older Brother",
+        "verse": "Luke 15:28-30",
+        "detail": "The older brother stayed in the house but was just as lost in his self-righteous, loveless legalism as the younger brother was in the pigpen.",
+        "question": "Are you harboring self-righteous resentment toward someone who has lived a messy life and received God's lavish grace?"
+      }
+    ],
+    "notesPrompt": "Reflect on Luke 15:20: 'While he was still far off, his father saw him, was moved with compassion, ran, fell on his neck, and kissed him.' Write a letter of praise to your Father for the day He ran out to meet you.",
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple-choice",
+        "question": "Where did the younger son end up working when famine struck the far country in Luke 15:14-15?",
+        "options": [
+          "In a Roman vineyard",
+          "Feeding pigs in the fields, longing to eat the carob pods the swine ate",
+          "In a bakery in Egypt",
+          "At the customs office in Caesarea"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 15:15-16",
+        "explanation": "He was sent into the fields to feed pigs, longing to fill his belly with the pods the swine ate."
+      },
+      {
+        "id": 2,
+        "type": "multiple-choice",
+        "question": "What did the father do when he saw his returning son while he was still a long way off in Luke 15:20?",
+        "options": [
+          "He locked the front gate",
+          "He was moved with compassion, ran, fell on his neck, and kissed him",
+          "He sent a servant with ten questions",
+          "He ordered him to wash in the river first"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 15:20",
+        "explanation": "While he was still far off, his father saw him, was moved with compassion, and ran, and fell on his neck, and kissed him."
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+        "question": "What three items did the father command his servants to bring out for the restored son in Luke 15:22?",
+        "options": [
+          "A sword, a shield, and a helmet",
+          "The best robe, a ring for his finger, and sandals for his feet",
+          "A sackcloth tunic, a staff, and bread",
+          "A bag of gold, a horse, and a crown"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 15:22",
+        "explanation": "The father said: 'Bring out the best robe, and put it on him. Put a ring on his hand, and sandals on his feet.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple-choice",
+        "question": "Why was the older brother angry and unwilling to come inside the house in Luke 15:28-30?",
+        "options": [
+          "He disliked music and dancing",
+          "He resented that his father celebrated the return of the prodigal who squandered his estate, while never giving him a goat to feast with friends",
+          "He was too tired from working in the field",
+          "He had lost his key to the door"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 15:29-30",
+        "explanation": "The older son was bitter because he felt his years of strict obedience went unrewarded while the wasteful brother received the fattened calf."
+      },
+      {
+        "id": 5,
+        "type": "true-false",
+        "question": "True or False: According to Romans 8:38-39, trials, death, or any created thing can easily separate us from the love of God in Christ.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Romans 8:38-39",
+        "explanation": "False. Paul is persuaded that nothing in all creation will be able to separate us from the love of God in Christ Jesus our Lord."
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Abba, Heavenly Father, what extravagant, unbelievable love You have demonstrated to my soul! When I wandered into the far country of self-will, squandering Your blessings and wallowing in the pigpens of sin, You never stopped watching the horizon for my return. Thank You that when I came to myself and took one trembling step toward home, You pulled up Your robes and RAN to meet me! You kissed my neck, stripped away my filthy rags, and clothed me in the best robe of Jesus' righteousness. Cleanse my heart from the bitter legalism of the older brother. Let me rejoice with all of heaven whenever a lost child is found and brought home to Your banquet table.",
+      "versePrayerLine": "Abba Father, You ran to meet me and restored me with Your kiss of grace; I rejoice in Your unfailing love.",
+      "prompt": "If you have felt distant from God, picture your Father running toward you right now with open arms; whisper a simple prayer returning home."
+    }
+  },
+  "266": {
+    "day": 266,
+    "character": "The Grateful Samaritan Leper",
+    "season": "Where Are the Nine? Returning to Give Glory at His Feet",
+    "theme": "True gratitude returns to the feet of Jesus, receiving not just physical healing but complete spiritual wholeness.",
+    "memoryVerse": {
+      "reference": "Luke 17:18",
+      "text": "“Were there none found who returned to give glory to God, except this stranger?”",
+      "whyItMatters": "All ten lepers had the faith to cry for mercy and obey the command to go to the priest, but only one returned to fall on his face in worship, receiving spiritual wholeness through gratitude.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "none",
+          "returned",
+          "glory",
+          "God",
+          "stranger"
+        ],
+        "firstLetters": "“W t n f w r t g g t G, e t s?”"
+      }
+    },
+    "profile": {
+      "title": "The Grateful Samaritan Leper: The One Who Returned to Worship",
+      "who": "One of ten lepers living in an ostracized colony along the border between Samaria and Galilee; all ten cried for mercy and were cleansed as they walked to show themselves to the priests, but this solitary Samaritan foreigner turned back immediately, praising God with a loud voice and falling on his face at Jesus' feet in exuberant thanksgiving.",
+      "whenAndWhere": "A village along the border of Samaria and Galilee, circa AD 29.",
+      "family": "A Samaritan stranger (allogenes—foreigner); outcast from both Jewish and Samaritan communities due to leprosy.",
+      "keyMoments": [
+        "Ten men who were lepers stood afar off, adhering to quarantine laws, and lifted up their voices crying: 'Jesus, Master, have mercy on us!'",
+        "Jesus saw them and gave a test of obedience: 'Go and show yourselves to the priests' (who alone had authority to pronounce a leper clean under Leviticus 14).",
+        "As they went, walking in obedience before seeing physical evidence, they were all cleansed—their decaying skin restored to healthy flesh.",
+        "Nine of the men kept running forward, eager to receive official certificates of health, re-enter society, and resume their lives.",
+        "One of them, when he saw that he was healed, turned back immediately, glorifying God with a loud voice.",
+        "Fell on his face at Jesus' feet, giving Him profuse, heartfelt thanks; and he was a Samaritan.",
+        "Jesus asked the piercing questions that ring through history: 'Weren't the ten cleansed? But where are the nine? Were there none found who returned to give glory to God, except this stranger?'",
+        "Jesus said to the prostrate worshiper: 'Arise, and go your way. Your faith has made you well (sesoken se—has saved you / made you whole).' The nine received physical cleansing; the grateful Samaritan received eternal spiritual salvation."
+      ],
+      "strengths": [
+        "Valued the Giver above the gift: stopped everything to return to the feet of Jesus.",
+        "Unashamed, vocal worship: glorified God with a loud voice.",
+        "Extravagant gratitude: fell flat on his face before Christ."
+      ],
+      "failures": [
+        "Had lived in the terrible physical and social decay of leprosy."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Luke 17",
+        "title": "The Ten Cleansed Lepers and the One Who Returned",
+        "verses": [
+          {
+            "number": 12,
+            "text": "As he entered into a certain village, ten men who were lepers met him, who stood at a distance."
+          },
+          {
+            "number": 13,
+            "text": "They lifted up their voices, saying, “Jesus, Master, have mercy on us!”"
+          },
+          {
+            "number": 14,
+            "text": "When he saw them, he said to them, “Go and show yourselves to the priests.” As they went, they were cleansed."
+          },
+          {
+            "number": 15,
+            "text": "One of them, when he saw that he was healed, turned back, glorifying God with a loud voice."
+          },
+          {
+            "number": 16,
+            "text": "He fell on his face at Jesus' feet, giving him thanks; and he was a Samaritan."
+          },
+          {
+            "number": 17,
+            "text": "Jesus answered, “Weren't the ten cleansed? But where are the nine?”"
+          },
+          {
+            "number": 18,
+            "text": "“Were there none found who returned to give glory to God, except this stranger?”"
+          },
+          {
+            "number": 19,
+            "text": "He said to him, “Get up, and go your way. Your faith has healed you.”"
+          }
+        ]
+      },
+      {
+        "reference": "Psalm 103",
+        "title": "Bless Yahweh and Forget Not All His Benefits",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Praise Yahweh, my soul! All that is within me, praise his holy name!"
+          },
+          {
+            "number": 2,
+            "text": "Praise Yahweh, my soul, and don't forget all his benefits;"
+          },
+          {
+            "number": 3,
+            "text": "who forgives all your sins; who heals all your diseases;"
+          },
+          {
+            "number": 4,
+            "text": "who redeems your life from destruction; who crowns you with loving kindness and tender mercies;"
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Ten Received the Gift, but Only One Received the Giver: The Power of Thankfulness",
+      "reflection": "Notice the tragic statistic in this story: a 90 percent ingratitude rate among people who had experienced a life-transforming miracle! All ten cried for mercy; all ten obeyed Jesus' command to go to the priests; all ten experienced the miraculous cleansing of their flesh. But nine of them were so obsessed with the blessing that they forgot the Blesser! They took their restored skin and ran straight into normal life without a backward glance toward the Savior. Only one man—a despised Samaritan outsider—stopped dead in his tracks. He realized that the priest in the temple had nothing compared to the Prophet on the road! He ran back shouting praises and threw himself flat at the feet of Jesus. And Jesus gave him something the other nine never received: 'Your faith has made you whole (saved you).' Ingratitude is satisfied with physical relief; gratitude falls in love with the Savior and receives eternal life."
+    },
+    "lessons": [
+      {
+        "lesson": "Don't Fall in Love with the Gift and Forget the Giver",
+        "verse": "Luke 17:15-17",
+        "detail": "It is easy to seek God frantically during a crisis, and then completely neglect Him once health, finances, or relief arrives.",
+        "question": "Are you as passionate about thanking Jesus for answered prayers as you were about begging Him for help?"
+      },
+      {
+        "lesson": "Obedience Precedes the Physical Miracle",
+        "verse": "Luke 17:14",
+        "detail": "They were cleansed 'as they went'; step out in faith on God's Word even before you see the physical evidence of the breakthrough.",
+        "question": "What step of obedience is God calling you to take in faith before the answer visibly appears?"
+      },
+      {
+        "lesson": "Gratitude Elevates Physical Healing to Spiritual Wholeness",
+        "verse": "Luke 17:19",
+        "detail": "The nine received clean skin, but the tenth man received salvation of his soul because his gratitude brought him to Jesus' feet.",
+        "question": "How does intentional daily thanksgiving deepen your spiritual intimacy with Christ?"
+      },
+      {
+        "lesson": "Forget Not All His Benefits",
+        "verse": "Psalm 103:2",
+        "detail": "Like David in Psalm 103, actively command your soul to remember God's forgiveness, healing, redemption, and lovingkindness.",
+        "question": "What specific benefits and mercies of God have you experienced recently that you need to thank Him for today?"
+      }
+    ],
+    "notesPrompt": "List ten specific blessings, answers to prayer, or mercies God has given you this week. Spend intentional time falling at His feet in verbal praise, refusing to be like the nine.",
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple-choice",
+        "question": "How many lepers met Jesus and cried 'Jesus, Master, have mercy on us!' in Luke 17:12-13?",
+        "options": [
+          "Three men",
+          "Seven men",
+          "Ten men",
+          "Twelve men"
+        ],
+        "correctIndex": 2,
+        "reference": "Luke 17:12-13",
+        "explanation": "Luke 17:12-13 states that ten men who were lepers met Him, stood at a distance, and cried for mercy."
+      },
+      {
+        "id": 2,
+        "type": "multiple-choice",
+        "question": "At what point were the ten lepers cleansed of their disease in Luke 17:14?",
+        "options": [
+          "Immediately when Jesus touched their foreheads",
+          "As they went to show themselves to the priests",
+          "After washing seven times in the Jordan",
+          "The following morning at sunrise"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 17:14",
+        "explanation": "Luke 17:14 records: 'As they went, they were cleansed.'"
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+        "question": "How many of the ten cleansed lepers returned to thank Jesus in Luke 17:15?",
+        "options": [
+          "All ten of them",
+          "Five of them",
+          "Only one of them, and he was a Samaritan",
+          "None of them"
+        ],
+        "correctIndex": 2,
+        "reference": "Luke 17:15-16",
+        "explanation": "One of them, when he saw that he was healed, turned back, glorifying God with a loud voice and fell on his face at Jesus' feet, giving thanks; and he was a Samaritan."
+      },
+      {
+        "id": 4,
+        "type": "multiple-choice",
+        "question": "What question did Jesus ask when the solitary Samaritan fell at His feet in Luke 17:17-18?",
+        "options": [
+          "Why did you leave the priests?",
+          "Weren't the ten cleansed? But where are the nine? Were there none found who returned to give glory to God, except this stranger?",
+          "How much money do you have?",
+          "Where is your village located?"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 17:17-18",
+        "explanation": "Jesus asked: 'Weren't the ten cleansed? But where are the nine? Were there none found who returned to give glory to God, except this stranger?'"
+      },
+      {
+        "id": 5,
+        "type": "true-false",
+        "question": "True or False: According to Psalm 103:2, we are encouraged to forget God's past benefits so we can focus on new ones.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Psalm 103:2",
+        "explanation": "False. Psalm 103:2 commands: 'Praise Yahweh, my soul, and don't forget all his benefits.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, Great Physician and Merciful High Priest, I return to Your feet today with a loud voice of thanksgiving! Forgive me for the countless times I have been like the ungrateful nine: eager to beg for Your help in distress, but quick to run away with Your blessings without falling on my face in gratitude. Praise Yahweh, my soul, and forget not all His benefits! You have forgiven all my iniquities; You have redeemed my life from destruction; You have crowned me with lovingkindness. I worship at Your feet today, Lord Jesus, declaring that You are worthy of all my praise.",
+      "versePrayerLine": "Were there none found who returned to give glory to God? Lord Jesus, I return to Your feet with exuberant thanksgiving.",
+      "prompt": "Call or message someone today specifically to say 'thank you' for a blessing or kindness they showed you in the past."
+    }
+  },
+  "267": {
+    "day": 267,
+    "character": "The Rich Young Ruler",
+    "season": "One Thing You Lack: What Does It Profit to Keep the World?",
+    "theme": "Jesus demands undivided allegiance, loving us enough to expose the earthly treasures that hold us hostage.",
+    "memoryVerse": {
+      "reference": "Mark 10:21",
+      "text": "Jesus looking at him loved him, and said to him, “One thing you lack. Go, sell whatever you have, and give to the poor, and you will have treasure in heaven; and come, follow me, taking up the cross.”",
+      "whyItMatters": "Jesus loves us too deeply to let us keep idols that destroy our souls; true discipleship requires loosening our grip on earthly wealth to embrace treasure in heaven.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "loved",
+          "lack",
+          "poor",
+          "treasure",
+          "cross"
+        ],
+        "firstLetters": "J l a h l h, a s t h, “O t y l. G, s w y h, a g t t p, a y w h t i h; a c, f m, t u t c.”"
+      }
+    },
+    "profile": {
+      "title": "The Rich Young Ruler: The Moral Seeker Who Walked Away Sorrowful",
+      "who": "An aristocratic young Jewish magistrate (ruler of a local synagogue or civil court) of immense wealth and impeccable outward morality who ran to Jesus, kneeled in the dust, and asked how to inherit eternal life; when Jesus looked upon him with deep love and demanded that he surrender his wealth to the poor to follow Him, the young man's face fell and he departed grieving because his wealth possessed him.",
+      "whenAndWhere": "Perea on the road toward Jerusalem, circa AD 30.",
+      "family": "A wealthy young ruler of the Jewish nobility.",
+      "keyMoments": [
+        "Ran to Jesus as He went out into the way, kneeled down before Him in the road, and asked: 'Good Teacher, what shall I do that I may inherit eternal life?'",
+        "Jesus challenged his standard of goodness: 'Why do you call me good? No one is good except one—God. You know the commandments: Do not commit adultery, do not murder, do not steal, do not give false testimony, honor your father and mother.'",
+        "The young man answered with confident sincerity: 'Teacher, all these things I have observed from my youth.'",
+        "Mark records an unforgettable detail in Mark 10:21: 'Jesus looking at him LOVED him.' Jesus saw his moral earnestness and looked upon him with genuine affection.",
+        "Put His divine finger on the one idol holding his heart hostage: 'One thing you lack: go, sell whatever you have, and give to the poor, and you will have treasure in heaven; and come, follow me, taking up the cross.'",
+        "At that saying, the young man's face fell, his countenance grew dark with sorrow, and he walked away grieving; for he was one who had great possessions.",
+        "Jesus looked around and remarked to His disciples: 'How hard it is for those who have riches to enter into the Kingdom of God! It is easier for a camel to go through a needle's eye than for a rich man to enter into God's Kingdom.'",
+        "Disciples were astonished: 'Then who can be saved?' Jesus answered: 'With men it is impossible, but not with God; for all things are possible with God.'"
+      ],
+      "strengths": [
+        "Eager, humble approach: ran and kneeled in the dust before an itinerant Rabbi despite his aristocratic rank.",
+        "Moral earnestness: kept the outward commandments from youth.",
+        "Recognized that despite wealth and religion, he still lacked eternal life."
+      ],
+      "failures": [
+        "Possessed by his possessions: loved his earthly wealth more than the Son of God, choosing money over discipleship."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Mark 10",
+        "title": "The Rich Young Ruler and the Needle's Eye",
+        "verses": [
+          {
+            "number": 17,
+            "text": "As he was going out into the way, one ran to him, kneeled before him, and asked him, “Good Teacher, what shall I do that I may inherit eternal life?”"
+          },
+          {
+            "number": 20,
+            "text": "He said to him, “Teacher, I have observed all these things from my youth.”"
+          },
+          {
+            "number": 21,
+            "text": "Jesus looking at him loved him, and said to him, “One thing you lack. Go, sell whatever you have, and give to the poor, and you will have treasure in heaven; and come, follow me, taking up the cross.”"
+          },
+          {
+            "number": 22,
+            "text": "But his face fell at that saying, and he went away sorrowful, for he was one who had great possessions."
+          },
+          {
+            "number": 23,
+            "text": "Jesus looked around, and said to his disciples, “How difficult it will be for those who have riches to enter into God's Kingdom!”"
+          },
+          {
+            "number": 27,
+            "text": "Jesus, looking at them, said, “With men it is impossible, but not with God, for all things are possible with God.”"
+          }
+        ]
+      },
+      {
+        "reference": "Luke 18",
+        "title": "A Ruler Asks About Inheriting Eternal Life",
+        "verses": [
+          {
+            "number": 18,
+            "text": "A certain ruler asked him, saying, “Good Teacher, what shall I do to inherit eternal life?”"
+          },
+          {
+            "number": 22,
+            "text": "When Jesus heard these things, he said to him, “You still lack one thing. Sell all that you have, and distribute to the poor, and you will have treasure in heaven. Come, follow me.”"
+          },
+          {
+            "number": 23,
+            "text": "When he heard these things, he became very sad, for he was very rich."
+          },
+          {
+            "number": 29,
+            "text": "He said to them, “Most certainly I tell you, there is no one who has left house, or wife, or brothers, or parents, or children, for the Kingdom of God's sake,”"
+          },
+          {
+            "number": 30,
+            "text": "“who will not receive manifold more in this time, and in the world to come, eternal life.”"
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Jesus Loves You Too Much to Settle for Second Place in Your Heart",
+      "reflection": "Notice the heart of Jesus in Mark 10:21: 'Jesus, looking at him, LOVED him.' Jesus did not give this man a harsh command because He hated him; He gave it because He loved him! Jesus saw that this young man was held hostage by his bank account. He thought he possessed his riches, but his riches possessed him! He had kept the commandments of the second tablet (not murdering, stealing, or lying), but he was completely violating the First Commandment: 'You shall have no other gods before Me!' His money was his god. When Jesus told him to sell his possessions and give to the poor, Jesus was offering him the trade of a lifetime: trade perishable dust for eternal treasure in heaven, and walk with the Son of God! But the young man looked at his silver, looked at Jesus, bowed his head, and walked away sorrowful. What is the 'one thing' holding your heart hostage today? Let it go; Jesus is worth infinitely more."
+    },
+    "lessons": [
+      {
+        "lesson": "External Morality Does Not Equal Salvation",
+        "verse": "Mark 10:20-21",
+        "detail": "The young man lived a clean, religious life, yet Jesus said, 'One thing you lack.' Good behavior cannot substitute for total surrender to Christ.",
+        "question": "Are you relying on your moral track record, or have you surrendered everything to follow Jesus?"
+      },
+      {
+        "lesson": "Jesus Loves Us Enough to Expose Our Idols",
+        "verse": "Mark 10:21",
+        "detail": "True divine love does not pamper our spiritual addictions; it points straight to the idol that threatens to drag our soul to hell.",
+        "question": "What is the primary idol or attachment that the Holy Spirit is asking you to loosen your grip on?"
+      },
+      {
+        "lesson": "Possessions Can Possess the Soul",
+        "verse": "Mark 10:22",
+        "detail": "The young man walked away grieving because his wealth owned him; we must hold all earthly goods with an open, surrendered hand.",
+        "question": "Do you own your possessions, or do your possessions, savings, and comforts own you?"
+      },
+      {
+        "lesson": "What Is Impossible with Man Is Possible with God",
+        "verse": "Mark 10:27",
+        "detail": "Human hearts cannot untangle themselves from greed by mere willpower, but God's supernatural grace can deliver any soul.",
+        "question": "Are you asking God to do the impossible in freeing your heart from materialism and worldly anxiety?"
+      }
+    ],
+    "notesPrompt": "Reflect on Mark 10:21: 'One thing you lack... come, follow me, taking up the cross.' What is the 'one thing' between you and total, wholehearted discipleship to Jesus?",
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple-choice",
+        "question": "How did the rich young ruler approach Jesus on the road in Mark 10:17?",
+        "options": [
+          "He rode up on a golden chariot with guards",
+          "He ran to Him, kneeled before Him, and asked how to inherit eternal life",
+          "He challenged Jesus to a theological debate",
+          "He sent his servants with a written letter"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 10:17",
+        "explanation": "Mark 10:17 records: 'As he was going out into the way, one ran to him, kneeled before him, and asked him...'"
+      },
+      {
+        "id": 2,
+        "type": "multiple-choice",
+        "question": "What emotion did Jesus feel toward the young man before giving him His challenging command in Mark 10:21?",
+        "options": [
+          "Disgust at his wealth",
+          "Jesus looking at him loved him",
+          "Impatience with his questions",
+          "Jealousy of his status"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 10:21",
+        "explanation": "Mark 10:21 explicitly states: 'Jesus looking at him loved him...'"
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+        "question": "What specific challenge did Jesus give to the young ruler in Mark 10:21?",
+        "options": [
+          "Fast for forty days on Mount Sinai",
+          "Go, sell whatever you have, give to the poor, and you will have treasure in heaven; and come, follow me, taking up the cross",
+          "Give all your money to the temple treasury in Jerusalem",
+          "Become a disciple of John the Baptist"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 10:21",
+        "explanation": "Jesus said: 'One thing you lack. Go, sell whatever you have, and give to the poor, and you will have treasure in heaven; and come, follow me, taking up the cross.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple-choice",
+        "question": "How did the young man react to Jesus' command in Mark 10:22?",
+        "options": [
+          "He immediately gave away all his clothes",
+          "His face fell and he went away sorrowful, for he had great possessions",
+          "He drew his sword against the disciples",
+          "He laughed and mocked Jesus"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 10:22",
+        "explanation": "Mark 10:22 records: 'But his face fell at that saying, and he went away sorrowful, for he was one who had great possessions.'"
+      },
+      {
+        "id": 5,
+        "type": "true-false",
+        "question": "True or False: According to Mark 10:27, salvation for wealthy people is utterly impossible, even for God.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 10:27",
+        "explanation": "False. Jesus declared: 'With men it is impossible, but not with God, for all things are possible with God.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, You looked upon the rich young ruler with infinite love, and You look upon my soul today with that same penetrating love. You know the idols that compete for my allegiance. You know the earthly treasures, bank accounts, comforts, and reputations that I am tempted to cling to. Forgive me for the times I have held back from total discipleship out of fear of loss. Today I open my hands: all that I have belongs to You. Deliver me from being possessed by my possessions. I exchange the passing dust of this world for eternal treasure in heaven. I take up my cross to follow You, my Lord and my All.",
+      "versePrayerLine": "Search my heart, Lord Jesus; expose the one thing I lack, and grant me grace to surrender all to follow You.",
+      "prompt": "Identify one material item or financial security you have held tightly, and mentally surrender it to Jesus with open hands."
+    }
+  },
+  "268": {
+    "day": 268,
+    "character": "Zacchaeus",
+    "season": "The Sycamore Tree of Jericho: Salvation Has Come to This House",
+    "theme": "The relentless seeking love of the Son of Man transforms greedy hearts into joyful fountains of restitution.",
+    "memoryVerse": {
+      "reference": "Luke 19:10",
+      "text": "“For the Son of Man came to seek and to save that which was lost.”",
+      "whyItMatters": "We do not find God; the Son of Man seeks us out in our brokenness, stopping beneath our sycamore trees to bring joyful salvation into our homes.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "Son",
+          "Man",
+          "came",
+          "seek",
+          "save",
+          "lost"
+        ],
+        "firstLetters": "“F t S o M c t s a t s t w w l.”"
+      }
+    },
+    "profile": {
+      "title": "Zacchaeus of Jericho: The Chief Tax Collector Who Climbed into Grace",
+      "who": "The wealthy chief tax collector (architelones) in the affluent winter resort city of Jericho, hated as a collaborator with Rome and an extortioner; short of stature, he climbed a sycamore fig tree to see Jesus passing by; Jesus looked up, called him by name, invited Himself to his house, and transformed his life into radical generosity and fourfold restitution.",
+      "whenAndWhere": "Jericho, in the Jordan Valley, circa AD 30 (days before the crucifixion).",
+      "family": "A Jewish son of Abraham, head of a household in Jericho.",
+      "keyMoments": [
+        "Jesus entered and was passing through the wealthy oasis city of Jericho on His final journey toward Jerusalem.",
+        "A man named Zacchaeus was a chief tax collector (supervising regional tax collectors in a major customs hub) and was very rich.",
+        "Desperately wanted to see who Jesus was, but couldn't because of the thick crowd, since he was small in stature.",
+        "Ran on ahead, abandoning all dignity of a senior civil official, and climbed up into a sycamore-fig tree to see Him, for He was to pass that way.",
+        "When Jesus reached the spot, He looked up, saw him, and called him by name: 'Zacchaeus, hurry and come down, for today I must stay at your house!'",
+        "Hurried and came down, and received Jesus into his home joyfully.",
+        "The religious crowd grumbled in self-righteous disgust: 'He has gone in to lodge with a man who is a sinner!'",
+        "Standing before the Lord, Zacchaeus demonstrated radical, instant transformation of heart: 'Behold, Lord, half of my goods I give to the poor. If I have wrongfully exacted anything of anyone, I restore four times as much!' (Going far beyond Mosaic law requirements).",
+        "Jesus declared: 'Today, salvation has come to this house, because he also is a son of Abraham!'",
+        "Spoke His supreme mission statement in Luke 19:10: 'For the Son of Man came to seek and to save that which was lost.'",
+        "Fulfilled Ezekiel 18:21, 27: 'If the wicked turns from all his sins... he will surely live; he will not die.'"
+      ],
+      "strengths": [
+        "Overcame social embarrassment and physical limitations to see Jesus.",
+        "Welcomed Jesus into his home with exuberant joy.",
+        "Radical, voluntary repentance evidenced by immense financial restitution (fourfold) and generosity (half his wealth to the poor)."
+      ],
+      "failures": [
+        "Grew wealthy through years of unjust taxation and extortion as chief of publicans."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Luke 19",
+        "title": "Jesus and Zacchaeus in Jericho",
+        "verses": [
+          {
+            "number": 2,
+            "text": "Behold, there was a man named Zacchaeus. He was a chief tax collector, and he was rich."
+          },
+          {
+            "number": 3,
+            "text": "He was trying to see who Jesus was, and couldn't because of the crowd, because he was short."
+          },
+          {
+            "number": 4,
+            "text": "He ran on ahead, and climbed up into a sycamore tree to see him, for he was to pass that way."
+          },
+          {
+            "number": 5,
+            "text": "When Jesus came to the place, he looked up, and saw him, and said to him, “Zacchaeus, hurry and come down, for today I must stay at your house.”"
+          },
+          {
+            "number": 6,
+            "text": "He hurried, came down, and received him joyfully."
+          },
+          {
+            "number": 8,
+            "text": "Zacchaeus stood and said to the Lord, “Behold, Lord, half of my goods I give to the poor. If I have wrongfully exacted anything of anyone, I restore four times as much.”"
+          },
+          {
+            "number": 9,
+            "text": "Jesus said to him, “Today, salvation has come to this house, because he also is a son of Abraham.”"
+          },
+          {
+            "number": 10,
+            "text": "“For the Son of Man came to seek and to save that which was lost.”"
+          }
+        ]
+      },
+      {
+        "reference": "Ezekiel 18",
+        "title": "Repentance, Restitution, and Turning from Iniquity",
+        "verses": [
+          {
+            "number": 21,
+            "text": "“But if the wicked turns away from all his sins that he has committed, and keeps all my statutes, and does that which is lawful and right, he shall surely live. He shall not die.”"
+          },
+          {
+            "number": 22,
+            "text": "“None of his transgressions that he has committed will be remembered against him. In his righteousness that he has done, he shall live.”"
+          },
+          {
+            "number": 27,
+            "text": "“Again, when the wicked man turns away from his wickedness that he has committed, and does that which is lawful and right, he will save his soul alive.”"
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "The Seeking Savior Calls You by Name and Transforms Your Pocketbook with Joy",
+      "reflection": "Zacchaeus thought he was the one seeking Jesus; but when he climbed that sycamore tree, he discovered that Jesus had been seeking HIM all along! Jesus stopped directly beneath the branches, looked up into the foliage, and called him by his personal name: 'Zacchaeus, hurry and come down; today I MUST stay at your house!' Jesus did not wait for Zacchaeus to apologize before offering friendship. Grace always takes the initiative! And notice how true salvation showed up in Zacchaeus' life: it immediately touched his wallet! Zacchaeus did not wait to be sued or audited; standing before the love of Jesus, his greedy heart melted into a fountain of generosity: 'Half my goods I give to the poor, and fourfold restitution to anyone I defrauded!' When the grace of Christ enters a house, greed dies, restitution is made, and joy floods the home. The Son of Man came to seek and save that which was lost—and that includes you."
+    },
+    "lessons": [
+      {
+        "lesson": "Don't Let Dignity Keep You from Jesus",
+        "verse": "Luke 19:3-4",
+        "detail": "A wealthy chief official climbed a tree like a boy because seeing Jesus was more important than preserving his social dignity.",
+        "question": "Are you willing to set aside your pride, image, and reputation in order to pursue Jesus wholeheartedly?"
+      },
+      {
+        "lesson": "Jesus Knows Your Name and Stops at Your Tree",
+        "verse": "Luke 19:5",
+        "detail": "Jesus did not know Zacchaeus through an introduction; the Shepherd knows every lost sheep by name and seeks them out.",
+        "question": "Do you realize that Jesus sees you right where you are, knows your name, and desires intimate fellowship in your home?"
+      },
+      {
+        "lesson": "True Repentance Makes Tangible Restitution",
+        "verse": "Luke 19:8",
+        "detail": "Zacchaeus proved his conversion not with empty tears, but by paying back fourfold to those he had wronged and blessing the poor.",
+        "question": "Is there someone you have wronged financially or relationally to whom you need to make humble restitution?"
+      },
+      {
+        "lesson": "The Mission of Jesus: Seeking the Lost",
+        "verse": "Luke 19:10",
+        "detail": "The entire purpose of the Incarnation is summarized here: the Son of Man came to seek and save the lost.",
+        "question": "Does your life mission align with Christ's mission to seek and rescue lost, hurting people around you?"
+      }
+    ],
+    "notesPrompt": "Reflect on Luke 19:10: 'The Son of Man came to seek and to save that which was lost.' Write a prayer of thanksgiving for how Jesus sought you out when you were lost in your own sycamore tree.",
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple-choice",
+        "question": "What was Zacchaeus' occupation in the city of Jericho in Luke 19:2?",
+        "options": [
+          "A temple priest",
+          "A chief tax collector, and he was rich",
+          "A fisherman from the Jordan",
+          "A centurion of Herod's army"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 19:2",
+        "explanation": "Luke 19:2 states: 'He was a chief tax collector, and he was rich.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple-choice",
+        "question": "Why did Zacchaeus climb into a sycamore-fig tree to see Jesus in Luke 19:3-4?",
+        "options": [
+          "He was hiding from Roman soldiers",
+          "He was short in stature and could not see over the crowd",
+          "He wanted to throw figs to the disciples",
+          "He was hunting wild birds"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 19:3-4",
+        "explanation": "He couldn't see because of the crowd, because he was short; so he ran ahead and climbed a sycamore tree."
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+        "question": "What did Jesus say to Zacchaeus when He reached the tree in Luke 19:5?",
+        "options": [
+          "Woe to you, extortioner of Jericho!",
+          "Zacchaeus, hurry and come down, for today I must stay at your house",
+          "Pay your taxes to the high priest",
+          "Sell your house and give to the poor"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 19:5",
+        "explanation": "Jesus said: 'Zacchaeus, hurry and come down, for today I must stay at your house.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple-choice",
+        "question": "What radical financial commitment did Zacchaeus make to Jesus in Luke 19:8?",
+        "options": [
+          "He gave one tenth of his crop",
+          "Half of my goods I give to the poor, and if I have wrongfully exacted anything, I restore four times as much",
+          "He paid his Roman taxes for the year",
+          "He promised to buy Jesus a horse"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 19:8",
+        "explanation": "Zacchaeus said: 'Behold, Lord, half of my goods I give to the poor. If I have wrongfully exacted anything of anyone, I restore four times as much.'"
+      },
+      {
+        "id": 5,
+        "type": "true-false",
+        "question": "True or False: In Luke 19:10, Jesus declared that the Son of Man came to seek and save only the righteous and wealthy.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 19:10",
+        "explanation": "False. Jesus declared: 'For the Son of Man came to seek and to save that which was lost.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, Seeking Savior of the lost, You walked through Jericho and stopped beneath Zacchaeus' tree, calling him by name and bringing salvation into his home. Thank You that You saw me when I was lost, alienated, and short of Your glory. You called my name and welcomed me into Your lavish grace! Transform my heart today as You transformed Zacchaeus. Cure me of all greed, selfishness, and worldly grasping. Give me a spirit of radical generosity, joyful restitution, and open-handed love. Make my home a sanctuary where Your salvation is celebrated and shared with the lost.",
+      "versePrayerLine": "The Son of Man came to seek and to save that which was lost; thank You for finding and saving my soul, Lord Jesus.",
+      "prompt": "Practice radical generosity today by giving an unexpected gift or tip, reflecting the transformed heart of Zacchaeus."
+    }
+  },
+  "269": {
+    "day": 269,
+    "character": "Blind Bartimaeus",
+    "season": "Casting Off the Cloak: What Do You Want Me to Do for You?",
+    "theme": "Desperate, vocal faith casts aside old identities to run to Jesus and receive spiritual sight.",
+    "memoryVerse": {
+      "reference": "Mark 10:52",
+      "text": "Jesus said to him, “Go your way. Your faith has made you well.” Immediately he received his sight, and followed Jesus on the way.",
+      "whyItMatters": "Bartimaeus threw off his beggar's cloak, shouted over the rebukes of the crowd, and asked boldly for sight; his faith was rewarded with instant vision and a lifetime of following Jesus.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "faith",
+          "well",
+          "Immediately",
+          "received",
+          "sight"
+        ],
+        "firstLetters": "J s t h, “G y w. Y f h m y w.” I h r h s, a f J o t w."
+      }
+    },
+    "profile": {
+      "title": "Bartimaeus son of Timaeus: The Jericho Beggar Who Threw Away His Cloak",
+      "who": "A blind beggar sitting beside the highway outside Jericho who heard that Jesus of Nazareth was passing by; despite the crowd commanding him to be quiet, he shouted louder for the 'Son of David'; when Jesus called him, he cast aside his beggar's garment, leaped up, came to Jesus, asked for sight, and immediately followed Him on the road to the Cross.",
+      "whenAndWhere": "The outskirts of Jericho on the highway to Jerusalem, circa AD 30.",
+      "family": "Son of Timaeus; likely a well-known Christian brother in the early church (since Mark names him specifically).",
+      "keyMoments": [
+        "Sitting by the roadside outside Jericho begging for coins as thousands traveled past for Passover.",
+        "Hearing that it was Jesus of Nazareth passing by, began to cry out with loud, Messianic passion: 'Jesus, you son of David, have mercy on me!'",
+        "Many in the crowd rebuked him sharply, telling him to shut up and not bother the Teacher.",
+        "He cried out so much the more, shouting at the top of his lungs: 'You son of David, have mercy on me!'",
+        "Jesus stood still! The Creator of the universe stopped in His tracks at the desperate cry of a blind beggar.",
+        "Jesus commanded him to be called. They called the blind man, saying: 'Cheer up! Get up! He is calling you!'",
+        "Mark 10:50 records the critical act: 'Casting away his cloak, he sprang up, and came to Jesus.' Threw away his licensed beggar's garment—his sole livelihood and social security.",
+        "Jesus asked the searching question: 'What do you want me to do for you?'",
+        "The blind man answered without hesitation: 'Rabboni (My Master), that I may see!'",
+        "Jesus said to him: 'Go your way. Your faith has made you well.'",
+        "Immediately he received his sight, and followed Jesus on the way to Jerusalem, glorifying God as all the people gave praise."
+      ],
+      "strengths": [
+        "Theological clarity: recognized Jesus as the promised 'Son of David' (Messiah).",
+        "Unyielding persistence: shouted louder when the crowd tried to silence him.",
+        "Radical act of faith: threw away his beggar's cloak before he could even see.",
+        "Gratitude in action: did not go home to celebrate, but followed Jesus on the road to the Cross."
+      ],
+      "failures": [
+        "Had lived for years in the helpless darkness and poverty of blindness."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Mark 10",
+        "title": "Blind Bartimaeus Receives His Sight",
+        "verses": [
+          {
+            "number": 46,
+            "text": "They came to Jericho. As he went out from Jericho, with his disciples and a great multitude, the son of Timaeus, Bartimaeus, a blind beggar, was sitting by the road."
+          },
+          {
+            "number": 47,
+            "text": "When he heard that it was Jesus the Nazarene, he began to cry out, and say, “Jesus, you son of David, have mercy on me!”"
+          },
+          {
+            "number": 48,
+            "text": "Many rebuked him, that he should be quiet, but he cried out much more, “You son of David, have mercy on me!”"
+          },
+          {
+            "number": 49,
+            "text": "Jesus stood still, and said, “Call him.” They called the blind man, saying to him, “Cheer up! Get up. He is calling you!”"
+          },
+          {
+            "number": 50,
+            "text": "He, casting away his cloak, sprang up, and came to Jesus."
+          },
+          {
+            "number": 51,
+            "text": "Jesus asked him, “What do you want me to do for you?” The blind man said to him, “Rabboni, that I may see.”"
+          },
+          {
+            "number": 52,
+            "text": "Jesus said to him, “Go your way. Your faith has made you well.” Immediately he received his sight, and followed Jesus on the way."
+          }
+        ]
+      },
+      {
+        "reference": "Luke 18",
+        "title": "A Blind Man Cries for Mercy Outside Jericho",
+        "verses": [
+          {
+            "number": 35,
+            "text": "As he came near to Jericho, a certain blind man sat by the road, begging."
+          },
+          {
+            "number": 38,
+            "text": "He cried out, “Jesus, you son of David, have mercy on me!”"
+          },
+          {
+            "number": 41,
+            "text": "“What do you want me to do for you?” He said, “Lord, that I may see.”"
+          },
+          {
+            "number": 42,
+            "text": "Jesus said to him, “Receive your sight. Your faith has healed you.”"
+          },
+          {
+            "number": 43,
+            "text": "Immediately he received his sight, and followed him, glorifying God. All the people, when they saw it, praised God."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Throw Off Your Beggar's Cloak and Cry Out; Jesus Stops for Persistent Faith",
+      "reflection": "Look at the turning point of this miracle in Mark 10:49: 'JESUS STOOD STILL.' Jesus was on His final journey to Jerusalem to die for the sins of the world. Thousands of Passover pilgrims were marching with Him. Yet the desperate, faith-filled shout of a blind beggar stopped the Son of God in His tracks! Notice what the crowd did: when Bartimaeus started crying, they told him to shut up! The world always tells passionate seekers to quiet down and not be so extreme. But Bartimaeus shouted all the more! And look at what he did when Jesus called him: 'Casting away his cloak, he sprang up!' In ancient times, a licensed beggar's cloak was his official garment, his blanket, and the cloth onto which coins were tossed. By throwing it away while still totally blind, Bartimaeus declared: 'I am never going back to begging again! Jesus is going to heal me!' Throw away the old cloak of your past identity, come to Jesus, and follow Him on the way."
+    },
+    "lessons": [
+      {
+        "lesson": "Don't Let the Crowd Silence Your Cry for Mercy",
+        "verse": "Mark 10:48",
+        "detail": "When peers or cultural voices tell you to tone down your passion for Jesus, let their rebukes cause you to shout all the more.",
+        "question": "Are you allowing the opinions or mockery of others to silence your prayers and public devotion to Christ?"
+      },
+      {
+        "lesson": "Desperate Faith Causes Jesus to Stand Still",
+        "verse": "Mark 10:49",
+        "detail": "The King of the universe halts His procession whenever a humble soul cries out with authentic, persistent faith in His mercy.",
+        "question": "Do you pray with the persistent desperation that arrests the attention of heaven?"
+      },
+      {
+        "lesson": "Cast Away Your Old Beggar's Cloak",
+        "verse": "Mark 10:50",
+        "detail": "Bartimaeus threw off his beggar's garment before he could even see, burning his bridges to his old life of helpless beggary.",
+        "question": "What 'beggar's cloak' of self-pity, victimhood, or old identity do you need to cast away to follow Christ?"
+      },
+      {
+        "lesson": "Follow Jesus on the Way",
+        "verse": "Mark 10:52",
+        "detail": "Having received sight, Bartimaeus did not run off to pursue selfish ambitions; he followed Jesus on the road toward the cross.",
+        "question": "Are you using the spiritual sight and blessings God has given you to follow Jesus wherever He leads?"
+      }
+    ],
+    "notesPrompt": "Reflect on Jesus' question to Bartimaeus: 'What do you want Me to do for you?' If Jesus asked you that question right now, what is your clear, bold, and specific answer?",
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple-choice",
+        "question": "What title did blind Bartimaeus shout to Jesus as He passed by outside Jericho in Mark 10:47?",
+        "options": [
+          "Teacher of Galilee",
+          "Jesus, you son of David, have mercy on me!",
+          "High Priest of Jerusalem",
+          "King of the Romans"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 10:47",
+        "explanation": "He cried out saying: 'Jesus, you son of David, have mercy on me!'"
+      },
+      {
+        "id": 2,
+        "type": "multiple-choice",
+        "question": "How did the crowd react to Bartimaeus' loud crying in Mark 10:48?",
+        "options": [
+          "They gave him gold and food",
+          "Many rebuked him, telling him that he should be quiet",
+          "They carried him to the front of the line",
+          "They called the Roman guards to arrest him"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 10:48",
+        "explanation": "Many rebuked him that he should be quiet, but he cried out much more."
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+        "question": "What dramatic action did Bartimaeus take when told Jesus was calling him in Mark 10:50?",
+        "options": [
+          "He hid behind a stone wall",
+          "Casting away his cloak, he sprang up and came to Jesus",
+          "He asked for someone to count his coins",
+          "He washed his face in the well"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 10:50",
+        "explanation": "Mark 10:50 states: 'He, casting away his cloak, sprang up, and came to Jesus.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple-choice",
+        "question": "What was Bartimaeus' specific request when Jesus asked 'What do you want me to do for you?'",
+        "options": [
+          "Give me a bag of silver denarii",
+          "Rabboni, that I may see",
+          "Make me a ruler in Jericho",
+          "Punish the crowd that told me to be quiet"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 10:51",
+        "explanation": "The blind man said to Him: 'Rabboni, that I may see.'"
+      },
+      {
+        "id": 5,
+        "type": "true-false",
+        "question": "True or False: According to Mark 10:52, after receiving his sight, Bartimaeus immediately returned to his beggar's spot by the roadside.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 10:52",
+        "explanation": "False. Immediately he received his sight, and followed Jesus on the way."
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, Son of David, have mercy on me! When the voices of this world tell me to be quiet and tone down my passion, give me the bold tenacity of Bartimaeus to cry out all the more. Thank You that You stand still at the voice of desperate faith. Today I cast away the old cloak of self-pity, fear, and past identity. I jump up and come to You! Open the eyes of my heart, Lord Jesus; heal my spiritual blindness, that with clear vision I may follow You faithfully on the road of discipleship, glorifying God all the days of my life.",
+      "versePrayerLine": "Rabboni, that I may see! Open my eyes, Lord Jesus, and empower me to follow You faithfully on the way.",
+      "prompt": "Cast off an old 'cloak' of self-pity or spiritual lethargy today, and pray boldly for the specific vision God wants to give you."
+    }
+  },
+  "270": {
+    "day": 270,
+    "character": "Lazarus, Mary & Martha",
+    "season": "Bethany: 'I Am the Resurrection and the Life'",
+    "theme": "Christ weeps in tender empathy with the grieving, yet exercises supreme power over the grave.",
+    "memoryVerse": {
+      "reference": "John 11:25",
+      "text": "Jesus said to her, “I am the resurrection and the life. He who believes in me will still live, even if he dies.”",
+      "whyItMatters": "Death is not the final chapter for the believer; because Jesus is the personal embodiment of resurrection life, physical death is merely a doorway into everlasting fellowship with God.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "resurrection",
+          "life",
+          "believes",
+          "live",
+          "dies"
+        ],
+        "firstLetters": "J s t h, “I a t r a t l. H w b i m w s l, e i h d.”"
+      }
+    },
+    "profile": {
+      "title": "Lazarus, Mary, and Martha of Bethany: Mourners Crowned with Resurrection Glory",
+      "who": "Three beloved siblings in Bethany whose home was a sanctuary for Jesus; when Lazarus fell sick and died, Jesus delayed His arrival by two days to demonstrate the glory of the Father, weeping alongside the heartbroken sisters before calling Lazarus out of the tomb four days dead.",
+      "whenAndWhere": "Bethany, two miles east of Jerusalem, Judea, circa AD 29–30.",
+      "family": "Lazarus (brother), Martha and Mary (sisters).",
+      "keyMoments": [
+        "Sending an urgent message to Jesus: 'Lord, behold, he whom you love is sick.'",
+        "Experiencing the agonizing confusion of Jesus delaying two days while Lazarus died and was buried.",
+        "Martha going out to meet Jesus, declaring her faith even in the face of death: 'even now I know that whatever you ask of God, God will give you.'",
+        "Watching Jesus weep in holy empathy at the graveside before commanding the stone to be rolled away.",
+        "Hearing the earth-shaking shout, 'Lazarus, come out!' and unwrapping the living brother from graveclothes."
+      ],
+      "strengths": "Deep, affectionate intimacy with Jesus, authentic transparency in grief, unwavering confession of Christ's resurrection power.",
+      "failures": "Initially struggling to understand God's timing, expressing gentle bewilderment that Jesus had not arrived sooner to prevent death."
+    },
+    "scripture": [
+      {
+        "reference": "John 11",
+        "title": "The Raising of Lazarus and the Tears of Jesus",
+        "verses": [
+          {
+            "number": 3,
+            "text": "The sisters therefore sent to him, saying, “Lord, behold, he whom you love is sick.”"
+          },
+          {
+            "number": 4,
+            "text": "But when Jesus heard it, he said, “This sickness is not to death, but for the glory of God, that God’s Son may be glorified by it.”"
+          },
+          {
+            "number": 21,
+            "text": "Therefore Martha said to Jesus, “Lord, if you would have been here, my brother wouldn’t have died."
+          },
+          {
+            "number": 22,
+            "text": "Even now I know that, whatever you ask of God, God will give you.”"
+          },
+          {
+            "number": 25,
+            "text": "Jesus said to her, “I am the resurrection and the life. He who believes in me will still live, even if he dies."
+          },
+          {
+            "number": 26,
+            "text": "Whoever lives and believes in me will never die. Do you believe this?”"
+          },
+          {
+            "number": 35,
+            "text": "Jesus wept."
+          },
+          {
+            "number": 43,
+            "text": "When he had said these things, he cried with a loud voice, “Lazarus, come out!”"
+          },
+          {
+            "number": 44,
+            "text": "He who was dead came out, bound hand and foot with wrappings, and his face was wrapped around with a cloth. Jesus said to them, “Free him, and let him go.”"
+          }
+        ]
+      },
+      {
+        "reference": "1 Corinthians 15",
+        "title": "The Triumph over Death through the Resurrection",
+        "verses": [
+          {
+            "number": 20,
+            "text": "But now Christ has been raised from the dead. He became the first fruits of those who are asleep."
+          },
+          {
+            "number": 21,
+            "text": "For since death came by man, the resurrection of the dead also came by man."
+          },
+          {
+            "number": 22,
+            "text": "For as in Adam all die, so also in Christ all will be made alive."
+          },
+          {
+            "number": 54,
+            "text": "But when this corruptible will have put on incorruption, and this mortal will have put on immortality, then what is written will happen: “Death is swallowed up in victory.”"
+          },
+          {
+            "number": 55,
+            "text": "“Death, where is your sting? Hades, where is your victory?”"
+          },
+          {
+            "number": 57,
+            "text": "But thanks be to God, who gives us the victory through our Lord Jesus Christ."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "God's delays are never denials; He permits human extremity so that His resurrection glory may be revealed in power.",
+      "reflection": "When Martha and Mary sent word that Lazarus was critically ill, they assumed Jesus would drop everything and hurry to their side. Instead, John 11:6 delivers a startling phrase: 'When therefore he heard that he was sick, he stayed two days in the place where he was.' Love delayed. Why? Because Jesus had in mind something vastly greater than a temporary healing from fever; He intended to reveal Himself as the supreme Conqueror of the grave. When He arrived, Lazarus had been decomposing in the tomb for four days—past all human hope. Martha met Him with tears of honest bewilderment: 'Lord, if you had been here, my brother wouldn't have died.' Jesus did not offer shallow clichés or rebukes. Instead, standing before the tomb, Jesus wept. The shortest verse in the English Bible (John 11:35) pulses with the infinite heart of God: our Savior is not a detached spectator of human agony; He enters into our heartbreak with weeping compassion. Yet tears were immediately followed by omnipotent authority. Standing before the gaping sepulcher, Jesus cried, 'Lazarus, come out!' The grave could not keep its prey. In Christ, death is swallowed up in victory."
+    },
+    "lessons": [
+      {
+        "lesson": "God's timing is driven by His eternal glory and our deepest spiritual good, not our immediate schedule.",
+        "verse": "John 11:4, 6",
+        "detail": "When God seems silent or slow in answering your prayers, He is orchestrating a greater revelation of His resurrection power.",
+        "question": "What delayed prayer in your life are you struggling to trust into God's sovereign timing today?"
+      },
+      {
+        "lesson": "Resurrection is not merely a distant theological event on the last day; it is a present Person: Jesus Christ.",
+        "verse": "John 11:25",
+        "detail": "Because Jesus IS the Resurrection and the Life, having Him means possessing indestructible spiritual life right now.",
+        "question": "Do you think of eternal life as something that begins after you die, or as the present reality of walking with Jesus?"
+      },
+      {
+        "lesson": "Jesus weeps with those who weep, validating our genuine sorrow and grief.",
+        "verse": "John 11:35",
+        "detail": "Crying over loss and suffering is not a lack of faith; Jesus wept openly even though He knew He was about to raise Lazarus in minutes.",
+        "question": "Do you feel safe pouring out your tears and heartbreak honestly before the Lord in prayer?"
+      },
+      {
+        "lesson": "Christ commands us to help unwrap one another from the lingering graveclothes of our old life.",
+        "verse": "John 11:44",
+        "detail": "When Lazarus walked out alive, Jesus told the community: 'Free him, and let him go.' Discipleship involves helping newly delivered believers shed old habits.",
+        "question": "How can you help a brother or sister in Christ remove the remaining graveclothes of past defeat?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q270_1",
+        "type": "multiple_choice",
+        "question": "How many days did Jesus intentionally remain in the place He was after hearing Lazarus was sick?",
+        "options": [
+          "One day",
+          "Two days",
+          "Four days",
+          "One week"
+        ],
+        "correctIndex": 1,
+        "reference": "John 11:6",
+        "explanation": "John 11:6 says: 'When therefore he heard that he was sick, he stayed two days in the place where he was.'"
+      },
+      {
+        "id": "q270_2",
+        "type": "multiple_choice",
+        "question": "What monumental declaration did Jesus make to Martha in John 11:25?",
+        "options": [
+          "I am the light of the morning",
+          "I am the resurrection and the life",
+          "I am the judge of all living men",
+          "I am the builder of new cities"
+        ],
+        "correctIndex": 1,
+        "reference": "John 11:25",
+        "explanation": "Jesus declared: 'I am the resurrection and the life. He who believes in me will still live, even if he dies.'"
+      },
+      {
+        "id": "q270_3",
+        "type": "multiple_choice",
+        "question": "What is the shortest verse in the English Bible, recording Jesus' reaction at the tomb?",
+        "options": [
+          "Jesus prayed",
+          "Jesus wept",
+          "Jesus spoke",
+          "Jesus smiled"
+        ],
+        "correctIndex": 1,
+        "reference": "John 11:35",
+        "explanation": "John 11:35 simply and profoundly records: 'Jesus wept.'"
+      },
+      {
+        "id": "q270_4",
+        "type": "true_false",
+        "question": "Lazarus had already been in the tomb for four days when Jesus commanded the stone to be rolled away.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 0,
+        "reference": "John 11:17, 39",
+        "explanation": "True. Martha noted that by this time there would be a stench, for he had been dead four days."
+      },
+      {
+        "id": "q270_5",
+        "type": "multiple_choice",
+        "question": "According to 1 Corinthians 15:57, through whom does God give us victory over sin and death?",
+        "options": [
+          "Through human philosophy",
+          "Through our Lord Jesus Christ",
+          "Through the angels of heaven",
+          "Through strict ascetic fasting"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Corinthians 15:57",
+        "explanation": "Paul writes: 'But thanks be to God, who gives us the victory through our Lord Jesus Christ.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, You are the Resurrection and the Life! In Your presence, death loses its terrifying sting and the grave is stripped of its victory. Thank You that You never mock our grief; You weep with us in the valleys of loss and heartbreak. Forgive me for the times I have questioned Your timing or assumed You did not care because an answer seemed delayed. Today I roll away the stone of doubt from my heart. Speak Your living, authoritative word into every dead hope and dry place in my soul. Clothe me in resurrection power and teach me to live in joyful victory today.",
+      "versePrayerLine": "“I am the resurrection and the life. He who believes in me will still live, even if he dies.”",
+      "prompt": "Surrender to Jesus any area of your life that feels dead or decayed, trusting Him as your Resurrection and Life."
+    }
+  },
+  "271": {
+    "day": 271,
+    "character": "Mary of Bethany",
+    "season": "The Simon the Leper's Feast: Extravagant Love and Costly Spikenard",
+    "theme": "Extravagant, uncalculating love breaks its costliest treasures to honor Jesus before His burial.",
+    "memoryVerse": {
+      "reference": "Mark 14:8",
+      "text": "“She has done what she could. She has anointed my body beforehand for the burying.”",
+      "whyItMatters": "While the world evaluates worship by pragmatic utility, Jesus measures devotion by wholehearted love that gladly pours out its best upon Him without counting the cost.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "done",
+          "could",
+          "anointed",
+          "beforehand",
+          "burying"
+        ],
+        "firstLetters": "“S h d w s c. S h a m b b f t b.”"
+      }
+    },
+    "profile": {
+      "title": "Mary of Bethany: The Disciple Who Anointed the King with Costly Devotion",
+      "who": "The sister of Martha and Lazarus who possessed profound spiritual sensitivity; days before the Passover, while others were distracted, she brought an alabaster flask of pure nard worth a year's wages, broke it, and poured it over Jesus' head and feet, wiping His feet with her hair in radical adoration.",
+      "whenAndWhere": "Bethany, in the house of Simon the Leper, Judea, Passion Week, circa AD 30.",
+      "family": "Sister of Martha and Lazarus.",
+      "keyMoments": [
+        "Sitting at Jesus' feet in earlier days, choosing the 'good part' that could not be taken away.",
+        "Bringing a Roman alabaster flask filled with a pound of extremely costly genuine nard (worth 300 denarii).",
+        "Breaking the flask and pouring the aromatic oil lavishly over Jesus' head and feet, filling the whole house with fragrance.",
+        "Enduring sharp indignation and public criticism from Judas Iscariot and the other disciples who labeled it 'waste.'",
+        "Receiving Jesus' immortal commendation: 'She has done a good work for me... Wherever this Good News is preached in the whole world, what she has done will also be told in memory of her.'"
+      ],
+      "strengths": "Deep spiritual discernment, radical generosity, unashamed worship, courage to ignore human critics.",
+      "failures": "None recorded in this act; her devotion was pure, timely, and praised directly by Jesus."
+    },
+    "scripture": [
+      {
+        "reference": "John 12",
+        "title": "The Anointing at Bethany and Judas' Indignation",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Six days before the Passover, Jesus came to Bethany, where Lazarus was, who had been dead, whom he raised from the dead."
+          },
+          {
+            "number": 2,
+            "text": "So they made him a supper there. Martha served, but Lazarus was one of those who sat at the table with him."
+          },
+          {
+            "number": 3,
+            "text": "Mary, therefore, took a pound of ointment of pure nard, very precious, and anointed the feet of Jesus, and wiped his feet with her hair. The house was filled with the fragrance of the ointment."
+          },
+          {
+            "number": 4,
+            "text": "Then Judas Iscariot, Simon’s son, one of his disciples, who would betray him, said,"
+          },
+          {
+            "number": 5,
+            "text": "“Why wasn’t this ointment sold for three hundred denarii, and given to the poor?”"
+          },
+          {
+            "number": 6,
+            "text": "Now he said this, not because he cared for the poor, but because he was a thief, and having the money box, used to steal what was put into it."
+          },
+          {
+            "number": 7,
+            "text": "But Jesus said, “Leave her alone. She has kept this for the day of my burial."
+          },
+          {
+            "number": 8,
+            "text": "For you always have the poor with you, but you don’t always have me.”"
+          }
+        ]
+      },
+      {
+        "reference": "Mark 14",
+        "title": "She Has Done What She Could",
+        "verses": [
+          {
+            "number": 3,
+            "text": "While he was at Bethany, in the house of Simon the leper, as he sat at the table, a woman came having an alabaster jar of ointment of pure nard—very costly. She broke the jar, and poured it over his head."
+          },
+          {
+            "number": 4,
+            "text": "But there were some who were indignant among themselves, saying, “Why has this ointment been wasted?"
+          },
+          {
+            "number": 5,
+            "text": "For this might have been sold for more than three hundred denarii, and given to the poor.” They grumbled against her."
+          },
+          {
+            "number": 6,
+            "text": "But Jesus said, “Leave her alone. Why do you trouble her? She has done a good work for me."
+          },
+          {
+            "number": 8,
+            "text": "She has done what she could. She has anointed my body beforehand for the burying."
+          },
+          {
+            "number": 9,
+            "text": "Most certainly I tell you, wherever this Good News may be preached throughout the whole world, that which this woman has done will also be spoken of for a memorial of her.”"
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Nothing given to Jesus in wholehearted adoration is ever wasted; extravagant love moves the heart of God.",
+      "reflection": "Judas looked at the broken alabaster flask and calculated lost revenue: 300 denarii was an entire year's wages for a working laborer. To pragmatic minds, pouring expensive perfume on the feet of Jesus looked like outrageous waste. But Jesus viewed it entirely differently: He called it a 'beautiful work.' While the male disciples were still arguing about who would sit on thrones in an earthly kingdom, Mary alone had listened when Jesus spoke of His coming death. She understood that time was short. She did not wait to bring spices to an empty tomb on Sunday morning; she anointed the living Savior beforehand for His burial. She broke the neck of the alabaster jar so that not a single drop could ever be reclaimed. And in wiping His feet with her hair, she abandoned all female dignity and cultural reserve to declare that Christ was worthy of her ultimate devotion. Whenever you surrender your time, career ambition, reputation, or finances for the sake of Jesus, the cynical world will call it a foolish waste. But in the eyes of heaven, every sacrifice of love is a sweet-smelling fragrance that Jesus treasures forever."
+    },
+    "lessons": [
+      {
+        "lesson": "True devotion does not calculate minimum duty; it seeks opportunities for extravagant worship.",
+        "verse": "John 12:3",
+        "detail": "Mary did not give a token tithe of her perfume; she broke the entire jar and gave her most valuable heirloom wholly to Christ.",
+        "question": "Are you offering Jesus the leftover crumbs of your life, or breaking your costliest alabaster jar for Him?"
+      },
+      {
+        "lesson": "Be prepared for religious critics to label your passionate devotion as 'waste.'",
+        "verse": "Mark 14:4-5",
+        "detail": "Even disciples can adopt a worldly, calculating mindset that criticizes sacrificial giving; Jesus Himself will defend your adoration.",
+        "question": "Has the fear of human disapproval or criticism ever held you back from expressing wholehearted love to God?"
+      },
+      {
+        "lesson": "Opportunities to honor Christ must be seized promptly before the season passes.",
+        "verse": "Mark 14:8",
+        "detail": "Mary recognized the urgency of the moment; she anointed Jesus before Calvary, whereas others arrived at the tomb too late.",
+        "question": "What act of love or obedience is the Holy Spirit prompting you to do right now, before the opportunity slips away?"
+      },
+      {
+        "lesson": "Jesus notices, defends, and eternally memorializes every quiet act of sacrificial love.",
+        "verse": "Mark 14:6, 9",
+        "detail": "No sacrifice for Christ is overlooked; Jesus promised that Mary's devotion would be recounted across the entire globe for all generations.",
+        "question": "Does the knowledge that Jesus sees and treasures your hidden sacrifices encourage you to persevere?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q271_1",
+        "type": "multiple_choice",
+        "question": "What type of costly ointment did Mary pour over Jesus?",
+        "options": [
+          "Frankincense from Arabia",
+          "Pure nard (spikenard)",
+          "Common olive oil",
+          "Myrrh from Egypt"
+        ],
+        "correctIndex": 1,
+        "reference": "John 12:3; Mark 14:3",
+        "explanation": "Scripture specifies that Mary brought an alabaster flask of ointment of pure nard, very costly."
+      },
+      {
+        "id": "q271_2",
+        "type": "multiple_choice",
+        "question": "Approximately how much was the ointment valued at by Judas and the onlookers?",
+        "options": [
+          "Thirty pieces of silver",
+          "Three hundred denarii (about a year's wages)",
+          "Fifty shekels",
+          "Ten talents"
+        ],
+        "correctIndex": 1,
+        "reference": "John 12:5; Mark 14:5",
+        "explanation": "Judas complained that the ointment might have been sold for more than three hundred denarii (a full year's wages)."
+      },
+      {
+        "id": "q271_3",
+        "type": "multiple_choice",
+        "question": "What was Judas Iscariot's real motive for suggesting the ointment be sold for the poor?",
+        "options": [
+          "He managed a soup kitchen",
+          "He was a thief and stole from the money box",
+          "He wanted to build a hospital",
+          "He hated perfume"
+        ],
+        "correctIndex": 1,
+        "reference": "John 12:6",
+        "explanation": "John 12:6 reveals: 'he said this, not because he cared for the poor, but because he was a thief, and having the money box, used to steal what was put into it.'"
+      },
+      {
+        "id": "q271_4",
+        "type": "true_false",
+        "question": "Jesus rebuked Mary for anointing Him, telling her that the money should indeed have gone to the poor.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 14:6",
+        "explanation": "False. Jesus commanded: 'Leave her alone. Why do you trouble her? She has done a good work for me.'"
+      },
+      {
+        "id": "q271_5",
+        "type": "multiple_choice",
+        "question": "For what solemn occasion did Jesus say Mary had anointed His body beforehand?",
+        "options": [
+          "His royal coronation in Rome",
+          "His wedding feast",
+          "His burying (burial)",
+          "His victory march over Pilate"
+        ],
+        "correctIndex": 2,
+        "reference": "Mark 14:8",
+        "explanation": "Jesus said: 'She has done what she could. She has anointed my body beforehand for the burying.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus, You are worthy of my costliest devotion, my deepest affection, and my total surrender. Forgive me for the calculating, cautious spirit that weighs what little I give to You while forgetting that You poured out Your very lifeblood for me on the tree. Break the alabaster flask of my pride, self-protection, and worldly ambitions. Like Mary, I want to pour out my best at Your feet and fill my home with the fragrant worship of Your name. Let critics talk; my eyes are on You alone, my Savior and my King.",
+      "versePrayerLine": "“She has done what she could. She has anointed my body beforehand for the burying.”",
+      "prompt": "Ask yourself: what is the 'alabaster jar' you have been hesitating to break and surrender to Jesus?"
+    }
+  },
+  "272": {
+    "day": 272,
+    "character": "Jesus",
+    "season": "The Triumphal Entry: The Weeping King and the Day of Visitation",
+    "theme": "The Prince of Peace weeps over the willful blindness of the city that failed to recognize its Day of Visitation.",
+    "memoryVerse": {
+      "reference": "Luke 19:41-42",
+      "text": "When he drew near, he saw the city and wept over it, saying, “If you, even you, had known today the things which belong to your peace! But now, they are hidden from your eyes.”",
+      "whyItMatters": "God takes no pleasure in the destruction of the wicked; the tears of Jesus reveal the broken heart of God over people who stubbornly reject His overtures of peace and salvation.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "city",
+          "wept",
+          "known",
+          "peace",
+          "hidden"
+        ],
+        "firstLetters": "W h d n, h s t c a w o i, s, “I y, e y, h k t t t w b t y p! B n, t a h f y e.”"
+      }
+    },
+    "profile": {
+      "title": "Jesus the Weeping King: The Prince of Peace on the Mount of Olives",
+      "who": "Jesus Christ, the Messianic King who rode into Jerusalem on a donkey's colt in fulfillment of Zechariah 9:9; amidst waving palm branches and shouting crowds crying 'Hosanna!', Jesus stopped on the brow of the Mount of Olives and broke into loud wailing over the holy city, foreseeing its catastrophic destruction in AD 70 because it rejected God's peaceful visitation.",
+      "whenAndWhere": "The Mount of Olives overlooking Jerusalem, Palm Sunday, circa AD 30.",
+      "family": "The Root and Offspring of David, King of kings.",
+      "keyMoments": [
+        "Sending two disciples to find a donkey's colt upon which no man had ever sat.",
+        "Riding down the descent of the Mount of Olives as crowds spread their cloaks and palm branches on the road.",
+        "Halting the joyous procession as the glorious panorama of the Temple came into view, and bursting into loud weeping.",
+        "Prophesying with chilling precision how Roman legions would cast an embankment around the city, level it to the ground, and not leave one stone upon another.",
+        "Entering the Temple courts to drive out the money changers, declaring: 'My house is a house of prayer, but you have made it a den of robbers!'"
+      ],
+      "strengths": "Tender prophetic compassion, righteous indignation against corruption, utter fearless fidelity to the Father's mission.",
+      "failures": "None; The spotless Prophet, Priest, and King."
+    },
+    "scripture": [
+      {
+        "reference": "Luke 19",
+        "title": "The Triumphal Entry and Christ's Tears over Jerusalem",
+        "verses": [
+          {
+            "number": 37,
+            "text": "As he was now drawing near, at the descent of the Mount of Olives, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the mighty works which they had seen,"
+          },
+          {
+            "number": 38,
+            "text": "saying, “Blessed is the King who comes in the name of the Lord! Peace in heaven, and glory in the highest!”"
+          },
+          {
+            "number": 40,
+            "text": "He answered them, “I tell you that if these were silent, the stones would cry out.”"
+          },
+          {
+            "number": 41,
+            "text": "When he drew near, he saw the city and wept over it,"
+          },
+          {
+            "number": 42,
+            "text": "saying, “If you, even you, had known today the things which belong to your peace! But now, they are hidden from your eyes."
+          },
+          {
+            "number": 43,
+            "text": "For the days will come on you, when your enemies will throw up a barricade against you, surround you, hem you in on every side,"
+          },
+          {
+            "number": 44,
+            "text": "and will dash you and your children within you to the ground. They will not leave in you one stone on another, because you didn’t know the time of your visitation.”"
+          }
+        ]
+      },
+      {
+        "reference": "Matthew 21",
+        "title": "Hosanna to the Son of David and Cleansing the Temple",
+        "verses": [
+          {
+            "number": 4,
+            "text": "All this was done, that it might be fulfilled which was spoken through the prophet, saying,"
+          },
+          {
+            "number": 5,
+            "text": "“Tell the daughter of Zion, behold, your King comes to you, humble, and riding on a donkey, on a colt, the foal of a donkey.”"
+          },
+          {
+            "number": 8,
+            "text": "A very great multitude spread their clothes on the road. Others cut branches from the trees, and spread them on the road."
+          },
+          {
+            "number": 9,
+            "text": "The multitudes who went before him, and who followed, cried, saying, “Hosanna to the son of David! Blessed is he who comes in the name of the Lord! Hosanna in the highest!”"
+          },
+          {
+            "number": 12,
+            "text": "Jesus entered into the temple of God, and drove out all of those who sold and bought in the temple, and overthrew the money changers’ tables and the seats of those who sold the doves."
+          },
+          {
+            "number": 13,
+            "text": "He said to them, “It is written, ‘My house shall be called a house of prayer,’ but you have made it a den of robbers!”"
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "God offers peace through His Son, but when we resist His gentle visitation, we invite inevitable tragedy upon ourselves.",
+      "reflection": "The scene on Palm Sunday was electric with festive excitement. Thousands waved palm fronds, threw their garments in the dust, and shouted messianic anthems: 'Hosanna! Blessed is the King who comes in the name of the Lord!' But the Greek word used for Jesus weeping in Luke 19:41 (*eklausen*) does not mean quiet tears like at Lazarus' tomb; it means audible, wracking sobbing. Why was the King wailing at the height of His coronation parade? Because He looked beyond the superficial applause and saw the tragic reality: Jerusalem wanted a political warlord to crush Rome, but they did not want the Prince of Peace who demanded repentance and heart-holiness. Within five days, these same crowds would scream, 'Crucify Him! We have no king but Caesar!' Jesus foresaw the horrific siege of AD 70, where Titus and four Roman legions would burn the temple and slaughter over a million residents. Notice Jesus' diagnosis: 'Because you didn't know the time of your visitation.' God had walked into their streets in human flesh, offering reconciliation, and they were too spiritually blind to recognize Him. Do not take God's day of grace for granted; when He knocks on your heart today, open the door."
+    },
+    "lessons": [
+      {
+        "lesson": "Superficial religious excitement can easily mask a heart that refuses true repentance.",
+        "verse": "Luke 19:37-38; Matthew 21:9",
+        "detail": "The crowds praised Jesus when they thought He would give them political triumph, but abandoned Him when He called for cross-bearing humility.",
+        "question": "Are you following Jesus only for what earthly benefits He can provide, or out of surrender to His holy Lordship?"
+      },
+      {
+        "lesson": "God's heart breaks with deep sorrow over those who persist in rejecting His salvation.",
+        "verse": "Luke 19:41-42",
+        "detail": "Jesus does not gloat over impending judgment; His tears reveal that God takes no pleasure in the spiritual ruin of rebellious people.",
+        "question": "Do you pray with tears and brokenhearted compassion for friends and family who are rejecting Christ?"
+      },
+      {
+        "lesson": "Spiritual blindness is the tragic consequence of repeatedly closing your eyes to God's light.",
+        "verse": "Luke 19:42",
+        "detail": "The things that belonged to their peace were hidden from their eyes because they had deliberately hardened their hearts against previous revelations.",
+        "question": "Is there any area of biblical conviction that you have been ignoring or pushing away?"
+      },
+      {
+        "lesson": "True worship cleanses God's house from commercial greed and restores genuine prayer.",
+        "verse": "Matthew 21:12-13",
+        "detail": "Jesus cleansed the temple because religious leaders had turned sacred worship into exploitative merchandise; our hearts must be houses of pure prayer.",
+        "question": "What worldly clutter or selfish ambition needs to be driven out of the temple of your heart today?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q272_1",
+        "type": "multiple_choice",
+        "question": "On what animal did Jesus ride into Jerusalem, fulfilling Zechariah's prophecy?",
+        "options": [
+          "A white war horse",
+          "A donkey's colt",
+          "A golden chariot",
+          "A royal camel"
+        ],
+        "correctIndex": 1,
+        "reference": "Matthew 21:5; Luke 19:30",
+        "explanation": "Jesus rode on a donkey's colt, fulfilling the prophecy: 'humble, and riding on a donkey, on a colt...'"
+      },
+      {
+        "id": "q272_2",
+        "type": "multiple_choice",
+        "question": "What did the Pharisees demand Jesus do when the multitudes praised Him loudly?",
+        "options": [
+          "Give everyone money",
+          "Rebuke his disciples and tell them to be quiet",
+          "Lead an assault on the Roman garrison",
+          "Crown himself king immediately"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 19:39",
+        "explanation": "The Pharisees told Him: 'Teacher, rebuke your disciples!'"
+      },
+      {
+        "id": "q272_3",
+        "type": "multiple_choice",
+        "question": "What did Jesus say would happen if His disciples were kept silent?",
+        "options": [
+          "The temple would collapse",
+          "The stones would cry out",
+          "The sun would darken",
+          "The birds would sing"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 19:40",
+        "explanation": "Jesus declared: 'I tell you that if these were silent, the stones would cry out.'"
+      },
+      {
+        "id": "q272_4",
+        "type": "true_false",
+        "question": "Jesus rejoiced and laughed with triumph as He looked upon Jerusalem from the Mount of Olives.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 19:41",
+        "explanation": "False. Luke 19:41 explicitly states: 'When he drew near, he saw the city and wept over it.'"
+      },
+      {
+        "id": "q272_5",
+        "type": "multiple_choice",
+        "question": "Why did Jesus overthrow the tables of the money changers in the temple courts?",
+        "options": [
+          "Because they were using counterfeit Roman coins",
+          "Because they had turned His Father's house of prayer into a den of robbers",
+          "Because it was past closing time",
+          "Because they refused to pay temple tax"
+        ],
+        "correctIndex": 1,
+        "reference": "Matthew 21:13",
+        "explanation": "Jesus proclaimed: '“My house shall be called a house of prayer,” but you have made it a den of robbers!'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "O Sovereign King Jesus, Prince of Peace, forgive me for the times my worship has been superficial—praising You with my lips while my heart resisted Your quiet rule. Open my eyes to recognize the time of Your visitation in my life every single day. Give me Your tears, Lord, for the lost and wandering souls of my generation. Break my heart for what breaks Yours. Cleanse the temple of my inner life: overthrow every table of worldly greed, compromise, and self-glorification, and make my heart a sacred house of unceasing prayer and joyful obedience.",
+      "versePrayerLine": "“If you, even you, had known today the things which belong to your peace!”",
+      "prompt": "Weep and intercede before God for a city, nation, or loved one who is walking in spiritual blindness."
+    }
+  },
+  "273": {
+    "day": 273,
+    "character": "The Poor Widow",
+    "season": "The Temple Treasury: The Two Small Copper Coins (Mites)",
+    "theme": "Sacrificial giving out of poverty outshines the lavish donations of the wealthy in the eyes of heaven.",
+    "memoryVerse": {
+      "reference": "Mark 12:44",
+      "text": "“for they all gave out of their abundance, but she, out of her poverty, gave all that she had to live on.”",
+      "whyItMatters": "God measures our generosity not by the size of the check we hand over, but by the size of the sacrifice and the degree of faith required to surrender it all to Him.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "abundance",
+          "poverty",
+          "gave",
+          "had",
+          "live"
+        ],
+        "firstLetters": "“f t a g o o t a, b s, o o h p, g a t s h t l o.”"
+      }
+    },
+    "profile": {
+      "title": "The Poor Widow: The Unsung Heroine Who Gave Her Entire Livelihood",
+      "who": "An impoverished and destitute widow in Jerusalem who approached the trumpet-shaped collection chests in the Court of the Women; unnoticed by the crowds who were dazzled by the noisy, ostentatious gifts of the rich, she quietly dropped in two tiny copper lepta (worth less than a cent), captivating the attention and eternal praise of Jesus.",
+      "whenAndWhere": "The Temple Court of the Women, Jerusalem, Passion Week, circa AD 30.",
+      "family": "A widow; had lost her husband, living without a breadwinner in ancient society.",
+      "keyMoments": [
+        "Walking into the Temple treasury unnoticed amidst crowds of wealthy donors.",
+        "Reaching into her pouch to pull out two small mites (lepta), the smallest coins in circulation.",
+        "Dropping both coins into the treasury chest, keeping back nothing for her next meal.",
+        "Catching the observant eye of Jesus, who was deliberately sitting opposite the treasury watching people give.",
+        "Being highlighted by Jesus as the supreme model of sacrificial stewardship for all twelve disciples and the entire Christian church."
+      ],
+      "strengths": "Total childlike trust in God's provision, absolute sacrificial surrender, freedom from the love of money, pure hidden worship.",
+      "failures": "None mentioned; she is held up by Jesus as an exemplar of wholehearted faith."
+    },
+    "scripture": [
+      {
+        "reference": "Mark 12",
+        "title": "The Widow's Two Mites and True Sacrificial Giving",
+        "verses": [
+          {
+            "number": 41,
+            "text": "Jesus sat down opposite the treasury, and saw how the multitude cast money into the treasury. Many who were rich cast in much."
+          },
+          {
+            "number": 42,
+            "text": "A poor widow came, and she cast in two small brass coins, which equal a quadrans."
+          },
+          {
+            "number": 43,
+            "text": "He called his disciples to himself, and said to them, “Most certainly I tell you, this poor widow gave more than all those who are giving into the treasury,"
+          },
+          {
+            "number": 44,
+            "text": "for they all gave out of their abundance, but she, out of her poverty, gave all that she had to live on.”"
+          }
+        ]
+      },
+      {
+        "reference": "Luke 21",
+        "title": "The Poor Widow's Whole Livelihood",
+        "verses": [
+          {
+            "number": 1,
+            "text": "He looked up, and saw the rich people who were putting their gifts into the treasury."
+          },
+          {
+            "number": 2,
+            "text": "He saw a certain poor widow casting in two small brass coins."
+          },
+          {
+            "number": 3,
+            "text": "He said, “Truly I tell you, this poor widow put in more than all of them,"
+          },
+          {
+            "number": 4,
+            "text": "for all these put in gifts for God from their abundance, but she, out of her poverty, put in all that she had to live on.”"
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Heaven calculates giving not by what is dropped into the offering plate, but by what is left behind in the bank account.",
+      "reflection": "Jesus sat down opposite the thirteen trumpet-shaped bronze receptacles in the temple treasury, watching how people gave. The wealthy made quite an impression: bagfuls of heavy silver and gold coins clattering loudly down the bronze chutes, drawing admiring gasps from onlookers. Then came a widow, wearing the threadbare garments of poverty. She dropped two tiny lepta into the chest—coins so light they barely made a sound, worth barely a fraction of an hour's wage. To the world, her gift was utterly useless; it could not even purchase a single sparrow in the market. But Jesus called His disciples together with urgent excitement: 'Truly I tell you, this poor widow put in more than all of them!' How? The rich gave out of their surplus—their gifts cost them nothing, changed nothing in their lifestyle, and required zero faith. But this woman gave out of her poverty, surrendering 'all that she had to live on.' She could have kept one coin and given the other; she chose to give both, casting her entire physical survival into the hands of Yahweh. God looks at the heart, not the digits. When you sacrifice what genuinely costs you because you love Him, heaven stands to applaud."
+    },
+    "lessons": [
+      {
+        "lesson": "God values the depth of our sacrifice far more than the size of our gift.",
+        "verse": "Mark 12:43-44",
+        "detail": "A small gift that costs you everything is worth infinitely more in God's ledger than a massive donation that requires no personal sacrifice.",
+        "question": "Does your giving to God's Kingdom ever require you to sacrifice personal luxuries or comfort?"
+      },
+      {
+        "lesson": "Jesus is actively watching how and why we give our resources.",
+        "verse": "Mark 12:41",
+        "detail": "Christ sat intentionally observing the treasury; He cares deeply about our stewardship and the motives behind our financial decisions.",
+        "question": "How would your financial habits change if you consciously remembered that Jesus is watching every transaction?"
+      },
+      {
+        "lesson": "Never allow feelings of insignificance to hold you back from offering what you have to God.",
+        "verse": "Luke 21:2-3",
+        "detail": "The widow did not withhold her two mites because they seemed small; she gave what she had, and Jesus immortalized her faith.",
+        "question": "Are you holding back your time, talent, or treasure because you think what you have to offer is too insignificant?"
+      },
+      {
+        "lesson": "Radical generosity is the highest expression of trust in God's daily provision.",
+        "verse": "Mark 12:44",
+        "detail": "Giving her last two coins meant trusting that God would feed her tomorrow; genuine giving breaks the grip of financial anxiety.",
+        "question": "Is your financial life characterized by fearful hoarding or joyful, trusting generosity?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q273_1",
+        "type": "multiple_choice",
+        "question": "Where was Jesus sitting when He observed people putting money into the treasury?",
+        "options": [
+          "Opposite the treasury in the temple",
+          "On the roof of the Sanhedrin",
+          "By the Pool of Bethesda",
+          "In the palace of Herod"
+        ],
+        "correctIndex": 0,
+        "reference": "Mark 12:41",
+        "explanation": "Mark 12:41 states: 'Jesus sat down opposite the treasury, and saw how the multitude cast money into the treasury.'"
+      },
+      {
+        "id": "q273_2",
+        "type": "multiple_choice",
+        "question": "How many coins did the poor widow cast into the treasury?",
+        "options": [
+          "One silver denarius",
+          "Two small brass coins (lepta / mites)",
+          "Five bronze shekels",
+          "Ten copper drachmas"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 12:42; Luke 21:2",
+        "explanation": "Scripture explicitly records that she cast in two small brass coins (equal to a quadrans)."
+      },
+      {
+        "id": "q273_3",
+        "type": "multiple_choice",
+        "question": "Why did Jesus say this poor widow gave more than all the rich donors?",
+        "options": [
+          "Her coins were minted from rare gold",
+          "They gave out of abundance, but she gave out of her poverty all she had to live on",
+          "She prayed a longer prayer over her gift",
+          "She was related to the High Priest"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 12:44; Luke 21:4",
+        "explanation": "Jesus said: 'for they all gave out of their abundance, but she, out of her poverty, gave all that she had to live on.'"
+      },
+      {
+        "id": "q273_4",
+        "type": "true_false",
+        "question": "Jesus told the disciples that wealthy people who give large gifts are automatically hated by God.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Mark 12:41-44",
+        "explanation": "False. Jesus did not condemn the rich for giving, but revealed heaven's metric: sacrificial giving out of poverty carries greater spiritual value."
+      },
+      {
+        "id": "q273_5",
+        "type": "multiple_choice",
+        "question": "What proportion of her livelihood did the widow cast into the offering?",
+        "options": [
+          "Ten percent",
+          "Half of it",
+          "All that she had to live on",
+          "A third of her savings"
+        ],
+        "correctIndex": 2,
+        "reference": "Mark 12:44",
+        "explanation": "Mark 12:44 emphasizes: 'she, out of her poverty, gave all that she had to live on.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord God, Provider of all things, forgive me for measuring my life by worldly wealth and holding tightly to temporal possessions. Deliver me from the illusion that giving is only for those with surplus. Give me the pure, reckless faith of this impoverished widow who trusted You with her last two copper coins. Help me to give sacrificially of my time, my resources, and my whole heart, holding nothing back from the King who gave His all for me. You are my Shepherd; I will lack nothing.",
+      "versePrayerLine": "“for they all gave out of their abundance, but she, out of her poverty, gave all that she had to live on.”",
+      "prompt": "Evaluate your giving: what is one sacrificial act of generosity the Lord is nudging you to make this week?"
+    }
+  },
+  "274": {
+    "day": 274,
+    "character": "Jesus",
+    "season": "The Upper Room: The Towel, the Basin, and the Foot-Washing King",
+    "theme": "True leadership takes the basin and towel to wash dusty feet, embodying the servant heart of God.",
+    "memoryVerse": {
+      "reference": "John 13:14-15",
+      "text": "“If I then, the Lord and the Teacher, have washed your feet, you also ought to wash one another’s feet. For I have given you an example, that you should also do as I have done to you.”",
+      "whyItMatters": "In God's Kingdom, greatness is not measured by how many servants you control, but by how humbly and sacrificially you serve the needs of others in Christlike love.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "Lord",
+          "Teacher",
+          "washed",
+          "example",
+          "done"
+        ],
+        "firstLetters": "“I I t, t L a t T, h w y f, y a o t w o a’ f. F I h g y a e, t y s a d a I h d t y.”"
+      }
+    },
+    "profile": {
+      "title": "Jesus the Servant King: Girded with a Towel in the Upper Room",
+      "who": "Jesus Christ, knowing that the Father had given all things into His hands and that He had come from God and was returning to God, rose from the Last Supper, stripped off His outer robe, tied a servant's linen towel around His waist, poured water into a basin, and began washing and wiping the grime-caked feet of His twelve disciples—including Judas who would betray Him.",
+      "whenAndWhere": "The Upper Room in Jerusalem, Passover Eve, circa AD 30.",
+      "family": "The Eternal Son of God, Servant of Yahweh.",
+      "keyMoments": [
+        "Observing the disciples arguing on the way to the room over who among them was the greatest (Luke 22:24).",
+        "Rising from the supper, laying aside His outer garments, and taking a slave's towel.",
+        "Pouring water into a basin and washing the dirty feet of each disciple, one by one.",
+        "Correcting Peter's prideful refusal: 'If I don't wash you, you have no part with me.'",
+        "Commanding the disciples to emulate His example of sacrificial, humble foot-washing servanthood."
+      ],
+      "strengths": "Supreme humility rooted in secure divine identity, sacrificial love extended even to His betrayer, perfect servant leadership.",
+      "failures": "None; Spotless, holy Lord."
+    },
+    "scripture": [
+      {
+        "reference": "John 13",
+        "title": "Jesus Washes His Disciples' Feet",
+        "verses": [
+          {
+            "number": 3,
+            "text": "Jesus, knowing that the Father had given all things into his hands, and that he came from God, and was going to God,"
+          },
+          {
+            "number": 4,
+            "text": "arose from supper, and laid aside his outer garments. He took a towel, and wrapped a towel around his waist."
+          },
+          {
+            "number": 5,
+            "text": "Then he poured water into the basin, and began to wash the disciples’ feet, and to wipe them with the towel that was wrapped around him."
+          },
+          {
+            "number": 6,
+            "text": "Then he came to Simon Peter. He said to him, “Lord, do you wash my feet?”"
+          },
+          {
+            "number": 7,
+            "text": "Jesus answered him, “You don’t know what I am doing now, but you will understand later.”"
+          },
+          {
+            "number": 8,
+            "text": "Peter said to him, “You will never wash my feet!” Jesus answered him, “If I don’t wash you, you have no part with me.”"
+          },
+          {
+            "number": 12,
+            "text": "So when he had washed their feet, put his outer garments back on, and sat down again, he said to them, “Do you know what I have done to you?"
+          },
+          {
+            "number": 13,
+            "text": "You call me, ‘Teacher’ and ‘Lord.’ You say so correctly, for so I am."
+          },
+          {
+            "number": 14,
+            "text": "If I then, the Lord and the Teacher, have washed your feet, you also ought to wash one another’s feet."
+          },
+          {
+            "number": 15,
+            "text": "For I have given you an example, that you should also do as I have done to you.”"
+          }
+        ]
+      },
+      {
+        "reference": "Philippians 2",
+        "title": "The Mind of Christ: Emptying Himself into a Servant",
+        "verses": [
+          {
+            "number": 3,
+            "text": "doing nothing through rivalry or through conceit, but in humility, each counting others better than himself;"
+          },
+          {
+            "number": 5,
+            "text": "Have this in your mind, which was also in Christ Jesus,"
+          },
+          {
+            "number": 6,
+            "text": "who, existing in the form of God, didn’t consider equality with God a thing to be grasped,"
+          },
+          {
+            "number": 7,
+            "text": "but emptied himself, taking the form of a servant, being made in the likeness of men."
+          },
+          {
+            "number": 8,
+            "text": "And being found in human form, he humbled himself, becoming obedient to death, yes, the death of the cross."
+          },
+          {
+            "number": 9,
+            "text": "Therefore God also highly exalted him, and gave to him the name which is above every name."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "True spiritual authority never lords power over others; it bends low with a basin and towel to cleanse and uplift.",
+      "reflection": "Notice John 13:3-4 carefully: it was precisely because Jesus knew that the Father had given all authority into His hands, and that He came from God and was returning to God, that He picked up the towel. Insecure leaders posture, demand deference, and protect their status. But Jesus, completely secure in His divine Sonship, had nothing to prove and no ego to defend. In first-century Judea, washing guests' dusty feet was a chore so degrading that Jewish slaves could not be compelled to perform it—only Gentile slaves did it. Yet here is the Creator of the universe kneeling on the floor, holding the dirty, calloused heels of fishermen, tax collectors, and even Judas Iscariot, gently washing away road grime. When Peter protested out of false humility, Jesus laid down the law of grace: you cannot have fellowship with Christ unless you allow Him to wash you. And once you have received His cleansing grace, you are commissioned to take up your own basin and towel. There is no task too menial, no person too lowly, and no service too humiliating for a follower of the Foot-Washing King."
+    },
+    "lessons": [
+      {
+        "lesson": "Humility does not stem from low self-esteem, but from being utterly secure in God's love.",
+        "verse": "John 13:3-4",
+        "detail": "Jesus was able to perform the lowest slave's task because He knew His origin, His ultimate authority, and His eternal destiny in the Father.",
+        "question": "Are your leadership and interactions driven by personal insecurity, or anchored in your secure identity as God's child?"
+      },
+      {
+        "lesson": "We must allow Jesus to wash our daily defilement if we want uninterrupted fellowship with Him.",
+        "verse": "John 13:8-10",
+        "detail": "While salvation cleanses our whole person once and for all, daily walking in this fallen world requires ongoing confession and cleansing at Jesus' feet.",
+        "question": "Are you confessing your daily sins regularly to Jesus to keep your fellowship with Him fresh and clean?"
+      },
+      {
+        "lesson": "Jesus served even Judas, teaching us to extend humble love to our enemies and betrayers.",
+        "verse": "John 13:5, 11",
+        "detail": "Jesus knew Judas was about to sell Him for silver, yet He did not skip Judas' feet at the basin; divine love serves even the unworthy.",
+        "question": "Is there someone who has hurt or betrayed you whom the Lord is calling you to serve with Christlike mercy?"
+      },
+      {
+        "lesson": "Christian leadership is defined by practical servanthood, not titles or dominance.",
+        "verse": "John 13:14-15; Philippians 2:5-7",
+        "detail": "Jesus gave us an unmistakable pattern: the path to greatness in God's Kingdom is downward, through humble, loving service.",
+        "question": "What practical 'basin and towel' service can you perform for someone in your family or church this week?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q274_1",
+        "type": "multiple_choice",
+        "question": "What garment did Jesus wrap around His waist before washing the disciples' feet?",
+        "options": [
+          "A royal purple sash",
+          "A servant's linen towel",
+          "A golden priestly girdle",
+          "A heavy woolen cloak"
+        ],
+        "correctIndex": 1,
+        "reference": "John 13:4",
+        "explanation": "John 13:4 records that Jesus 'took a towel, and wrapped a towel around his waist.'"
+      },
+      {
+        "id": "q274_2",
+        "type": "multiple_choice",
+        "question": "Which disciple initially protested and refused to let Jesus wash his feet?",
+        "options": [
+          "John",
+          "Judas Iscariot",
+          "Simon Peter",
+          "Thomas"
+        ],
+        "correctIndex": 2,
+        "reference": "John 13:6, 8",
+        "explanation": "Simon Peter said to Him: 'Lord, do you wash my feet?... You will never wash my feet!'"
+      },
+      {
+        "id": "q274_3",
+        "type": "multiple_choice",
+        "question": "What solemn warning did Jesus give Peter when Peter refused to let his feet be washed?",
+        "options": [
+          "You will pay a fine to the temple",
+          "If I don’t wash you, you have no part with me",
+          "You must leave the room immediately",
+          "You will never see the Kingdom"
+        ],
+        "correctIndex": 1,
+        "reference": "John 13:8",
+        "explanation": "Jesus answered Peter: 'If I don’t wash you, you have no part with me.'"
+      },
+      {
+        "id": "q274_4",
+        "type": "true_false",
+        "question": "According to Philippians 2:6-7, Jesus considered equality with God a thing to be greedily grasped and hoarded.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Philippians 2:6-7",
+        "explanation": "False. Philippians 2:6-7 states that He 'didn’t consider equality with God a thing to be grasped, but emptied himself, taking the form of a servant.'"
+      },
+      {
+        "id": "q274_5",
+        "type": "multiple_choice",
+        "question": "What reason did Jesus give for washing their feet in John 13:15?",
+        "options": [
+          "To prepare them for physical travel",
+          "Because I have given you an example, that you should do as I have done to you",
+          "To satisfy Roman law",
+          "To save money on servants"
+        ],
+        "correctIndex": 1,
+        "reference": "John 13:15",
+        "explanation": "Jesus explained: 'For I have given you an example, that you should also do as I have done to you.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, King of kings and Lord of lords, You knelt in the dust of the Upper Room to wash the filthy feet of Your disciples. Forgive my ugly pride, my selfish ambition, and my craving for human praise. Strip away my reluctance to do lowly, unrewarded tasks. Wash my feet anew today, Lord, cleansing every trace of worldly defilement from my walk. Gird me with the towel of humility and give me the mind of Christ, so that I may count others better than myself and serve my brothers and sisters with joyful, uncomplaining love.",
+      "versePrayerLine": "“If I then, the Lord and the Teacher, have washed your feet, you also ought to wash one another’s feet.”",
+      "prompt": "Pick up a 'towel' today: perform an unseen, humble act of service for someone without seeking any credit."
+    }
+  },
+  "275": {
+    "day": 275,
+    "character": "Jesus",
+    "season": "The True Vine: Abiding in Christ for Abundant Fruitfulness",
+    "theme": "Abiding in uninterrupted fellowship with Christ is the only source of spiritual life and eternal fruitfulness.",
+    "memoryVerse": {
+      "reference": "John 15:5",
+      "text": "“I am the vine. You are the branches. He who remains in me, and I in him, bears much fruit, for apart from me you can do nothing.”",
+      "whyItMatters": "Human willpower, talent, and religious effort produce zero eternal fruit; true spiritual impact flows solely from staying connected to the living vine of Jesus Christ.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "vine",
+          "branches",
+          "remains",
+          "fruit",
+          "nothing"
+        ],
+        "firstLetters": "“I a t v. Y a t b. H w r i m, a I i h, b m f, f a f m y c d n.”"
+      }
+    },
+    "profile": {
+      "title": "Jesus the True Vine: The Source of Divine Life and Fruitfulness",
+      "who": "Jesus Christ, walking with His disciples from the Upper Room through the vineyards of the Kidron Valley toward Gethsemane, revealing Himself as the genuine Vine planted by God the Father (the Vinedresser), calling His followers to abide in His love, submit to pruning, and bear lasting spiritual fruit.",
+      "whenAndWhere": "Between the Upper Room and the Mount of Olives, Jerusalem, Passover Eve, circa AD 30.",
+      "family": "The Beloved Son of the Father, the True Vine.",
+      "keyMoments": [
+        "Declaring: 'I am the true vine, and my Father is the vinedresser.'",
+        "Explaining how the Father lovingly prunes every fruit-bearing branch so that it may bear more fruit.",
+        "Emphasizing that severed branches wither, die, and are burned, because disconnected from Him we can do nothing.",
+        "Promising the Holy Spirit as the Counselor and Spirit of Truth who abides with us forever (John 14:16-17).",
+        "Giving the supreme command of love: 'Love one another, even as I have loved you.'"
+      ],
+      "strengths": "Infinite life-giving power, tender pastoral instruction, absolute unity with the Father.",
+      "failures": "None; The True and Living Vine."
+    },
+    "scripture": [
+      {
+        "reference": "John 14",
+        "title": "The Way, the Truth, the Life, and the Promised Counselor",
+        "verses": [
+          {
+            "number": 1,
+            "text": "“Don’t let your heart be troubled. Believe in God. Believe also in me."
+          },
+          {
+            "number": 6,
+            "text": "Jesus said to him, “I am the way, the truth, and the life. No one comes to the Father, except through me."
+          },
+          {
+            "number": 15,
+            "text": "“If you love me, keep my commandments."
+          },
+          {
+            "number": 16,
+            "text": "I will pray to the Father, and he will give you another Counselor, that he may be with you forever:"
+          },
+          {
+            "number": 17,
+            "text": "the Spirit of truth, whom the world can’t receive; for it doesn’t see him, neither knows him. You know him, for he lives with you, and will be in you."
+          },
+          {
+            "number": 27,
+            "text": "Peace I leave with you. My peace I give to you; not as the world gives, give I to you. Don’t let your heart be troubled, neither let it be afraid.”"
+          }
+        ]
+      },
+      {
+        "reference": "John 15",
+        "title": "The True Vine and Bearing Much Fruit",
+        "verses": [
+          {
+            "number": 1,
+            "text": "“I am the true vine, and my Father is the farmer."
+          },
+          {
+            "number": 2,
+            "text": "Every branch in me that doesn’t bear fruit, he takes away. Every branch that bears fruit, he prunes, that it may bear more fruit."
+          },
+          {
+            "number": 4,
+            "text": "Remain in me, and I in you. As the branch can’t bear fruit by itself, unless it remains in the vine, so neither can you, unless you remain in me."
+          },
+          {
+            "number": 5,
+            "text": "I am the vine. You are the branches. He who remains in me, and I in him, bears much fruit, for apart from me you can do nothing."
+          },
+          {
+            "number": 7,
+            "text": "If you remain in me, and my words remain in you, you will ask whatever you desire, and it will be done for you."
+          },
+          {
+            "number": 8,
+            "text": "“In this my Father is glorified, that you bear much fruit; and so you will be my disciples."
+          },
+          {
+            "number": 9,
+            "text": "Even as the Father has loved me, I also have loved you. Remain in my love.”"
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Spiritual life is not about frantic striving, but about daily, intimate connection to Jesus Christ.",
+      "reflection": "A grapevine branch does not grit its teeth and strain to produce grapes. It does not pump iron, worry about the harvest, or try to fabricate fruit by sheer willpower. The branch has only one job: stay attached to the vine! As long as the branch abides in uninterrupted contact with the trunk, the sap, nutrients, and life of the vine flow naturally into it, producing lush clusters of grapes. Jesus looks at His anxious disciples on the threshold of the cross and gives them the fundamental secret of the Christian life: 'Apart from me you can do nothing.' Note that He did not say 'you can do very little' or 'you will struggle.' He said *nothing* of eternal value can be produced in self-reliance! When trials and cutting seasons come, do not panic: the Father is the Vinedresser. When He cuts back productive branches through pruning (loss, delay, discipline, or hardship), He is not angry; He is removing dead weight and suckers so that your spiritual fruitfulness can explode into 'much fruit.' Abide in His Word, rest in His love, and let His life flow through your hands today."
+    },
+    "lessons": [
+      {
+        "lesson": "Apart from conscious dependence on Christ, all religious busyness is spiritual vanity.",
+        "verse": "John 15:5",
+        "detail": "Talent, charisma, and strategy cannot manufacture spiritual life; eternal fruit only comes from the life of Jesus flowing through our surrendered hearts.",
+        "question": "How much of your daily schedule is driven by self-reliant effort rather than prayerful dependence on Christ?"
+      },
+      {
+        "lesson": "Pruning hurts, but it is the Vinedresser's loving method to multiply your fruitfulness.",
+        "verse": "John 15:2",
+        "detail": "When God cuts away good things from your life, He is making room for best things; pruning is proof that the Father sees potential in you.",
+        "question": "Can you thank God for a difficult season of pruning, recognizing that He was preparing you for greater fruit?"
+      },
+      {
+        "lesson": "Abiding in Christ requires keeping His words alive and active within our hearts.",
+        "verse": "John 15:7",
+        "detail": "When Scripture permeates our thoughts and guides our choices, our prayers align with God's will and are answered with divine power.",
+        "question": "Is God's Word currently shaping your inner thought life and daily decisions?"
+      },
+      {
+        "lesson": "The Holy Spirit is our indwelling Counselor who imparts Christ's supernatural peace.",
+        "verse": "John 14:16-17, 27",
+        "detail": "We are never left orphaned or alone in this world; the Spirit of Truth abides within us, supplying peace that surpasses human understanding.",
+        "question": "Are you walking in the quiet peace of the Holy Spirit, or allowing worldly anxieties to trouble your heart?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q275_1",
+        "type": "multiple_choice",
+        "question": "Who did Jesus identify as the True Vine and the Vinedresser (farmer)?",
+        "options": [
+          "Moses is the vine; angels are the farmers",
+          "Jesus is the vine; the Father is the farmer",
+          "The Church is the vine; the apostles are the farmers",
+          "David is the vine; Solomon is the farmer"
+        ],
+        "correctIndex": 1,
+        "reference": "John 15:1",
+        "explanation": "Jesus said: 'I am the true vine, and my Father is the farmer (vinedresser).'"
+      },
+      {
+        "id": "q275_2",
+        "type": "multiple_choice",
+        "question": "What does the Father do to every branch that bears fruit, according to John 15:2?",
+        "options": [
+          "He burns it immediately",
+          "He leaves it alone forever",
+          "He prunes it, that it may bear more fruit",
+          "He sells it to neighbors"
+        ],
+        "correctIndex": 2,
+        "reference": "John 15:2",
+        "explanation": "John 15:2 says: 'Every branch that bears fruit, he prunes, that it may bear more fruit.'"
+      },
+      {
+        "id": "q275_3",
+        "type": "multiple_choice",
+        "question": "What did Jesus say we can do apart from Him?",
+        "options": [
+          "A few small things",
+          "Great moral deeds",
+          "Nothing",
+          "Build earthly kingdoms"
+        ],
+        "correctIndex": 2,
+        "reference": "John 15:5",
+        "explanation": "Jesus explicitly warned: 'for apart from me you can do nothing.'"
+      },
+      {
+        "id": "q275_4",
+        "type": "true_false",
+        "question": "In John 14:6, Jesus declared that there are many equally valid alternative paths to the Father.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "John 14:6",
+        "explanation": "False. Jesus proclaimed: 'I am the way, the truth, and the life. No one comes to the Father, except through me.'"
+      },
+      {
+        "id": "q275_5",
+        "type": "multiple_choice",
+        "question": "Whom did Jesus promise the Father would send to be with the disciples forever as another Counselor?",
+        "options": [
+          "A legion of fighting angels",
+          "The Spirit of truth (the Holy Spirit)",
+          "A new high priest",
+          "A holy book of rituals"
+        ],
+        "correctIndex": 1,
+        "reference": "John 14:16-17",
+        "explanation": "Jesus promised: 'he will give you another Counselor, that he may be with you forever: the Spirit of truth...'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus, You are the True Vine, and I am merely a branch. Forgive me for the foolish pride of trying to bear spiritual fruit in my own strength. Today I surrender my self-reliance and choose to abide in You. Let Your living sap, Your holy thoughts, and Your divine love flow through every fiber of my being. When the Father's pruning shears cut away comfortable branches in my life, help me to submit in trust, knowing that He is cultivating greater fruitfulness. Fill me with the Holy Spirit and let Your supernatural peace guard my heart from all fear.",
+      "versePrayerLine": "“I am the vine. You are the branches. He who remains in me, and I in him, bears much fruit, for apart from me you can do nothing.”",
+      "prompt": "Rest quietly in Christ: take five deep breaths, repeating internally, 'Apart from You, Jesus, I can do nothing; in You, I bear much fruit.'"
+    }
+  },
+  "276": {
+    "day": 276,
+    "character": "Jesus",
+    "season": "The High Priestly Prayer: The Holy of Holies of the Son's Heart",
+    "theme": "Jesus prays for our protection, sanctification, and unity, defining eternal life as knowing God deeply.",
+    "memoryVerse": {
+      "reference": "John 17:3",
+      "text": "“This is eternal life, that they should know you, the only true God, and him whom you sent, Jesus Christ.”",
+      "whyItMatters": "Eternal life is not merely endless existence or a golden destination; it is an intimate, experiential, and transforming relationship with the Father through Jesus Christ starting today.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "eternal",
+          "life",
+          "know",
+          "true",
+          "sent"
+        ],
+        "firstLetters": "“T i e l, t t s k y, t o t G, a h w y s, J C.”"
+      }
+    },
+    "profile": {
+      "title": "Jesus the Great High Priest: Interceding for His Flock Before the Cross",
+      "who": "Jesus Christ, standing beneath the open night sky between Jerusalem and Gethsemane, lifting His eyes to heaven to offer the monumental 'High Priestly Prayer' (John 17); He reported His completed earthly work to the Father, interceded for the protection and holiness of the eleven disciples, and extended His prayer across the centuries to cover all future believers—including you and me.",
+      "whenAndWhere": "The Kidron Valley outside Jerusalem, Passover night, circa AD 30.",
+      "family": "The Only Begotten Son of the Father.",
+      "keyMoments": [
+        "Lifting His eyes to heaven and praying: 'Father, the hour has come. Glorify your Son, that your Son may also glorify you.'",
+        "Defining eternal life as knowing the only true God and Jesus Christ whom He sent.",
+        "Praying for His disciples' protection from the evil one and their sanctification through the truth: 'Your word is truth.'",
+        "Interceding for all who would believe through their word, that they all may be one, even as the Father and Son are one.",
+        "Declaring His desire that His followers would be with Him where He is, to behold His uncreated eternal glory."
+      ],
+      "strengths": "Supreme intercessory love, eternal intimacy with the Father, passion for the holiness and unity of the Church.",
+      "failures": "None; Spotless, eternal High Priest."
+    },
+    "scripture": [
+      {
+        "reference": "John 17",
+        "title": "The High Priestly Prayer of Jesus",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Jesus said these things, and lifting up his eyes to heaven, he said, “Father, the time has come. Glorify your Son, that your Son may also glorify you;"
+          },
+          {
+            "number": 2,
+            "text": "even as you gave him authority over all flesh, he will give eternal life to all whom you have given him."
+          },
+          {
+            "number": 3,
+            "text": "This is eternal life, that they should know you, the only true God, and him whom you sent, Jesus Christ."
+          },
+          {
+            "number": 4,
+            "text": "I glorified you on the earth. I have accomplished the work which you have given me to do."
+          },
+          {
+            "number": 15,
+            "text": "I pray not that you would take them from the world, but that you would keep them from the evil one."
+          },
+          {
+            "number": 17,
+            "text": "Sanctify them in your truth. Your word is truth."
+          },
+          {
+            "number": 20,
+            "text": "Not for these only do I pray, but for those also who will believe in me through their word,"
+          },
+          {
+            "number": 21,
+            "text": "that they may all be one; even as you, Father, are in me, and I in you, that they also may be one in us; that the world may believe that you sent me."
+          },
+          {
+            "number": 24,
+            "text": "Father, I desire that they also whom you have given me be with me where I am, that they may see my glory, which you have given me; for you loved me before the foundation of the world.”"
+          }
+        ]
+      },
+      {
+        "reference": "Ephesians 4",
+        "title": "The Unity of the Spirit in the Bond of Peace",
+        "verses": [
+          {
+            "number": 1,
+            "text": "I therefore, the prisoner in the Lord, beg you to walk worthily of the calling with which you were called,"
+          },
+          {
+            "number": 2,
+            "text": "with all lowliness and humility, with patience, bearing with one another in love,"
+          },
+          {
+            "number": 3,
+            "text": "being eager to keep the unity of the Spirit in the bond of peace."
+          },
+          {
+            "number": 4,
+            "text": "There is one body and one Spirit, even as you also were called in one hope of your calling;"
+          },
+          {
+            "number": 5,
+            "text": "one Lord, one faith, one baptism,"
+          },
+          {
+            "number": 6,
+            "text": "one God and Father of all, who is over all, and through all, and in us all."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Before Jesus suffered on the cross, He prayed for you by name, securing your protection, holiness, and eternal union with Him.",
+      "reflection": "John 17 is the Holy of Holies of the New Testament. Here we are permitted to eavesdrop on the intimate, holy communion between the Son of God and the Heavenly Father moments before the horrors of Gethsemane and Golgotha. Notice the sheer majesty of Jesus' heart: facing betrayal, scourging, and crucifixion, His primary concern was not His own safety, but the spiritual well-being of His disciples! In John 17:20, He explicitly swept across two thousand years of church history to include you and me: 'Not for these only do I pray, but for those also who will believe in me through their word.' What did He ask for us? First, protection: not that we would be extracted from the world into a bubble, but that the Father would guard us from the predatory clutches of the evil one. Second, sanctification: that we would be cleansed and consecrated by the absolute truth of God's Word. Third, supernatural unity: that believers would be so radically knit together in love that the skeptical world would look on and realize that Jesus is real. And finally, eternal fellowship: Jesus wants you with Him where He is, beholding His radiant glory forever."
+    },
+    "lessons": [
+      {
+        "lesson": "Eternal life is not merely living forever; it is knowing the Father and the Son in personal intimacy.",
+        "verse": "John 17:3",
+        "detail": "Salvation is relational at its core; to know God (*ginosko*) means experiential, daily communion, walking in His love and truth.",
+        "question": "Are you treating Christianity as a set of moral rules, or as an intimate, daily relationship of knowing God?"
+      },
+      {
+        "lesson": "God's Word is the divine agent that cleanses, protects, and sanctifies our lives.",
+        "verse": "John 17:17",
+        "detail": "We cannot grow in holiness through human self-help; immersion in biblical truth transforms our desires and shields us from worldly corruption.",
+        "question": "How consistently are you soaking your mind in the truth of Scripture each day?"
+      },
+      {
+        "lesson": "Christian unity is the most convincing apologetic to an unbelieving world.",
+        "verse": "John 17:21; Ephesians 4:2-3",
+        "detail": "When believers love one another across petty differences, the world is forced to recognize that the Father sent Jesus into our midst.",
+        "question": "Are you fostering unity and peace within your local church family, or sowing seeds of criticism and division?"
+      },
+      {
+        "lesson": "Jesus personally interceded for your faith before you were ever born.",
+        "verse": "John 17:20",
+        "detail": "You are not an afterthought; the Savior carried you upon His heart as He walked toward the cross, securing your eternal salvation.",
+        "question": "How does knowing that Jesus prayed for you personally strengthen your endurance in difficult seasons?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q276_1",
+        "type": "multiple_choice",
+        "question": "How did Jesus define eternal life in John 17:3?",
+        "options": [
+          "Living forever without pain in a garden",
+          "Knowing the only true God, and Jesus Christ whom He sent",
+          "Memorizing the entire Hebrew law",
+          "Having supernatural angelic visions"
+        ],
+        "correctIndex": 1,
+        "reference": "John 17:3",
+        "explanation": "Jesus defined it: 'This is eternal life, that they should know you, the only true God, and him whom you sent, Jesus Christ.'"
+      },
+      {
+        "id": "q276_2",
+        "type": "multiple_choice",
+        "question": "What did Jesus ask the Father to do regarding His disciples and the world in John 17:15?",
+        "options": [
+          "Take them out of the world immediately",
+          "Make them wealthy governors",
+          "Keep them from the evil one while they are in the world",
+          "Give them earthly kingdoms"
+        ],
+        "correctIndex": 2,
+        "reference": "John 17:15",
+        "explanation": "Jesus prayed: 'I pray not that you would take them from the world, but that you would keep them from the evil one.'"
+      },
+      {
+        "id": "q276_3",
+        "type": "multiple_choice",
+        "question": "By what means did Jesus ask the Father to sanctify His followers in John 17:17?",
+        "options": [
+          "Through temple sacrifices",
+          "In Your truth; Your word is truth",
+          "Through mystical trances",
+          "Through ascetic fasting alone"
+        ],
+        "correctIndex": 1,
+        "reference": "John 17:17",
+        "explanation": "Jesus prayed: 'Sanctify them in your truth. Your word is truth.'"
+      },
+      {
+        "id": "q276_4",
+        "type": "true_false",
+        "question": "Jesus prayed only for the eleven disciples standing in front of Him and explicitly excluded future generations.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "John 17:20",
+        "explanation": "False. John 17:20 says: 'Not for these only do I pray, but for those also who will believe in me through their word.'"
+      },
+      {
+        "id": "q276_5",
+        "type": "multiple_choice",
+        "question": "According to Ephesians 4:3, what are believers called to be eager to maintain?",
+        "options": [
+          "Financial independence",
+          "The unity of the Spirit in the bond of peace",
+          "Political dominance",
+          "Strict dietary codes"
+        ],
+        "correctIndex": 1,
+        "reference": "Ephesians 4:3",
+        "explanation": "Paul urges us to be 'eager to keep the unity of the Spirit in the bond of peace.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Heavenly Father, I stand in reverent awe of the High Priestly Prayer of my Savior. To know that Jesus carried my name upon His heart before He died on the cross fills my soul with profound peace and gratitude. Father, sanctify me today through Your truth; Your Word is infallible, living truth. Protect me from the deceitful snares of the evil one. Guard my heart from bitterness and division, and teach me to walk in humble love and unity with my brothers and sisters in Christ. Quicken within me an insatiable desire to know You more deeply each day until I behold Your glory face to face.",
+      "versePrayerLine": "“This is eternal life, that they should know you, the only true God, and him whom you sent, Jesus Christ.”",
+      "prompt": "Spend two minutes thanking Jesus that He interceded for you personally and continues to intercede at the Father's right hand."
+    }
+  },
+  "277": {
+    "day": 277,
+    "character": "Jesus",
+    "season": "The Garden of Gethsemane: The Cup of Agony and Total Surrender",
+    "theme": "In blood-sweating agony, Jesus surrenders His human will to drink the bitter cup of redemption for us.",
+    "memoryVerse": {
+      "reference": "Luke 22:42",
+      "text": "saying, “Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done.”",
+      "whyItMatters": "The ultimate battle for human salvation was won in Gethsemane, where Christ submitted His will to the Father's redemptive purpose, giving us the perfect pattern of total surrender.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "Father",
+          "willing",
+          "cup",
+          "will",
+          "done"
+        ],
+        "firstLetters": "s, “F, i y a w, r t c f m. N, n m w, b y, b d.”"
+      }
+    },
+    "profile": {
+      "title": "Jesus in Gethsemane: The Agony of the Olive Press",
+      "who": "Jesus Christ, entering the olive orchard called Gethsemane ('olive press') across the Kidron Valley; taking Peter, James, and John deeper into the shadows, His soul was overwhelmed with sorrow to the point of death as He confronted the terrifying cup of divine wrath against human sin, sweating drops of blood as He knelt three times to surrender: 'Not my will, but yours, be done.'",
+      "whenAndWhere": "The Garden of Gethsemane, foot of the Mount of Olives, Passover night, circa AD 30.",
+      "family": "The Beloved Son of the Father.",
+      "keyMoments": [
+        "Taking the disciples to Gethsemane and telling them: 'My soul is exceedingly sorrowful, even to death. Stay here and watch with me.'",
+        "Falling prostrate on the cold earth, praying with deep groans and tears that, if possible, the cup might pass from Him.",
+        "Enduring such crushing stress that an angel appeared from heaven strengthening Him, and His sweat fell like great drops of blood.",
+        "Returning three times to find Peter, James, and John asleep, warning: 'Watch and pray, that you don’t enter into temptation.'",
+        "Rising with victorious resolve as torches flared through the trees, stepping forward to meet Judas and the armed arresting mob."
+      ],
+      "strengths": "Total submission to the Father's will, infinite love for fallen sinners, triumphant moral courage in the face of unspeakable suffering.",
+      "failures": "None; The obedient Son obedient unto death, even the death of the cross."
+    },
+    "scripture": [
+      {
+        "reference": "Matthew 26",
+        "title": "The Agony in Gethsemane and the Sleeping Disciples",
+        "verses": [
+          {
+            "number": 36,
+            "text": "Then Jesus came with them to a place called Gethsemane, and said to his disciples, “Sit here, while I go there and pray.”"
+          },
+          {
+            "number": 37,
+            "text": "He took with him Peter and the two sons of Zebedee, and began to be sorrowful and severely distressed."
+          },
+          {
+            "number": 38,
+            "text": "Then he said to them, “My soul is exceedingly sorrowful, even to death. Stay here and watch with me.”"
+          },
+          {
+            "number": 39,
+            "text": "He went forward a little, fell on his face, and prayed, saying, “My Father, if it is possible, let this cup pass away from me; nevertheless, not what I desire, but what you desire.”"
+          },
+          {
+            "number": 40,
+            "text": "He came to the disciples, and found them sleeping, and said to Peter, “What, couldn’t you watch with me for one hour?"
+          },
+          {
+            "number": 41,
+            "text": "Watch and pray, that you don’t enter into temptation. The spirit indeed is willing, but the flesh is weak.”"
+          },
+          {
+            "number": 42,
+            "text": "Again, a second time he went away, and prayed, saying, “My Father, if this cup can’t pass away from me unless I drink it, your desire be done.”"
+          },
+          {
+            "number": 45,
+            "text": "Then he came to his disciples, and said to them, “Sleep on now, and take your rest. Behold, the hour is at hand, and the Son of Man is betrayed into the hands of sinners."
+          }
+        ]
+      },
+      {
+        "reference": "Luke 22",
+        "title": "Sweat like Drops of Blood and Complete Surrender",
+        "verses": [
+          {
+            "number": 39,
+            "text": "He went out, and went, as his custom was, to the Mount of Olives; and his disciples also followed him."
+          },
+          {
+            "number": 40,
+            "text": "When he was at the place, he said to them, “Pray that you don’t enter into temptation.”"
+          },
+          {
+            "number": 41,
+            "text": "He was withdrawn from them about a stone’s throw, and he knelt down and prayed,"
+          },
+          {
+            "number": 42,
+            "text": "saying, “Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done.”"
+          },
+          {
+            "number": 43,
+            "text": "An angel from heaven appeared to him, strengthening him."
+          },
+          {
+            "number": 44,
+            "text": "Being in agony, he prayed more earnestly. His sweat became like great drops of blood falling down on the ground."
+          },
+          {
+            "number": 45,
+            "text": "When he rose up from his prayer, he came to the disciples, and found them sleeping because of grief,"
+          },
+          {
+            "number": 46,
+            "text": "and said to them, “Why do you sleep? Rise and pray, that you don’t enter into temptation.”"
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Jesus shrank back from the horror of becoming sin for us, yet embraced the bitter cup so that we might drink the cup of eternal blessing.",
+      "reflection": "Gethsemane literally means 'the olive press'—the place where olives were crushed beneath massive stones until their golden oil flowed out. Under the gnarled olive trees in the dead of night, the Son of God was crushed under the weight of our sins. What made Jesus recoil in such visceral agony? It was not merely the physical terror of Roman whips or nails; martyrs across history have faced torture with singing. Jesus shrank back from 'the cup'—the biblical metaphor for the undiluted cup of God's holy wrath against human rebellion (Isaiah 51:17; Psalm 75:8). The sinless, spotless Son, who had lived in unbroken communion with the Father from eternity past, was about to become sin for us (2 Corinthians 5:21) and experience the horror of divine abandonment on the cross. The agony was so immense that capillaries in His brow burst, producing hematidrosis—sweat mingled with blood. Three times His holy humanity pleaded if there were any other way. Yet each time, love for you and submission to the Father conquered: 'Nevertheless, not my will, but yours, be done.' Because Jesus drained that bitter cup to its dregs, there is not a single drop of God's wrath left in the cup for those who trust in Him."
+    },
+    "lessons": [
+      {
+        "lesson": "True submission to God is forged in honest struggle, not unfeeling detachment.",
+        "verse": "Luke 22:42, 44",
+        "detail": "Jesus did not pretend that the cross was easy; He poured out His agonizing tears and soul-sorrow honestly before resting in the Father's will.",
+        "question": "When facing a painful trial, do you honestly pour out your struggle to God before yielding to His sovereign purpose?"
+      },
+      {
+        "lesson": "Spiritual failure begins when we sleep when we ought to be watching and praying.",
+        "verse": "Matthew 26:40-41",
+        "detail": "The disciples succumbed to temptation and fled because they indulged their fleshly weariness instead of keeping vigilant prayer.",
+        "question": "In what area of your spiritual life has drowsiness or prayerlessness made you vulnerable to enemy temptation?"
+      },
+      {
+        "lesson": "God sends heavenly strength to sustain us through our deepest agonies.",
+        "verse": "Luke 22:43",
+        "detail": "The Father did not remove the cross from Jesus, but He sent an angel from heaven to strengthen Him; God will sustain you through your cup.",
+        "question": "Are you asking God to remove the trial, or asking Him for the strength to glorify Him through it?"
+      },
+      {
+        "lesson": "Because Jesus drank the bitter cup of judgment, we receive the cup of salvation and blessing.",
+        "verse": "Luke 22:42; Psalm 116:13",
+        "detail": "Christ took our guilt, condemnation, and death so that we could be forgiven, welcomed into the Father's family, and crowned with life.",
+        "question": "Does meditating on Christ's agony in Gethsemane deepen your hatred of sin and your love for the Savior?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q277_1",
+        "type": "multiple_choice",
+        "question": "What does the name 'Gethsemane' literally mean?",
+        "options": [
+          "Garden of lilies",
+          "Olive press",
+          "Hill of prayer",
+          "Valley of springs"
+        ],
+        "correctIndex": 1,
+        "reference": "Matthew 26:36",
+        "explanation": "Gethsemane is derived from Hebrew/Aramaic meaning 'olive press' where olives were crushed for oil."
+      },
+      {
+        "id": "q277_2",
+        "type": "multiple_choice",
+        "question": "What physical phenomenon occurred as Jesus prayed in agony in Luke 22:44?",
+        "options": [
+          "A fiery halo surrounded Him",
+          "His sweat became like great drops of blood falling to the ground",
+          "He was caught up into heaven",
+          "The trees bowed down"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 22:44",
+        "explanation": "Luke 22:44 records: 'His sweat became like great drops of blood falling down on the ground.'"
+      },
+      {
+        "id": "q277_3",
+        "type": "multiple_choice",
+        "question": "What famous prayer of total surrender did Jesus utter in Luke 22:42?",
+        "options": [
+          "Lord, destroy my enemies now",
+          "Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done",
+          "Give me glory before the nations",
+          "Spare my life from the Romans"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 22:42",
+        "explanation": "Jesus prayed: 'Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done.'"
+      },
+      {
+        "id": "q277_4",
+        "type": "true_false",
+        "question": "When Jesus returned to Peter, James, and John, He found them on their knees praying fervently with Him.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Matthew 26:40; Luke 22:45",
+        "explanation": "False. Jesus found them sleeping, and said to Peter, 'What, couldn’t you watch with me for one hour?'"
+      },
+      {
+        "id": "q277_5",
+        "type": "multiple_choice",
+        "question": "What warning did Jesus give the disciples regarding why they needed to watch and pray?",
+        "options": [
+          "So they would not catch a cold",
+          "That you don’t enter into temptation; the spirit is willing, but the flesh is weak",
+          "Because Roman soldiers were stealing sheep",
+          "So they would be first in the Kingdom"
+        ],
+        "correctIndex": 1,
+        "reference": "Matthew 26:41",
+        "explanation": "Jesus warned: 'Watch and pray, that you don’t enter into temptation. The spirit indeed is willing, but the flesh is weak.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "O Lord Jesus, my suffering Savior, my heart is shattered by the depth of Your love displayed in Gethsemane. You knelt in the cold dust and sweat great drops of blood as You stared into the horrifying cup of my sin and guilt. You drank that bitter cup of wrath so that I might forever drink the overflowing cup of God's mercy and salvation. Forgive me for slumbering in ease while You call me to watch and pray. Teach me the posture of Gethsemane: in every heartbreak, trial, and uncertain path, silence my selfish desires and help me surrender: 'Not my will, but Yours, be done.' Amen.",
+      "versePrayerLine": "“Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done.”",
+      "prompt": "Kneel before the Lord right now: surrender your personal will, rights, and plans into the Father's sovereign hands."
     }
   }
 };
