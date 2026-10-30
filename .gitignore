@@ -8,4 +8,12 @@ node_modules/
 dist/
 .vscode/
 .idea/
+www/
 
+# Android build artifacts and local settings
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/capacitor-cordova-android-plugins/build/
+android/capacitor-cordova-android-plugins/.gradle/

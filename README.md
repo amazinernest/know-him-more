@@ -61,6 +61,28 @@
 
 ## 🚀 Getting Started
 
+### 📱 Mobile App for Android
+
+You can run **Know Him More** on your Android phone in two easy ways:
+
+#### Option 1: Standalone Android App (APK File) — Recommended
+A pre-built native Android APK is included directly in this repository:
+- **Direct Download Link**: Download [**`know-him-more.apk`**](./know-him-more.apk) (8.6 MB, offline-ready).
+- **How to Install on Your Android Phone**:
+  1. Download `know-him-more.apk` directly to your phone (via mobile browser, WhatsApp, Google Drive, or USB cable).
+  2. Tap the downloaded file in your phone's notification bar or Files app.
+  3. If prompted to *"Install unknown apps"*, tap **Settings** and toggle **"Allow from this source"**.
+  4. Tap **Install**, then **Open**.
+  5. The app launches with the full-screen interface, the gold open-Bible icon, and works 100% offline.
+
+#### Option 2: Progressive Web App (PWA 1-Tap Install)
+1. Open the hosted web app or your local IP in Google Chrome on your Android phone.
+2. Tap the **three dots menu (⋮)** in the top right corner of Chrome.
+3. Tap **"Install app"** or **"Add to Home screen"**.
+4. Android will generate a native WebAPK with its own launcher icon, running full-screen without address bars.
+
+---
+
 ### Run Locally
 
 You can serve the app with any static web server:
@@ -77,11 +99,6 @@ Open your browser to:
 ```
 http://localhost:8080
 ```
-
-### Install as a PWA
-1. Open the URL on your mobile phone or desktop browser (Chrome, Safari, Edge).
-2. Tap **"Install App"** in the browser menu or click the install icon in the URL bar.
-3. Use the app completely offline anytime.
 
 ---
 
