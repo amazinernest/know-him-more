@@ -1,4 +1,4 @@
-// Know Him More - Complete Days 1 to 97 Content (Batches 1, 2 & 3 Complete)
+// Know Him More - Complete Days 1 to 127 Content (Batches 1, 2, 3 & 4 Complete)
 window.DAYS_CONTENT = {
   "1": {
     "day": 1,
@@ -22726,6 +22726,6684 @@ window.DAYS_CONTENT = {
       "guidedPrayer": "Lord God of covenant loyalty and boundless grace, thank You that You open wide Your arms to outsiders, foreigners, and sinners like me. Thank You for the radiant example of Ruth, who laid down comfort, homeland, and pride to follow the Living God. Give me that same unwavering, sacrificial faith. Let my devotion to Jesus be absolute, without conditions or reservations. Wherever You lead me, I will go; where You stay, I will stay; Your people shall be my people, and You alone will be my God.",
       "versePrayerLine": "Lord, make Ruth's confession the cry of my own soul: 'Your people will be my people, and your God my God' (Ruth 1:16).",
       "prompt": "Recommit your whole life and future to following Jesus, abandoning all worldly reserves to walk with Him wherever He leads."
+    }
+  },
+  "98": {
+    "day": 98,
+    "character": "Ruth & Boaz",
+    "season": "Gleaning Grace in the Barley Harvest",
+    "theme": "The wings of Yahweh shelter the humble and direct their steps to fields of unexpected favor.",
+    "memoryVerse": {
+      "reference": "Ruth 2:12",
+      "text": "May Yahweh repay your work, and a full reward be given you from Yahweh, the God of Israel, under whose wings you have come to take refuge.",
+      "whyItMatters": "Taking refuge under God's wings invites His quiet providence to orchestrate kindness in field gleanings.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "Yahweh",
+          "reward",
+          "Israel",
+          "wings",
+          "refuge"
+        ],
+        "firstLetters": "M Y r y w, a a f r b g y f Y, t G o I, u w w y h c t t r."
+      }
+    },
+    "profile": {
+      "title": "Ruth and Boaz: Gleaning Grace Under the Wings of the Almighty",
+      "who": "Ruth the impoverished foreign widow gleaning in the fields of Boaz, a wealthy and righteous kinsman of Elimelech in Bethlehem.",
+      "whenAndWhere": "The barley fields of Bethlehem during the early spring harvest, circa 1100 BC.",
+      "family": "Daughter-in-law of Naomi; Boaz of the clan of Elimelech.",
+      "keyMoments": [
+        "Ruth humbly asked Naomi's permission to go to the fields and glean ears of grain behind anyone in whose eyes she found favor.",
+        "As providence had it, she happened to come to the portion of the field belonging to Boaz.",
+        "Boaz greeted his harvesters with 'Yahweh be with you!' and noticed the young foreign woman gleaning behind the reapers.",
+        "Informed of Ruth's loyal love for Naomi, Boaz commanded her to stay in his field, drink from his servants' water jars, and instructed his workers to pull out grain from the bundles purposely for her.",
+        "Ruth fell on her face asking why she found such favor as a foreigner; Boaz pronounced the blessing of taking refuge under Yahweh's wings.",
+        "Ruth returned to Naomi that evening with an ephah of barley and roasted grain; Naomi recognized God's kindness and identified Boaz as one of their close kinsman-redeemers."
+      ],
+      "strengths": [
+        "Ruth's humble initiative, diligence, and respectful demeanor.",
+        "Boaz's extraordinary generosity, godliness, and protective care for vulnerable women.",
+        "Both honored covenant values (hesed) above societal prejudice."
+      ],
+      "failures": [
+        "None recorded in this season of their lives."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Ruth 2",
+        "title": "Ruth Gleaning in the Field of Boaz",
+        "verses": [
+          {
+            "number": 2,
+            "text": "Ruth the Moabitess said to Naomi, 'Let me now go to the field, and glean among the ears of grain after him in whose sight I find favor.' She said to her, 'Go, my daughter.'"
+          },
+          {
+            "number": 3,
+            "text": "She went, and came and gleaned in the field after the reapers: and she happened to come to the portion of the field belonging to Boaz, who was of the family of Elimelech."
+          },
+          {
+            "number": 8,
+            "text": "Then Boaz said to Ruth, 'Listen, my daughter. Don't go to glean in another field, neither pass from here, but stay here close to my maidens.'"
+          },
+          {
+            "number": 11,
+            "text": "Boaz answered her, 'It has fully been told me, all that you have done for your mother-in-law since the death of your husband... and how you left your father and your mother, and the land of your birth, and came to a people that you didn't know before.'"
+          },
+          {
+            "number": 12,
+            "text": "'May Yahweh repay your work, and a full reward be given you from Yahweh, the God of Israel, under whose wings you have come to take refuge.'"
+          },
+          {
+            "number": 15,
+            "text": "When she had risen up to glean, Boaz commanded his young men, saying, 'Let her glean even among the sheaves, and don't reproach her."
+          },
+          {
+            "number": 16,
+            "text": "Also pull out some for her from the bundles, and leave it, and let her glean, and don't rebuke her.'"
+          },
+          {
+            "number": 17,
+            "text": "So she gleaned in the field until evening; and she beat out that which she had gleaned, and it was about an ephah of barley."
+          }
+        ]
+      },
+      {
+        "reference": "Psalm 36",
+        "title": "The Steadfast Love of God and Taking Refuge Under His Wings",
+        "verses": [
+          {
+            "number": 5,
+            "text": "Your loving kindness, Yahweh, is in the heavens. Your faithfulness reaches to the skies."
+          },
+          {
+            "number": 6,
+            "text": "Your righteousness is like the mountains of God. Your judgments are like a great deep. Yahweh, you preserve man and animal."
+          },
+          {
+            "number": 7,
+            "text": "How precious is your loving kindness, God! The children of men take refuge under the shadow of your wings."
+          },
+          {
+            "number": 8,
+            "text": "They shall be abundantly satisfied with the abundance of your house. You will make them drink of the river of your pleasures."
+          },
+          {
+            "number": 9,
+            "text": "For with you is the spring of life. In your light shall we see light."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "God's Quiet Providence Orchestrates Daily 'Coincidences' to Shelter You",
+      "reflection": "Ruth 2 contains one of the most delightful phrases in the Old Testament: 'as it happened, she came to the portion of the field belonging to Boaz.' In human eyes, it was a pure accident—a destitute foreign widow picked an open field at random to pick up stray stalks of barley so she and her mother-in-law wouldn't starve. But in heaven's eyes, there are no accidents.\n\nGod was guiding Ruth's feet every step of the way. She had chosen to take refuge under the wings of Yahweh, and God met her faith with the righteous generosity of Boaz. Boaz was not just a wealthy landowner; he was a man whose faith saturated his workplace. He greeted his workers with blessings and used his resources to protect and provide for the vulnerable.\n\nNotice also Boaz's prayer over Ruth: 'May a full reward be given you from Yahweh, under whose wings you have come to take refuge.' Boaz prayed that God would reward Ruth; little did he know that God was going to use Boaz himself as the answer to that very prayer! When you shelter yourself in God, He orchestrates daily kindnesses, opens doors you never knocked on, and often turns you into the very blessing you prayed for someone else."
+    },
+    "lessons": [
+      {
+        "lesson": "God sovereignly directs our steps even when we are simply doing ordinary daily work.",
+        "verse": "Ruth 2:3",
+        "detail": "Ruth 'happened' upon the field of Boaz, showing how God's unseen providence guides humble, faithful actions.",
+        "question": "Where in your routine are you looking for God's providential guidance today?"
+      },
+      {
+        "lesson": "Righteous believers bring the presence and blessing of God into their workplace.",
+        "verse": "Ruth 2:4",
+        "detail": "Boaz set a godly atmosphere for his employees, blessing them in the name of Yahweh as he entered the field.",
+        "question": "How do you reflect Christ's character, generosity, and grace in your daily work environment?"
+      },
+      {
+        "lesson": "God's people are called to be tangible answers to the prayers they pray for others.",
+        "verse": "Ruth 2:12, 14-16",
+        "detail": "Boaz prayed that God would reward Ruth under His wings, and then immediately provided food, water, and protection for her.",
+        "question": "Is there someone you have been praying for whom God is calling you to actively assist and bless?"
+      },
+      {
+        "lesson": "Taking refuge in God brings an abundance of divine satisfaction and light.",
+        "verse": "Psalm 36:7-9",
+        "detail": "David rejoiced that taking refuge under God's wings leads to drinking from the river of His pleasures and seeing light in His light.",
+        "question": "Are you taking true spiritual refuge under God's wings, or are you seeking shelter in worldly security?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "Whose field did Ruth happen to glean in when she went out to gather barley in Bethlehem?",
+        "options": [
+          "The field of Boaz, a wealthy relative of Elimelech",
+          "The field of the high priest of Shiloh",
+          "The royal estate of King Saul",
+          "The common village plot of Moabite refugees"
+        ],
+        "correctIndex": 0,
+        "reference": "Ruth 2:3",
+        "explanation": "Scripture notes she happened to come to the field belonging to Boaz, who was of the family of Elimelech."
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "How did Boaz greet his harvesters when he arrived in the field from Bethlehem?",
+        "options": [
+          "'Work faster or your wages will be cut'",
+          "'Yahweh be with you!'",
+          "'Peace to this field'",
+          "'May the gods of harvest smile on you'"
+        ],
+        "correctIndex": 1,
+        "reference": "Ruth 2:4",
+        "explanation": "Boaz said to the reapers, 'Yahweh be with you!' and they answered him, 'Yahweh bless you!'"
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "What special instructions did Boaz give his harvesters concerning Ruth?",
+        "options": [
+          "To send her away after one hour",
+          "To let her glean even among the sheaves and pull out grain from the bundles purposely for her",
+          "To charge her for the water she drank",
+          "To inspect her basket before she left"
+        ],
+        "correctIndex": 1,
+        "reference": "Ruth 2:15-16",
+        "explanation": "Boaz commanded them to let her glean among the sheaves without reproach and deliberately leave stalks behind for her."
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "Under what image did Boaz describe Ruth seeking spiritual protection in Israel?",
+        "options": [
+          "A strong bronze fortress",
+          "Under the shadow of Yahweh's wings",
+          "Behind the shield of Abraham",
+          "Inside the walls of Jerusalem"
+        ],
+        "correctIndex": 1,
+        "reference": "Ruth 2:12",
+        "explanation": "Boaz prayed: 'from Yahweh, the God of Israel, under whose wings you have come to take refuge.'"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: According to Psalm 36:7, God's loving kindness is scarce and reserved only for kings and nobles.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Psalm 36:7",
+        "explanation": "False. Psalm 36:7 declares: 'How precious is your loving kindness, God! The children of men take refuge under the shadow of your wings.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Heavenly Father, You are the God of steadfast love and sovereign providence. Thank You that You see my humble beginnings and guide my daily steps, even when I think I am just walking through ordinary routines. Shelter me under the shadow of Your wings. Fill my work with the fragrance of Your grace, as Boaz did, and make me a tangible answer to the prayers I lift up for those in need.",
+      "versePrayerLine": "Lord, let Boaz's blessing be my reality: 'May a full reward be given you from Yahweh, the God of Israel, under whose wings you have come to take refuge' (Ruth 2:12).",
+      "prompt": "Thank the Lord for the unexpected fields of favor He has placed you in, asking Him to use your generosity to bless others."
+    }
+  },
+  "99": {
+    "day": 99,
+    "character": "Boaz",
+    "season": "The Worthy Kinsman at the Threshing Floor",
+    "theme": "Purity and honor in private conduct lead to redemption and public blessing.",
+    "memoryVerse": {
+      "reference": "Ruth 3:11",
+      "text": "Now, my daughter, don’t be afraid. I will do to you all that you say; for all the city of my people knows that you are a worthy woman.",
+      "whyItMatters": "Godly character forged in secret commands universal respect and qualifies us for redemptive responsibility.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "daughter",
+          "afraid",
+          "people",
+          "worthy",
+          "woman"
+        ],
+        "firstLetters": "N, m d, d b a. I w d t y a t y s; f a t c o m p k t y a a w w."
+      }
+    },
+    "profile": {
+      "title": "Boaz: The Goel of Bethlehem and the Midnight Covenant",
+      "who": "Boaz, a wealthy landowner of Bethlehem, a prominent kinsman (goel) of Elimelech's family, noted for his integrity, wisdom, and reverent adherence to biblical redemption laws.",
+      "whenAndWhere": "The threshing floor of Bethlehem under the night sky, circa 1100 BC.",
+      "family": "Son of Salmon and Rahab of Jericho; close relative of Elimelech.",
+      "keyMoments": [
+        "Naomi instructed Ruth to wash, anoint herself, dress in fine garments, and go down to the threshing floor where Boaz was winnowing barley.",
+        "Following Naomi's counsel, after Boaz had eaten, drunk, and his heart was merry, he lay down by the heap of grain; Ruth quietly uncovered his feet and lay down.",
+        "At midnight, Boaz was startled and turned over, discovering a woman lying at his feet: 'Who are you?'",
+        "Ruth answered with bold covenant faith: 'I am Ruth your servant. Spread your skirt over your servant; for you are a near kinsman [goel].'",
+        "Boaz praised her for not pursuing younger men, whether poor or rich, calling her a woman of noble character (eshet chayil).",
+        "Boaz promised to act as her redeemer, but demonstrated total legal integrity: he revealed there was a closer kinsman who had first right of refusal.",
+        "Boaz protected Ruth's reputation, insisting she remain until morning before anyone could recognize her, and sent her home with six measures of barley.",
+        "Naomi comforted Ruth upon her return: 'Wait, my daughter, until you see how the matter falls; for the man will not rest until he has settled it today.'"
+      ],
+      "strengths": [
+        "Impeccable sexual and moral integrity during a midnight encounter.",
+        "Honored the letter and spirit of biblical law regarding the kinsman-redeemer (Leviticus 25).",
+        "Celebrated Ruth's inner virtue rather than treating her as an opportunistic foreigner."
+      ],
+      "failures": [
+        "None noted; serves as an Old Testament type of Christ, our Kinsman-Redeemer."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Ruth 3",
+        "title": "Ruth at the Threshing Floor of Boaz",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Naomi her mother-in-law said to her, 'My daughter, shall I not seek rest for you, that it may be well with you?'"
+          },
+          {
+            "number": 7,
+            "text": "When Boaz had eaten and drunk, and his heart was merry, he went to lie down at the end of the heap of grain. She came softly, and uncovered his feet, and laid down."
+          },
+          {
+            "number": 8,
+            "text": "It happened at midnight, that the man was startled and turned himself; and behold, a woman lay at his feet."
+          },
+          {
+            "number": 9,
+            "text": "He said, 'Who are you?' She answered, 'I am Ruth your servant. Spread therefore your skirt over your servant; for you are a near kinsman.'"
+          },
+          {
+            "number": 10,
+            "text": "He said, 'Blessed are you by Yahweh, my daughter. You have shown more kindness in the latter end than at the beginning, inasmuch as you didn't follow young men, whether poor or rich."
+          },
+          {
+            "number": 11,
+            "text": "Now, my daughter, don't be afraid. I will do to you all that you say; for all the city of my people knows that you are a worthy woman."
+          },
+          {
+            "number": 12,
+            "text": "'Now it is true that I am a near kinsman; however there is a kinsman nearer than I.'"
+          },
+          {
+            "number": 15,
+            "text": "He said, 'Bring the mantle that is on you, and hold it.' She held it; and he measured six measures of barley, and laid it on her; and he went into the city."
+          }
+        ]
+      },
+      {
+        "reference": "Leviticus 25",
+        "title": "The Law of the Kinsman-Redeemer (Goel) and Land Redemption",
+        "verses": [
+          {
+            "number": 23,
+            "text": "'The land shall not be sold in perpetuity, for the land is mine; for you are strangers and sojourners with me."
+          },
+          {
+            "number": 24,
+            "text": "In all the land of your possession you shall grant a redemption for the land."
+          },
+          {
+            "number": 25,
+            "text": "If your brother becomes poor, and sells some of his possessions, then his kinsman who is next to him shall come, and redeem that which his brother has sold."
+          },
+          {
+            "number": 28,
+            "text": "But if he isn't able to get it back for himself, then that which he has sold shall remain in the hand of him who has bought it until the Year of Jubilee..."
+          },
+          {
+            "number": 35,
+            "text": "'If your brother has become poor, and his hand can't support him among you; then you shall uphold him: as a stranger and a sojourner he shall live with you.'"
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Our Kinsman-Redeemer Spreads His Covering Over Our Unworthiness",
+      "reflection": "The scene on the threshing floor of Bethlehem is one of the most culturally charged moments in Scripture. Naomi understood the ancient covenant law of the **Goel** (Kinsman-Redeemer) in Leviticus 25. A Goel had to meet three strict qualifications: he had to be a blood relative, he had to have the financial means to redeem, and he had to be willing to marry the widow and perpetuate the deceased brother's family name.\n\nWhen Ruth lay at Boaz's feet and said, 'Spread your skirt over your servant, for you are a near kinsman,' she was not making a sensual proposition. In ancient Hebrew culture, spreading one's cloak over a woman was the formal symbolic act of entering into covenant marriage and claiming her under protective redemption (the exact same imagery God uses of Himself in Ezekiel 16:8: 'I spread my skirt over you and entered into covenant with you').\n\nBoaz's response reveals a man of stunning spiritual nobility. In the darkness of midnight, where compromise would have been easy, he treated Ruth with absolute honor. He recognized her inner virtue and promised to fulfill the law of redemption. In Boaz, we see a radiant type of Jesus Christ. We are like Ruth—impoverished, alien outsiders with no claim to the inheritance. Yet Christ is our Kinsman who became flesh, possesses all riches, and willingly spreads His mantle of righteousness over us to redeem our lives from ruin."
+    },
+    "lessons": [
+      {
+        "lesson": "True character is what you do in secret when nobody is watching.",
+        "verse": "Ruth 3:10-11",
+        "detail": "In the privacy of midnight on the threshing floor, Boaz guarded Ruth's dignity and purity, proving his integrity.",
+        "question": "How vigilant are you in maintaining moral purity and honor in your private thoughts and private spaces?"
+      },
+      {
+        "lesson": "Covenant faith requires boldness to step forward and claim God's promised redemption.",
+        "verse": "Ruth 3:9",
+        "detail": "Ruth humbly yet courageously asked Boaz to fulfill his kinsman duty, stepping out on Naomi's advice.",
+        "question": "Are you boldly asking God for the spiritual promises and redemption He has provided in Christ?"
+      },
+      {
+        "lesson": "Righteous obedience never cuts legal or ethical corners to reach a good outcome.",
+        "verse": "Ruth 3:12-13",
+        "detail": "Boaz did not bypass the closer kinsman; he insisted on honoring biblical legal procedures completely.",
+        "question": "Have you ever been tempted to compromise ethical standards or cut corners to achieve what you thought was a good goal?"
+      },
+      {
+        "lesson": "Jesus is our true Kinsman-Redeemer who covers our spiritual poverty with His royal robe.",
+        "verse": "Leviticus 25:25; Ruth 3:9",
+        "detail": "The law of the Goel finds its ultimate fulfillment in Christ, who redeemed our lost inheritance on the cross.",
+        "question": "How does resting under Christ's mantle of righteousness give you peace against fear and condemnation?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What symbolic action did Ruth take at midnight on the threshing floor to appeal to Boaz?",
+        "options": [
+          "She brought him a golden cup of wine",
+          "She uncovered his feet and lay down, asking him to spread his skirt over her",
+          "She presented him with the deed to Elimelech's land",
+          "She brought Naomi to testify before the town elders"
+        ],
+        "correctIndex": 1,
+        "reference": "Ruth 3:7-9",
+        "explanation": "She uncovered his feet and lay down, and when he awoke she asked him: 'Spread therefore your skirt over your servant; for you are a near kinsman.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "What Hebrew title did Boaz use to describe Ruth's universally recognized reputation in Bethlehem?",
+        "options": [
+          "A wealthy heiress",
+          "A worthy / noble woman (eshet chayil)",
+          "A mighty prophetess",
+          "A skilled artisan"
+        ],
+        "correctIndex": 1,
+        "reference": "Ruth 3:11",
+        "explanation": "Boaz said: 'for all the city of my people knows that you are a worthy woman' (the same phrase used in Proverbs 31:10)."
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "What legal obstacle did Boaz mention that had to be addressed before he could redeem Ruth?",
+        "options": [
+          "He didn't have enough money to buy the land",
+          "There was a nearer kinsman who had the legal first right of redemption",
+          "The elders of Moab had to approve the marriage",
+          "Ruth had to live in Bethlehem for seven years first"
+        ],
+        "correctIndex": 1,
+        "reference": "Ruth 3:12",
+        "explanation": "Boaz told her: 'Now it is true that I am a near kinsman; however there is a kinsman nearer than I.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What generous gift did Boaz pour into Ruth's mantle before sending her home in the morning?",
+        "options": [
+          "A pouch of silver coins",
+          "Six measures of barley",
+          "A flask of precious olive oil",
+          "A fine embroidered linen robe"
+        ],
+        "correctIndex": 1,
+        "reference": "Ruth 3:15",
+        "explanation": "Boaz measured six measures of barley and laid it on her mantle so she would not return to Naomi empty-handed."
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: According to Leviticus 25:23, Israelites could sell land permanently because the land belonged entirely to them.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Leviticus 25:23",
+        "explanation": "False. God declared: 'The land shall not be sold in perpetuity, for the land is mine; for you are strangers and sojourners with me.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus, my faithful Kinsman-Redeemer, I come to You in my spiritual poverty, having nothing to offer but my desperate need for Your grace. Thank You for becoming bone of my bone and flesh of my flesh, taking on human nature to redeem me. Thank You for spreading the skirt of Your righteousness over my soul and taking away all my shame. Teach me to walk in purity, honor, and uncompromising integrity in secret, just as Boaz walked before You.",
+      "versePrayerLine": "Lord, quiet my anxieties with Boaz's word: 'don't be afraid. I will do to you all that you say' (Ruth 3:11), trusting in Your perfect provision.",
+      "prompt": "Rest your heart at the feet of Jesus, thanking Him that He is your Redeemer who never rests until your redemption is complete."
+    }
+  },
+  "100": {
+    "day": 100,
+    "character": "Boaz & Ruth",
+    "season": "Redemption at the City Gate and the Line of David",
+    "theme": "God redeems empty grief into full joy and weaves faithful outsiders into the royal lineage of salvation.",
+    "memoryVerse": {
+      "reference": "Ruth 4:14",
+      "text": "The women said to Naomi, 'Blessed be Yahweh, who has not left you this day without a near kinsman; and let his name be famous in Israel.'",
+      "whyItMatters": "God's redemption turns seasons of bitter emptiness into celebrated generational blessings.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "women",
+          "Naomi",
+          "Blessed",
+          "Yahweh",
+          "kinsman",
+          "famous"
+        ],
+        "firstLetters": "T w s t N, 'B b Y, w h n l y t d w a n k; a l h n b f i I.'"
+      }
+    },
+    "profile": {
+      "title": "Boaz and Ruth: The Sandal at the Gate and the Royal Genealogy",
+      "who": "Boaz the redeemer and Ruth the redeemed Moabitess, married publicly at the gate of Bethlehem, bearing a son named Obed who became the grandfather of King David.",
+      "whenAndWhere": "The city gate of Bethlehem, circa 1100 BC.",
+      "family": "Husband and wife; parents of Obed; son of Salmon and Rahab; ancestors of King David and Jesus Christ.",
+      "keyMoments": [
+        "Early in the morning, Boaz went up to the city gate of Bethlehem and sat down, summoning ten respected town elders.",
+        "When the nearer kinsman walked by, Boaz called him over: 'Turn aside, friend, sit down here.'",
+        "Boaz presented the land of Elimelech: the nearer kinsman was eager to buy the field as an investment.",
+        "Boaz then stated the full covenant condition: 'On the day you buy the field from Naomi, you must also buy it from Ruth the Moabitess, the wife of the dead, to raise up the name of the dead on his inheritance.'",
+        "The nearer kinsman immediately backed out: 'I can't redeem it for myself, lest I ruin my own inheritance.'",
+        "According to the ancient custom in Israel concerning redemption, the nearer kinsman took off his sandal and handed it to Boaz, publicly transferring the right of redemption.",
+        "Boaz announced to the elders and all the people that he had bought Elimelech's land and acquired Ruth the Moabitess to be his wife.",
+        "The elders and people blessed them: 'May Yahweh make the woman who has come into your house like Rachel and Leah, who both built the house of Israel; and may you do worthily in Ephrathah, and be famous in Bethlehem.'",
+        "Ruth conceived and bore a son named **Obed**; the women praised God with Naomi, declaring that Ruth's love was 'better to you than seven sons.'",
+        "The book of Ruth concludes with the royal genealogy: Perez to Hezron, Ram, Amminadab, Nahshon, Salmon, Boaz, Obed, Jesse, and **David**."
+      ],
+      "strengths": [
+        "Mastery of legal covenant procedure conducted in broad daylight before public witnesses.",
+        "Willingness to take on financial sacrifice and societal stigma to redeem a foreign widow.",
+        "Naomi's bitterness completely transformed into celebrated generational joy."
+      ],
+      "failures": [
+        "The anonymous nearer kinsman failed the test of love, prioritizing selfish financial preservation over covenant compassion."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "Ruth 4",
+        "title": "Redemption at the Gate, the Marriage of Boaz and Ruth, and the Line of David",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Now Boaz went up to the gate, and sat down there. Behold, the near kinsman of whom Boaz spoke came by; to whom he said, 'Come over here, friend, and sit down.' He turned aside, and sat down."
+          },
+          {
+            "number": 2,
+            "text": "He took ten men of the elders of the city, and said, 'Sit down here.' They sat down."
+          },
+          {
+            "number": 6,
+            "text": "The near kinsman said, 'I can't redeem it for myself, lest I mar my own inheritance. Take my right of redemption for yourself; for I can't redeem it.'"
+          },
+          {
+            "number": 7,
+            "text": "Now this was the custom in former time in Israel concerning redeeming and concerning exchanging, to confirm all things: a man took off his sandal, and gave it to his neighbor; and this was the manner of attestation in Israel."
+          },
+          {
+            "number": 9,
+            "text": "Boaz said to the elders, and to all the people, 'You are witnesses this day, that I have bought all that was Elimelech's... and moreover Ruth the Moabitess... have I purchased to be my wife...'"
+          },
+          {
+            "number": 11,
+            "text": "All the people who were in the gate, and the elders, said, 'We are witnesses. May Yahweh make the woman who has come into your house like Rachel and like Leah, which two built the house of Israel...'"
+          },
+          {
+            "number": 14,
+            "text": "The women said to Naomi, 'Blessed be Yahweh, who has not left you this day without a near kinsman; and let his name be famous in Israel.'"
+          },
+          {
+            "number": 17,
+            "text": "The women his neighbors gave him a name, saying, 'There is a son born to Naomi.' They named him Obed. He is the father of Jesse, the father of David."
+          },
+          {
+            "number": 22,
+            "text": "and Obed became the father of Jesse, and Jesse became the father of David."
+          }
+        ]
+      },
+      {
+        "reference": "Matthew 1",
+        "title": "The Genealogy of Jesus Christ the Son of David",
+        "verses": [
+          {
+            "number": 1,
+            "text": "The book of the genealogy of Jesus Christ, the son of David, the son of Abraham."
+          },
+          {
+            "number": 5,
+            "text": "Salmon became the father of Boaz by Rahab. Boaz became the father of Obed by Ruth. Obed became the father of Jesse."
+          },
+          {
+            "number": 6,
+            "text": "Jesse became the father of David the king. David became the father of Solomon by her who had been Uriah's wife;"
+          },
+          {
+            "number": 16,
+            "text": "Jacob became the father of Joseph, the husband of Mary, from whom was born Jesus, who is called Christ."
+          },
+          {
+            "number": 17,
+            "text": "So all the generations from Abraham to David are fourteen generations; from David to the exile to Babylon fourteen generations; and from the exile to Babylon to the Christ, fourteen generations."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "God Writes Beautiful Endings That Reach All the Way to Eternity",
+      "reflection": "Contrast the opening of Ruth with its glorious conclusion. Chapter 1 opened with famine, death, foreign exile, weeping, and bitter despair: 'I went out full, and Yahweh has brought me home again empty.' But Chapter 4 ends with a wedding feast, an overflowing grain basket, elders rejoicing at the city gate, a newborn baby bouncing on grandmother Naomi's knees, and the women singing: 'Blessed be Yahweh, who has not left you without a redeemer!'\n\nNotice the contrast between Boaz and the anonymous nearer kinsman. The nearer kinsman wanted Elimelech's land, but when he learned that redemption required marrying the penniless foreign widow Ruth, he backed away: 'I can't redeem it, lest I mar my own inheritance.' He was obsessed with preserving his net worth and his family brand. Ironically, the man who wanted to protect his name is completely unnamed in Scripture—history forgets him as 'friend' (Hebrew: *peloni almoni*). But Boaz, who was willing to sacrifice his wealth, open his home, and embrace stigma, had his name immortalized forever in the genealogy of Jesus Christ!\n\nNever underestimate the significance of small acts of obedience and covenant faithfulness. Ruth gleaned in a field; Boaz stepped forward at the gate; Naomi held a baby. But through those ordinary faithful choices, God was weaving the royal ancestry of King David, and ultimately, bringing our Savior Jesus Christ into the world. When you trust God's redemptive plan, your story never ends in the ashes of Moab."
+    },
+    "lessons": [
+      {
+        "lesson": "True redemption involves self-sacrificial love that is willing to absorb financial and societal costs.",
+        "verse": "Ruth 4:5-6",
+        "detail": "The nearer kinsman refused to redeem Ruth because of selfish financial preservation, while Boaz gladly sacrificed to redeem her.",
+        "question": "Are you holding back from loving or helping someone because you fear it might cost you time, money, or comfort?"
+      },
+      {
+        "lesson": "Those who seek only self-preservation lose their legacy, while those who sacrifice for others are honored by God.",
+        "verse": "Ruth 4:6, 11-14",
+        "detail": "The nearer kinsman's name was forgotten to history, while Boaz's name was celebrated in Bethlehem and written in the genealogy of Christ.",
+        "question": "Are you living for short-term self-protection, or are you investing in eternal kingdom fruit?"
+      },
+      {
+        "lesson": "God's redemptive grace can turn your deepest bitterness into celebrated generational joy.",
+        "verse": "Ruth 4:14-17",
+        "detail": "Naomi, who asked to be called Mara, held baby Obed in her arms as the neighborhood women rejoiced in God's restoring kindness.",
+        "question": "What bitter grief or disappointment are you waiting on God to redeem and transform in your life?"
+      },
+      {
+        "lesson": "God includes outsiders and outcasts in His grand plan of global salvation.",
+        "verse": "Matthew 1:5-6, 16",
+        "detail": "Ruth the Moabitess and Rahab of Jericho are both named in Matthew 1, demonstrating that Christ's kingdom is built on sovereign grace.",
+        "question": "How does seeing foreign, flawed outsiders in Jesus' royal family tree inspire your faith today?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "Where did Boaz conduct the formal legal transaction to resolve the right of redemption?",
+        "options": [
+          "At the altar of Shiloh",
+          "At the city gate of Bethlehem before ten elders",
+          "In the palace of King Saul",
+          "At the threshing floor where they met"
+        ],
+        "correctIndex": 1,
+        "reference": "Ruth 4:1-2",
+        "explanation": "Boaz went up to the gate of Bethlehem and summoned ten elders of the city to witness the legal transaction."
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "Why did the nearer kinsman refuse to redeem Elimelech's land and marry Ruth?",
+        "options": [
+          "He was already engaged to someone else",
+          "He feared it would mar / endanger his own inheritance",
+          "He didn't have enough barley to plant",
+          "The elders forbade him from marrying a Moabitess"
+        ],
+        "correctIndex": 1,
+        "reference": "Ruth 4:6",
+        "explanation": "The nearer kinsman said: 'I can't redeem it for myself, lest I mar my own inheritance.'"
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "What ancient legal ceremony confirmed the transfer of the right of redemption in Israel?",
+        "options": [
+          "Breaking a clay pitcher",
+          "A man took off his sandal and handed it to his neighbor",
+          "Pouring oil on a stone altar",
+          "Cutting an animal in two"
+        ],
+        "correctIndex": 1,
+        "reference": "Ruth 4:7-8",
+        "explanation": "The custom in Israel to confirm redemption was that a man took off his sandal and gave it to his neighbor."
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What was the name of the son born to Boaz and Ruth who became the grandfather of King David?",
+        "options": [
+          "Jesse",
+          "Obed",
+          "Salmon",
+          "Nahshon"
+        ],
+        "correctIndex": 1,
+        "reference": "Ruth 4:17, 22",
+        "explanation": "They named the child Obed; Obed was the father of Jesse, who was the father of King David."
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: According to Matthew 1:5, Ruth the Moabitess is completely omitted from the genealogy of Jesus Christ.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Matthew 1:5",
+        "explanation": "False. Matthew 1:5 explicitly lists: 'Boaz became the father of Obed by Ruth. Obed became the father of Jesse, and Jesse became the father of David the king.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord God of our redemption, You are the Author of glorious endings and new beginnings. Thank You that no situation in my life is beyond Your power to redeem. Forgive me for the times I have lived like the anonymous nearer kinsman, calculating how much obedience might cost me, rather than loving like Boaz. Thank You for welcoming outsiders like Ruth—and like me—into the royal family of Jesus Christ. Write Your redemption across every broken piece of my story.",
+      "versePrayerLine": "Lord, let the song of Bethlehem ring in my heart: 'Blessed be Yahweh, who has not left you this day without a near kinsman' (Ruth 4:14).",
+      "prompt": "Praise God for Jesus Christ, your ultimate Kinsman-Redeemer, thanking Him that your life is forever woven into His eternal family."
+    }
+  },
+  "101": {
+    "day": 101,
+    "character": "Hannah",
+    "season": "Pouring Out the Soul in Silent Weeping",
+    "theme": "Pouring out silent, raw anguish before God opens the door to His miraculous and comforting peace.",
+    "memoryVerse": {
+      "reference": "1 Samuel 1:15",
+      "text": "Hannah answered, 'No, my lord, I am a woman of a sorrowful spirit... but I poured out my soul before Yahweh.'",
+      "whyItMatters": "Raw, honest prayer that empties the soul before God brings supernatural peace before the answer even arrives.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "Hannah",
+          "woman",
+          "sorrowful",
+          "spirit",
+          "poured",
+          "Yahweh"
+        ],
+        "firstLetters": "H a, 'N, m l, I a a w o a s s... b I p o m s b Y.'"
+      }
+    },
+    "profile": {
+      "title": "Hannah: Silent Agony at Shiloh and the Vow of Consecration",
+      "who": "One of two wives of Elkanah the Levite from Ramathaim-Zophim. Barren and bitterly provoked year after year by her rival Peninnah, she went into the tabernacle at Shiloh and poured out her soul in silent, tearful prayer to Yahweh of Hosts.",
+      "whenAndWhere": "The tabernacle sanctuary at Shiloh in Ephraim, circa 1100 BC.",
+      "family": "Wife of Elkanah; rival of Peninnah; mother of Samuel and five subsequent children.",
+      "keyMoments": [
+        "Year after year, Elkanah went up to worship and sacrifice to Yahweh of Armies in Shiloh, giving double portions of sacrificial meat to Hannah because he loved her, even though Yahweh had shut her womb.",
+        "Her rival Peninnah provoked her severely year after year to irritate her, causing Hannah to weep and refuse to eat.",
+        "Elkanah tried to comfort her with clumsy affection: 'Hannah, why do you weep? Why don't you eat? Am I not better to you than ten sons?'",
+        "After eating in Shiloh, Hannah rose in deep bitterness of soul and prayed to Yahweh, weeping bitterly.",
+        "She made a radical vow to **Yahweh of Hosts** (the first person in Scripture to use this title): if God would give her a male child, she would give him to Yahweh all the days of his life as a lifelong Nazirite with no razor touching his head.",
+        "As she continued praying, her lips moved but her voice was not heard; the elderly high priest **Eli** observed her mouth and concluded she was drunk, rebuking her sharply.",
+        "Hannah answered with humble dignity: 'No, my lord, I am a woman of a sorrowful spirit. I have drunk neither wine nor strong drink, but I poured out my soul before Yahweh.'",
+        "Eli perceived her sincerity and blessed her: 'Go in peace; and may the God of Israel grant your petition which you have asked of him.'",
+        "Hannah's countenance changed immediately: she went her way, ate, and her face was no longer sad—experiencing God's peace *before* conception occurred.",
+        "They rose early and worshipped; Elkanah knew his wife, Yahweh remembered her, and she conceived and bore a son, naming him **Samuel** ('Heard of God'), saying, 'Because I have asked him of Yahweh.'"
+      ],
+      "strengths": [
+        "Deep, persistent prayer life: channeled raw emotional pain directly to God rather than retaliating against her rival.",
+        "Radical generosity and consecration: willing to give her long-awaited child completely back to God.",
+        "Humble, gracious response to Eli's unfair and false accusation."
+      ],
+      "failures": [
+        "None noted; stands as an enduring biblical model of earnest, petitionary prayer."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "1 Samuel 1",
+        "title": "Hannah's Grief, Her Silent Vow at Shiloh, and Samuel's Birth",
+        "verses": [
+          {
+            "number": 2,
+            "text": "He had two wives; the name of one was Hannah, and the name of the other Peninnah: and Peninnah had children, but Hannah had no children."
+          },
+          {
+            "number": 6,
+            "text": "Her rival provoked her severely, to irritate her, because Yahweh had shut up her womb."
+          },
+          {
+            "number": 10,
+            "text": "She was in bitterness of soul, and prayed to Yahweh, and wept bitterly."
+          },
+          {
+            "number": 11,
+            "text": "She vowed a vow, and said, 'Yahweh of Armies, if you will indeed look on the affliction of your servant, and remember me, and not forget your servant, but will give to your servant a boy, then I will give him to Yahweh all the days of his life, and no razor shall come on his head.'"
+          },
+          {
+            "number": 13,
+            "text": "Now Hannah spoke in her heart. Only her lips moved, but her voice was not heard. Therefore Eli thought she was drunk."
+          },
+          {
+            "number": 15,
+            "text": "Hannah answered, 'No, my lord, I am a woman of a sorrowful spirit: I have drunk neither wine nor strong drink, but I poured out my soul before Yahweh.'"
+          },
+          {
+            "number": 17,
+            "text": "Then Eli answered, 'Go in peace; and may the God of Israel grant your petition which you have asked of him.'"
+          },
+          {
+            "number": 18,
+            "text": "She said, 'Let your handmaid find favor in your sight.' So the woman went her way, and ate; and her facial expression wasn't sad any more."
+          },
+          {
+            "number": 20,
+            "text": "It came to pass, when the time had come, that Hannah conceived, and bore a son; and she named him Samuel, saying, 'Because I have asked him of Yahweh.'"
+          }
+        ]
+      },
+      {
+        "reference": "Psalm 62",
+        "title": "Pouring Out the Heart to God Our Only Refuge",
+        "verses": [
+          {
+            "number": 1,
+            "text": "My soul rests in God alone. My salvation comes from him."
+          },
+          {
+            "number": 2,
+            "text": "He alone is my rock, my salvation, and my fortress. I will not be greatly shaken."
+          },
+          {
+            "number": 5,
+            "text": "My soul, wait in silence for God alone, for my expectation is from him."
+          },
+          {
+            "number": 8,
+            "text": "Trust in him at all times, you people. Pour out your heart before him. God is a refuge for us."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "When You Pour Out Your Pain, God Pours In His Supernatural Peace",
+      "reflection": "Hannah's grief was multifaceted. She lived in a culture where barrenness was viewed as a divine curse. She had to share her husband with a rival wife who systematically poked at her wound every single day. Even her husband's well-intentioned attempts to comfort her ('Am I not better to you than ten sons?') felt tone-deaf to her aching heart. And when she finally dragged her broken soul into the tabernacle, the high priest misjudged her and accused her of being a drunkard!\n\nYet look at where Hannah took her anguish. She did not start a fight with Peninnah. She did not grow bitter against her husband. She went straight to the tabernacle of Yahweh. And notice her words to Eli: 'I am a woman of a sorrowful spirit... I have poured out my soul before Yahweh.' Like David in Psalm 62, she understood that God is our refuge and that we can empty out our grief completely before Him.\n\nAnd look at the miracle in verse 18: 'The woman went her way, and ate; and her face was no longer sad.' Hannah was not pregnant yet! Samuel had not been conceived! Nothing in her external circumstances had changed. But she had left her burden on the altar of Yahweh. The peace of God, which surpasses all human comprehension, guarded her heart. When you truly empty your soul before God, you walk away filled with His peace long before the answer manifests."
+    },
+    "lessons": [
+      {
+        "lesson": "Bring your deepest heartaches directly to God instead of retaliating against those who provoke you.",
+        "verse": "1 Samuel 1:10, 15",
+        "detail": "Peninnah taunted Hannah constantly, but Hannah channeled all her pain into passionate, silent prayer before Yahweh.",
+        "question": "Are you wasting emotional energy fighting difficult people when you should be pouring your soul out to God?"
+      },
+      {
+        "lesson": "True prayer empties the burden onto God and produces genuine peace before circumstances change.",
+        "verse": "1 Samuel 1:18; Psalm 62:8",
+        "detail": "Hannah ate and was no longer sad immediately after praying, long before she received the physical answer to her petition.",
+        "question": "Do you leave your worries at the altar when you pray, or do you pick them right back up when you say 'Amen'?"
+      },
+      {
+        "lesson": "Respond with grace and gentle humility when your spiritual motives are misunderstood.",
+        "verse": "1 Samuel 1:14-16",
+        "detail": "When Eli falsely accused her of being intoxicated, Hannah did not lash out defensively; she gently explained her sorrowful spirit.",
+        "question": "How do you respond when authority figures or friends misjudge your motives or character?"
+      },
+      {
+        "lesson": "God remembers the tears of His faithful servants and brings life out of barrenness.",
+        "verse": "1 Samuel 1:19-20",
+        "detail": "Scripture explicitly notes that 'Yahweh remembered her,' bringing about the birth of Samuel, a mighty prophet of God.",
+        "question": "What 'barren' dream or long-delayed petition in your life do you need to entrust into God's faithful memory?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "Why did Hannah's rival Peninnah provoke and irritate her severely year after year?",
+        "options": [
+          "Because Hannah was younger and wealthier",
+          "Because Yahweh had shut Hannah's womb while Peninnah had children",
+          "Because Hannah refused to cook sacrificial meals",
+          "Because Hannah was from a different tribe"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 1:6",
+        "explanation": "Peninnah provoked her severely because Yahweh had closed Hannah's womb, teasing her about her childlessness."
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "What radical vow did Hannah make to Yahweh of Hosts regarding her requested son?",
+        "options": [
+          "He would become a wealthy merchant in Egypt",
+          "He would be given to Yahweh all the days of his life as a lifelong Nazirite",
+          "He would marry a daughter of Eli the priest",
+          "He would build a new tabernacle in Shiloh"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 1:11",
+        "explanation": "Hannah vowed that if God gave her a son, she would give him to Yahweh all his days, and no razor would touch his head."
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "What mistaken conclusion did the high priest Eli jump to when he saw Hannah praying silently?",
+        "options": [
+          "He thought she was chanting pagan curses",
+          "He thought she was drunk with wine",
+          "He thought she was sleeping",
+          "He thought she was possessed by a demon"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 1:13-14",
+        "explanation": "Eli saw her lips moving without sound and said: 'How long will you be drunk? Put away your wine from you.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What noticeable change happened to Hannah immediately after receiving Eli's blessing, before she conceived?",
+        "options": [
+          "She began to fast for forty days",
+          "She went her way, ate, and her face was no longer sad",
+          "She demanded that Elkanah banish Peninnah",
+          "She bought fine robes for her future son"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 1:18",
+        "explanation": "1 Samuel 1:18 records: 'the woman went her way, and ate; and her facial expression wasn't sad any more.'"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: The name 'Samuel' means 'Rich in Cattle'.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 1:20",
+        "explanation": "False. She named him Samuel ('Heard of God' / 'Asked of God'), saying, 'Because I have asked him of Yahweh.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Yahweh of Armies, You are the God who sees every silent tear and hears the unspoken cries of my heart. Deliver me from the exhaustion of carrying heavy burdens in my own strength. Today, like Hannah at Shiloh, I bring my deepest disappointments, unanswered questions, and raw ache before Your throne. I pour out my soul to You. Replace my anxiety with Your supernatural peace, and let my countenance no longer be sad as I wait upon You.",
+      "versePrayerLine": "Lord, make Hannah's testimony my own: 'I poured out my soul before Yahweh' (1 Samuel 1:15), resting in Your sovereign goodness.",
+      "prompt": "Pour out your most private ache or longing to God, consciously choosing to leave it in His hands and receive His peace."
+    }
+  },
+  "102": {
+    "day": 102,
+    "character": "Hannah",
+    "season": "The Exultant Song of the Reversal of Fortunes",
+    "theme": "God exalts the humble, casts down the arrogant, and anchors our rejoicing in His holy character.",
+    "memoryVerse": {
+      "reference": "1 Samuel 2:2",
+      "text": "There is no one holy as Yahweh, for there is no one besides you, neither is there any rock like our God.",
+      "whyItMatters": "True praise celebrates who God is, recognizing that He delights to overturn worldly arrogance and lift up the humble.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "holy",
+          "Yahweh",
+          "besides",
+          "rock",
+          "God"
+        ],
+        "firstLetters": "T i n o h a Y, f t i n o b y, n i t a r l o G."
+      }
+    },
+    "profile": {
+      "title": "Hannah: The Dedication of Samuel and the Great Theocratic Hymn",
+      "who": "Hannah, after weaning her young boy Samuel, faithfully brought him to the tabernacle at Shiloh to fulfill her vow, handing him over to Eli for lifelong temple service, and breaking into an extraordinary prophetic song that anticipates the Magnificat of Mary.",
+      "whenAndWhere": "The tabernacle sanctuary at Shiloh, circa 1095 BC.",
+      "family": "Wife of Elkanah; mother of Samuel; blessed later with three more sons and two daughters.",
+      "keyMoments": [
+        "Hannah remained at home in Ramah until she had weaned Samuel, stating to her husband: 'When the child is weaned, then I will bring him, that he may appear before Yahweh, and stay there forever.'",
+        "When the child was about three years old, she brought him to Shiloh with three bulls, an ephah of flour, and a bottle of wine.",
+        "They slaughtered the bull and brought the child to Eli; Hannah said: 'Oh, my lord... I am the woman who stood by you here, praying to Yahweh. For this child I prayed, and Yahweh has given me my petition which I asked of him. Therefore I also have given him to Yahweh; as long as he lives he is given to Yahweh.'",
+        "Hannah burst into a triumphant, prophetic hymn of praise (**Hannah's Song**, 1 Samuel 2:1-10):",
+        "Rejoiced that her horn (strength) was exalted in Yahweh: 'There is no one holy as Yahweh... neither is there any rock like our God.'",
+        "Proclaimed the divine **Great Reversal**: the bows of the mighty are broken, while those who stumbled are girded with strength; those who were full hire themselves out for bread, while the barren has borne seven.",
+        "Affirmed God's absolute sovereignty over life and death, wealth and poverty: 'Yahweh kills, and makes alive; he brings down to Sheol, and brings up... He raises up the poor out of the dust, and lifts up the needy from the dunghill, to make them sit with princes.'",
+        "Became the first person in the Old Testament to prophesy the **Messiah** (the Anointed King): 'He will give strength to his king, and exalt the horn of his Anointed [Mashiach].'",
+        "Returned home to Ramah; every year she made a little robe for Samuel and brought it when she came up with her husband for the yearly sacrifice; Eli blessed them, and God granted Hannah three more sons and two daughters."
+      ],
+      "strengths": [
+        "Unwavering integrity in keeping a costly vow: freely gave her only son to God.",
+        "Profound prophetic and theological vision: articulated God's holiness, sovereignty, and messianic kingdom.",
+        "Persistent maternal love: continued to weave little coats for Samuel year after year."
+      ],
+      "failures": [
+        "None recorded; an exemplar of sacrificial devotion and worship."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "1 Samuel 2",
+        "title": "Hannah's Song of Praise and the Dedication of Young Samuel",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Hannah prayed, and said: 'My heart exults in Yahweh! My horn is exalted in Yahweh. My mouth is enlarged over my enemies, because I rejoice in your salvation."
+          },
+          {
+            "number": 2,
+            "text": "There is no one holy as Yahweh, for there is no one besides you, neither is there any rock like our God."
+          },
+          {
+            "number": 3,
+            "text": "Talk no more so exceedingly proudly. Don't let arrogance come out of your mouth, for Yahweh is a God of knowledge. By him actions are weighed."
+          },
+          {
+            "number": 4,
+            "text": "The bows of the mighty men are broken. Those who stumbled are armed with strength."
+          },
+          {
+            "number": 6,
+            "text": "Yahweh kills, and makes alive. He brings down to Sheol, and brings up."
+          },
+          {
+            "number": 7,
+            "text": "Yahweh makes poor, and makes rich. He brings low, he also lifts up."
+          },
+          {
+            "number": 8,
+            "text": "He raises up the poor out of the dust. He lifts up the needy from the dunghill, to make them sit with princes, and inherit the throne of glory..."
+          },
+          {
+            "number": 10,
+            "text": "'Those who strive with Yahweh shall be broken to pieces. He will thunder against them in the skies. Yahweh will judge the ends of the earth. He will give strength to his king, and exalt the horn of his anointed.'"
+          },
+          {
+            "number": 18,
+            "text": "But Samuel ministered before Yahweh, being a child, clothed with a linen ephod."
+          },
+          {
+            "number": 19,
+            "text": "Moreover his mother made him a little robe, and brought it to him from year to year, when she came up with her husband to offer the yearly sacrifice."
+          }
+        ]
+      },
+      {
+        "reference": "Luke 1",
+        "title": "The Magnificat of Mary: God Lifts Up the Lowly",
+        "verses": [
+          {
+            "number": 46,
+            "text": "Mary said, 'My soul magnifies the Lord."
+          },
+          {
+            "number": 47,
+            "text": "My spirit has rejoiced in God my Savior,"
+          },
+          {
+            "number": 48,
+            "text": "for he has looked at the humble state of his handmaid. For behold, from now on, all generations will call me blessed."
+          },
+          {
+            "number": 49,
+            "text": "For he who is mighty has done great things for me. Holy is his name."
+          },
+          {
+            "number": 51,
+            "text": "He has shown strength with his arm. He has scattered the proud in the imagination of their hearts."
+          },
+          {
+            "number": 52,
+            "text": "He has put down princes from their thrones, and has exalted the lowly."
+          },
+          {
+            "number": 53,
+            "text": "He has filled the hungry with good things. He has sent the rich away empty."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "God Inverts the World's Ladders: The Arrogant Fall and the Lowly Are Raised",
+      "reflection": "Hannah's Song in 1 Samuel 2 is not just a mother's sweet lullaby; it is a thunderous manifesto of divine theology that shapes the rest of redemptive history. In fact, a thousand years later, when the virgin Mary learned she would bear the Savior, she modeled her **Magnificat** (Luke 1:46-55) almost verse-for-verse on Hannah's prayer!\n\nNotice the central theme of Hannah's song: God is the great Inverter of human fortunes. The world operates by power, wealth, status, and physical strength—the arrogant strut across the stage boasting in their advantages. But Hannah had watched God shatter the bows of the mighty and arm the stumbling with supernatural strength. She had seen how God takes an impoverished, weeping woman from the dust and sets her among princes.\n\nNotice also that Hannah did not hoard her blessing. When God gave her Samuel, she did not cling to him and make him an idol. She walked him up to Shiloh, handed him to Eli, and worshiped: 'For this child I prayed... as long as he lives, he is given to Yahweh.' She knew that what is kept for oneself can easily rot, but what is consecrated to God multiplies into eternal glory. God rewarded her faith not only with five more children, but by making Samuel the moral conscience of an entire nation."
+    },
+    "lessons": [
+      {
+        "lesson": "True worship focuses on God's holiness and sovereignty, not just the gifts He provides.",
+        "verse": "1 Samuel 2:2",
+        "detail": "Hannah did not merely celebrate having a baby; she exalted God's singular holiness, rock-solid security, and cosmic rule.",
+        "question": "Is your praise centered on who God is in His eternal character, or only on the immediate blessings He gives you?"
+      },
+      {
+        "lesson": "God opposes the proud and self-sufficient, but exalts the humble and needy.",
+        "verse": "1 Samuel 2:3-4, 8; Luke 1:51-52",
+        "detail": "Both Hannah and Mary proclaimed the unchanging law of the kingdom: God scatters the proud and lifts the humble from the dust.",
+        "question": "Are you striving to climb human ladders of self-promotion, or are you humbling yourself under God's mighty hand?"
+      },
+      {
+        "lesson": "Fulfill your vows and consecrate your greatest blessings back into God's hands.",
+        "verse": "1 Samuel 1:27-28; 2:19",
+        "detail": "Hannah faithfully dedicated Samuel to the Lord as promised, continuing to support him with love and yearly robes.",
+        "question": "Have you surrendered the gifts, talents, and children God has given you back to Him for His kingdom use?"
+      },
+      {
+        "lesson": "You can never out-give God; He multiplies whatever is surrendered to Him.",
+        "verse": "1 Samuel 2:21",
+        "detail": "When Hannah gave up her firstborn son Samuel to tabernacle service, God blessed her with three more sons and two daughters.",
+        "question": "What are you holding tightly onto in fear of loss that God is asking you to release into His care?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What did Hannah do with Samuel as soon as he was weaned, in fulfillment of her vow?",
+        "options": [
+          "She sent him to Egypt to be educated",
+          "She brought him to the tabernacle at Shiloh and dedicated him to Yahweh for lifelong service",
+          "She made him the judge of Bethlehem",
+          "She kept him at home until he was thirty years old"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 1:24-28",
+        "explanation": "Hannah brought Samuel to Shiloh, presenting him to Eli: 'as long as he lives he is given to Yahweh.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "According to 1 Samuel 2:2, what rock-solid truth did Hannah proclaim about God's holiness?",
+        "options": [
+          "'God is holy only when He gives us sons'",
+          "'There is no one holy as Yahweh, for there is no one besides you, neither is there any rock like our God.'",
+          "'The gods of the Philistines are holy like Yahweh'",
+          "'Only the priests in Shiloh are holy'"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 2:2",
+        "explanation": "Hannah declared: 'There is no one holy as Yahweh, for there is no one besides you, neither is there any rock like our God.'"
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "What annual gift did Hannah make and bring to young Samuel when she visited Shiloh each year?",
+        "options": [
+          "A golden goblet",
+          "A little robe / coat woven by her own hands",
+          "A silver trumpet",
+          "A scroll of the Law"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 2:19",
+        "explanation": "His mother made him a little robe from year to year, bringing it when she came up with her husband for the yearly sacrifice."
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "How many additional children did God graciously grant to Hannah after she surrendered Samuel?",
+        "options": [
+          "No more children",
+          "Two sons",
+          "Three sons and two daughters (five children)",
+          "Seven sons"
+        ],
+        "correctIndex": 2,
+        "reference": "1 Samuel 2:21",
+        "explanation": "Yahweh visited Hannah, and she conceived and bore three sons and two daughters, while the boy Samuel grew before Yahweh."
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: In Luke 1, the Magnificat of Mary shares striking thematic parallels with Hannah's prophetic song.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 0,
+        "reference": "Luke 1:46-55; 1 Samuel 2:1-10",
+        "explanation": "True. Mary's Magnificat echoes Hannah's song on God scattering the proud, exalting the lowly, and filling the hungry."
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Holy, Sovereign Lord God, my heart exults in You! There is no one holy like You; there is no rock like our God. Forgive me for the times I have spoken proudly, looked at worldly power with envy, or measured my worth by external circumstances. Thank You that You raise the needy out of the dust and seat them with Christ in heavenly places. Everything I have belongs to You. Take my life, my gifts, and my loved ones, and use them for the glory of Your Son.",
+      "versePrayerLine": "Lord, let Hannah's glorious song be my confession: 'There is no one holy as Yahweh... neither is there any rock like our God' (1 Samuel 2:2).",
+      "prompt": "Offer a sacrifice of praise for God's holiness and sovereignty, consecrating your most precious blessing back into His hands."
+    }
+  },
+  "103": {
+    "day": 103,
+    "character": "Eli & His Sons",
+    "season": "The Tragedy of Spiritual Permissiveness",
+    "theme": "Passive tolerance of blatant sin dishonors God and destroys generational spiritual authority.",
+    "memoryVerse": {
+      "reference": "1 Samuel 2:30",
+      "text": "...those who honor me I will honor, and those who despise me shall be lightly esteemed.",
+      "whyItMatters": "Honoring God requires actively confronting sin; passive tolerance in leadership brings divine judgment.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "honor",
+          "despise",
+          "lightly",
+          "esteemed"
+        ],
+        "firstLetters": "...t w h m I w h, a t w d m s b l e."
+      }
+    },
+    "profile": {
+      "title": "Eli, Hophni, and Phinehas: Greed, Licentiousness, and the Fatal Rebuke",
+      "who": "Eli, elderly judge and high priest at Shiloh of the line of Ithamar, who presided over the tabernacle for forty years, and his corrupt sons Hophni and Phinehas, who treated God's offerings with contempt and seduced women serving at the sanctuary.",
+      "whenAndWhere": "The tabernacle at Shiloh in Ephraim, circa 1090 BC.",
+      "family": "Eli; sons Hophni and Phinehas; grandsons Ichabod and Ahitub.",
+      "keyMoments": [
+        "Eli's sons were described by Scripture as 'sons of Belial [worthless men]; they didn't know Yahweh.'",
+        "While worshippers were boiling sacrificial meat, the priest's servant would plunge a three-pronged flesh-hook into the pot and take whatever came out for the priests.",
+        "Before the fat was burned on the altar to Yahweh, the servants demanded raw meat for roasting, threatening violence if the worshipper refused: 'Give it now, or I will take it by force!'",
+        "The sin of the young men was exceedingly great before Yahweh, for men abhorred the offering of Yahweh.",
+        "Hophni and Phinehas also engaged in sexual immorality with the women who served at the entrance to the tent of meeting.",
+        "Eli was very old and heard of all their wickedness; he issued a weak, toothless verbal rebuke: 'Why do you do such things? For I hear of your evil dealings from all this people... If one man sins against another, God will judge him; but if a man sins against Yahweh, who will intercede for him?'",
+        "His sons refused to listen to their father's voice, 'because Yahweh intended to kill them.'",
+        "A nameless man of God confronted Eli: 'Why do you kick at my sacrifice... and honor your sons above me, to make yourselves fat with the best of all the offerings of Israel?'",
+        "God pronounced the doom of Eli's house: the high priesthood would be cut off from his lineage, his descendants would die in the flower of their age, and Hophni and Phinehas would die on the same day as a sign."
+      ],
+      "strengths": [
+        "Served as judge over Israel for forty years.",
+        "Trained young Samuel in tabernacle ministry and acknowledged God's sovereignty when judged: 'It is Yahweh. Let him do what seems good to him.'"
+      ],
+      "failures": [
+        "Passive, indulgent parenting: honored his sons above Yahweh by tolerating blasphemy and abuse in God's sanctuary.",
+        "Failed to restrain, remove, or punish corrupt priests serving under his jurisdiction."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "1 Samuel 2",
+        "title": "The Wickedness of Eli's Sons and the Prophecy Against His House",
+        "verses": [
+          {
+            "number": 12,
+            "text": "Now the sons of Eli were worthless men. They didn't know Yahweh."
+          },
+          {
+            "number": 17,
+            "text": "The sin of the young men was very great before Yahweh; for the men despised the offering of Yahweh."
+          },
+          {
+            "number": 22,
+            "text": "Now Eli was very old; and he heard all that his sons did to all Israel, and how that they lay with the women who served at the door of the Tent of Meeting."
+          },
+          {
+            "number": 23,
+            "text": "He said to them, 'Why do you do such things? For I hear of your evil dealings from all this people."
+          },
+          {
+            "number": 25,
+            "text": "'If one man sins against another, God will judge him; but if a man sins against Yahweh, who will intercede for him?' Notwithstanding, they didn't listen to the voice of their father, because Yahweh intended to kill them."
+          },
+          {
+            "number": 29,
+            "text": "'Why do you kick at my sacrifice and at my offering, which I have commanded in my habitation, and honor your sons above me, to make yourselves fat with the best of all the offerings of Israel my people?'"
+          },
+          {
+            "number": 30,
+            "text": "Therefore Yahweh, the God of Israel, says... 'Be it far from me; for those who honor me I will honor, and those who despise me shall be lightly esteemed.'"
+          },
+          {
+            "number": 34,
+            "text": "'This shall be the sign to you, that will come on your two sons, on Hophni and Phinehas: in one day they will both die.'"
+          }
+        ]
+      },
+      {
+        "reference": "1 Samuel 3",
+        "title": "God Confirms Judgment on Eli's House Through Young Samuel",
+        "verses": [
+          {
+            "number": 11,
+            "text": "Yahweh said to Samuel, 'Behold, I will do a thing in Israel, at which both the ears of everyone who hears it will tingle."
+          },
+          {
+            "number": 12,
+            "text": "In that day I will execute against Eli all things which I have spoken concerning his house, from the beginning even to the end."
+          },
+          {
+            "number": 13,
+            "text": "For I have told him that I will judge his house forever, for the iniquity which he knew, because his sons brought a curse on themselves, and he didn't restrain them."
+          },
+          {
+            "number": 18,
+            "text": "Samuel told him every whit, and hid nothing from him. Eli said, 'It is Yahweh. Let him do what seems good to him.'"
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "When You Tolerate Blasphemy to Protect Family, You Dishonor God",
+      "reflection": "The tragedy of Eli is one of the most sobering warnings for spiritual leaders and parents in all of Scripture. Eli was not an atheist. He was not openly wicked like his sons. He genuinely loved God, served as high priest for forty years, and tenderly mentored young Samuel. But Eli suffered from a fatal spiritual defect: **passive permissiveness**.\n\nHis sons, Hophni and Phinehas, turned the tabernacle into a corrupt extortion racket and a den of sexual exploitation. They stole the holy sacrifices, threatened worshippers with violence, and slept with women at the sanctuary gate. What did Eli do? He gave them a mild, toothless verbal slap on the wrist: 'Why do you do such things, my sons?' He sighed, he complained, but he **never restrained them**. He never stripped them of their priestly garments. He never kicked them out of the holy place.\n\nGod's indictment through the nameless prophet cut directly to the heart: 'Why do you honor your sons above me?' By refusing to discipline his sons, Eli placed family loyalty above the holiness of Almighty God. And God established an unchanging spiritual principle that echoes across every generation: **'Those who honor me I will honor, and those who despise me shall be lightly esteemed.'** Spiritual authority cannot be maintained by passive compromise. If we want God's favor on our homes and ministries, we must honor His holiness above all human affection."
+    },
+    "lessons": [
+      {
+        "lesson": "Passive tolerance of evil in leadership is viewed by God as complicity.",
+        "verse": "1 Samuel 3:13",
+        "detail": "God judged Eli's house forever because he knew of his sons' iniquity and 'he did not restrain them.'",
+        "question": "Is there a sin or compromise in your sphere of influence that you have passively tolerated rather than confronting?"
+      },
+      {
+        "lesson": "Never place family affection or human relationships above loyalty to Almighty God.",
+        "verse": "1 Samuel 2:29",
+        "detail": "God confronted Eli for honoring his sons above Yahweh by allowing them to fatten themselves on holy sacrifices.",
+        "question": "Are you ever tempted to compromise God's standards to keep peace with family or friends?"
+      },
+      {
+        "lesson": "Abusing sacred privileges for personal greed or sensual pleasure invites swift divine wrath.",
+        "verse": "1 Samuel 2:12, 17",
+        "detail": "Hophni and Phinehas treated God's offerings with arrogance and contempt, causing the people to despise worship.",
+        "question": "Do you treat God's house, spiritual duties, and holy things with deep reverence and awe?"
+      },
+      {
+        "lesson": "God's unchanging law of spiritual honor governs all of life.",
+        "verse": "1 Samuel 2:30",
+        "detail": "Those who honor God will be honored by Him, while those who lightly esteem His holiness will be brought low.",
+        "question": "How are your daily choices honoring the name and reputation of Jesus Christ?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "How does 1 Samuel 2:12 starkly describe the spiritual condition of Eli's sons, Hophni and Phinehas?",
+        "options": [
+          "They were dedicated scholars of the Law",
+          "They were worthless men who did not know Yahweh",
+          "They were skilled warriors who protected Shiloh",
+          "They were prophets of righteousness"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 2:12",
+        "explanation": "Scripture states plainly: 'Now the sons of Eli were worthless men. They didn't know Yahweh.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "What abusive method did the servants of Eli's sons use to take sacrificial meat from worshippers?",
+        "options": [
+          "They cast lots with stones",
+          "They plunged a three-pronged flesh-hook into the pot, and demanded raw meat under threat of violence",
+          "They charged entry fees at the tabernacle gate",
+          "They took the ashes of the altar"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 2:13-16",
+        "explanation": "They used a three-pronged hook, took whatever came up, and demanded raw meat before the fat was offered, threatening force."
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "What specific indictment did the man of God bring against Eli in 1 Samuel 2:29?",
+        "options": [
+          "That Eli had stolen gold from the Ark",
+          "That Eli honored his sons above God, fattening themselves on the best of the offerings",
+          "That Eli had failed to sacrifice on the Day of Atonement",
+          "That Eli had formed a treaty with Philistines"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 2:29",
+        "explanation": "God rebuked him: 'Why do you... honor your sons above me, to make yourselves fat with the best of all the offerings?'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What solemn spiritual principle did God declare regarding honor and esteem in 1 Samuel 2:30?",
+        "options": [
+          "'Wealth brings honor, and poverty brings shame'",
+          "'Those who honor me I will honor, and those who despise me shall be lightly esteemed'",
+          "'Honor belongs only to the high priest'",
+          "'Everyone shall be honored equally regardless of deeds'"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 2:30",
+        "explanation": "Yahweh declared: 'for those who honor me I will honor, and those who despise me shall be lightly esteemed.'"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: In 1 Samuel 3:13, God commended Eli for doing everything within his legal power to stop his sons' wickedness.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 3:13",
+        "explanation": "False. God declared He would judge Eli's house 'because his sons brought a curse on themselves, and he didn't restrain them.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Holy and Jealous God, You alone are worthy of supreme honor, reverence, and devotion. Search my heart today and deliver me from the spirit of Eli. Forgive me for any area of passive compromise, where I have tolerated sin or excused wickedness to keep peace with people. Give me holy courage to stand for righteousness in my home, workplace, and community. Help me to honor You above all earthly relationships, knowing that You honor those who honor You.",
+      "versePrayerLine": "Lord, anchor this solemn truth deep in my spirit: 'those who honor me I will honor, and those who despise me shall be lightly esteemed' (1 Samuel 2:30).",
+      "prompt": "Ask the Holy Spirit to reveal if you are honoring any human relationship or comfort above God's holy standards."
+    }
+  },
+  "104": {
+    "day": 104,
+    "character": "Samuel",
+    "season": "'Speak, Lord, for Your Servant Hears'",
+    "theme": "A quiet, attentive, and receptive heart positions us to hear and obey God's prophetic voice.",
+    "memoryVerse": {
+      "reference": "1 Samuel 3:10",
+      "text": "Yahweh came, and stood, and called as at other times, 'Samuel! Samuel!' Then Samuel said, 'Speak; for your servant hears.'",
+      "whyItMatters": "God speaks to those whose posture is receptive, humble, and ready to obey His truth.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "Yahweh",
+          "called",
+          "Samuel",
+          "Speak",
+          "servant",
+          "hears"
+        ],
+        "firstLetters": "Y c, a s, a c a a o t, 'S! S!' T S s, 'S; f y s h.'"
+      }
+    },
+    "profile": {
+      "title": "Samuel: The Midnight Voice, the Temple Lamp, and the Anointed Prophet",
+      "who": "Young Samuel, ministering before Yahweh under Eli the priest at Shiloh, who heard the voice of the Lord calling his name in the night, receiving the terrifying prophetic commission concerning the judgment of Eli's house.",
+      "whenAndWhere": "The tabernacle sanctuary at Shiloh in Ephraim, circa 1085 BC.",
+      "family": "Son of Elkanah and Hannah; raised by Eli the priest; father of Joel and Abijah.",
+      "keyMoments": [
+        "The word of Yahweh was rare in those days; there was no frequent vision, and the lamp of God had not yet gone out in the tabernacle where the ark of God was.",
+        "While Samuel was lying down to sleep, Yahweh called: 'Samuel!' Samuel ran to Eli saying, 'Here I am, for you called me.' Eli said, 'I didn't call; lie down again.'",
+        "This happened a second time; Samuel still did not know Yahweh, neither had the word of Yahweh yet been revealed to him.",
+        "When Yahweh called a third time, Eli perceived that Yahweh was calling the boy, instructing him: 'Go, lie down; and if he calls you, you shall say, \"Speak, Yahweh; for your servant hears.\"'",
+        "Yahweh came, stood, and called: 'Samuel! Samuel!' And Samuel answered: 'Speak; for your servant hears.'",
+        "Yahweh revealed the impending catastrophic judgment on the house of Eli because Eli did not restrain his blasphemous sons.",
+        "Samuel lay until morning, opened the doors of the house of Yahweh, and was afraid to tell Eli the vision.",
+        "Eli adjured him by God not to hide anything; young Samuel bravely told him everything, hiding nothing.",
+        "Samuel grew, Yahweh was with him and let none of his words fall to the ground; all Israel from Dan to Beersheba knew that Samuel was established to be a prophet of Yahweh.",
+        "Yahweh continued to appear in Shiloh, revealing Himself to Samuel by the word of Yahweh."
+      ],
+      "strengths": [
+        "Total attentiveness, prompt obedience, and humble teachability.",
+        "Unyielding truthfulness: spoke hard prophetic truth without watering it down.",
+        "Flawless prophetic credibility: God let none of his words fall to the ground."
+      ],
+      "failures": [
+        "None in his youth; later struggled with his own sons who did not walk in his ways (1 Samuel 8:3)."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "1 Samuel 3",
+        "title": "The Calling of Samuel and the Word Against Eli's House",
+        "verses": [
+          {
+            "number": 1,
+            "text": "The child Samuel ministered to Yahweh before Eli. The word of Yahweh was rare in those days; there was no frequent vision."
+          },
+          {
+            "number": 3,
+            "text": "and the lamp of God hadn't yet gone out, and Samuel had laid down in Yahweh's temple, where the ark of God was;"
+          },
+          {
+            "number": 4,
+            "text": "that Yahweh called Samuel; and he said, 'Here I am.'"
+          },
+          {
+            "number": 8,
+            "text": "Yahweh called Samuel again the third time. He arose and went to Eli, and said, 'Here I am; for you called me.' Eli perceived that Yahweh was calling the child."
+          },
+          {
+            "number": 9,
+            "text": "Therefore Eli said to Samuel, 'Go, lie down: and it shall be, if he calls you, that you shall say, \"Speak, Yahweh; for your servant hears.\"' So Samuel went and lay down in his place."
+          },
+          {
+            "number": 10,
+            "text": "Yahweh came, and stood, and called as at other times, 'Samuel! Samuel!' Then Samuel said, 'Speak; for your servant hears.'"
+          },
+          {
+            "number": 15,
+            "text": "Samuel lay until the morning, and opened the doors of the house of Yahweh. Samuel feared to show Eli the vision."
+          },
+          {
+            "number": 18,
+            "text": "Samuel told him every whit, and hid nothing from him. Eli said, 'It is Yahweh. Let him do what seems good to him.'"
+          },
+          {
+            "number": 19,
+            "text": "Samuel grew, and Yahweh was with him, and let none of his words fall to the ground."
+          },
+          {
+            "number": 20,
+            "text": "All Israel from Dan even to Beersheba knew that Samuel was established to be a prophet of Yahweh."
+          }
+        ]
+      },
+      {
+        "reference": "1 Samuel 4",
+        "title": "The Word of Samuel to All Israel and the Gathering at Ebenezer",
+        "verses": [
+          {
+            "number": 1,
+            "text": "The word of Samuel came to all Israel. Now Israel went out against the Philistines to battle, and encamped beside Ebenezer: and the Philistines encamped in Aphek."
+          },
+          {
+            "number": 2,
+            "text": "The Philistines put themselves in array against Israel: and when they joined battle, Israel was defeated by the Philistines; and they killed about four thousand men of the army in the field."
+          },
+          {
+            "number": 3,
+            "text": "When the people had come into the camp, the elders of Israel said, 'Why has Yahweh defeated us today before the Philistines? Let's bring the ark of the covenant of Yahweh out of Shiloh to us, that it may save us from the hand of our enemies.'"
+          },
+          {
+            "number": 4,
+            "text": "So the people sent to Shiloh, and they brought from there the ark of the covenant of Yahweh of Armies, who sits above the cherubim: and the two sons of Eli, Hophni and Phinehas, were there with the ark of the covenant of God."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "In a Culture of Spiritual Silence, God Seeks a Listening Servant",
+      "reflection": "1 Samuel 3 opens with a chilling description of the nation's spiritual condition: 'The word of Yahweh was rare in those days; there was no frequent vision.' Eli, the high priest, was nearly blind, his sons were spiritually corrupt, and heaven seemed silent. Yet right next to the Ark of the Covenant, before the lamp of God went out in the sanctuary, lay a young boy named Samuel.\n\nNotice how God called him: not through an earthquake or thunder, but by calling his personal name in the stillness of the night. Samuel was so eager to serve that three times he jumped out of bed and ran to Eli: 'Here I am, for you called me!' But Samuel had to learn how to discern God's voice. When Eli finally understood, he gave Samuel the posture that unlocks divine communication: 'Speak, Yahweh; for your servant hears.'\n\nNotice the order: first 'servant,' then 'hears.' Hearing God is not an intellectual exercise or a technique for curious seekers. God speaks to servants whose hearts are already surrendered to obey whatever He commands. And young Samuel proved his mettle immediately: God gave him a devastating prophetic message concerning his mentor Eli, and Samuel delivered it without diluting a single word. Because Samuel was faithful to speak truth, God was with him and 'let none of his words fall to the ground.' Cultivate a quiet, receptive heart, and God will speak."
+    },
+    "lessons": [
+      {
+        "lesson": "Position yourself in stillness and spiritual readiness to discern God's voice.",
+        "verse": "1 Samuel 3:3-4, 10",
+        "detail": "Samuel was resting near the Ark of God when Yahweh called him personally by name in the quiet of the night.",
+        "question": "Do you make space for silence and quiet reflection in your daily life, or is your mind drowned out by constant noise?"
+      },
+      {
+        "lesson": "True listening begins with a posture of servant-hearted surrender to obey.",
+        "verse": "1 Samuel 3:10",
+        "detail": "Samuel answered, 'Speak; for your servant hears'—affirming his readiness to execute whatever God commanded.",
+        "question": "Are you asking God for guidance with a preexisting commitment to obey whatever He tells you?"
+      },
+      {
+        "lesson": "Spiritual integrity requires speaking the truth in love without hiding hard messages.",
+        "verse": "1 Samuel 3:17-18",
+        "detail": "Though terrified, young Samuel told Eli the full prophecy of judgment, hiding nothing from his elder mentor.",
+        "question": "Do you have the courage to speak biblical truth honestly, even when the message is difficult for people to hear?"
+      },
+      {
+        "lesson": "God establishes and honors the words of those who walk in intimate obedience with Him.",
+        "verse": "1 Samuel 3:19-20",
+        "detail": "Yahweh was with Samuel and let none of his words fall to the ground, confirming his ministry across all twelve tribes.",
+        "question": "How can you cultivate greater faithfulness so that your words carry spiritual weight and credibility?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "How does 1 Samuel 3:1 describe the spiritual climate in Israel during Samuel's youth?",
+        "options": [
+          "Prophets were preaching in every city square",
+          "The word of Yahweh was rare, and there was no frequent vision",
+          "All twelve tribes were united in revival",
+          "The temple in Jerusalem was packed with worshippers"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 3:1",
+        "explanation": "Scripture states: 'The word of Yahweh was rare in those days; there was no frequent vision.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "Whom did young Samuel think was calling him when he first heard his name called in the night?",
+        "options": [
+          "His mother Hannah",
+          "Eli the high priest",
+          "His brother",
+          "An invading Philistine soldier"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 3:4-5",
+        "explanation": "Samuel thought Eli had called him, running to him three times saying, 'Here I am; for you called me.'"
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "What specific response did Eli instruct Samuel to give if Yahweh called him again?",
+        "options": [
+          "'I am sleeping, call back tomorrow'",
+          "'Speak, Yahweh; for your servant hears'",
+          "'Grant me three signs of fire'",
+          "'Here is the blood of the bull'"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 3:9",
+        "explanation": "Eli instructed him: 'if he calls you, you shall say, \"Speak, Yahweh; for your servant hears.\"' "
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What remarkable statement does 1 Samuel 3:19 make about Samuel's growing prophetic ministry?",
+        "options": [
+          "Samuel became the richest man in Ephraim",
+          "Yahweh was with him, and let none of his words fall to the ground",
+          "Samuel conquered the Philistines with an iron sword",
+          "He rebuilt the tabernacle in Shiloh"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 3:19",
+        "explanation": "1 Samuel 3:19 records: 'Samuel grew, and Yahweh was with him, and let none of his words fall to the ground.'"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: Samuel hid the prophecy of judgment from Eli because he was afraid of being punished.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 3:18",
+        "explanation": "False. 1 Samuel 3:18 explicitly says: 'Samuel told him every whit, and hid nothing from him.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Living and Speaking God, You are not silent. In a world crowded with competing voices, advertisements, anxieties, and noise, I pause to quiet my heart before You. Forgive me for being quick to speak and slow to listen. Teach me the posture of young Samuel. Quiet the restless thoughts in my mind. Open my spiritual ears to Your Holy Word, and give me a servant's heart that is ready to hear, embrace, and obey Your truth.",
+      "versePrayerLine": "Lord, make Samuel's posture the daily cry of my soul: 'Speak, Yahweh; for your servant hears' (1 Samuel 3:10).",
+      "prompt": "Spend two minutes in total silence before God, simply listening for His still, small voice speaking through Scripture."
+    }
+  },
+  "105": {
+    "day": 105,
+    "character": "Phinehas's Wife",
+    "season": "'Ichabod': When God's Glory Departs",
+    "theme": "Treating God's presence as a good-luck charm while living in disobedience leads to sudden spiritual defeat.",
+    "memoryVerse": {
+      "reference": "1 Samuel 4:22",
+      "text": "She said, 'The glory has departed from Israel; for the ark of God is taken.'",
+      "whyItMatters": "External religious relics cannot protect a disobedient people when God's glory departs.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "glory",
+          "departed",
+          "Israel",
+          "ark",
+          "God",
+          "taken"
+        ],
+        "firstLetters": "S s, 'T g h d f I; f t a o G i t.'"
+      }
+    },
+    "profile": {
+      "title": "The Wife of Phinehas: The Catastrophe at Ebenezer and the Cry of Ichabod",
+      "who": "The unnamed wife of Phinehas and daughter-in-law of Eli the high priest, who went into sudden labor upon hearing that the Ark of God was captured and that her husband, brother-in-law, and father-in-law were all dead.",
+      "whenAndWhere": "Shiloh, immediately following the Philistine massacre at Ebenezer/Aphek, circa 1080 BC.",
+      "family": "Wife of Phinehas the corrupt priest; daughter-in-law of Eli; mother of Ichabod and Ahitub.",
+      "keyMoments": [
+        "Israel suffered an initial defeat of 4,000 men against the Philistines at Ebenezer.",
+        "Instead of repenting of their idols, the elders decided to use the Ark of the Covenant as a talisman: 'Let's bring the ark of the covenant of Yahweh out of Shiloh to us, that it may save us from the hand of our enemies.'",
+        "When the Ark arrived in camp accompanied by Eli's wicked sons Hophni and Phinehas, all Israel shouted with a great shout so the earth resounded, terrifying the Philistines.",
+        "Yet Yahweh would not be manipulated: Israel was overwhelmingly slaughtered, 30,000 foot soldiers fell, Hophni and Phinehas were killed, and the **Ark of God was captured** by the Philistines.",
+        "A Benjamite runner with torn clothes and earth on his head ran from the front line to Shiloh, crying out the news.",
+        "Ninety-eight-year-old Eli, heavy and blind, sitting on his seat by the road, heard that the Ark was taken, fell backward off his seat, broke his neck, and died.",
+        "Phinehas's pregnant wife heard the catastrophic tidings—that her father-in-law and husband were dead, and that the Ark of God was captured.",
+        "She bowed herself in sudden, traumatic labor and brought forth a son; as she lay dying, the attending women said, 'Don't be afraid; for you have given birth to a son!'",
+        "She paid no attention to her newborn child, but named him **Ichabod** ('Where Is the Glory?'), uttering her final dying words: 'The glory has departed from Israel; for the ark of God is taken.'"
+      ],
+      "strengths": [
+        "Understood the true gravity of spiritual reality: recognized that the capture of God's presence was infinitely worse than personal bereavement.",
+        "Named the child Ichabod as an enduring prophetic indictment against Israel's superficial religion."
+      ],
+      "failures": [
+        "Married to and complicit in the corrupt household of Phinehas until catastrophe struck."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "1 Samuel 4",
+        "title": "The Ark Captured at Ebenezer, Eli's Death, and the Birth of Ichabod",
+        "verses": [
+          {
+            "number": 3,
+            "text": "When the people had come into the camp, the elders of Israel said, 'Why has Yahweh defeated us today before the Philistines? Let's bring the ark of the covenant of Yahweh out of Shiloh to us, that it may save us from the hand of our enemies.'"
+          },
+          {
+            "number": 5,
+            "text": "When the ark of the covenant of Yahweh came into the camp, all Israel shouted with a great shout, so that the earth resounded."
+          },
+          {
+            "number": 10,
+            "text": "The Philistines fought, and Israel was defeated, and each man fled to his tent. There was a very great slaughter; for thirty thousand footmen of Israel fell."
+          },
+          {
+            "number": 11,
+            "text": "The ark of God was taken; and the two sons of Eli, Hophni and Phinehas, were slain."
+          },
+          {
+            "number": 17,
+            "text": "He who brought the news answered, 'Israel has fled before the Philistines, and there has been also a great slaughter among the people. Your two sons also, Hophni and Phinehas, are dead, and the ark of God has been captured.'"
+          },
+          {
+            "number": 18,
+            "text": "It happened, when he made mention of the ark of God, that Eli fell from off his seat backward by the side of the gate; and his neck broke, and he died..."
+          },
+          {
+            "number": 19,
+            "text": "His daughter-in-law, Phinehas' wife, was with child, near to be delivered. When she heard the news that the ark of God was taken, and that her father-in-law and her husband were dead, she bowed herself and gave birth; for her pains came on her."
+          },
+          {
+            "number": 21,
+            "text": "She named the child Ichabod, saying, 'The glory has departed from Israel;' because the ark of God was taken, and because of her father-in-law and her husband."
+          },
+          {
+            "number": 22,
+            "text": "She said, 'The glory has departed from Israel; for the ark of God is taken.'"
+          }
+        ]
+      },
+      {
+        "reference": "1 Samuel 5",
+        "title": "The Captured Ark in Ashdod and the Humiliation of Dagon",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Now the Philistines had taken the ark of God, and they brought it from Ebenezer to Ashdod."
+          },
+          {
+            "number": 2,
+            "text": "The Philistines took the ark of God, and brought it into the house of Dagon, and set it by Dagon."
+          },
+          {
+            "number": 3,
+            "text": "When the people of Ashdod arose early on the next day, behold, Dagon had fallen on his face to the ground before the ark of Yahweh. They took Dagon, and set him in his place again."
+          },
+          {
+            "number": 4,
+            "text": "When they arose early on the next day morning, behold, Dagon had fallen on his face to the ground before the ark of Yahweh; and the head of Dagon and both the palms of his hands were cut off on the threshold. Only the torso of Dagon was left on him."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "God Is Not an Amulet: Religious Symbols Without Holy Obedience Bring Defeat",
+      "reflection": "1 Samuel 4 records one of the most tragic days in Israel's history. When Israel suffered an initial military defeat, notice their question: 'Why has Yahweh defeated us today?' It was a fair question, but their answer was catastrophic. They did not repent. They did not tear down idols. Instead, they said: 'Let's bring the Ark of the Covenant out of Shiloh, that IT may save us!'\n\nNotice the pronoun: 'that *it* may save us.' They reduced the Holy Presence of the Almighty to a lucky charm, an ecclesiastical talisman to manipulate victory in battle. When the Ark arrived, the army roared so loudly the ground shook. The noise was deafening, the emotional excitement was electric. But noise is not revival. The Philistines fought, 30,000 Israelites were slaughtered, Hophni and Phinehas died in shame, and the Ark was captured.\n\nBack in Shiloh, when Phinehas's wife went into fatal labor, she named her baby **Ichabod** ('The glory has departed'). Even in her dying breath, what broke her heart was not merely the loss of her husband or father-in-law—it was that the Ark of God was gone. God will not allow His holy presence to be used as an insurance policy for unrepentant people. Yet in 1 Samuel 5, notice the divine irony: though Israel failed to defend God, God needed no defending! Placed in the pagan temple of Ashdod, the Ark caused the fish-god Dagon to fall face down with his head and hands shattered on the floor. God can take care of His own glory; what He seeks from us is humble, repentant obedience."
+    },
+    "lessons": [
+      {
+        "lesson": "Never treat God or religious symbols as lucky charms to manipulate outcomes.",
+        "verse": "1 Samuel 4:3",
+        "detail": "Israel presumed that carrying the golden Ark into battle would guarantee victory without personal repentance, resulting in catastrophe.",
+        "question": "Are you treating church attendance, prayer, or religious habits as superstitions to get what you want from God?"
+      },
+      {
+        "lesson": "Loud religious enthusiasm is no substitute for genuine repentance and obedience.",
+        "verse": "1 Samuel 4:5, 10",
+        "detail": "The camp shouted so loudly the earth shook, yet 30,000 soldiers were slaughtered because their hearts were far from God.",
+        "question": "Do you mistake emotional spiritual experiences for true, surrendered holiness in your daily walk?"
+      },
+      {
+        "lesson": "The departure of God's presence is the ultimate tragedy for any life, family, or church.",
+        "verse": "1 Samuel 4:21-22",
+        "detail": "Phinehas's wife recognized that losing God's glory was infinitely more devastating than losing her husband or father-in-law.",
+        "question": "Do you treasure God's Holy Spirit and presence above all material success and human relationships?"
+      },
+      {
+        "lesson": "God does not need human defense; He sovereignly overthrows all false idols.",
+        "verse": "1 Samuel 5:2-4",
+        "detail": "In the Philistine temple of Ashdod, the idol Dagon fell face down twice before the Ark, his head and hands broken off.",
+        "question": "How does God's effortless triumph over cultural idols give you confidence in His sovereign power?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What superstitious plan did the elders of Israel devise after their initial defeat against the Philistines?",
+        "options": [
+          "They hired Syrian cavalry",
+          "They brought the Ark of the Covenant to the battlefield, thinking IT would save them",
+          "They fasted for forty days",
+          "They offered sacrifices to the gods of Ekron"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 4:3",
+        "explanation": "They said: 'Let's bring the ark of the covenant of Yahweh out of Shiloh to us, that it may save us from the hand of our enemies.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "How many Israelite foot soldiers fell in the great slaughter when the Ark was captured?",
+        "options": [
+          "About 300 men",
+          "About 4,000 men",
+          "Thirty thousand footmen",
+          "Over 100,000 men"
+        ],
+        "correctIndex": 2,
+        "reference": "1 Samuel 4:10",
+        "explanation": "Scripture records: 'There was a very great slaughter; for thirty thousand footmen of Israel fell.'"
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "How did the 98-year-old high priest Eli die upon hearing the messenger's report from the battle?",
+        "options": [
+          "He was killed by Philistine raiders",
+          "He fell backward off his seat by the gate, broke his neck, and died",
+          "He died of starvation during the siege",
+          "He died peacefully in his bed in Shiloh"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 4:18",
+        "explanation": "When the runner mentioned the Ark of God was taken, Eli fell backward off his seat, broke his neck, and died."
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What name did Phinehas's dying wife give to her newborn son, and what did it mean?",
+        "options": [
+          "Ebenezer ('Stone of Help')",
+          "Ichabod ('The glory has departed from Israel')",
+          "Emmanuel ('God with us')",
+          "Boanerges ('Sons of Thunder')"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 4:21-22",
+        "explanation": "She named him Ichabod, saying, 'The glory has departed from Israel; for the ark of God is taken.'"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: In 1 Samuel 5, the Philistine god Dagon remained standing tall and conquered the Ark of Yahweh in Ashdod.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 5:3-4",
+        "explanation": "False. Dagon fell face down before the Ark of Yahweh twice, and on the second morning his head and both hands were severed."
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord God of glory and holiness, You are a consuming fire and You will not be mocked. Deliver me from the deadly deception of superficial religion—of carrying Your name, using spiritual words, or going through religious routines while my heart is far from You. I do not want the curse of Ichabod upon my life, my family, or my church. Search me and cleanse every hidden compromise. Fill me with Your Holy Spirit, and let Your glorious presence abide with me forever.",
+      "versePrayerLine": "Lord, let the tragic cry of Phinehas's wife awaken my soul: 'The glory has departed... for the ark of God is taken' (1 Samuel 4:22). Keep Your presence close to me.",
+      "prompt": "Examine your spiritual life for any superficial habits, asking God to replace religious routine with authentic, reverent intimacy."
+    }
+  },
+  "106": {
+    "day": 106,
+    "character": "Samuel",
+    "season": "Ebenezer: 'Thus Far the Lord Has Helped Us'",
+    "theme": "Genuine repentance turns divine judgment into victory and raises enduring monuments of God's help.",
+    "memoryVerse": {
+      "reference": "1 Samuel 7:12",
+      "text": "Then Samuel took a stone, and set it between Mizpah and Shen, and called its name Ebenezer, saying, 'Yahweh has helped us until now.'",
+      "whyItMatters": "Setting up spiritual milestones of remembrance anchors our hearts in God's proven faithfulness for future trials.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "Samuel",
+          "stone",
+          "Ebenezer",
+          "Yahweh",
+          "helped"
+        ],
+        "firstLetters": "T S t a s, a s i b M a S, a c i n E, s, 'Y h h u u n.'"
+      }
+    },
+    "profile": {
+      "title": "Samuel: National Repentance at Mizpah and the Stone of Help",
+      "who": "Samuel in mature leadership, calling all Israel to put away foreign Baals and Ashtoreths, leading a national day of fasting and water-pouring at Mizpah, and erecting the stone monument 'Ebenezer' after Yahweh miraculously threw the Philistines into panic with great thunder.",
+      "whenAndWhere": "Mizpah and Kiriath Jearim in the hill country of Benjamin, circa 1060 BC.",
+      "family": "Son of Elkanah and Hannah; established judge traveling on a circuit between Bethel, Gilgal, Mizpah, and Ramah.",
+      "keyMoments": [
+        "The Ark of God remained in the house of Abinadab at Kiriath Jearim for twenty years, and all the house of Israel lamented after Yahweh.",
+        "Samuel spoke to the house of Israel: 'If you return to Yahweh with all your heart, then put away the foreign gods and the Ashtaroth from among you, and direct your hearts to Yahweh, and serve him only; and he will deliver you out of the hand of the Philistines.'",
+        "Israel put away the Baals and Ashtoreths and served Yahweh only.",
+        "Samuel gathered all Israel to **Mizpah**; they drew water and poured it out before Yahweh as a symbol of soul repentance, fasted that day, and confessed: 'We have sinned against Yahweh.'",
+        "When the Philistine lords heard Israel was gathered at Mizpah, they mobilized to attack; Israel was terrified and begged Samuel: 'Don't cease to cry to Yahweh our God for us!'",
+        "Samuel took a suckling lamb and offered it for a whole burnt offering to Yahweh, crying out in prayer.",
+        "As Samuel was offering the sacrifice, the Philistines drew near to battle; but Yahweh thundered with a great voice that day on the Philistines and threw them into confusion, and they were struck down before Israel.",
+        "Samuel took a stone and set it between Mizpah and Shen, naming it **Ebenezer** ('Stone of Help'), saying: 'Yahweh has helped us until now.'",
+        "The Philistines were subdued and did not come any more into the border of Israel all the days of Samuel, and the cities from Ekron to Gath were restored to Israel."
+      ],
+      "strengths": [
+        "Uncompromising call for wholehearted repentance and destruction of idolatry.",
+        "Faithful intercessor whose prayers mobilized divine power in battle.",
+        "Erected lasting spiritual memorials to keep God's faithfulness before the people."
+      ],
+      "failures": [
+        "None noted in this revival period."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "1 Samuel 6",
+        "title": "The Philistines Return the Ark on a Cart to Beth Shemesh",
+        "verses": [
+          {
+            "number": 1,
+            "text": "The ark of Yahweh was in the country of the Philistines seven months."
+          },
+          {
+            "number": 7,
+            "text": "'Now therefore take and prepare yourselves a new cart, and two milk cows on which there has come no yoke; and tie the cows to the cart, and bring their calves home from them;"
+          },
+          {
+            "number": 8,
+            "text": "and take the ark of Yahweh, and lay it on the cart... and send it away, that it may go.'"
+          },
+          {
+            "number": 12,
+            "text": "The cows took the straight way by the way to Beth Shemesh; they went along the highway, lowing as they went, and didn't turn aside to the right hand or to the left; and the lords of the Philistines went after them to the border of Beth Shemesh."
+          },
+          {
+            "number": 14,
+            "text": "The cart came into the field of Joshua of Beth Shemesh, and stood there, where there was a great stone: and they split the wood of the cart, and offered the cows for a burnt offering to Yahweh."
+          }
+        ]
+      },
+      {
+        "reference": "1 Samuel 7",
+        "title": "Repentance at Mizpah, Defeat of the Philistines, and the Ebenezer Stone",
+        "verses": [
+          {
+            "number": 2,
+            "text": "It happened, from the day that the ark stayed in Kiriath Jearim, that the time was long; for it was twenty years: and all the house of Israel lamented after Yahweh."
+          },
+          {
+            "number": 3,
+            "text": "Samuel spoke to all the house of Israel, saying, 'If you return to Yahweh with all your heart, then put away the foreign gods and the Ashtaroth from among you, and direct your hearts to Yahweh, and serve him only; and he will deliver you out of the hand of the Philistines.'"
+          },
+          {
+            "number": 5,
+            "text": "Samuel said, 'Gather all Israel to Mizpah, and I will pray for you to Yahweh.'"
+          },
+          {
+            "number": 6,
+            "text": "They gathered together to Mizpah, and drew water, and poured it out before Yahweh, and fasted on that day, and said there, 'We have sinned against Yahweh.' Samuel judged the children of Israel in Mizpah."
+          },
+          {
+            "number": 9,
+            "text": "Samuel took a suckling lamb, and offered it for a whole burnt offering to Yahweh: and Samuel cried to Yahweh for Israel; and Yahweh answered him."
+          },
+          {
+            "number": 10,
+            "text": "As Samuel was offering up the burnt offering, the Philistines drew near to battle against Israel; but Yahweh thundered with a great voice on that day on the Philistines, and confused them; and they were struck down before Israel."
+          },
+          {
+            "number": 12,
+            "text": "Then Samuel took a stone, and set it between Mizpah and Shen, and called its name Ebenezer, saying, 'Yahweh has helped us until now.'"
+          },
+          {
+            "number": 13,
+            "text": "So the Philistines were subdued, and they came no more within the border of Israel: and Yahweh's hand was against the Philistines all the days of Samuel."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Real Revival Begins with Renouncing Idols and Ends with Raising Your Ebenezer",
+      "reflection": "For twenty long, agonizing years after the catastrophe at Shiloh, Israel mourned under Philistine oppression. They felt the heavy absence of God's power. Notice Samuel's diagnosis: feeling sad about sin is not enough. Regretting the consequences of failure is not repentance. Samuel said plainly: 'If you return to Yahweh with all your heart, put away your foreign gods and direct your hearts to Yahweh, serving Him only.'\n\nAt Mizpah, Israel obeyed. They poured out water on the dry ground—a vivid physical demonstration of pouring out their helpless hearts before God in total repentance. And right while they were fasting and confessing their sins, the Philistine army marched over the ridge to attack. Notice the contrast: in 1 Samuel 4, Israel shouted arrogantly, trusted a wooden box, and was slaughtered. But here in 1 Samuel 7, they trembled in weakness, Samuel offered a nursing lamb in humble sacrifice, and Yahweh fought for them with heavenly thunder!\n\nAfter the rout, Samuel took a large stone and planted it in the earth, naming it **Ebenezer**—'Thus far Yahweh has helped us.' The stone stood at the exact place where Israel had been disgraced twenty years earlier. God transformed their place of defeat into their place of victory. When you genuinely tear down idols and rely on the sacrifice of Christ, God meets you with supernatural power and turns your past failures into monuments of His grace."
+    },
+    "lessons": [
+      {
+        "lesson": "True repentance requires not just sorrow, but the active removal of competing idols.",
+        "verse": "1 Samuel 7:3",
+        "detail": "Samuel insisted that Israel discard their Baals and Ashtoreths before expecting God's deliverance.",
+        "question": "What competing idol or habit do you need to actively discard to walk in full fellowship with God?"
+      },
+      {
+        "lesson": "Humble sacrifice and fervent intercession release heaven's power in our moments of vulnerability.",
+        "verse": "1 Samuel 7:9-10",
+        "detail": "While Samuel offered the lamb and cried out in prayer, God thundered from heaven and scattered the attacking enemy.",
+        "question": "When crisis suddenly strikes, is your first reaction panic, human strategy, or desperate prayer?"
+      },
+      {
+        "lesson": "Raise spiritual stones of remembrance to recount God's past faithfulness.",
+        "verse": "1 Samuel 7:12",
+        "detail": "Samuel established the Ebenezer stone so future generations would remember that victory came entirely from Yahweh's hand.",
+        "question": "What physical journal entry, memory stone, or testimony helps you remember how God has helped you until now?"
+      },
+      {
+        "lesson": "God can transform the exact location of your greatest past defeat into your greatest victory.",
+        "verse": "1 Samuel 7:12",
+        "detail": "The stone of help was planted at Ebenezer—the exact battlefield where Israel had previously lost the Ark and suffered 30,000 casualties.",
+        "question": "How has God redeemed a painful failure in your past and turned it into a platform for His grace?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "How long was the Ark of the Covenant at Kiriath Jearim before national revival took place under Samuel?",
+        "options": [
+          "Seven days",
+          "Forty days",
+          "Twenty years",
+          "One hundred years"
+        ],
+        "correctIndex": 2,
+        "reference": "1 Samuel 7:2",
+        "explanation": "1 Samuel 7:2 states that the time was long, for it was twenty years, and all the house of Israel lamented after Yahweh."
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "What symbolic act did the Israelites perform at Mizpah to demonstrate their broken, repentant hearts before God?",
+        "options": [
+          "They burned their chariots",
+          "They drew water and poured it out before Yahweh, and fasted that day",
+          "They tore down the walls of the city",
+          "They shaved their heads like Nazirites"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 7:6",
+        "explanation": "They gathered at Mizpah, drew water and poured it out before Yahweh, fasted, and confessed: 'We have sinned against Yahweh.'"
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "What offering did Samuel present while the Philistine army approached to attack them at Mizpah?",
+        "options": [
+          "A suckling lamb offered as a whole burnt offering",
+          "A basket of summer figs",
+          "Two turtledoves",
+          "A golden ephod"
+        ],
+        "correctIndex": 0,
+        "reference": "1 Samuel 7:9",
+        "explanation": "Samuel took a suckling lamb and offered it for a whole burnt offering to Yahweh, crying to Yahweh for Israel."
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What name did Samuel give to the stone monument set up between Mizpah and Shen, and what did it mean?",
+        "options": [
+          "Jehovah Nissi ('Yahweh My Banner')",
+          "Ebenezer ('Yahweh has helped us until now')",
+          "Golgotha ('Place of a Skull')",
+          "Bethel ('House of God')"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 7:12",
+        "explanation": "Samuel called its name Ebenezer ('Stone of Help'), saying: 'Yahweh has helped us until now.'"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: In 1 Samuel 6, the two milk cows pulling the cart with the Ark refused to leave their calves and wandered into the desert.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 6:12",
+        "explanation": "False. Miraculously, the cows took the straight road to Beth Shemesh, lowing as they went, not turning to the right or left."
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord God of hosts, You alone are my Help and my Deliverer. Today I raise my Ebenezer before You: thus far You have helped me! Thank You for carrying me through trials that I thought would destroy me, and for being faithful even when my faith was frail. Search my heart and reveal any subtle Baals or cultural idols that I have allowed to linger in my affections. I pour out my soul before You in repentance. Be my Rock, my Defense, and my Victory.",
+      "versePrayerLine": "Lord, let Samuel's proclamation echo through my days: 'Yahweh has helped us until now' (1 Samuel 7:12).",
+      "prompt": "Name three specific times in your past where God miraculously delivered or sustained you, raising your personal Ebenezer of praise."
+    }
+  },
+  "107": {
+    "day": 107,
+    "character": "Samuel & Israel",
+    "season": "Rejecting God as King to Be Like the Nations",
+    "theme": "Trading God's supreme kingship for worldly conformity always leads to heavy burdens and loss of liberty.",
+    "memoryVerse": {
+      "reference": "1 Samuel 8:7",
+      "text": "Yahweh said to Samuel, 'Listen to the voice of the people... for they have not rejected you, but they have rejected me, that I should not be king over them.'",
+      "whyItMatters": "The desire to conform to the culture around us is at its core a rejection of God's loving rule.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "Yahweh",
+          "voice",
+          "rejected",
+          "king"
+        ],
+        "firstLetters": "Y s t S, 'L t t v o t p... f t h n r y, b t h r m, t I s n b k o t.'"
+      }
+    },
+    "profile": {
+      "title": "Samuel and the Elders of Israel: The Tragic Demand for a Human King",
+      "who": "Aged prophet Samuel confronted by the elders of Israel at Ramah, who demanded a human king like all the surrounding pagan nations, citing the corruption of Samuel's sons Joel and Abijah, thereby rejecting the direct theocracy of Yahweh.",
+      "whenAndWhere": "Ramah in Benjamin, circa 1050 BC.",
+      "family": "Samuel; sons Joel and Abijah (corrupt judges who took bribes in Beersheba).",
+      "keyMoments": [
+        "When Samuel was old, he made his sons judges over Israel in Beersheba, but his sons did not walk in his ways; they turned aside after dishonest gain, took bribes, and perverted justice.",
+        "All the elders of Israel gathered and came to Samuel at Ramah, saying: 'Behold, you are old, and your sons don't walk in your ways. Now make us a king to judge us like all the nations.'",
+        "The thing displeased Samuel deeply, and he prayed to Yahweh.",
+        "Yahweh comforted his brokenhearted prophet: 'Listen to the voice of the people in all that they say to you; for they have not rejected you, but they have rejected me, that I should not be king over them.'",
+        "God instructed Samuel to protest solemnly and warn them of the heavy **'manner of the king'** who would rule them:",
+        "A human king would draft their sons to run before his chariots and harvest his fields; he would take their daughters to be perfumers, cooks, and bakers.",
+        "He would confiscate their finest fields, vineyards, and olive groves for his courtiers; he would take a tenth of their grain and flocks, and make them his slaves.",
+        "'You will cry out in that day because of your king whom you will have chosen for yourselves; and Yahweh will not answer you in that day.'",
+        "Yet the people refused to listen to the voice of Samuel, shouting: 'No! But we will have a king over us, that we also may be like all the nations, and that our king may judge us, and go out before us, and fight our battles.'",
+        "Samuel heard all their words, rehearsed them before Yahweh, and Yahweh said: 'Listen to their voice, and make them a king.'"
+      ],
+      "strengths": [
+        "Samuel brought his personal hurt directly to God in prayer rather than reacting in pride or anger.",
+        "Faithfully delivered God's unvarnished warnings without compromise."
+      ],
+      "failures": [
+        "Israel's disastrous desire for worldly conformity ('to be like all the nations').",
+        "Samuel failed to successfully pass his spiritual integrity on to his sons Joel and Abijah."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "1 Samuel 8",
+        "title": "Israel Demands a King and Samuel Warns of Royal Tyranny",
+        "verses": [
+          {
+            "number": 1,
+            "text": "It happened, when Samuel was old, that he made his sons judges over Israel."
+          },
+          {
+            "number": 3,
+            "text": "His sons didn't walk in his ways, but turned aside after dishonest gain, took bribes, and perverted justice."
+          },
+          {
+            "number": 4,
+            "text": "Then all the elders of Israel gathered themselves together, and came to Samuel to Ramah;"
+          },
+          {
+            "number": 5,
+            "text": "and they said to him, 'Behold, you are old, and your sons don't walk in your ways: now make us a king to judge us like all the nations.'"
+          },
+          {
+            "number": 6,
+            "text": "But the thing displeased Samuel, when they said, 'Give us a king to judge us.' Samuel prayed to Yahweh."
+          },
+          {
+            "number": 7,
+            "text": "Yahweh said to Samuel, 'Listen to the voice of the people in all that they say to you; for they have not rejected you, but they have rejected me, that I should not be king over them.'"
+          },
+          {
+            "number": 11,
+            "text": "He said, 'This will be the manner of the king who shall reign over you: he will take your sons, and appoint them to him, for his chariots, and to be his horsemen; and they shall run before his chariots;"
+          },
+          {
+            "number": 14,
+            "text": "He will take your fields, and your vineyards, and your olive groves, even the best of them, and give them to his servants."
+          },
+          {
+            "number": 17,
+            "text": "He will take the tenth of your flocks: and you shall be his servants."
+          },
+          {
+            "number": 18,
+            "text": "You will cry out in that day because of your king whom you will have chosen for yourselves; and Yahweh will not answer you in that day.'"
+          },
+          {
+            "number": 19,
+            "text": "But the people refused to listen to the voice of Samuel; and they said, 'No; but we will have a king over us;"
+          },
+          {
+            "number": 20,
+            "text": "that we also may be like all the nations, and that our king may judge us, and go out before us, and fight our battles.'"
+          }
+        ]
+      },
+      {
+        "reference": "Hosea 13",
+        "title": "Israel's Destruction in King-Making and God Our Only Savior",
+        "verses": [
+          {
+            "number": 4,
+            "text": "'Yet I am Yahweh your God from the land of Egypt; and you shall know no god but me, and besides me there is no savior."
+          },
+          {
+            "number": 9,
+            "text": "You are destroyed, Israel, because you are against me, against your help."
+          },
+          {
+            "number": 10,
+            "text": "Where is your king now, that he may save you in all your cities? And your judges, of whom you said, \"Give me a king and princes\"?"
+          },
+          {
+            "number": 11,
+            "text": "I have given you a king in my anger, and have taken him away in my wrath."
+          },
+          {
+            "number": 14,
+            "text": "I will ransom them from the power of Sheol. I will redeem them from death. Death, where are your plagues? Sheol, where is your destruction?'"
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "When You Demand Worldly Conformity, You Trade Freedom for Bondage",
+      "reflection": "1 Samuel 8 is a tragic turning point in biblical history. For centuries, Israel had enjoyed an unprecedented privilege: they had no mortal king sitting in an ivory palace taxing their grain, conscripting their boys, and seizing their daughters. God Himself was their King! Whenever they repented, Yahweh raised up deliverers and defended their borders with heavenly thunder.\n\nYet notice Israel's complaint: 'Make us a king to judge us like all the nations.' The root of their demand was not administrative efficiency; it was the cowardly craving for **cultural conformity**. They looked over the fence at the Philistines, the Moabites, and the Ammonites and felt insecure. They wanted a glamorous ruler they could see, an army they could march, and a military system they could control.\n\nGod told Samuel: 'They have not rejected you; they have rejected Me from being King over them.' And God warned them through Samuel that a human king would be an endless vortex of taking: he will take your sons, take your daughters, take your fields, take your grain, take your servants, until you become slaves. Centuries later in Hosea 13, God looked back on this tragic day: 'I gave you a king in My anger, and took him away in My wrath.' Whenever we demand what the world has, trading our distinct covenant identity for worldly conformity, we end up enslaved to the very systems we idolized. Jesus Christ alone is the King who gives rather than takes."
+    },
+    "lessons": [
+      {
+        "lesson": "Craving worldly conformity is a direct rejection of God's unique calling on your life.",
+        "verse": "1 Samuel 8:5, 7",
+        "detail": "Israel wanted to be 'like all the nations,' rejecting the glorious privilege of being God's distinct, holy treasure.",
+        "question": "Are you shaping your lifestyle, values, and ambitions to look like the secular culture around you?"
+      },
+      {
+        "lesson": "When people reject your spiritual counsel, remember that they are ultimately rejecting God, not you.",
+        "verse": "1 Samuel 8:7",
+        "detail": "God comforted Samuel by reminding him that the people's rebellion was against Yahweh's reign, freeing Samuel from personal bitterness.",
+        "question": "How can you keep from taking it personally when people reject biblical truth that you share in love?"
+      },
+      {
+        "lesson": "Human idols always take from you, while God's kingdom continually gives to you.",
+        "verse": "1 Samuel 8:11-17",
+        "detail": "Samuel warned six times that an earthly king would 'take' their sons, fields, crops, and freedom, reducing them to servants.",
+        "question": "What worldly pursuit or ambition is draining your time, joy, and peace without delivering true satisfaction?"
+      },
+      {
+        "lesson": "Sometimes God's most terrifying judgment is giving us exactly what we stubbornly demand.",
+        "verse": "1 Samuel 8:22; Hosea 13:11",
+        "detail": "When Israel refused to listen to divine warnings, God permitted them to have Saul, letting them reap the bitter fruit of their self-will.",
+        "question": "Are you stubbornly insisting on getting your own way in an area where God's Word has clearly said 'no'?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What reason did the elders of Israel give to Samuel for demanding a king at Ramah?",
+        "options": [
+          "Samuel was old, his sons took bribes, and they wanted to be like all the other nations",
+          "The Philistines had captured Jerusalem",
+          "Moses had ordered them to appoint a king within 400 years",
+          "The Egyptian pharaoh demanded an official treaty with a monarch"
+        ],
+        "correctIndex": 0,
+        "reference": "1 Samuel 8:4-5",
+        "explanation": "They told Samuel: 'you are old, and your sons don't walk in your ways: now make us a king to judge us like all the nations.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "How did God comfort Samuel when Samuel was grieved by Israel's demand for a king?",
+        "options": [
+          "God told him to execute the elders immediately",
+          "God said: 'they have not rejected you, but they have rejected me, that I should not be king over them'",
+          "God promised to make Samuel's grandson king instead",
+          "God sent an earthquake to swallow Ramah"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 8:7",
+        "explanation": "Yahweh said: 'for they have not rejected you, but they have rejected me, that I should not be king over them.'"
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "What repeated verb did Samuel use to warn Israel about what a human king would do to their families and property?",
+        "options": [
+          "He will bless",
+          "He will take",
+          "He will multiply",
+          "He will teach"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 8:11-17",
+        "explanation": "Samuel warned repeatedly that the king would 'take' their sons, daughters, best fields, vineyards, grain, and servants."
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "According to Hosea 13:11, what was God's attitude when He gave Israel their requested king?",
+        "options": [
+          "'I gave you a king with great rejoicing'",
+          "'I have given you a king in my anger, and have taken him away in my wrath'",
+          "'I gave you a king to replace Moses'",
+          "'I gave you a king because you were righteous'"
+        ],
+        "correctIndex": 1,
+        "reference": "Hosea 13:11",
+        "explanation": "Hosea 13:11 records: 'I have given you a king in my anger, and have taken him away in my wrath.'"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: After hearing Samuel's detailed warnings about royal taxation and conscription, Israel repented and withdrew their request for a king.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 8:19-20",
+        "explanation": "False. 1 Samuel 8:19 states: 'But the people refused to listen to the voice of Samuel; and they said, \"No; but we will have a king over us.\"'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus Christ, You are the King of kings and Lord of lords, the only righteous Ruler whose yoke is easy and whose burden is light. Forgive me for the ways I have longed to be like the world—conforming to its patterns, seeking its approval, and adopting its values. Deliver me from the foolish ambition to manage my own life. Today I gladly bow my knee before Your throne. Rule over my thoughts, my finances, my home, and my future.",
+      "versePrayerLine": "Lord, deliver my heart from the tragedy of Israel: 'they have rejected me, that I should not be king over them' (1 Samuel 8:7). Be my only King today.",
+      "prompt": "Surrender any area of your life where you have resisted God's lordship in order to conform to the culture around you."
+    }
+  },
+  "108": {
+    "day": 108,
+    "character": "Saul",
+    "season": "Chosen, Anointed, and Hiding Among the Baggage",
+    "theme": "Impressive physical stature and genuine divine gifting cannot compensate for insecure humility hiding from destiny.",
+    "memoryVerse": {
+      "reference": "1 Samuel 10:24",
+      "text": "Samuel said to all the people, 'Do you see him whom Yahweh has chosen, that there is no one like him among all the people?' All the people shouted, and said, 'Long live the king!'",
+      "whyItMatters": "God can bestow gifts and opportunities, but genuine leadership requires courage to step into God's calling.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "Samuel",
+          "Yahweh",
+          "chosen",
+          "people",
+          "king"
+        ],
+        "firstLetters": "S s t a t p, 'D y s h w Y h c, t t i n o l h a a t p?' A t p s, a s, 'L l t k!'"
+      }
+    },
+    "profile": {
+      "title": "Saul: The Tall Benjamite, Lost Donkeys, and the Flask of Oil",
+      "who": "Saul, son of Kish of the smallest tribe of Benjamin, a handsome young man head and shoulders taller than any in Israel, sent to search for his father's lost donkeys, anointed privately by Samuel as Israel's first king, yet hiding among the baggage on coronation day.",
+      "whenAndWhere": "Gibeah and Mizpah in Benjamin, circa 1050 BC.",
+      "family": "Son of Kish the Benjamite; wife Ahinoam; sons Jonathan, Ishvi, Malchishua; daughters Merab and Michal.",
+      "keyMoments": [
+        "Kish lost his female donkeys and sent his handsome son Saul with a servant to search the hill country of Ephraim.",
+        "Unable to find them after three days, Saul suggested turning back, but his servant recommended consulting the 'man of God' in the nearby town of Zuph.",
+        "Samuel had been warned by Yahweh the day before: 'Tomorrow about this time I will send you a man from the land of Benjamin, and you shall anoint him to be prince over my people Israel.'",
+        "When Samuel saw Saul, Yahweh said: 'Behold the man of whom I spoke to you! He shall have authority over my people.'",
+        "Samuel invited Saul to the feast, set him in the chief place, gave him the reserved leg portion, and talked with him on the roof.",
+        "Early the next morning outside the city, Samuel took a vial of oil, poured it on Saul's head, kissed him, and said: 'Hasn't Yahweh anointed you to be prince over his inheritance?'",
+        "Samuel gave three specific signs that were fulfilled that day: men by Rachel's tomb informing him the donkeys were found, three men giving him two loaves of bread at the oak of Tabor, and a band of prophets at Gibeah where the Spirit of God rushed upon Saul and he prophesied.",
+        "Samuel summoned all Israel to Mizpah to present their king; lots were cast by tribes, clans, and families until Saul son of Kish was chosen.",
+        "When they searched for him, he could not be found; they inquired of Yahweh, and Yahweh said: **'Behold, he has hidden himself among the baggage.'**",
+        "They ran and fetched him, and he stood head and shoulders taller than all the people; all the people shouted: 'Long live the king!' But worthless men despising him muttered: 'How can this man save us?' Saul held his peace."
+      ],
+      "strengths": [
+        "Impressive physical presence and natural humility in his youth.",
+        "Filled and empowered by the Spirit of God to prophesy.",
+        "Demonstrated initial restraint when criticized by rebellious detractors."
+      ],
+      "failures": [
+        "Deep-seated insecurity and fear of man: hid among the baggage rather than stepping boldly into God's appointment.",
+        "Relied on others (his servant) for spiritual direction rather than seeking God directly."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "1 Samuel 9",
+        "title": "Saul Searches for the Donkeys and Meets Samuel",
+        "verses": [
+          {
+            "number": 2,
+            "text": "He had a son, whose name was Saul, an impressive young man, and handsome: and there was not among the children of Israel a more handsome person than he. From his shoulders and upward he was taller than any of the people."
+          },
+          {
+            "number": 15,
+            "text": "Now Yahweh had revealed to Samuel a day before Saul came, saying,"
+          },
+          {
+            "number": 16,
+            "text": "'Tomorrow about this time I will send you a man out of the land of Benjamin, and you shall anoint him to be prince over my people Israel; and he shall save my people out of the hand of the Philistines...'"
+          },
+          {
+            "number": 17,
+            "text": "When Samuel saw Saul, Yahweh said to him, 'Behold, the man of whom I spoke to you! This same shall have authority over my people.'"
+          },
+          {
+            "number": 21,
+            "text": "Saul answered, 'Am I not a Benjamite, of the smallest of the tribes of Israel? And my family the least of all the families of the tribe of Benjamin? Why then do you speak to me after this manner?'"
+          }
+        ]
+      },
+      {
+        "reference": "1 Samuel 10",
+        "title": "Saul Anointed, Transformed by the Spirit, and Crowned at Mizpah",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Then Samuel took the vial of oil, and poured it on his head, and kissed him, and said, 'Hasn't Yahweh anointed you to be prince over his inheritance?'"
+          },
+          {
+            "number": 6,
+            "text": "'The Spirit of Yahweh will come mightily on you, and you will prophesy with them, and will be turned into another man.'"
+          },
+          {
+            "number": 9,
+            "text": "It was so, that when he had turned his back to go from Samuel, God gave him another heart: and all those signs came to pass that day."
+          },
+          {
+            "number": 21,
+            "text": "...and Saul the son of Kish was taken: but when they sought him, he couldn't be found."
+          },
+          {
+            "number": 22,
+            "text": "Therefore they asked of Yahweh further, 'Is there yet a man to come here?' Yahweh answered, 'Behold, he has hidden himself among the baggage.'"
+          },
+          {
+            "number": 23,
+            "text": "They ran and fetched him there; and when he stood among the people, he was higher than any of the people from his shoulders and upward."
+          },
+          {
+            "number": 24,
+            "text": "Samuel said to all the people, 'Do you see him whom Yahweh has chosen, that there is no one like him among all the people?' All the people shouted, and said, 'Long live the king!'"
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "God Can Give You a New Heart, But You Must Choose to Step Out of the Baggage",
+      "reflection": "The beginning of Saul's story seems filled with golden promise. He was tall, striking in appearance, respectful to his father, and genuinely humble. When Samuel first told him that the desire of all Israel was on him, Saul protested: 'Am I not a Benjamite, of the smallest tribe in Israel, and my family the least?' God met Saul's insecurity with extraordinary grace. Samuel anointed him, God gave him 'another heart,' and the Holy Spirit rushed upon him so powerfully that he prophesied among the prophets.\n\nYet notice the revealing scene on coronation day at Mizpah. All Israel had gathered. The lot fell on Benjamin, then on the clan of Matri, then on Saul. The trumpet sounded, the crowd parted—and Saul was missing! Where was the newly anointed king? Yahweh had to point him out: 'Behold, he has hidden himself among the baggage.'\n\nThere is a massive difference between **godly humility** and **fearful insecurity**. True humility says, 'I am nothing, but God in me is everything.' Insecurity says, 'I am terrified of people, so I will hide behind the luggage.' Saul hid because he was terrified of responsibility, terrified of public scrutiny, and paralyzed by the fear of man. That very flaw—valuing the opinion of people more than the command of God—would ultimately become his undoing. God gives us His Holy Spirit not so we can cower among the baggage of our insecurities, but so we can step out boldly into our divine assignment."
+    },
+    "lessons": [
+      {
+        "lesson": "Impressive outward appearance is completely irrelevant if internal character is insecure.",
+        "verse": "1 Samuel 9:2; 10:22",
+        "detail": "Saul stood head and shoulders above all Israel, yet his impressive height could not prevent him from cowering behind baggage.",
+        "question": "Are you relying on outward polish, physical appearance, or charm to mask unaddressed inner fears?"
+      },
+      {
+        "lesson": "The Holy Spirit empowers us with new capacity, but we must choose to walk in courage.",
+        "verse": "1 Samuel 10:6, 9",
+        "detail": "God gave Saul another heart and the Spirit rushed upon him, equipping him fully for the royal task ahead.",
+        "question": "Are you allowing God's Spirit to transform your timid heart into a vessel of holy confidence?"
+      },
+      {
+        "lesson": "Do not hide behind the baggage of excuses when God calls your name.",
+        "verse": "1 Samuel 10:22",
+        "detail": "Saul hid among the supply wagons out of dread of public leadership, delaying his kingdom assignment.",
+        "question": "What 'baggage'—past failures, feelings of inadequacy, fear of criticism—are you hiding behind today?"
+      },
+      {
+        "lesson": "Maintain spiritual poise when critics and detractors challenge your calling.",
+        "verse": "1 Samuel 10:27",
+        "detail": "When worthless men despised Saul and brought him no gifts, Saul held his peace and refused to retaliate.",
+        "question": "How do you handle unconstructive criticism or disrespect without losing your spiritual peace?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What errand was Saul originally running when he first encountered the prophet Samuel?",
+        "options": [
+          "He was leading an army against the Philistines",
+          "He was searching for his father's lost female donkeys",
+          "He was bringing sacrificial grain to Shiloh",
+          "He was scouting land for vineyard expansion"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 9:3-4",
+        "explanation": "Kish's donkeys were lost, and he sent Saul with a servant to find them."
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "From which of the twelve tribes of Israel did Saul originate?",
+        "options": [
+          "Judah",
+          "Ephraim",
+          "Benjamin",
+          "Dan"
+        ],
+        "correctIndex": 2,
+        "reference": "1 Samuel 9:21",
+        "explanation": "Saul was a Benjamite from the smallest tribe of Israel."
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "What supernatural transformation happened to Saul after Samuel anointed him with oil?",
+        "options": [
+          "He became an expert sword-fighter instantly",
+          "God gave him another heart, and the Spirit of Yahweh rushed upon him so he prophesied",
+          "His hair turned white as snow",
+          "He could speak twenty foreign languages"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 10:6, 9-10",
+        "explanation": "God gave him another heart, the Spirit came mightily upon him, and he prophesied among the prophets."
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "Where was Saul hiding when the people searched for him on coronation day at Mizpah?",
+        "options": [
+          "In a deep cave near Gilgal",
+          "Among the baggage / supplies",
+          "Under the high priest's altar",
+          "In his father's house in Gibeah"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 10:22",
+        "explanation": "Yahweh told them: 'Behold, he has hidden himself among the baggage.'"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: When detractors despised Saul and brought him no presents, Saul immediately ordered their execution.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 10:27",
+        "explanation": "False. 1 Samuel 10:27 states that when worthless men despised him, 'he held his peace.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Almighty God, You call ordinary, imperfect people and equip them with Your Holy Spirit for divine destiny. Deliver me from false humility and paralyzing insecurity. Forgive me for the times I have hidden among the baggage of my fears, excuses, and self-doubt when You called me to stand tall in Your strength. I receive the new heart and empowered presence of the Holy Spirit today. Give me holy courage to step into every responsibility You have ordained for me.",
+      "versePrayerLine": "Lord, help me step out of the baggage of fear, walking boldly as Your anointed servant (1 Samuel 10:24).",
+      "prompt": "Identify one step of leadership, responsibility, or service that you have avoided out of fear, asking God for courage to step forward."
+    }
+  },
+  "109": {
+    "day": 109,
+    "character": "Saul",
+    "season": "Early Boldness at Jabesh-Gilead",
+    "theme": "Early spiritual victories are given by God's Spirit to cement wholehearted, lifelong covenant obedience.",
+    "memoryVerse": {
+      "reference": "1 Samuel 12:24",
+      "text": "Only fear Yahweh, and serve him in truth with all your heart; for consider what great things he has done for you.",
+      "whyItMatters": "Remembering God's mighty past deliverances produces steadfast, wholehearted reverence and loyalty.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "fear",
+          "Yahweh",
+          "serve",
+          "truth",
+          "heart",
+          "great"
+        ],
+        "firstLetters": "O f Y, a s h i t w a y h; f c w g t h h d f y."
+      }
+    },
+    "profile": {
+      "title": "Saul: The Oxen Cut in Pieces, the Relief of Jabesh, and the Covenant Renewal",
+      "who": "King Saul in his finest hour, stirred by the Holy Spirit to rescue the besieged city of Jabesh-Gilead from Nahash the Ammonite, mobilizing 330,000 Israelites, followed by Samuel's solemn covenant address and the miraculous harvest thunderstorm at Gilgal.",
+      "whenAndWhere": "Gibeah, Jabesh-Gilead, and Gilgal in the Jordan Valley, circa 1049 BC.",
+      "family": "King over all Israel; supported loyally by his son Jonathan.",
+      "keyMoments": [
+        "Nahash the Ammonite besieged Jabesh-Gilead across the Jordan; when the terrified elders asked for a peace treaty, Nahash brutally demanded to gouge out everyone's right eye to bring disgrace upon Israel.",
+        "The messengers came to Gibeah; when the people wept aloud, Saul came from the field behind his oxen and asked what was wrong.",
+        "When Saul heard the news, **the Spirit of God came mightily on him**, and his anger was kindled greatly.",
+        "He took a yoke of oxen, cut them into pieces, and sent them throughout all Israel by messengers saying: 'Whoever doesn't come out after Saul and after Samuel, so shall it be done to his oxen!'",
+        "The dread of Yahweh fell on the people; 300,000 men of Israel and 30,000 men of Judah assembled at Bezek as one man.",
+        "Saul executed a brilliant dawn assault, dividing his army into three companies, breaking into the Ammonite camp in the morning watch, and routing them until noon so that no two were left together.",
+        "The exuberant people demanded the execution of the men who had despised Saul's coronation, but Saul showed noble grace: 'No man shall be put to death today, for today Yahweh has worked salvation in Israel.'",
+        "Samuel summoned all Israel to Gilgal to renew the kingdom, where they sacrificed peace offerings before Yahweh with immense joy.",
+        "Samuel delivered his monumental farewell address: reminded them of his lifelong integrity (never taking an ox, donkey, or bribe), acknowledged their sin in demanding a king, and prayed for a miraculous thunderstorm during wheat harvest as a sign of God's sovereignty.",
+        "Thunder and rain terrified the people; Samuel comforted them with the supreme charge: 'Only fear Yahweh, and serve him in truth with all your heart; for consider what great things he has done for you.'"
+      ],
+      "strengths": [
+        "Righteous anger ignited by the Spirit against cruelty and oppression.",
+        "Brilliant military mobilization and swift dawn tactical strike.",
+        "Magnanimous mercy: refused to execute political opponents after victory, attributing glory solely to Yahweh."
+      ],
+      "failures": [
+        "This proved to be the high-water mark of Saul's humility; subsequent seasons saw his pride and self-will emerge."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "1 Samuel 11",
+        "title": "Saul Delivers Jabesh-Gilead from Nahash the Ammonite",
+        "verses": [
+          {
+            "number": 2,
+            "text": "Nahash the Ammonite said to them, 'On this condition I will make a covenant with you, that all your right eyes be gouged out; and I will make this a reproach on all Israel.'"
+          },
+          {
+            "number": 6,
+            "text": "Yahweh's Spirit came mightily on Saul when he heard those words, and his anger was kindled greatly."
+          },
+          {
+            "number": 7,
+            "text": "He took a yoke of oxen, and cut them in pieces, and sent them throughout all the borders of Israel by the hand of messengers, saying, 'Whoever doesn't come out after Saul and after Samuel, so shall it be done to his oxen.' The dread of Yahweh fell on the people, and they came out as one man."
+          },
+          {
+            "number": 11,
+            "text": "It was so on the next day, that Saul put the people in three companies; and they came into the middle of the camp in the morning watch, and struck the Ammonites until the heat of the day..."
+          },
+          {
+            "number": 13,
+            "text": "Saul said, 'No man shall be put to death today; for today Yahweh has worked salvation in Israel.'"
+          },
+          {
+            "number": 14,
+            "text": "Then Samuel said to the people, 'Come, and let us go to Gilgal, and renew the kingdom there.'"
+          },
+          {
+            "number": 15,
+            "text": "All the people went to Gilgal; and there they made Saul king before Yahweh in Gilgal... and there Saul and all the men of Israel rejoiced greatly."
+          }
+        ]
+      },
+      {
+        "reference": "1 Samuel 12",
+        "title": "Samuel's Farewell Integrity and the Harvest Thunderstorm",
+        "verses": [
+          {
+            "number": 3,
+            "text": "'Here I am. Witness against me before Yahweh, and before his anointed: whose ox have I taken? Or whose donkey have I taken? Or whom have I defrauded? Whom have I oppressed? Or of whose hand have I taken a bribe to blind my eyes with? I will restore it to you.'"
+          },
+          {
+            "number": 4,
+            "text": "They said, 'You have not defrauded us, nor oppressed us, neither have you taken anything of any man's hand.'"
+          },
+          {
+            "number": 17,
+            "text": "'Isn't it wheat harvest today? I will call to Yahweh, that he may send thunder and rain; and you will know and see that your wickedness is great, which you have done in Yahweh's sight, in asking for a king.'"
+          },
+          {
+            "number": 18,
+            "text": "So Samuel called to Yahweh; and Yahweh sent thunder and rain that day: and all the people greatly feared Yahweh and Samuel."
+          },
+          {
+            "number": 23,
+            "text": "'Moreover as for me, far be it from me that I should sin against Yahweh in ceasing to pray for you: but I will instruct you in the good and the right way."
+          },
+          {
+            "number": 24,
+            "text": "Only fear Yahweh, and serve him in truth with all your heart; for consider what great things he has done for you.'"
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "When the Spirit Rushes In, Cowardice Turns to Holy Courage and Mercy",
+      "reflection": "1 Samuel 11 shows Saul at his absolute best. When the arrogant tyrant Nahash threatened to gouge out the right eyes of the citizens of Jabesh-Gilead, the entire nation wept in helpless despair. But when Saul heard the report, the Holy Spirit rushed upon him in power. The fearful young man who had hidden behind the baggage suddenly stepped into lion-like boldness.\n\nHe chopped his plow oxen into pieces and rallied 330,000 men overnight. He marched through the darkness and broke into the enemy camp at dawn, utterly liberating his brothers. And when his ecstatic soldiers demanded the blood of his political critics, Saul showed true royal greatness: 'No man shall be put to death today, for today Yahweh has worked salvation in Israel.' Saul gave all the glory to God.\n\nYet notice Samuel's solemn warning in chapter 12. Great spiritual beginnings do not guarantee faithful finishes. Samuel prayed, and God sent an unseasonable thunderstorm in the middle of dry wheat harvest to remind them that God was still supreme over kings and weather alike. And Samuel left them with the eternal golden rule of the covenant: **'Only fear Yahweh, and serve him in truth with all your heart; for consider what great things he has done for you.'** When God gives you early victories, do not let them inflate your ego. Anchor your heart in humble gratitude, serving Him in truth."
+    },
+    "lessons": [
+      {
+        "lesson": "Holy anger ignited by the Spirit must be channeled into decisive, courageous action to protect the vulnerable.",
+        "verse": "1 Samuel 11:6-7",
+        "detail": "When Saul heard of the brutal threat against Jabesh-Gilead, the Spirit empowered him to mobilize the nation and deliver the oppressed.",
+        "question": "Does injustice and oppression stir your heart with holy compassion, or are you indifferent to the suffering of others?"
+      },
+      {
+        "lesson": "Real victory is crowned with magnanimity, mercy, and giving glory solely to God.",
+        "verse": "1 Samuel 11:13",
+        "detail": "Saul refused to execute his detractors, declaring that Yahweh had worked salvation, modeling true spiritual leadership.",
+        "question": "When God gives you success, do you use it to settle personal scores or to extend grace to others?"
+      },
+      {
+        "lesson": "A lifetime of unblemished integrity is the greatest legacy a spiritual leader can leave.",
+        "verse": "1 Samuel 12:3-4",
+        "detail": "Samuel challenged the entire nation to point out any bribe, fraud, or oppression in his decades of ministry, and all Israel testified to his purity.",
+        "question": "Can your public and private dealings withstand total scrutiny under the light of God's Word?"
+      },
+      {
+        "lesson": "Continual remembrance of God's past mercies is the supreme antidote to wandering into sin.",
+        "verse": "1 Samuel 12:24",
+        "detail": "Samuel urged the people to anchor their daily obedience in the memory of the 'great things' God had performed for them.",
+        "question": "How often do you intentionally stop and reflect on the great things God has done in your life?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What barbaric condition did Nahash the Ammonite demand to make a covenant with Jabesh-Gilead?",
+        "options": [
+          "They had to pay 10,000 talents of gold",
+          "All their right eyes had to be gouged out to bring reproach on Israel",
+          "All their children had to be surrendered as slaves",
+          "They had to worship the idol Molech"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 11:2",
+        "explanation": "Nahash demanded that all their right eyes be gouged out to bring reproach upon all Israel."
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "What dramatic action did Saul take to summon the twelve tribes to battle?",
+        "options": [
+          "He blew seven silver shofars from Mount Tabor",
+          "He cut a yoke of oxen into pieces and sent them across the borders with a warning",
+          "He lit smoke signals from the highest hill",
+          "He fired flaming arrows across the Jordan"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 11:7",
+        "explanation": "He took a yoke of oxen, cut them into pieces, and sent them throughout Israel saying: 'Whoever doesn't come out after Saul and Samuel, so shall it be done to his oxen.'"
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "How did Saul respond when the people wanted to execute the men who had opposed his coronation?",
+        "options": [
+          "He executed them immediately in Gilgal",
+          "He said: 'No man shall be put to death today; for today Yahweh has worked salvation in Israel'",
+          "He banished them to the land of Moab",
+          "He demanded they pay double taxes"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 11:13",
+        "explanation": "Saul magnanimously declared: 'No man shall be put to death today; for today Yahweh has worked salvation in Israel.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What unusual meteorological sign did Samuel call down during the wheat harvest to confirm God's word?",
+        "options": [
+          "Hail mixed with fire",
+          "Thunder and rain during the dry harvest season",
+          "A solar eclipse at noon",
+          "A whirlwind from the east"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 12:17-18",
+        "explanation": "Samuel called to Yahweh, and God sent thunder and rain that day during the dry wheat harvest, causing the people to fear Yahweh."
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: In 1 Samuel 12:23, Samuel stated that ceasing to pray for the people would be a sin against Yahweh.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 0,
+        "reference": "1 Samuel 12:23",
+        "explanation": "True. Samuel famously said: 'far be it from me that I should sin against Yahweh in ceasing to pray for you.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Glorious Lord God, You are the Author of salvation, and all victory belongs to You. Thank You for the seasons when Your Holy Spirit rushes in, transforming weakness into boldness and delivering those who are oppressed. Keep my heart humble in times of breakthrough. Deliver me from the arrogance of taking credit for what Your power has accomplished. Teach me to serve You in truth with all my heart, continually rehearsing the great things You have done for me.",
+      "versePrayerLine": "Lord, let Samuel's parting counsel guide my steps: 'Only fear Yahweh, and serve him in truth with all your heart' (1 Samuel 12:24).",
+      "prompt": "Offer praise for a specific victory or breakthrough God granted you, giving Him 100% of the honor and glory."
+    }
+  },
+  "110": {
+    "day": 110,
+    "character": "Saul",
+    "season": "The Impatient Sacrifice at Gilgal",
+    "theme": "Impatience in the pressure cooker of crisis reveals whether we truly fear God or fear people.",
+    "memoryVerse": {
+      "reference": "1 Samuel 13:13",
+      "text": "Samuel said to Saul, 'You have done foolishly. You have not kept the commandment of Yahweh your God... for now Yahweh would have established your kingdom over Israel forever.'",
+      "whyItMatters": "Panic and impatience under pressure reveal whether we trust God or rely on our own unauthorized control.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "Samuel",
+          "Saul",
+          "foolishly",
+          "commandment",
+          "established",
+          "kingdom"
+        ],
+        "firstLetters": "S s t S, 'Y h d f. Y h n k t c o Y y G... f n Y w h e y k o I f.'"
+      }
+    },
+    "profile": {
+      "title": "Saul: The Threatening Philistine Hoard, the Seven-Day Wait, and the Presumptuous Altar",
+      "who": "King Saul, facing an overwhelming Philistine army of 30,000 chariots at Michmash with his soldiers scattering in terror, who grew impatient waiting for Samuel at Gilgal and unlawfully usurped the priestly office by offering the burnt offering himself.",
+      "whenAndWhere": "Gilgal and Michmash in Benjamin, circa 1048 BC.",
+      "family": "King over Israel; father of Jonathan (who struck the Philistine garrison at Geba).",
+      "keyMoments": [
+        "Jonathan struck the Philistine garrison at Geba, provoking the Philistines to gather a massive invasion force: 30,000 chariots, 6,000 horsemen, and troops as numerous as sand on the seashore.",
+        "When the men of Israel saw their danger, they were terrified; they hid in caves, thickets, rocks, tombs, and pits, while some fled across the Jordan.",
+        "Saul remained at Gilgal with 600 trembling soldiers, waiting seven days for Samuel to arrive and offer sacrifices before battle, according to Samuel's appointment.",
+        "On the seventh day, Samuel had not yet arrived; Saul saw the people scattering from him, and panic took over his heart.",
+        "Saul said: 'Bring here the burnt offering to me, and the peace offerings.' And **he offered the burnt offering himself**, violating the divine boundary separating king from priest.",
+        "As soon as he finished offering the burnt offering, Samuel arrived! Saul went out to meet him and greet him.",
+        "Samuel demanded: 'What have you done?' Saul made excuses: 'I saw that the people were scattered from me, and you didn't come within the appointed days, and the Philistines were gathering at Michmash; therefore I said, \"The Philistines will come down on me at Gilgal, and I haven't entreated Yahweh's favor.\" So I forced myself, and offered the burnt offering.'",
+        "Samuel delivered God's devastating verdict: **'You have done foolishly. You have not kept the commandment of Yahweh your God... but now your kingdom shall not continue. Yahweh has sought for himself a man after his own heart.'**",
+        "The Philistines had disarmed Israel: there was no blacksmith found throughout all Israel, lest the Hebrews make swords or spears; on the day of battle, only Saul and Jonathan possessed swords."
+      ],
+      "strengths": [
+        "Recognized the need for divine favor before going to battle."
+      ],
+      "failures": [
+        "Impatience under pressure: refused to wait for God's prophet.",
+        "Presumption and self-justification: usurped holy priestly functions forbidden to kings.",
+        "Feared the scattering of his men more than he feared disobeying the commandment of Yahweh."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "1 Samuel 13",
+        "title": "Saul's Unlawful Sacrifice at Gilgal and Samuel's Rebuke",
+        "verses": [
+          {
+            "number": 5,
+            "text": "The Philistines gathered themselves together to fight with Israel, thirty thousand chariots, and six thousand horsemen, and people as the sand which is on the seashore in multitude..."
+          },
+          {
+            "number": 6,
+            "text": "When the men of Israel saw that they were in a strait (for the people were distressed), then the people hid themselves in caves, and in thickets, and in rocks, and in coverts, and in pits."
+          },
+          {
+            "number": 8,
+            "text": "He stayed seven days, according to the time set by Samuel: but Samuel didn't come to Gilgal; and the people were scattered from him."
+          },
+          {
+            "number": 9,
+            "text": "Saul said, 'Bring here the burnt offering to me, and the peace offerings.' He offered the burnt offering."
+          },
+          {
+            "number": 10,
+            "text": "It came to pass that as soon as he had made an end of offering the burnt offering, behold, Samuel came; and Saul went out to meet him, that he might greet him."
+          },
+          {
+            "number": 11,
+            "text": "Samuel said, 'What have you done?' Saul said, 'Because I saw that the people were scattered from me, and that you didn't come within the days appointed, and that the Philistines assembled themselves together at Michmash;"
+          },
+          {
+            "number": 12,
+            "text": "therefore I said, \"Now the Philistines will come down on me to Gilgal, and I haven't entreated the favor of Yahweh.\" I forced myself therefore, and offered the burnt offering.'"
+          },
+          {
+            "number": 13,
+            "text": "Samuel said to Saul, 'You have done foolishly. You have not kept the commandment of Yahweh your God, which he commanded you; for now Yahweh would have established your kingdom on Israel forever."
+          },
+          {
+            "number": 14,
+            "text": "'But now your kingdom shall not continue. Yahweh has sought for himself a man after his own heart, and Yahweh has appointed him to be prince over his people...'"
+          },
+          {
+            "number": 19,
+            "text": "Now there was no blacksmith found throughout all the land of Israel; for the Philistines said, 'Lest the Hebrews make them swords or spears.'"
+          }
+        ]
+      },
+      {
+        "reference": "Proverbs 14",
+        "title": "The Way That Seems Right and the Folly of Impatience",
+        "verses": [
+          {
+            "number": 12,
+            "text": "There is a way which seems right to a man, but in the end it leads to death."
+          },
+          {
+            "number": 15,
+            "text": "A simple man believes everything, but the prudent man carefully considers his ways."
+          },
+          {
+            "number": 26,
+            "text": "In the fear of Yahweh is a secure fortress, and he will be a refuge for his children."
+          },
+          {
+            "number": 27,
+            "text": "The fear of Yahweh is a fountain of life, turning people away from the snares of death."
+          },
+          {
+            "number": 29,
+            "text": "He who is slow to anger has great understanding, but he who has a quick temper displays folly."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Crisis Does Not Create Character—It Exposes What You Truly Trust",
+      "reflection": "1 Samuel 13 shows us what happens when an insecure leader enters the pressure cooker. Saul was in a terrifying predicament: 30,000 Philistine chariots were massed on the ridges of Michmash. His own army was evaporating before his eyes—men were abandoning ranks and crawling into caves and dry cisterns. Saul was down to 600 trembling men. Samuel had commanded him to wait seven days at Gilgal. \n\nDay one passed. Day five. Day six. Finally, day seven arrived—the appointed day—and Samuel had still not arrived. Saul looked at his dwindling army, felt panic rise in his throat, and took matters into his own hands: 'Bring the burnt offering to me!' Saul offered the sacrifice himself, committing a grave violation of the Law of Moses, which strictly reserved sacrifices for the priesthood.\n\nAnd look at the tragedy in verse 10: 'As soon as he had made an end of offering... behold, Samuel came!' If Saul had waited just one more hour, his kingdom would have been established forever! But Saul could not wait. Notice his excuse: 'I forced myself.' Saul blamed the scattering people, blamed the delayed prophet, and blamed the advancing enemy. He rationalized disobedience under the guise of religious devotion. God showed Saul—and shows us—that **delayed obedience is disobedience**. When pressure rises and human resources dwindle, waiting on the Lord is the ultimate test of our faith."
+    },
+    "lessons": [
+      {
+        "lesson": "Impatience under crisis reveals whether you trust God's sovereignty or your own control.",
+        "verse": "1 Samuel 13:8-9",
+        "detail": "Saul could not endure the final hours of testing; when his soldiers scattered, he took matters into his own hands.",
+        "question": "When answers or circumstances are delayed, do you wait on God or do you force open unauthorized doors?"
+      },
+      {
+        "lesson": "Religious rituals can never excuse or sanitize direct disobedience to God's Word.",
+        "verse": "1 Samuel 13:12; Proverbs 14:12",
+        "detail": "Saul claimed he offered the sacrifice to 'entreat the favor of Yahweh,' but God regarded his unauthorized sacrifice as foolish rebellion.",
+        "question": "Are you using religious activity to justify compromises in your moral conduct?"
+      },
+      {
+        "lesson": "Shifting blame and playing the victim reveals an unrepentant, self-justifying heart.",
+        "verse": "1 Samuel 13:11-12",
+        "detail": "Instead of confessing his sin, Saul blamed the people who fled, blamed Samuel for being late, and claimed he was 'forced.'",
+        "question": "When confronted with a mistake or sin, do you take full personal ownership or do you point fingers at circumstances?"
+      },
+      {
+        "lesson": "God seeks leaders whose hearts beat in tune with His own holy character.",
+        "verse": "1 Samuel 13:14",
+        "detail": "Because Saul failed the test of faith, God declared He had sought out a man after His own heart—David.",
+        "question": "Is your heart focused on pleasing God above all else, even when it costs you public approval?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What military crisis caused Saul's soldiers to panic and hide in caves, thickets, and pits?",
+        "options": [
+          "A sudden plague of locusts",
+          "A massive Philistine army gathering at Michmash with 30,000 chariots",
+          "A civil war launched by the tribe of Judah",
+          "An Egyptian invasion from the south"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 13:5-6",
+        "explanation": "The Philistines gathered 30,000 chariots and people like the sand on the seashore, causing Israelite soldiers to hide in terror."
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "How long was Saul commanded to wait at Gilgal for Samuel to arrive and offer the sacrifices?",
+        "options": [
+          "Three hours",
+          "Seven days",
+          "One month",
+          "Forty days"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 13:8",
+        "explanation": "Saul stayed seven days, according to the time set by Samuel, before taking matters into his own hands."
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "What rash, unauthorized action did Saul take right before Samuel arrived?",
+        "options": [
+          "He fled to Moab on horseback",
+          "He offered the burnt offering and peace offerings himself",
+          "He surrendered the Ark to the Philistines",
+          "He crowned his son Jonathan king"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 13:9",
+        "explanation": "Saul usurped the priestly office: 'Saul said, \"Bring here the burnt offering to me...\" He offered the burnt offering.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What devastating divine consequence did Samuel pronounce over Saul's dynasty because of this act?",
+        "options": [
+          "Saul would lose his physical sight immediately",
+          "His kingdom would not continue, for Yahweh sought a man after His own heart",
+          "Saul would be banished to Egypt",
+          "The Philistines would destroy Gibeah that evening"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 13:13-14",
+        "explanation": "Samuel declared: 'You have done foolishly... now your kingdom shall not continue. Yahweh has sought for himself a man after his own heart.'"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: According to Proverbs 14:12, every path that seems logical and right to human understanding leads to life and blessing.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Proverbs 14:12",
+        "explanation": "False. Proverbs 14:12 warns: 'There is a way which seems right to a man, but in the end it leads to death.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord God of patience and truth, forgive me for the times when fear and anxiety have driven me to impatience. When circumstances press in and resources seem to scatter, deliver me from the impulse to take matters into my own hands or force open doors that You have shut. Teach me to wait upon You, knowing that Your timing is never late. Search my heart and make me a person after Your own heart, wholly surrendered to Your sovereign will.",
+      "versePrayerLine": "Lord, deliver me from Saul's tragic mistake: 'You have done foolishly. You have not kept the commandment of Yahweh' (1 Samuel 13:13). Help me wait faithfully.",
+      "prompt": "Surrender any situation where you are currently tempted to jump ahead of God's timing or take unauthorized control."
+    }
+  },
+  "111": {
+    "day": 111,
+    "character": "Jonathan",
+    "season": "The Garrison of Two: 'Nothing Restrains the Lord'",
+    "theme": "Courageous faith steps into battle knowing God's power is never restricted by human numbers or military odds.",
+    "memoryVerse": {
+      "reference": "1 Samuel 14:6",
+      "text": "Jonathan said to the young man who bore his armor, 'Come, and let us go over to the garrison of these uncircumcised... for there is no restraint to Yahweh to save by many or by few.'",
+      "whyItMatters": "God's saving power is completely independent of human numbers, resources, or odds when we step out in faith.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "Jonathan",
+          "armor",
+          "garrison",
+          "restraint",
+          "Yahweh",
+          "save"
+        ],
+        "firstLetters": "J s t t y m w b h a, 'C, a l u g o t t g o t u... f t i n r t Y t s b m o b f.'"
+      }
+    },
+    "profile": {
+      "title": "Jonathan: The Pass of Michmash, the Armor-Bearer, and the Divine Earthquake",
+      "who": "Jonathan, crown prince of Israel and eldest son of King Saul, a valiant warrior of supreme faith, humility, and covenant loyalty, who single-handedly attacked a Philistine outpost accompanied only by his armor-bearer.",
+      "whenAndWhere": "The rocky gorge of Michmash (between Bozez and Seneh) in Benjamin, circa 1048 BC.",
+      "family": "Eldest son of King Saul; future covenant soul-brother of David.",
+      "keyMoments": [
+        "While King Saul sat under the pomegranate tree in Migron with 600 dispirited men, Jonathan slipped away secretly without telling his father.",
+        "Between the passes of Michmash were two sharp rocky crags: Bozez ('slippery') on the north and Seneh ('thorny') on the south.",
+        "Jonathan spoke to his armor-bearer with immortal faith: 'Come, let us cross over to the garrison of these uncircumcised; it may be that Yahweh will work for us; **for there is no restraint to Yahweh to save by many or by few.**'",
+        "His armor-bearer answered with total loyalty: 'Do all that is in your heart; turn, behold, I am with you according to your heart.'",
+        "Jonathan set a fleece of faith: they would show themselves to the Philistine outpost; if the guards said 'Wait until we come to you,' they would stand still; but if they said 'Come up to us,' it would be God's sign that Yahweh had delivered them into their hands.",
+        "The Philistine sentries mocked them: 'Behold, the Hebrews are coming out of the holes where they had hidden themselves! Come up to us, and we will show you a thing.'",
+        "Jonathan climbed up on his hands and feet, his armor-bearer after him; Jonathan struck them down, and his armor-bearer killed after him, slaughtering twenty men within half an acre of land.",
+        "God sent panic into the entire Philistine camp, the garrison, and the raiders; the earth quaked, producing a supernatural terror from God.",
+        "Saul's watchmen in Gibeah saw the Philistine multitude melting away and running in confusion; Saul mustered his army, and the Hebrews who had hidden in Ephraim joined the pursuit, routing the enemy from Michmash to Aijalon.",
+        "Later that day, Saul imposed a foolish, rash curse: 'Cursed is the man who eats food until evening, that I may avenge myself on my enemies.'",
+        "Jonathan, who had not heard the oath, dipped his staff in a honeycomb and tasted it; his eyes were brightened, and when Saul tried to execute Jonathan for breaking the fast, the people rescued Jonathan, declaring: 'Shall Jonathan die, who has worked this great salvation in Israel? Far from it!'"
+      ],
+      "strengths": [
+        "Magnificent, daring faith: grasped that God's power is never limited by odds or numbers.",
+        "Inspiring leadership: earned the complete, unhesitating loyalty of his armor-bearer.",
+        "Spiritual discernment: recognized the foolishness of his father's legalistic and self-centered curse."
+      ],
+      "failures": [
+        "Acted independently without informing his commanding officer/father (though sovereignly directed by God)."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "1 Samuel 14",
+        "title": "Jonathan's Victory at Michmash and Saul's Rash Oath",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Now it fell on a day, that Jonathan the son of Saul said to the young man who bore his armor, 'Come, and let us go over to the Philistines' garrison, that is on the other side.' But he didn't tell his father."
+          },
+          {
+            "number": 6,
+            "text": "Jonathan said to the young man who bore his armor, 'Come, and let us go over to the garrison of these uncircumcised: it may be that Yahweh will work for us; for there is no restraint to Yahweh to save by many or by few.'"
+          },
+          {
+            "number": 7,
+            "text": "His armor bearer said to him, 'Do all that is in your heart: turn, behold, I am with you according to your heart.'"
+          },
+          {
+            "number": 12,
+            "text": "The men of the garrison answered Jonathan and his armor bearer, and said, 'Come up to us, and we will show you a thing.' Jonathan said to his armor bearer, 'Come up after me; for Yahweh has delivered them into the hand of Israel.'"
+          },
+          {
+            "number": 13,
+            "text": "Jonathan climbed up on his hands and on his feet, and his armor bearer after him: and they fell before Jonathan; and his armor bearer killed them after him."
+          },
+          {
+            "number": 14,
+            "text": "That first slaughter, which Jonathan and his armor bearer made, was about twenty men, within as it were half an acre of land, in a furrow of a field."
+          },
+          {
+            "number": 15,
+            "text": "There was a trembling in the camp, in the field, and among all the people; the garrison, and the spoilers, they also trembled; and the earth quaked: so there was an exceeding great trembling."
+          },
+          {
+            "number": 23,
+            "text": "So Yahweh saved Israel that day: and the battle passed over by Beth Aven."
+          },
+          {
+            "number": 45,
+            "text": "The people said to Saul, 'Shall Jonathan die, who has worked this great salvation in Israel? Far from it! As Yahweh lives, there shall not one hair of his head fall to the ground; for he has worked with God this day.' So the people rescued Jonathan, that he didn't die."
+          }
+        ]
+      },
+      {
+        "reference": "2 Chronicles 14",
+        "title": "Asa's Prayer: No Difference for God to Help by Many or by Few",
+        "verses": [
+          {
+            "number": 8,
+            "text": "Asa had an army of men who bore bucklers and spears... three hundred thousand; and out of Benjamin... two hundred eighty thousand: all these were mighty men of valor."
+          },
+          {
+            "number": 9,
+            "text": "There came out against them Zerah the Ethiopian with an army of a million troops, and three hundred chariots..."
+          },
+          {
+            "number": 11,
+            "text": "Asa cried to Yahweh his God, and said, 'Yahweh, there is no one besides you to help, between the mighty and him who has no strength: help us, Yahweh our God; for we rely on you, and in your name are we come against this multitude. Yahweh, you are our God. Don't let man prevail against you.'"
+          },
+          {
+            "number": 12,
+            "text": "So Yahweh struck the Ethiopians before Asa, and before Judah; and the Ethiopians fled."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Faith Never Counts Heads: God Delights to Save by Many or by Few",
+      "reflection": "Contrast King Saul with his son Jonathan in 1 Samuel 14. Saul was sitting under a pomegranate tree on the outskirts of Gibeah with 600 frightened soldiers, an inactive priesthood, and zero initiative. He was immobilized by the odds. But Jonathan had a completely different spiritual worldview.\n\nLooking across the jagged canyon between the sharp crags of Bozez and Seneh, Jonathan turned to his young armor-bearer and uttered one of the boldest confessions of faith in the Old Testament: 'Come, let us go over to the garrison of these uncircumcised; for there is no restraint to Yahweh to save by many or by few.' Notice Jonathan's theology. He did not say, 'God has to save us because we are brave.' He said, 'It may be that Yahweh will work for us.' He knew God was sovereign, but he also knew God's capacity is never limited by arithmetic.\n\nTwo men—just a prince and his armor-bearer crawling on hands and knees up a rocky cliff—attacked an entrenched enemy outpost. And when they struck down twenty men, heaven joined the fight! God sent a holy earthquake that turned the entire Philistine army into a terrified, fleeing mob. Centuries later, King Asa prayed with that exact same theology against an army of one million Ethiopians (2 Chronicles 14:11). God is never intimidated by minority status, small budgets, or overwhelming obstacles. When one or two believers step out in holy obedience, God moves heaven and earth."
+    },
+    "lessons": [
+      {
+        "lesson": "God's power to save is never restricted by human numbers, budgets, or odds.",
+        "verse": "1 Samuel 14:6",
+        "detail": "Jonathan stepped out against an entire garrison with only his armor-bearer, declaring that numbers mean nothing to God.",
+        "question": "Are you allowing small numbers, lack of resources, or intimidating odds to keep you from obeying God?"
+      },
+      {
+        "lesson": "Surround yourself with loyal, faith-filled companions who share your spiritual vision.",
+        "verse": "1 Samuel 14:7",
+        "detail": "The armor-bearer immediately pledged total loyalty: 'Do all that is in your heart... behold, I am with you according to your heart.'",
+        "question": "Do your closest friends encourage your faith in God or do they reinforce your fears and doubts?"
+      },
+      {
+        "lesson": "When believers take steps of faith, God often sends supernatural breakthroughs to complete the victory.",
+        "verse": "1 Samuel 14:15, 23",
+        "detail": "When Jonathan and his armor-bearer struck down the outpost, God sent an earthquake and divine panic that routed the entire enemy army.",
+        "question": "What step of faith is God waiting for you to take before He releases His supernatural power?"
+      },
+      {
+        "lesson": "Beware of legalistic, self-imposed religious burdens that drain the strength of God's people.",
+        "verse": "1 Samuel 14:24, 29-30",
+        "detail": "Saul's foolish curse forbidding food weakened his soldiers, while Jonathan's taste of honey brightened his eyes.",
+        "question": "Are you binding yourself or others with unnecessary, legalistic rules that hinder true spiritual vitality?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What immortal statement of faith did Jonathan make to his armor-bearer before climbing the cliff at Michmash?",
+        "options": [
+          "'We must retreat until our army has 10,000 swords'",
+          "'There is no restraint to Yahweh to save by many or by few'",
+          "'Let us bargain with the Philistine lords'",
+          "'If we die, Saul will avenge us'"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 14:6",
+        "explanation": "Jonathan declared: 'for there is no restraint to Yahweh to save by many or by few.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "What response from the Philistine sentries did Jonathan take as the sign that God had delivered them into his hand?",
+        "options": [
+          "If they threw down their spears",
+          "If they said: 'Come up to us, and we will show you a thing'",
+          "If they blew a horn",
+          "If they offered them bread and wine"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 14:10-12",
+        "explanation": "If the sentries said 'Come up to us,' Jonathan knew Yahweh had delivered them into Israel's hands."
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "How did God supernaturally intervene after Jonathan and his armor-bearer struck down the first twenty Philistines?",
+        "options": [
+          "A pillar of fire consumed their camp",
+          "An earthquake shook the ground and a divine panic threw the Philistines into total confusion",
+          "The Jordan River flooded the valley",
+          "A swarm of hornets drove them out"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 14:15",
+        "explanation": "There was trembling in the camp and among all the people; the earth quaked, producing an exceeding great trembling from God."
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "Why did the people of Israel step in and rescue Jonathan from being executed by his father King Saul?",
+        "options": [
+          "Because Jonathan paid a heavy ransom in gold",
+          "Because Jonathan had worked with God that day to accomplish a great salvation for Israel",
+          "Because Samuel ordered Saul to step down",
+          "Because the Philistines had signed a peace treaty"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 14:45",
+        "explanation": "The people said: 'Shall Jonathan die, who has worked this great salvation in Israel? Far from it!... he has worked with God this day.'"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: In 2 Chronicles 14, King Asa defeated an army of one million Ethiopians by relying on his superior cavalry.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Chronicles 14:11-12",
+        "explanation": "False. King Asa cried to Yahweh: 'there is no one besides you to help, between the mighty and him who has no strength... for we rely on you.' And Yahweh struck the Ethiopians."
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Mighty God of angel armies, You are never limited by numbers, wealth, human connections, or military odds. Deliver me from the paralyzing fear of being outnumbered or under-resourced. Give me the audacious faith of Jonathan and the unwavering loyalty of his armor-bearer. Teach me to step out in holy obedience, knowing that when I take one step of faith, You are able to shake the earth. Let my life be a living testimony that there is no restraint to Yahweh to save by many or by few.",
+      "versePrayerLine": "Lord, make Jonathan's bold declaration my constant anchor: 'there is no restraint to Yahweh to save by many or by few' (1 Samuel 14:6).",
+      "prompt": "Identify any intimidating challenge where you feel outnumbered or under-equipped, speaking Jonathan's truth over that obstacle in faith."
+    }
+  },
+  "112": {
+    "day": 112,
+    "character": "Saul",
+    "season": "The Incomplete Obedience with Agag",
+    "theme": "Partial obedience is complete disobedience; religious rituals can never substitute for a surrendered will.",
+    "memoryVerse": {
+      "reference": "1 Samuel 15:22",
+      "text": "Samuel said, 'Has Yahweh as great delight in burnt offerings and sacrifices, as in obeying Yahweh’s voice? Behold, to obey is better than sacrifice, and to listen than the fat of rams.'",
+      "whyItMatters": "God values heartfelt, total obedience far more than religious ceremonies and hollow spiritual excuses.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "delight",
+          "sacrifices",
+          "obeying",
+          "obey",
+          "better",
+          "sacrifice"
+        ],
+        "firstLetters": "S s, 'H Y a g d i b o a s, a i o Y v? B, t o i b t s, a t l t t f o r.'"
+      }
+    },
+    "profile": {
+      "title": "Saul: The Bleating Sheep of Amalek, the Torn Robe, and Final Rejection",
+      "who": "King Saul, ordered by God through Samuel to execute total divine judgment on the Amalekites for their ruthless ambush of Israel in the wilderness, who spared King Agag and the best of the livestock, resulting in God stripping the kingdom from him forever.",
+      "whenAndWhere": "The Negev desert and Gilgal, circa 1045 BC.",
+      "family": "King over Israel; rejected by Yahweh; mourned by Samuel.",
+      "keyMoments": [
+        "Samuel brought a direct divine decree: God remembered what Amalek did to Israel, ambushing the weary from behind at Rephidim (Exodus 17; Deuteronomy 25).",
+        "Saul was commanded to strike Amalek and utterly destroy (cherem) all they had: man and woman, infant and nursing child, ox and sheep, camel and donkey.",
+        "Saul assembled 210,000 warriors, warned the allied Kenites to depart, and routed the Amalekites from Havilah to Shur.",
+        "However, **Saul and the people spared Agag**, and the best of the sheep, oxen, fatlings, and lambs—destroying only what was vile and worthless.",
+        "The word of Yahweh came to Samuel: 'It grieves me that I have set up Saul to be king; for he has turned back from following me, and has not performed my commandments.' Samuel was angry and cried to Yahweh all night.",
+        "Samuel rose early to meet Saul; Saul had gone to Carmel to set up a monument to himself, then went to Gilgal.",
+        "Saul greeted Samuel with self-righteous boastfulness: 'Blessed are you by Yahweh! I have performed the commandment of Yahweh.'",
+        "Samuel delivered the devastating, sarcastic diagnostic: **'What then is this bleating of the sheep in my ears, and the lowing of the oxen which I hear?'**",
+        "Saul shifted blame to his soldiers: 'The people spared the best of the sheep and oxen to sacrifice to Yahweh your God.'",
+        "Samuel silenced him: 'Has Yahweh as great delight in burnt offerings and sacrifices as in obeying Yahweh's voice? **Behold, to obey is better than sacrifice, and to listen than the fat of rams. For rebellion is as the sin of witchcraft, and stubbornness is as idolatry.**'",
+        "Because Saul rejected the word of Yahweh, Yahweh rejected him from being king; as Samuel turned to leave, Saul grabbed the hem of his robe and it tore; Samuel said: 'Yahweh has torn the kingdom of Israel from you this day, and has given it to a neighbor of yours who is better than you.'",
+        "Samuel personally executed Agag before Yahweh in Gilgal, returned to Ramah, and saw Saul no more until the day of his death, though Samuel mourned for Saul."
+      ],
+      "strengths": [
+        "Achieved military victory over the Amalekites in the field."
+      ],
+      "failures": [
+        "Selective, partial obedience treated as full compliance.",
+        "Monumental pride: erected a monument to himself at Carmel.",
+        "Blamed his own people, claiming disobedient plunder was meant for religious sacrifice.",
+        "Cared more about public reputation before the elders than genuine repentance before God."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "1 Samuel 15",
+        "title": "Saul Spares Agag, the Bleating Sheep, and God's Rejection",
+        "verses": [
+          {
+            "number": 3,
+            "text": "'Now go and strike Amalek, and utterly destroy all that they have, and don't spare them; but kill both man and woman, infant and nursing child, ox and sheep, camel and donkey.'"
+          },
+          {
+            "number": 9,
+            "text": "But Saul and the people spared Agag, and the best of the sheep, and of the cattle, and of the fatlings, and the lambs, and all that was good, and wouldn't utterly destroy them: but everything that was vile and refuse, that they destroyed utterly."
+          },
+          {
+            "number": 11,
+            "text": "'It grieves me that I have set up Saul to be king; for he has turned back from following me, and has not performed my commandments.' Samuel was angry; and he cried to Yahweh all night."
+          },
+          {
+            "number": 13,
+            "text": "Samuel came to Saul; and Saul said to him, 'Blessed are you by Yahweh! I have performed the commandment of Yahweh.'"
+          },
+          {
+            "number": 14,
+            "text": "Samuel said, 'What then is this bleating of the sheep in my ears, and the lowing of the oxen which I hear?'"
+          },
+          {
+            "number": 15,
+            "text": "Saul said, 'They have brought them from the Amalekites; for the people spared the best of the sheep and of the cattle, to sacrifice to Yahweh your God. We have utterly destroyed the rest.'"
+          },
+          {
+            "number": 22,
+            "text": "Samuel said, 'Has Yahweh as great delight in burnt offerings and sacrifices, as in obeying Yahweh's voice? Behold, to obey is better than sacrifice, and to listen than the fat of rams."
+          },
+          {
+            "number": 23,
+            "text": "'For rebellion is as the sin of witchcraft, and stubbornness is as idolatry and teraphim. Because you have rejected Yahweh's word, he has also rejected you from being king.'"
+          },
+          {
+            "number": 26,
+            "text": "Samuel said to Saul, 'I will not return with you; for you have rejected Yahweh's word, and Yahweh has rejected you from being king over Israel.'"
+          },
+          {
+            "number": 28,
+            "text": "Samuel said to him, 'Yahweh has torn the kingdom of Israel from you this day, and has given it to a neighbor of yours who is better than you.'"
+          }
+        ]
+      },
+      {
+        "reference": "Micah 6",
+        "title": "What God Truly Requires: Justice, Mercy, and Humility",
+        "verses": [
+          {
+            "number": 6,
+            "text": "With what shall I come before Yahweh, and bow myself before the exalted God? Shall I come before him with burnt offerings, with calves a year old?"
+          },
+          {
+            "number": 7,
+            "text": "Will Yahweh be pleased with thousands of rams? With tens of thousands of rivers of oil? Shall I give my firstborn for my disobedience? The fruit of my body for the sin of my soul?"
+          },
+          {
+            "number": 8,
+            "text": "He has shown you, O man, what is good. What does Yahweh require of you, but to act justly, to love mercy, and to walk humbly with your God?"
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "To Obey Is Better Than Sacrifice: Partial Obedience Is Total Rebellion",
+      "reflection": "1 Samuel 15 contains one of the most searching spiritual mirrors in all of Scripture. God gave King Saul a clear, unambiguous command: utterly destroy Amalek. But Saul and his army kept King Agag alive as a royal trophy, along with the finest cattle, sheep, and lambs. They only destroyed what was worthless and vile.\n\nWhen Samuel arrived, Saul greeted him with astonishing self-deception: 'Blessed are you by Yahweh! I have performed the commandment of Yahweh.' Saul honestly believed that doing 90% of what God said counted as obedience! But Samuel cut through the delusion with eleven unforgettable words: 'What then is this bleating of the sheep in my ears?' Saul's disobedience was noisy; the bleating sheep gave him away.\n\nNotice Saul's immediate spin: 'The people spared them to sacrifice to Yahweh your God.' He blamed his soldiers, and he cloaked his greed in the guise of religious worship. Samuel's response dismantled the excuse forever: 'Has Yahweh as great delight in sacrifices as in obeying His voice? Behold, to obey is better than sacrifice... for rebellion is as the sin of witchcraft, and stubbornness is as idolatry.' You cannot buy off God with religious rituals, church attendance, or generous donations while withholding simple obedience. God does not want your sheep; He wants your surrendered heart."
+    },
+    "lessons": [
+      {
+        "lesson": "Partial obedience is complete disobedience in the eyes of a holy God.",
+        "verse": "1 Samuel 15:9, 13-14",
+        "detail": "Saul claimed he had obeyed God while sparing Agag and the best livestock; God viewed his selective compliance as total rebellion.",
+        "question": "Is there an area of your life where you are obeying God partially while holding back what pleases your flesh?"
+      },
+      {
+        "lesson": "You cannot cover up disobedience with religious activities or pious excuses.",
+        "verse": "1 Samuel 15:15, 22",
+        "detail": "Saul argued that the spared sheep were intended for religious sacrifices, but Samuel declared that obedience is far better than sacrifice.",
+        "question": "Do you ever use religious duties, donations, or busy ministry to compensate for unaddressed disobedience?"
+      },
+      {
+        "lesson": "Rebellion and stubbornness are viewed by God as equivalent to witchcraft and idolatry.",
+        "verse": "1 Samuel 15:23",
+        "detail": "When we insist on our own will above God's Word, we are essentially making an idol out of our own desires.",
+        "question": "Are you stubbornly holding onto your own way in defiance of the clear guidance of Scripture?"
+      },
+      {
+        "lesson": "What God truly requires is justice, mercy, and a humble walk with Him.",
+        "verse": "Micah 6:6-8",
+        "detail": "Micah reiterates Samuel's truth: God is not impressed by rivers of sacrificial oil, but requires a heart that acts justly and walks humbly.",
+        "question": "How can you cultivate a heart that walks humbly and obediently with God in your daily routines?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What specific command did God give to Saul regarding the Amalekites in 1 Samuel 15:3?",
+        "options": [
+          "To tax them and make them vassals",
+          "To utterly destroy Amalek and all they had without sparing them",
+          "To convert them to worship the God of Israel",
+          "To capture their king and bring him to Shiloh"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 15:3",
+        "explanation": "God commanded Saul to strike Amalek and utterly destroy all they had, sparing nothing."
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "What did Saul and the people spare instead of completely destroying as commanded?",
+        "options": [
+          "The gold temple ornaments of Amalek",
+          "King Agag, and the best of the sheep, cattle, fatlings, and lambs",
+          "The Amalekite chariot factory",
+          "The ancient library of Havilah"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 15:9",
+        "explanation": "Saul and the people spared King Agag and the best of the sheep, cattle, and all that was good, destroying only what was vile."
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "What was Samuel's sharp diagnostic reply when Saul claimed he had performed Yahweh's commandment?",
+        "options": [
+          "'Where is the Ark of the Covenant?'",
+          "'What then is this bleating of the sheep in my ears, and the lowing of the oxen which I hear?'",
+          "'Peace be to you, righteous king'",
+          "'Show me your silver plunder'"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 15:14",
+        "explanation": "Samuel asked: 'What then is this bleating of the sheep in my ears, and the lowing of the oxen which I hear?'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What sins does Samuel compare to rebellion and stubbornness in 1 Samuel 15:23?",
+        "options": [
+          "Theft and lying",
+          "The sin of witchcraft and the iniquity of idolatry",
+          "Cowardice and laziness",
+          "Drunkenness and gluttony"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 15:23",
+        "explanation": "Samuel stated: 'For rebellion is as the sin of witchcraft, and stubbornness is as idolatry and teraphim.'"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: According to Micah 6:8, God's primary requirement is that we offer ten thousand rivers of oil.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Micah 6:7-8",
+        "explanation": "False. Micah 6:8 says: 'What does Yahweh require of you, but to act justly, to love mercy, and to walk humbly with your God?'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Searcher of hearts and Lord of truth, deliver me from the blinding deception of partial obedience. Forgive me for the times I have claimed to obey You while quietly holding back areas of compromise, excusing my sins with religious justifications. I confess that to obey is better than sacrifice, and to listen is better than any outward offering. Cleanse my heart from stubbornness and rebellion. Grant me a willing, surrendered spirit that delights to do Your will completely.",
+      "versePrayerLine": "Lord, carve Samuel's eternal truth upon my conscience: 'to obey is better than sacrifice, and to listen than the fat of rams' (1 Samuel 15:22).",
+      "prompt": "Examine your life for any 'bleating sheep'—unaddressed compromises that contradict your confession of faith—and surrender them to Christ."
+    }
+  },
+  "113": {
+    "day": 113,
+    "character": "David",
+    "season": "Anointed in Secret: The Heart God Looks Upon",
+    "theme": "God bypasses human standards of stature and appearance to seek out and anoint a heart fully loyal to Him.",
+    "memoryVerse": {
+      "reference": "1 Samuel 16:7",
+      "text": "Yahweh said to Samuel, 'Don't look on his face, or on the height of his stature; because I have rejected him: for Yahweh sees not as man sees; for man looks at the outward appearance, but Yahweh looks at the heart.'",
+      "whyItMatters": "Human standards judge by stature and pedigree, but God's eternal choice rests solely on the inner posture of the heart.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "Samuel",
+          "stature",
+          "appearance",
+          "looks",
+          "heart"
+        ],
+        "firstLetters": "Y s t S, 'D l o h f, o o t h o h s; b I h r h: f Y s n a m s; f m l a t o a, b Y l a t h.'"
+      }
+    },
+    "profile": {
+      "title": "David: The Bethlehem Shepherd Boy and the Horn of Oil",
+      "who": "David, youngest son of Jesse the Bethlehemite, overlooked by his own father and brothers while tending sheep in the wilderness, summoned to Samuel's sacrificial feast and anointed king of Israel.",
+      "whenAndWhere": "Bethlehem of Judah, circa 1040 BC.",
+      "family": "Eighth and youngest son of Jesse; brother to Eliab, Abinadab, Shimea, and others; descendant of Boaz and Ruth.",
+      "keyMoments": [
+        "Yahweh commanded mourning Samuel: 'How long will you mourn for Saul, seeing I have rejected him from being king over Israel? Fill your horn with oil, and go; I will send you to Jesse the Bethlehemite, for I have provided a king for myself among his sons.'",
+        "Samuel arrived at Bethlehem with a heifer, and the elders of the town trembled, asking: 'Do you come peaceably?' Samuel answered: 'Peaceably; I have come to sacrifice to Yahweh.'",
+        "When Samuel saw Jesse's firstborn Eliab, tall and handsome, he thought: 'Surely Yahweh's anointed is before him!'",
+        "Yahweh checked him: 'Don't look on his face, or on the height of his stature; because I have rejected him: for man looks at the outward appearance, but Yahweh looks at the heart.'",
+        "Jesse passed seven of his sons before Samuel, but Samuel said: 'Yahweh has not chosen these. Are all your children here?'",
+        "Jesse replied dismissively: 'There remains yet the youngest, and behold, he is keeping the sheep.'",
+        "Samuel ordered: 'Send and fetch him; for we will not sit down until he comes here.'",
+        "David arrived—ruddy, with beautiful eyes and handsome—and Yahweh said: 'Arise, anoint him; for this is he.'",
+        "Samuel took the horn of oil and anointed him in the midst of his brothers; **and the Spirit of Yahweh rushed upon David from that day forward.**",
+        "Meanwhile, the Spirit of Yahweh departed from Saul, and a distressing spirit from Yahweh tormented him; Saul's servants recommended finding a skilled lyre player, and David was brought to court to play his harp and bring Saul spiritual relief."
+      ],
+      "strengths": [
+        "A heart formed in solitude: cultivated deep intimacy, worship, and prayer while watching sheep.",
+        "Humble contentment: content to be forgotten in the sheepfold until God elevated him.",
+        "Filled with the Spirit of Yahweh and gifted in sacred music and warfare."
+      ],
+      "failures": [
+        "None noted in his youth; a golden season of hidden preparation."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "1 Samuel 16",
+        "title": "Samuel Anoints Young David at Bethlehem and David Enters Saul's Court",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Yahweh said to Samuel, 'How long will you mourn for Saul, seeing I have rejected him from being king over Israel? Fill your horn with oil, and go. I will send you to Jesse the Bethlehemite; for I have provided a king for myself among his sons.'"
+          },
+          {
+            "number": 6,
+            "text": "It came to pass, when they had come, that he looked at Eliab, and said, 'Surely Yahweh's anointed is before him.'"
+          },
+          {
+            "number": 7,
+            "text": "But Yahweh said to Samuel, 'Don't look on his face, or on the height of his stature; because I have rejected him: for Yahweh sees not as man sees; for man looks at the outward appearance, but Yahweh looks at the heart.'"
+          },
+          {
+            "number": 11,
+            "text": "Samuel said to Jesse, 'Are all your children here?' He said, 'There remains yet the youngest, and behold, he is keeping the sheep.' Samuel said to Jesse, 'Send and get him; for we will not sit down until he comes here.'"
+          },
+          {
+            "number": 12,
+            "text": "He sent, and brought him in. Now he was ruddy, and withal of a beautiful face, and goodly to look on. Yahweh said, 'Arise, anoint him; for this is he.'"
+          },
+          {
+            "number": 13,
+            "text": "Then Samuel took the horn of oil, and anointed him in the middle of his brothers: and Yahweh's Spirit came mightily on David from that day forward. So Samuel rose up, and went to Ramah."
+          },
+          {
+            "number": 14,
+            "text": "Now Yahweh's Spirit departed from Saul, and an evil spirit from Yahweh troubled him."
+          },
+          {
+            "number": 23,
+            "text": "It happened, when the evil spirit from God was on Saul, that David took the harp, and played with his hand: so Saul was refreshed, and was well, and the evil spirit departed from him."
+          }
+        ]
+      },
+      {
+        "reference": "Psalm 23",
+        "title": "Yahweh Is My Shepherd: The Song of the Bethlehem Pastures",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Yahweh is my shepherd: I shall lack nothing."
+          },
+          {
+            "number": 2,
+            "text": "He makes me lie down in green pastures. He leads me beside still waters."
+          },
+          {
+            "number": 3,
+            "text": "He restores my soul. He guides me in the paths of righteousness for his name's sake."
+          },
+          {
+            "number": 4,
+            "text": "Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me. Your rod and your staff, they comfort me."
+          },
+          {
+            "number": 5,
+            "text": "You prepare a table before me in the presence of my enemies. You have anointed my head with oil. My cup runs over."
+          },
+          {
+            "number": 6,
+            "text": "Surely goodness and loving kindness shall follow me all the days of my life; and I will dwell in Yahweh's house forever."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "God Prepares His Champions in Solitude Before He Anoints Them in Public",
+      "reflection": "1 Samuel 16 introduces the greatest king in Israel's history in the most unassuming way. When Samuel arrived at Bethlehem to anoint Israel's next king, Jesse lined up his sons by age and physical impressive stature. First came Eliab—tall, regal, and imposing. Samuel looked at him and thought, 'Surely this is the Lord's anointed!' But God interrupted Samuel with an eternal diagnostic: **'Man looks at the outward appearance, but Yahweh looks at the heart.'**\n\nSeven impressive brothers passed by, and God said 'No' to every single one. In fact, Jesse had not even bothered to invite his youngest son David to the feast! David was left out in the dusty scrubland, doing the smelly, dangerous work of guarding sheep. In his father's eyes, he was an afterthought; in his brothers' eyes, he was an errand boy. But in God's eyes, David was the chosen king!\n\nWhile David was watching sheep, what was he doing? He was writing songs like Psalm 23: 'Yahweh is my shepherd; I shall lack nothing.' He was practicing with his sling, fighting lions and bears, and cultivating deep, secret devotion to God. God does not look for social media followers, impressive resumes, or towering physical height. He looks for a heart that loves Him in private. If you feel overlooked, forgotten, or hidden in an obscure season today, take heart: God sees your faithfulness in the sheepfold, and when His time arrives, He will send for you."
+    },
+    "lessons": [
+      {
+        "lesson": "God's evaluation of human worth is based entirely on inner character, not external stature.",
+        "verse": "1 Samuel 16:7",
+        "detail": "Samuel was drawn to Eliab's height, but God reminded him that heaven inspects the integrity of the heart.",
+        "question": "Are you investing more time cultivating your outward image or your inner heart before God?"
+      },
+      {
+        "lesson": "Hidden seasons of faithfulness in obscure places prepare you for public assignments.",
+        "verse": "1 Samuel 16:11; Psalm 23:1-3",
+        "detail": "David learned worship, courage, and shepherd leadership in the lonely fields before he was ever anointed king.",
+        "question": "How are you stewarding the quiet, unglamorous responsibilities God has entrusted to you right now?"
+      },
+      {
+        "lesson": "When God chooses you, no human oversight or dismissal can hinder His divine promotion.",
+        "verse": "1 Samuel 16:11-12",
+        "detail": "Jesse forgot to invite David, but Samuel refused to sit down until the overlooked shepherd boy arrived.",
+        "question": "Do you trust that God can elevate and open doors for you without you needing to manipulate human opinions?"
+      },
+      {
+        "lesson": "The presence and power of the Holy Spirit bring peace and refreshment in spiritual warfare.",
+        "verse": "1 Samuel 16:13, 23",
+        "detail": "When David played his lyre under the Spirit's anointing, the tormenting spirit departed from Saul.",
+        "question": "How can you use your gifts, music, and prayers to minister Christ's peace to troubled people around you?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What eternal spiritual contrast did God speak to Samuel regarding Eliab's outward appearance in 1 Samuel 16:7?",
+        "options": [
+          "'The firstborn must always inherit the throne'",
+          "'Man looks at the outward appearance, but Yahweh looks at the heart'",
+          "'Kings must be taller than common men'",
+          "'Eliab's wisdom surpasses all his brothers'"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 16:7",
+        "explanation": "Yahweh said: 'for Yahweh sees not as man sees; for man looks at the outward appearance, but Yahweh looks at the heart.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "Where was young David when Samuel asked Jesse if all his sons were present at the sacrifice?",
+        "options": [
+          "Studying under the priests in Shiloh",
+          "Out in the wilderness keeping the sheep",
+          "Trading goods in Jerusalem",
+          "Hiding among the baggage"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 16:11",
+        "explanation": "Jesse replied: 'There remains yet the youngest, and behold, he is keeping the sheep.'"
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "What supernatural event took place the moment Samuel poured the horn of oil on David's head?",
+        "options": [
+          "An earthquake shook Bethlehem",
+          "Yahweh's Spirit came mightily on David from that day forward",
+          "David was struck with temporary blindness",
+          "The Philistine army surrendered immediately"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 16:13",
+        "explanation": "1 Samuel 16:13 states: 'Samuel took the horn of oil... and Yahweh's Spirit came mightily on David from that day forward.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What skill brought young David into King Saul's royal court initially?",
+        "options": [
+          "His skill as a chariot mechanic",
+          "His skill playing the harp / lyre to bring spiritual relief to Saul",
+          "His skill in foreign diplomacy",
+          "His ability to interpret dreams"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 16:18, 23",
+        "explanation": "David was summoned because he was a cunning player on the harp, refreshing Saul when the distressing spirit troubled him."
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: According to Psalm 23:1, David wrote that because Yahweh is his shepherd, he lives in constant lack and anxiety.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Psalm 23:1",
+        "explanation": "False. Psalm 23:1 triumphantly declares: 'Yahweh is my shepherd: I shall lack nothing.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord God of David, You see not as man sees. Human eyes look at outward credentials, social status, physical appearance, and human acclaim; but Your holy eyes search the deep chambers of the heart. Forgive me for the times I have felt overlooked or insecure because I did not measure up to the world's standards. Purify my heart today. Give me the quiet faithfulness of the sheepfold, loving and worshiping You in secret. Let Your Holy Spirit rest mightily upon me as I shepherd whatever You have placed in my care.",
+      "versePrayerLine": "Lord, anchor this truth in my soul: 'man looks at the outward appearance, but Yahweh looks at the heart' (1 Samuel 16:7). Make my heart pure before You.",
+      "prompt": "Thank God that He sees your hidden faithfulness in quiet seasons, asking Him to purify your motives and thoughts."
+    }
+  },
+  "114": {
+    "day": 114,
+    "character": "David",
+    "season": "Goliath and the Battle That Belongs to the Lord",
+    "theme": "Giants fall when faith looks beyond overwhelming human weapons to the almighty covenant name of the Living God.",
+    "memoryVerse": {
+      "reference": "1 Samuel 17:47",
+      "text": "...and that all this assembly may know that Yahweh doesn't save with sword and spear; for the battle is Yahweh’s, and he will give you into our hand.",
+      "whyItMatters": "Our greatest spiritual victories are won not by human weaponry, but by trusting the sovereign covenant power of God.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "know",
+          "Yahweh",
+          "sword",
+          "spear",
+          "battle"
+        ],
+        "firstLetters": "...a t a t a m k t Y d s w s a s; f t b i Y, a h w g y i o h."
+      }
+    },
+    "profile": {
+      "title": "David: The Valley of Elah, Five Smooth Stones, and the Defeat of Goliath",
+      "who": "Teenage David, visiting the battlefront to deliver bread and cheese to his older brothers, who confronted and decapitated Goliath of Gath, a nine-foot-nine Philistine champion armed with bronze armor and an iron spearhead, armed only with a shepherd's staff, sling, and faith in Yahweh.",
+      "whenAndWhere": "The Valley of Elah between Socoh and Azekah in Judah, circa 1035 BC.",
+      "family": "Youngest son of Jesse; brother of Eliab (who rebuked his holy zeal).",
+      "keyMoments": [
+        "For forty days, morning and evening, the Philistine champion Goliath stepped between the armies and defied the ranks of Israel, challenging them to single combat; Saul and all Israel were dismayed and greatly afraid.",
+        "Jesse sent David from Bethlehem with an ephah of parched grain, ten loaves, and ten cheeses for his brothers and their commander.",
+        "David heard Goliath's blasphemous defiance and was shocked by Israel's cowardice: 'Who is this uncircumcised Philistine, that he should defy the armies of the living God?'",
+        "His oldest brother Eliab rebuked him with burning jealousy: 'Why have you come down? With whom have you left those few sheep in the wilderness? I know your pride and the naughtiness of your heart!' David replied: 'What have I now done? Is there not a cause?'",
+        "Saul summoned David; David volunteered to fight: 'Don't let any man's heart fail because of him. Your servant will go and fight with this Philistine.'",
+        "When Saul objected that David was only a youth, David recounted his hidden training: 'Your servant kept his father's sheep; when a lion or bear came and took a lamb, I struck it and rescued it... Yahweh who delivered me out of the paw of the lion will deliver me out of the hand of this Philistine.'",
+        "Saul dressed David in his royal armor and bronze helmet, but David could not walk because he had not tested them; he took them off.",
+        "David took his shepherd's staff, chose five smooth stones from the brook, put them in his shepherd's bag, took his sling in his hand, and drew near to the giant.",
+        "Goliath cursed David by his gods, mocking his youth and staff: 'Am I a dog, that you come to me with sticks?'",
+        "David delivered his immortal covenant proclamation: 'You come to me with a sword, with a spear, and with a javelin; but **I come to you in the name of Yahweh of Armies, the God of the armies of Israel, whom you have defied!** This day Yahweh will deliver you into my hand... that all the earth may know that there is a God in Israel!'",
+        "As the giant drew near, David ran quickly toward the battle line, put his hand in his bag, took a stone, slung it, and struck the Philistine in his forehead; the stone sank into his forehead, and he fell on his face to the ground.",
+        "David ran, stood over the giant, drew Goliath's own sword from its sheath, and cut off his head; the Philistines fled, and Israel routed them all the way to Gath and Ekron."
+      ],
+      "strengths": [
+        "Jealousy for God's glory: outraged by blasphemy rather than paralyzed by fear.",
+        "Practical faith rooted in past secret victories over lions and bears.",
+        "Refused to wear another man's armor: operated in his authentic, God-given tools."
+      ],
+      "failures": [
+        "None in this battle; an archetype of Christ conquering Satan."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "1 Samuel 17",
+        "title": "Goliath's Defiance in the Valley of Elah and David's Victory",
+        "verses": [
+          {
+            "number": 4,
+            "text": "There went out a champion out of the camp of the Philistines, named Goliath, of Gath, whose height was six cubits and a span."
+          },
+          {
+            "number": 10,
+            "text": "The Philistine said, 'I defy the armies of Israel today! Give me a man, that we may fight together!'"
+          },
+          {
+            "number": 26,
+            "text": "David spoke to the men who stood by him, saying... 'For who is this uncircumcised Philistine, that he should defy the armies of the living God?'"
+          },
+          {
+            "number": 32,
+            "text": "David said to Saul, 'Don't let any man's heart fail because of him. Your servant will go and fight with this Philistine.'"
+          },
+          {
+            "number": 37,
+            "text": "David said, 'Yahweh who delivered me out of the paw of the lion, and out of the paw of the bear, he will deliver me out of the hand of this Philistine.' Saul said to David, 'Go; and Yahweh shall be with you.'"
+          },
+          {
+            "number": 40,
+            "text": "He took his staff in his hand, and chose for himself five smooth stones out of the brook, and put them in the pouch of his shepherd's bag which he had. His sling was in his hand; and he drew near to the Philistine."
+          },
+          {
+            "number": 45,
+            "text": "Then David said to the Philistine, 'You come to me with a sword, and with a spear, and with a javelin: but I come to you in the name of Yahweh of Armies, the God of the armies of Israel, whom you have defied."
+          },
+          {
+            "number": 46,
+            "text": "'Today, Yahweh will deliver you into my hand... that all the earth may know that there is a God in Israel,"
+          },
+          {
+            "number": 47,
+            "text": "'and that all this assembly may know that Yahweh doesn't save with sword and spear; for the battle is Yahweh's, and he will give you into our hand.'"
+          },
+          {
+            "number": 49,
+            "text": "David put his hand in his bag, took a stone, and slung it, and struck the Philistine in his forehead; and the stone sank into his forehead, and he fell on his face to the earth."
+          },
+          {
+            "number": 51,
+            "text": "Then David ran, and stood over the Philistine, and took his sword, and drew it out of its sheath, and killed him, and cut off his head with it. When the Philistines saw that their champion was dead, they fled."
+          }
+        ]
+      },
+      {
+        "reference": "Psalm 27",
+        "title": "Yahweh Is My Light and Salvation: Whom Shall I Fear?",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Yahweh is my light and my salvation. Whom shall I fear? Yahweh is the strength of my life. Of whom shall I be afraid?"
+          },
+          {
+            "number": 2,
+            "text": "When evildoers came at me to eat up my flesh, even my adversaries and my foes, they stumbled and fell."
+          },
+          {
+            "number": 3,
+            "text": "Though an army should encamp against me, my heart shall not fear. Though war should rise against me, even then I will be confident."
+          },
+          {
+            "number": 13,
+            "text": "I am still confident of this: I would see the goodness of Yahweh in the land of the living."
+          },
+          {
+            "number": 14,
+            "text": "Wait for Yahweh. Be strong, and let your heart take courage. Yes, wait for Yahweh."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "The Battle Belongs to the Lord: Run Toward Your Giant in the Name of Yahweh",
+      "reflection": "For forty agonizing days, King Saul and the entire Israelite army stood frozen on the hills of Elah. Every morning and every evening, a massive giant covered in hundreds of pounds of bronze armor walked down into the valley, bellowing curses against the Living God. Saul had the royal armor, the swords, and the professional military training, but he was paralyzed by terror. Why? Because Saul was looking at the giant through human eyes.\n\nThen a teenage shepherd boy walked into camp. David did not look at Goliath's height or his spear like a weaver's beam. David looked at Goliath through the lens of God's covenant: 'Who is this uncircumcised Philistine that he should defy the armies of the Living God?' David did not see a giant; he saw a mortal man picking a fight with the Almighty!\n\nNotice also what David refused to do: he refused to wear Saul's armor. Saul tried to strap his bronze helmet and heavy mail onto the boy. But David took them off: 'I cannot walk in these, for I have not tested them.' You can never fight spiritual battles in someone else's armor, formulas, or personality. David took the simple tools God had trained him with in the sheepfold: his shepherd's staff, his sling, and five smooth stones.\n\nAnd look at his battle cry: 'You come to me with sword, spear, and javelin, but I come to you in the name of Yahweh of Armies!' David did not run away; he **ran toward the battle line**. When you know that the battle belongs to the Lord, you don't cower in fear before cultural giants, medical diagnoses, or financial mountains. You run toward them in the name of Jesus, and watch God bring them down."
+    },
+    "lessons": [
+      {
+        "lesson": "Spiritual vision looks at giant obstacles through the greatness of God, not the reverse.",
+        "verse": "1 Samuel 17:26, 45",
+        "detail": "While Israel saw a giant too big to hit, David saw a target too big to miss because God is infinitely greater than Goliath.",
+        "question": "What 'giant' in your life are you currently viewing through human weakness rather than God's omnipotence?"
+      },
+      {
+        "lesson": "Private victories with God prepare you for public spiritual warfare.",
+        "verse": "1 Samuel 17:34-37",
+        "detail": "David knew God would slay the giant because God had already helped him kill the lion and the bear in the wilderness.",
+        "question": "What past deliverances has God granted you that should give you boldness in your current trial?"
+      },
+      {
+        "lesson": "Refuse to wear someone else's armor; use the unique tools God has trained you to wield.",
+        "verse": "1 Samuel 17:38-40",
+        "detail": "David discarded Saul's heavy royal armor and picked up his familiar sling and stones, walking in authentic faith.",
+        "question": "Are you trying to fight spiritual battles using worldly methods or someone else's style rather than God's gifts in you?"
+      },
+      {
+        "lesson": "The battle belongs to the Lord, and all glory must point the world to the Living God.",
+        "verse": "1 Samuel 17:46-47; Psalm 27:1",
+        "detail": "David's supreme motive was that all the earth and all Israel would know that Yahweh saves without sword and spear.",
+        "question": "In the challenges you face today, is your ultimate goal personal relief or that God's name be glorified?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "How long did Goliath defy the ranks of Israel morning and evening before David arrived?",
+        "options": [
+          "Three days",
+          "Seven days",
+          "Forty days",
+          "One whole year"
+        ],
+        "correctIndex": 2,
+        "reference": "1 Samuel 17:16",
+        "explanation": "1 Samuel 17:16 states that the Philistine drew near morning and evening, presenting himself forty days."
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "How did David's oldest brother Eliab react when he heard David asking about Goliath?",
+        "options": [
+          "He praised David's courage",
+          "His anger burned against David, accusing him of pride and insolence",
+          "He gave David his sword",
+          "He told Saul to make David a general"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 17:28",
+        "explanation": "Eliab's anger burned against David and he said: 'Why have you come down?... I know your pride and the wickedness of your heart.'"
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "Why did David take off King Saul's armor and bronze helmet after trying them on?",
+        "options": [
+          "Because they were made of gold and too expensive",
+          "Because he could not walk in them, having not tested them",
+          "Because the armor had Philistine engravings",
+          "Because Saul took them back in anger"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 17:39",
+        "explanation": "David said to Saul: 'I can't go with these; for I have not proved them.' And David took them off."
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What weapons did David declare he was bringing against Goliath's sword, spear, and javelin?",
+        "options": [
+          "A chariot of iron",
+          "The name of Yahweh of Armies, the God of the armies of Israel",
+          "Poisoned bronze arrows",
+          "A magical spell from Samuel"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 17:45",
+        "explanation": "David proclaimed: 'I come to you in the name of Yahweh of Armies, the God of the armies of Israel, whom you have defied.'"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: According to 1 Samuel 17:47, Yahweh requires advanced military technology like iron swords and chariots to save His people.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 17:47",
+        "explanation": "False. David declared: 'that all this assembly may know that Yahweh doesn't save with sword and spear; for the battle is Yahweh’s.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Yahweh of Armies, God of the impossible, You are my Light, my Salvation, and the Strength of my life! Of whom shall I be afraid? Forgive me for the times I have trembled before modern Goliaths—before financial strain, intimidation, sickness, or cultural pressure. Teach me to see every obstacle through the blazing majesty of Your covenant name. Deliver me from relying on human armor. I run toward the battle line today in the name of Jesus, trusting that the battle belongs to You.",
+      "versePrayerLine": "Lord, let David's victory cry be mine: 'the battle is Yahweh’s, and he will give you into our hand' (1 Samuel 17:47).",
+      "prompt": "Name the primary 'Goliath' confronting your family, career, or spiritual life, declaring in faith that the battle belongs to the Lord."
+    }
+  },
+  "115": {
+    "day": 115,
+    "character": "Jonathan & David",
+    "season": "A Covenant of Soul-Deep Friendship",
+    "theme": "Unselfish, covenant friendship celebrates another's calling and yields its own rights for God's purposes.",
+    "memoryVerse": {
+      "reference": "1 Samuel 18:3",
+      "text": "Then Jonathan and David made a covenant, because he loved him as his own soul.",
+      "whyItMatters": "True biblical friendship is marked by self-giving covenant love that rejoices in another's divine elevation.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "Jonathan",
+          "David",
+          "covenant",
+          "loved",
+          "soul"
+        ],
+        "firstLetters": "T J a D m a c, b h l h a h o s."
+      }
+    },
+    "profile": {
+      "title": "Jonathan and David: The Robe, the Bow, and the Stone of Ezel",
+      "who": "Jonathan, crown prince of Israel and natural heir to the throne, and young David, newly victorious hero of Israel, whose souls were knit together in an extraordinary bond of sacrificial, godly covenant friendship.",
+      "whenAndWhere": "Gibeah in Benjamin and the field by the stone Ezel, circa 1030 BC.",
+      "family": "Jonathan, son of King Saul; David, son of Jesse; their covenant extended to Jonathan's son Mephibosheth.",
+      "keyMoments": [
+        "After David defeated Goliath, Jonathan's soul was knit to the soul of David, and Jonathan loved him as his own soul.",
+        "Jonathan took off his royal robe that was on him and gave it to David, along with his military tunic, his sword, his bow, and his belt—symbolically transferring his royal right to the throne to David.",
+        "As Saul's jealousy spiraled into murderous rage, Jonathan repeatedly defended David to his father: 'Let not the king sin against his servant, against David; because he hasn't sinned against you, and his works have been very good toward you.'",
+        "When Saul threw a javelin at Jonathan for defending David, calling him the son of a perverse rebellious woman, Jonathan left the feast in fierce anger, grieving for David.",
+        "Jonathan and David devised a secret warning system at the stone Ezel: Jonathan shot three arrows as if at a target; if he told the boy 'the arrows are beyond you,' it meant Saul intended death and David must flee.",
+        "Jonathan retrieved the arrows, sent the boy back to the city, and David arose from behind the stone; the two friends fell on each other's necks and wept until David exceeded.",
+        "Jonathan said to David: 'Go in peace, forasmuch as we have sworn both of us in the name of Yahweh, saying, \"Yahweh shall be between me and you, and between my seed and your seed forever.\"'",
+        "Jonathan returned to the city, and David fled into the wilderness as an outlaw; yet their covenant remained unbreakable, later demonstrated in David's lavish grace toward Jonathan's crippled son Mephibosheth."
+      ],
+      "strengths": [
+        "Total absence of jealousy or political rivalry: freely surrendered his royal succession to David.",
+        "Endured severe verbal abuse and physical threat from his father to protect his friend.",
+        "Anchored friendship in covenant loyalty before Yahweh."
+      ],
+      "failures": [
+        "None noted; stands as the supreme biblical pattern of sacrificial, godly brotherly love."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "1 Samuel 18",
+        "title": "The Soul-Knit Covenant of Jonathan and David",
+        "verses": [
+          {
+            "number": 1,
+            "text": "It happened, when he had made an end of speaking to Saul, that the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul."
+          },
+          {
+            "number": 2,
+            "text": "Saul took him that day, and wouldn't let him go home to his father's house any more."
+          },
+          {
+            "number": 3,
+            "text": "Then Jonathan and David made a covenant, because he loved him as his own soul."
+          },
+          {
+            "number": 4,
+            "text": "Jonathan stripped himself of the robe that was on him, and gave it to David, and his clothing, even to his sword, and to his bow, and to his sash."
+          },
+          {
+            "number": 5,
+            "text": "David went out wherever Saul sent him, and behaved himself wisely: and Saul set him over the men of war, and it was good in the sight of all the people, and also in the sight of Saul's servants."
+          }
+        ]
+      },
+      {
+        "reference": "1 Samuel 20",
+        "title": "Jonathan's Covenant Arrows at the Stone Ezel and the Final Parting",
+        "verses": [
+          {
+            "number": 16,
+            "text": "So Jonathan made a covenant with the house of David, saying, 'Yahweh will require it at the hand of David's enemies.'"
+          },
+          {
+            "number": 17,
+            "text": "Jonathan caused David to swear again, for the love that he had to him; for he loved him as he loved his own soul."
+          },
+          {
+            "number": 20,
+            "text": "'I will shoot three arrows on the side of it, as though I shot at a mark.'"
+          },
+          {
+            "number": 22,
+            "text": "'But if I say this to the boy, \"Behold, the arrows are beyond you;\" go your way; for Yahweh has sent you away.'"
+          },
+          {
+            "number": 41,
+            "text": "As soon as the boy was gone, David arose out of the south, and fell on his face to the ground, and bowed himself three times: and they kissed one another, and wept with one another, until David exceeded."
+          },
+          {
+            "number": 42,
+            "text": "Jonathan said to David, 'Go in peace, forasmuch as we have sworn both of us in the name of Yahweh, saying, \"Yahweh shall be between me and you, and between my seed and your seed forever.\"' He arose and departed: and Jonathan went into the city."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Covenant Love Strips Off Its Own Robe to Crown Another",
+      "reflection": "The friendship between Jonathan and David is one of the most sublime portraits of love in human literature. Consider who Jonathan was: he was the crown prince of Israel. By all natural dynastic laws, Jonathan had every reason to view David as his greatest rival and threat. David had just slain Goliath, the crowds were singing his praises, and Saul was obsessed with eliminating him. The world's script said: 'Kill David to secure your crown.'\n\nYet look at what Jonathan did in 1 Samuel 18:4. He took off his royal prince's robe, his tunic, his sword, his bow, and his belt, and handed them to David. In the ancient world, giving someone your royal armor was the voluntary renunciation of your own royal rights. Jonathan recognized that God's anointing was on David. Instead of fighting God's will out of jealousy, Jonathan celebrated David's destiny and placed his own royal robe on David's shoulders!\n\nTrue biblical love (*hesed*) does not compete; it champions. It does not measure its own elevation by another's demotion. At the stone Ezel, when Saul's javelin confirmed his murderous intentions, Jonathan risked his life to warn David, shooting the covenant arrows and weeping with him in the open field. In Jonathan, we catch a breathtaking glimpse of Jesus Christ, who being in the very form of God, did not consider equality with God something to be grasped, but stripped Himself of His royal glory, took the form of a servant, and called us His friends."
+    },
+    "lessons": [
+      {
+        "lesson": "Godly friendship rejoices in the promotion and calling of others without jealousy.",
+        "verse": "1 Samuel 18:3-4",
+        "detail": "Jonathan voluntarily stripped off his royal robe and weapons to give them to David, willingly yielding his crown.",
+        "question": "Can you genuinely rejoice and celebrate when God blesses, promotes, or honors a friend over you?"
+      },
+      {
+        "lesson": "True covenant love is willing to absorb personal risk to protect and stand with friends.",
+        "verse": "1 Samuel 20:30-33",
+        "detail": "Jonathan endured Saul's violent rage and dodged a flying spear because he refused to betray his covenant with David.",
+        "question": "Are you a loyal friend who stands with others when they face persecution or unfair criticism?"
+      },
+      {
+        "lesson": "Covenant commitments made before God extend grace to future generations.",
+        "verse": "1 Samuel 20:42; 2 Samuel 9:1",
+        "detail": "Jonathan and David's covenant before Yahweh bore fruit years later in David's kindness to Jonathan's son Mephibosheth.",
+        "question": "Are your relationships anchored in Christ so that they leave a legacy of generational blessing?"
+      },
+      {
+        "lesson": "Jesus is the ultimate Friend who laid down His royal robes to clothe us in His righteousness.",
+        "verse": "1 Samuel 18:4; John 15:13",
+        "detail": "Jonathan prefigures Christ, who laid down His life and glory to make impoverished sinners friends of God.",
+        "question": "How does resting in Christ's unconditional friendship transform the way you love the people around you?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What symbolic act did Jonathan perform immediately after making a covenant with David in 1 Samuel 18:4?",
+        "options": [
+          "He poured holy water on David's head",
+          "He stripped off his royal robe, his tunic, sword, bow, and sash and gave them to David",
+          "He built a stone monument at Gibeah",
+          "He gave David 100 talents of silver"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 18:4",
+        "explanation": "Jonathan stripped himself of his royal robe, clothing, sword, bow, and sash, giving them to David in a symbolic transfer of royal blessing."
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "What secret signal did Jonathan use at the stone Ezel to warn David that Saul intended to kill him?",
+        "options": [
+          "He lit a fire on the hilltop",
+          "He shot three arrows, telling his servant boy 'the arrows are beyond you'",
+          "He blew a ram's horn twice",
+          "He waved a purple banner"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 20:20-22",
+        "explanation": "Jonathan shot arrows and told the boy 'the arrows are beyond you,' signaling to David that danger was imminent and he must flee."
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "What violent act did King Saul commit against his own son Jonathan during the New Moon feast?",
+        "options": [
+          "He banished Jonathan to Moab",
+          "He hurled a javelin at Jonathan to strike him down",
+          "He imprisoned Jonathan in a dungeon",
+          "He stripped Jonathan of his birthright"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 20:33",
+        "explanation": "Saul cast his spear at Jonathan to strike him, whereby Jonathan knew that it was determined of his father to kill David."
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What solemn words did Jonathan speak to David as they parted in tears in 1 Samuel 20:42?",
+        "options": [
+          "'May we conquer the Philistines together'",
+          "'Go in peace... Yahweh shall be between me and you, and between my seed and your seed forever'",
+          "'Do not return until Saul is dead'",
+          "'Remember to pay me back when you become king'"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 20:42",
+        "explanation": "Jonathan said: 'Go in peace, forasmuch as we have sworn both of us in the name of Yahweh... Yahweh shall be between me and you, and between my seed and your seed forever.'"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: Jonathan hated David because David had stolen his rightful claim to the throne of Israel.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 18:1-3",
+        "explanation": "False. Jonathan loved David as his own soul, made a sacred covenant with him, and repeatedly defended David's life at great personal risk."
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord Jesus, my faithful Savior and Friend, thank You for laying down Your life for me. You stripped Yourself of Your heavenly majesty and clothed my soul in Your robe of righteousness. Deliver me from the poisonous spirit of rivalry, comparison, and jealousy. Give me the unselfish, covenant heart of Jonathan. Help me to celebrate the victories of others, to stand with those who are mistreated, and to love with a steadfast loyalty that reflects Your kingdom.",
+      "versePrayerLine": "Lord, make my friendships reflect Your covenant love: 'Jonathan and David made a covenant, because he loved him as his own soul' (1 Samuel 18:3).",
+      "prompt": "Reach out to or pray for a godly friend today, thanking God for their presence and celebrating their spiritual growth."
+    }
+  },
+  "116": {
+    "day": 116,
+    "character": "Saul",
+    "season": "The Envy That Devours the Soul",
+    "theme": "Unchecked comparison and jealousy poison the soul, turning former champions into paranoid persecutors.",
+    "memoryVerse": {
+      "reference": "1 Samuel 18:9",
+      "text": "Saul eyed David from that day and forward.",
+      "whyItMatters": "Envy is a deadly spiritual venom that blinds us to our blessings and transforms allies into enemies.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "Saul",
+          "eyed",
+          "David",
+          "day",
+          "forward"
+        ],
+        "firstLetters": "S e D f t d a f."
+      }
+    },
+    "profile": {
+      "title": "Saul: The Song of the Ten Thousands and the Javelin of Paranoia",
+      "who": "King Saul, consumed by venomous jealousy and suspicion after the women of Israel danced singing 'Saul has slain his thousands, and David his ten thousands,' hurling javelins at David and hunting him with obsessive paranoia.",
+      "whenAndWhere": "The royal court at Gibeah of Benjamin, circa 1030 BC.",
+      "family": "King of Israel; father-in-law to David (after offering Merab and Michal).",
+      "keyMoments": [
+        "As the army returned from the slaughter of the Philistines, women came out of all the cities of Israel singing with tambourines and joy: **'Saul has slain his thousands, and David his ten thousands!'**",
+        "Saul was very angry, and the saying displeased him: 'They have ascribed to David ten thousands, and to me they have ascribed but thousands; what can he have more but the kingdom?'",
+        "From that day forward, **Saul eyed David with suspicious jealousy**.",
+        "The next day, a distressing spirit from God came mightily on Saul, and he raved in the middle of his house; David played his lyre as at other times, and Saul held a javelin in his hand.",
+        "Saul hurled the javelin, thinking, 'I will pin David to the wall!' But David escaped from his presence twice.",
+        "Saul was afraid of David, because Yahweh was with David and had departed from Saul.",
+        "Saul removed David from his presence and made him a commander of a thousand, hoping the Philistines would kill him in battle.",
+        "Saul offered his elder daughter Merab, then his daughter Michal, demanding a bride price of 100 Philistine foreskins as a death trap; David brought 200, married Michal, and became even more famous.",
+        "Saul commanded his son Jonathan and all his servants to kill David; Michal helped David escape through a window when Saul sent assassins to his house.",
+        "David fled to Samuel at Naioth in Ramah; when Saul sent three waves of messengers and then came personally, the Spirit of God came on them all so that even Saul stripped off his royal clothes and lay down prophesying all that day and night."
+      ],
+      "strengths": [
+        "Capable of brief moments of conviction when confronted by truth."
+      ],
+      "failures": [
+        "Consumed by bitter envy and insecure comparison: could not celebrate another man's success.",
+        "Repeatedly attempted murder while someone was ministering music to him.",
+        "Weaponized his daughters as political pawns and death traps."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "1 Samuel 18",
+        "title": "The Women's Song of Thousands and Tens of Thousands, and Saul's Envy",
+        "verses": [
+          {
+            "number": 6,
+            "text": "It happened as they came, when David returned from the slaughter of the Philistine, that the women came out of all the cities of Israel, singing and dancing, to meet king Saul, with tambourines, with joy, and with instruments of music."
+          },
+          {
+            "number": 7,
+            "text": "The women sang one to another as they played, and said, 'Saul has slain his thousands, and David his ten thousands.'"
+          },
+          {
+            "number": 8,
+            "text": "Saul was very angry, and this saying displeased him; and he said, 'They have ascribed to David ten thousands, and to me they have ascribed but thousands: and what can he have more but the kingdom?'"
+          },
+          {
+            "number": 9,
+            "text": "Saul eyed David from that day and forward."
+          },
+          {
+            "number": 10,
+            "text": "It happened on the next day, that an evil spirit from God came mightily on Saul, and he prophesied in the middle of the house: and David played with his hand, as he did day by day. Saul had his spear in his hand;"
+          },
+          {
+            "number": 11,
+            "text": "and Saul cast the spear; for he said, 'I will pin David to the wall!' David escaped from his presence twice."
+          },
+          {
+            "number": 12,
+            "text": "Saul was afraid of David, because Yahweh was with him, and was departed from Saul."
+          },
+          {
+            "number": 29,
+            "text": "Saul was yet the more afraid of David; and Saul was David's enemy continually."
+          }
+        ]
+      },
+      {
+        "reference": "1 Samuel 19",
+        "title": "Saul Orders David's Murder and Michal's Rescue",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Saul spoke to Jonathan his son, and to all his servants, that they should kill David. But Jonathan, Saul's son, delighted much in David."
+          },
+          {
+            "number": 9,
+            "text": "An evil spirit from Yahweh was on Saul, as he sat in his house with his spear in his hand; and David was playing with his hand."
+          },
+          {
+            "number": 10,
+            "text": "Saul sought to pin David to the wall with the spear; but he slipped away out of Saul's presence, and he struck the spear into the wall: and David fled, and escaped that night."
+          },
+          {
+            "number": 11,
+            "text": "Saul sent messengers to David's house, to watch him, and to kill him in the morning. Michal, David's wife, told him, saying, 'If you don't save your life tonight, tomorrow you will be killed.'"
+          },
+          {
+            "number": 12,
+            "text": "So Michal let David down through the window: and he went, and fled, and escaped."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Envy Is the Rot of the Bones: Comparison Turns Blessings into Poison",
+      "reflection": "Proverbs 14:30 warns that 'envy is rottenness of the bones.' There is no clearer case study of this disease than King Saul. Consider what had just happened: Israel had won a miraculous, nation-saving victory over Goliath and the Philistine army. Saul was king of a victorious nation, living in royal comfort. But when the women danced into town singing, 'Saul has slain his thousands, and David his ten thousands,' Saul could not celebrate the victory. \n\nAll Saul could hear was the comparison. That single catchy song poisoned his entire existence. The Bible records with terrifying brevity: 'Saul eyed David from that day and forward.' Once envy took root in Saul's heart, David was no longer his loyal servant, his son-in-law, or his lyre player; David became an obsession, an enemy, a target for his javelins.\n\nNotice the spiritual mechanics of envy: verse 12 says, 'Saul was afraid of David, because Yahweh was with him, and had departed from Saul.' Envy is always rooted in internal spiritual emptiness. Because Saul knew he had compromised and lost God's anointing, he hated seeing that anointing resting on David. When you see God blessing, promoting, or using someone else, how do you respond? If you respond with envy, you begin throwing javelins. But if you walk in humility, you recognize that God's grace is not a finite pie—another person's blessing does not diminish God's love for you."
+    },
+    "lessons": [
+      {
+        "lesson": "Comparison is a deadly spiritual trap that robs you of gratitude for God's blessings.",
+        "verse": "1 Samuel 18:8-9",
+        "detail": "Saul allowed a popular song comparing 'thousands' and 'ten thousands' to ignite bitter, murderous hatred in his heart.",
+        "question": "Are you comparing your popularity, income, or success with others instead of being grateful for what God has given you?"
+      },
+      {
+        "lesson": "Unchecked envy opens the door to demonic spiritual oppression and irrational paranoia.",
+        "verse": "1 Samuel 18:10-11",
+        "detail": "As soon as Saul harbored jealousy against David, a distressing spirit rushed in, driving him to violent mania.",
+        "question": "Is there any unresolved bitterness or jealousy in your heart that is poisoning your thoughts and relationships?"
+      },
+      {
+        "lesson": "Worldly insecurity fears the presence of God on another person's life.",
+        "verse": "1 Samuel 18:12, 28-29",
+        "detail": "Saul became increasingly terrified of David precisely because he saw that Yahweh was with David while his own soul was empty.",
+        "question": "Do you celebrate the evident work of the Holy Spirit in others, or does their spiritual vitality make you uncomfortable?"
+      },
+      {
+        "lesson": "God's protection is an impenetrable shield for His servants until their assignment is done.",
+        "verse": "1 Samuel 19:10-12",
+        "detail": "Though Saul hurled javelins and sent assassins to David's bedroom, God repeatedly provided avenues of miraculous escape.",
+        "question": "How does knowing that God shields His faithful servants give you peace against workplace politics or personal attacks?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What victory song sung by Israelite women ignited King Saul's bitter jealousy against David?",
+        "options": [
+          "'The Philistines are fallen and Saul is king'",
+          "'Saul has slain his thousands, and David his ten thousands'",
+          "'David is the lion of the tribe of Judah'",
+          "'Mighty is Saul above all kings on earth'"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 18:7",
+        "explanation": "The women sang: 'Saul has slain his thousands, and David his ten thousands,' which deeply angered Saul."
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "What weapon did Saul repeatedly hurl at David while David was playing the harp to soothe him?",
+        "options": [
+          "A bronze dagger",
+          "A royal javelin / spear",
+          "A heavy stone goblet",
+          "A poison-tipped arrow"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 18:10-11; 19:10",
+        "explanation": "Saul had his spear in his hand and cast it at David twice, seeking to pin him to the wall."
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "What dangerous bride price did Saul demand from David to marry his daughter Michal, hoping David would be killed?",
+        "options": [
+          "One thousand gold shekels",
+          "One hundred Philistine foreskins",
+          "Ten iron chariots",
+          "The sword of Goliath"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 18:25",
+        "explanation": "Saul demanded 100 Philistine foreskins, plotting that the Philistines would kill David; David brought 200."
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "Who helped David escape through a window when Saul sent assassins to surround his home at night?",
+        "options": [
+          "Samuel the prophet",
+          "His wife Michal (Saul's daughter)",
+          "Jonathan his friend",
+          "Abner the commander"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 19:11-12",
+        "explanation": "Michal let David down through the window, placing an idol in the bed to fool the messengers, allowing him to escape."
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: According to 1 Samuel 18:12, Saul loved David even more after noticing that Yahweh was with David.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 18:12",
+        "explanation": "False. 1 Samuel 18:12 states: 'Saul was afraid of David, because Yahweh was with him, and was departed from Saul.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord God of peace and contentment, search my heart and purge every trace of jealousy, comparison, and rivalry. Forgive me for the times I have allowed someone else's praise, promotion, or talent to stir discontentment in my soul. Deliver me from the spirit of Saul that eyes others with suspicion. Fill my heart with Your Holy Spirit so that I am secure in Your love. Teach me to rejoice with those who rejoice, and protect my life under the shadow of Your wings.",
+      "versePrayerLine": "Lord, deliver my mind from Saul's tragic path: 'Saul eyed David from that day and forward' (1 Samuel 18:9). Keep my heart clean and grateful.",
+      "prompt": "Confess any lingering envy toward a colleague, friend, or family member, choosing to bless and pray for them by name."
+    }
+  },
+  "117": {
+    "day": 117,
+    "character": "David",
+    "season": "The Cave of Adullam and the Band of Distressed Men",
+    "theme": "God uses the dark, lonely caves of life to forge spiritual character and raise up leaders from distressed misfits.",
+    "memoryVerse": {
+      "reference": "Psalm 142:5",
+      "text": "I cried to you, Yahweh. I said, 'You are my refuge, my portion in the land of the living.'",
+      "whyItMatters": "When all earthly support collapses and you feel utterly alone in a cave, God remains your all-sufficient portion.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "cried",
+          "Yahweh",
+          "refuge",
+          "portion",
+          "living"
+        ],
+        "firstLetters": "I c t y, Y. I s, 'Y a m r, m p i t l o t l.'"
+      }
+    },
+    "profile": {
+      "title": "David: From Gath to Adullam—The Outlaw Captain of 400 Misfits",
+      "who": "David, fleeing for his life from Saul, feigning madness at Gath before King Achish, escaping into the limestone stronghold of the Cave of Adullam, where four hundred broken, indebted, and bitter men gathered around him.",
+      "whenAndWhere": "The Cave of Adullam in the lowlands of Judah and the forest of Hereth, circa 1025 BC.",
+      "family": "Son of Jesse; his parents and entire father's household joined him at the cave for safety.",
+      "keyMoments": [
+        "David fled alone to the tabernacle town of Nob; Ahimelech the priest gave him consecrated bread and the sword of Goliath, unaware of Saul's rage.",
+        "Fleeing to Philistine territory at Gath, the servants of King Achish recognized him: 'Isn't this David the king of the land? Didn't they sing to one another, \"Saul slew thousands, and David ten thousands\"?'",
+        "David was terrified of Achish, feigned insanity before them, scratched on the doors of the gate, and let his saliva run down on his beard; Achish dismissed him as a madman.",
+        "David escaped from Gath and took refuge in the **Cave of Adullam**; when his brothers and his father's house heard, they went down there to him.",
+        "Scripture records an extraordinary muster: **'Everyone who was in distress, and everyone who was in debt, and everyone who was discontented [bitter of soul], gathered themselves to him; and he became captain over them: and there were with him about four hundred men.'**",
+        "David took his elderly parents to the king of Moab at Mizpah of Moab to protect them while he remained in the stronghold.",
+        "The prophet Gad commanded David: 'Don't stay in the stronghold; depart, and go into the land of Judah.' David obeyed and entered the forest of Hereth.",
+        "Saul, enraged at David's escape, accused his Benjamite courtiers of treason; Doeg the Edomite reported seeing Ahimelech give David bread and Goliath's sword.",
+        "Saul ordered the slaughter of the priests of Nob; when his Israelite guards refused to strike the priests of Yahweh, **Doeg the Edomite slaughtered eighty-five priests wearing linen ephods** and destroyed the town of Nob.",
+        "Only **Abiathar**, son of Ahimelech, escaped with the priestly ephod and fled to David in the cave; David comforted him: 'Stay with me, don't be afraid; for he who seeks my life seeks your life: for with me you shall be in safeguard.'"
+      ],
+      "strengths": [
+        "Transformed personal agony and abandonment into profound psalms of trust (Psalms 34, 57, 142).",
+        "Demonstrated remarkable leadership: mentored 400 broken, indebted misfits into an elite corps of mighty men.",
+        "Took filial care of his aging parents and offered sanctuary to the surviving priest Abiathar."
+      ],
+      "failures": [
+        "Feigned madness out of desperate fear at Gath; lied to Ahimelech at Nob, which inadvertently opened the door for Doeg's massacre."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "1 Samuel 21",
+        "title": "David at Nob with Ahimelech and Feigning Madness at Gath",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Then David came to Nob to Ahimelech the priest: and Ahimelech came to meet David trembling, and said to him, 'Why are you alone, and no man with you?'"
+          },
+          {
+            "number": 6,
+            "text": "So the priest gave him holy bread; for there was no bread there but the showbread, that was taken from before Yahweh, to put hot bread in the day when it was taken away."
+          },
+          {
+            "number": 9,
+            "text": "The priest said, 'The sword of Goliath the Philistine, whom you killed in the valley of Elah, behold, it is here wrapped in a cloth behind the ephod. If you will take that, take it... And David said, 'There is none like that; give it to me.'"
+          },
+          {
+            "number": 10,
+            "text": "David arose, and fled that day for fear of Saul, and went to Achish the king of Gath."
+          },
+          {
+            "number": 13,
+            "text": "He changed his behavior before them, and pretended to be mad in their hands, and scrabbled on the doors of the gate, and let his spittle fall down on his beard."
+          },
+          {
+            "number": 14,
+            "text": "Then Achish said to his servants, 'Look, you see the man is mad; why then have you brought him to me?'"
+          }
+        ]
+      },
+      {
+        "reference": "1 Samuel 22",
+        "title": "The Cave of Adullam and the Slaughter of the Priests at Nob",
+        "verses": [
+          {
+            "number": 1,
+            "text": "David therefore departed from there, and escaped to the cave of Adullam: and when his brothers and all his father's house heard it, they went down there to him."
+          },
+          {
+            "number": 2,
+            "text": "Everyone who was in distress, and everyone who was in debt, and everyone who was discontented, gathered themselves to him; and he became captain over them: and there were with him about four hundred men."
+          },
+          {
+            "number": 18,
+            "text": "The king said to Doeg, 'Turn and fall on the priests!' Doeg the Edomite turned, and he fell on the priests, and he killed on that day eighty-five persons who wore a linen ephod."
+          },
+          {
+            "number": 20,
+            "text": "One of the sons of Ahimelech the son of Ahitub, named Abiathar, escaped, and fled after David."
+          },
+          {
+            "number": 22,
+            "text": "David said to Abiathar, 'I knew on that day, when Doeg the Edomite was there, that he would surely tell Saul. I have caused the death of all the persons of your father's house."
+          },
+          {
+            "number": 23,
+            "text": "'Stay with me, don't be afraid; for he who seeks my life seeks your life; for with me you shall be in safeguard.'"
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "In Your Darkest Cave, God Forges Your Mightiest Anointing",
+      "reflection": "Look at the descent of David in 1 Samuel 21 and 22. Not long ago, he was the toast of the nation, the national hero, the son-in-law to the king. Now, he is a hunted fugitive. He is so terrified of Achish in Gath that he scratches on city gates and lets saliva drool down his beard like a lunatic. Stripped of his reputation, his wife, his mentor Samuel, and his best friend Jonathan, David retreats into a dark, cold limestone cavern—the **Cave of Adullam**.\n\nFrom inside that damp cave, David cried out in Psalm 142: 'Look on my right hand and see, for there is no one who acknowledges me; refuge has failed me; no one cares for my soul. I cried to You, Yahweh: \"You are my refuge, my portion in the land of the living!\"' When every earthly prop was knocked away, David discovered that God alone was his refuge.\n\nAnd look at the ragtag army God sent him. God did not send elite Navy SEALs or wealthy aristocrats. God sent 400 men who were in distress, in debt, and bitter of soul! They were the rejects, the bankrupt, the misfits of society. Yet David did not complain about his squad. He poured his life into them, trained them in character, worshiped with them in the cave, and transformed them into the legendary **Mighty Men of David**! If you find yourself in a dark 'cave season' today, feeling isolated and surrounded by brokenness, know this: God does His deepest construction work in the cave. What feels like exile is God's training academy for your royal future."
+    },
+    "lessons": [
+      {
+        "lesson": "When all earthly security collapses, God reveals Himself as your true and eternal portion.",
+        "verse": "Psalm 142:4-5",
+        "detail": "In the Cave of Adullam, when no human acknowledged him, David anchored his soul in Yahweh as his sole refuge.",
+        "question": "When people disappoint you and circumstances feel bleak, do you run to earthly comforts or to God as your portion?"
+      },
+      {
+        "lesson": "God's kingdom takes broken, distressed misfits and transforms them into mighty champions of grace.",
+        "verse": "1 Samuel 22:1-2",
+        "detail": "David received 400 indebted and bitter men and discipled them into an extraordinary force of righteous warriors.",
+        "question": "Do you look down on broken, struggling people, or do you see their redemptive potential under Christ's leadership?"
+      },
+      {
+        "lesson": "Own the unintended painful consequences of your decisions with humble transparency.",
+        "verse": "1 Samuel 22:22",
+        "detail": "David openly wept and took personal responsibility when his deception at Nob led to Doeg slaughtering the priests.",
+        "question": "When your mistakes inadvertently cause pain to others, do you make excuses or do you take honest responsibility?"
+      },
+      {
+        "lesson": "The cave season is not a dead end; it is God's hidden classroom of spiritual preparation.",
+        "verse": "1 Samuel 22:1-4; Psalm 34:1-4",
+        "detail": "David composed some of his most radiant psalms of praise while hiding in caves, proving that intimacy with God flourishes in trials.",
+        "question": "How can you view your current difficulties not as a punishment, but as God's training ground for future fruitfulness?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What humiliating tactic did David use to escape from King Achish of Gath when his identity was discovered?",
+        "options": [
+          "He paid a ransom of 1,000 shekels",
+          "He feigned madness, scratching on the gates and letting saliva run down his beard",
+          "He jumped over the city wall at night",
+          "He challenged Goliath's brother to a duel"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 21:13",
+        "explanation": "David was terrified of Achish and changed his behavior, pretending to be mad, scratching on doors and drooling on his beard."
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "How does 1 Samuel 22:2 describe the 400 men who gathered to David at the Cave of Adullam?",
+        "options": [
+          "Wealthy princes and scholars from Judah",
+          "Everyone who was in distress, in debt, and discontented (bitter of soul)",
+          "Elite charioteers from Egypt",
+          "High priests from Shiloh"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 22:2",
+        "explanation": "Scripture states: 'Everyone who was in distress, and everyone who was in debt, and everyone who was discontented, gathered themselves to him.'"
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "Who ruthlessly carried out Saul's order to slaughter eighty-five priests of Yahweh at Nob?",
+        "options": [
+          "Jonathan",
+          "Abner the commander",
+          "Doeg the Edomite",
+          "Achan the Benjamite"
+        ],
+        "correctIndex": 2,
+        "reference": "1 Samuel 22:18",
+        "explanation": "When Saul's guards refused to strike the priests of Yahweh, Doeg the Edomite turned and killed eighty-five priests wearing linen ephods."
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "Which son of Ahimelech escaped the massacre at Nob and fled to David with the priestly ephod?",
+        "options": [
+          "Phinehas",
+          "Abiathar",
+          "Eleazar",
+          "Zadok"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 22:20",
+        "explanation": "Abiathar, son of Ahimelech, escaped and fled after David, remaining with him as priest."
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: In Psalm 142:5, David declared that King Saul was his only hope and refuge in the cave.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Psalm 142:5",
+        "explanation": "False. David cried to Yahweh: 'You are my refuge, my portion in the land of the living.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord God of Adullam, You are my Refuge and my Portion in the land of the living! When circumstances strip away my earthly crutches, when friends fail, and when I feel enclosed in a dark cave of uncertainty, remind me that I am never alone. Thank You that You do not despise the broken, the indebted, or the distressed. Take the raw, broken pieces of my life and mold me into a vessel of honor. Let my heart overflow with worship even in the shadows of the cave.",
+      "versePrayerLine": "Lord, let David's cave prayer be my constant anchor: 'You are my refuge, my portion in the land of the living' (Psalm 142:5).",
+      "prompt": "Offer thanks to God for His presence in any lonely or difficult place in your life, trusting Him to transform your cave into a crown."
+    }
+  },
+  "118": {
+    "day": 118,
+    "character": "Abigail",
+    "season": "Peacemaking Wisdom in the Face of Foolishness",
+    "theme": "Spiritual discernment and courageous diplomacy avert catastrophic rage and protect God's servants from bloodguilt.",
+    "memoryVerse": {
+      "reference": "1 Samuel 25:32-33",
+      "text": "David said to Abigail, 'Blessed be Yahweh, the God of Israel, who sent you this day to meet me; and blessed is your discernment, and blessed are you, who have kept me this day from blood guiltiness...'",
+      "whyItMatters": "Godly peacemakers with keen spiritual discernment prevent reckless vengeance and preserve leaders for their divine destiny.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "David",
+          "Abigail",
+          "Blessed",
+          "discernment",
+          "blood",
+          "guiltiness"
+        ],
+        "firstLetters": "D s t A, 'B b Y, t G o I, w s y t d t m m; a b i y d, a b a y, w h k m t d f b g...'"
+      }
+    },
+    "profile": {
+      "title": "Abigail: The Sensible Woman of Carmel Who Intercepted David's Sword",
+      "who": "Abigail, the wife of Nabal of Carmel (a wealthy, harsh, and churlish descendant of Caleb). When her drunken husband insulted David's men and refused hospitality during sheep-shearing, Abigail acted with lightning speed, loaded pack donkeys with feast provisions, and intercepted David's armed strike force with prophetic diplomacy.",
+      "whenAndWhere": "Carmel and Maon in the Judean wilderness, circa 1020 BC.",
+      "family": "Wife of Nabal the Carmelite; later married David after Nabal's death; mother of David's second son Chileab (Daniel).",
+      "keyMoments": [
+        "Nabal had 3,000 sheep and 1,000 goats shearing at Carmel; David's men had protected Nabal's shepherds and flocks in the desert, never taking a single sheep.",
+        "David sent ten young men greeting Nabal in peace and asking for whatever food was at hand during the festive sheep-shearing.",
+        "Nabal sneered with arrogant contempt: 'Who is David? Who is the son of Jesse? There are many servants nowadays who break away from their masters!'",
+        "David's men reported the insult; David exploded in fury: 'Every man strap on his sword!' and marched with 400 armed warriors vowing to execute every male in Nabal's household before dawn.",
+        "One of the young servants ran to Abigail: 'David sent messengers out of the wilderness to greet our master; and he railed on them! But the men were very good to us... they were a wall to us both night and day.'",
+        "Abigail acted with extraordinary haste: packed 200 loaves of bread, two skins of wine, five dressed sheep, five measures of parched grain, 100 clusters of raisins, and 200 cakes of figs on donkeys, telling her servants to go ahead without informing her foolish husband.",
+        "As David marched down the mountain gorge swearing vengeance, Abigail met him, fell at his feet, and delivered one of the finest theological speeches in Scripture:",
+        "She took the blame on herself, described Nabal ('Fool is his name, and folly is with him'), presented the gift, and prophesied David's destiny: 'Yahweh will certainly make my lord an enduring house... Yahweh will sling out the souls of your enemies as from the pocket of a sling... so that this will not be a grief or cause of stumbling to my lord, that you have shed blood without cause.'",
+        "David was stopped in his tracks, praising God: 'Blessed be Yahweh who sent you this day to meet me! Blessed is your discernment, and blessed are you, who have kept me from blood guiltiness!'",
+        "Returning home, Abigail found Nabal holding a royal banquet, dead drunk; in the morning when the wine was gone out of him, she told him the whole truth; his heart died within him, and he became as stone.",
+        "About ten days later, Yahweh struck Nabal and he died; David praised God for avenging him without human bloodguilt and sent messengers to take Abigail as his wife."
+      ],
+      "strengths": [
+        "Superb spiritual discernment and swift, decisive crisis leadership.",
+        "Profited by prophetic insight: recognized that David's throne would be established forever and that vengeance belongs to God.",
+        "Humble, respectful diplomacy that disarmed 400 furious armed men."
+      ],
+      "failures": [
+        "None noted; celebrated in Jewish tradition as one of the seven great prophetesses of Israel."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "1 Samuel 25",
+        "title": "Nabal's Folly, Abigail's Wise Intercession, and God's Vengeance",
+        "verses": [
+          {
+            "number": 3,
+            "text": "Now the name of the man was Nabal; and the name of his wife Abigail: and the woman was of good understanding, and of a beautiful face: but the man was churlish and evil in his doings; and he was of the house of Caleb."
+          },
+          {
+            "number": 10,
+            "text": "Nabal answered David's servants, and said, 'Who is David? And who is the son of Jesse? There are many servants nowadays who break away every man from his master.'"
+          },
+          {
+            "number": 18,
+            "text": "Then Abigail hurried, and took two hundred loaves of bread, two bottles of wine, five sheep ready dressed, five measures of parched grain, one hundred clusters of raisins, and two hundred cakes of figs, and laid them on donkeys."
+          },
+          {
+            "number": 23,
+            "text": "When Abigail saw David, she hurried, and alighted from her donkey, and fell before David on her face, and bowed herself to the ground."
+          },
+          {
+            "number": 28,
+            "text": "'Please forgive the trespass of your handmaid: for Yahweh will certainly make my lord a sure house, because my lord fights the battles of Yahweh; and evil shall not be found in you all your days."
+          },
+          {
+            "number": 29,
+            "text": "'Though men rise up to pursue you, and to seek your soul, yet the soul of my lord shall be bound in the bundle of life with Yahweh your God; and the souls of your enemies, them shall he sling out, as from the hollow of a sling.'"
+          },
+          {
+            "number": 32,
+            "text": "David said to Abigail, 'Blessed be Yahweh, the God of Israel, who sent you this day to meet me;"
+          },
+          {
+            "number": 33,
+            "text": "and blessed is your discernment, and blessed are you, who have kept me this day from blood guiltiness, and from avenging myself with my own hand.'"
+          },
+          {
+            "number": 37,
+            "text": "It came to pass in the morning, when the wine was gone out of Nabal, that his wife told him these things, and his heart died within him, and he became as a stone."
+          },
+          {
+            "number": 38,
+            "text": "It happened about ten days after, that Yahweh struck Nabal, so that he died."
+          }
+        ]
+      },
+      {
+        "reference": "Proverbs 15",
+        "title": "A Soft Answer Turns Away Wrath and the Value of Wise Counsel",
+        "verses": [
+          {
+            "number": 1,
+            "text": "A gentle answer turns away wrath, but a harsh word stirs up anger."
+          },
+          {
+            "number": 2,
+            "text": "The tongue of the wise commends knowledge, but the mouth of fools gushes out folly."
+          },
+          {
+            "number": 16,
+            "text": "Better is little, with the fear of Yahweh, than great treasure with trouble."
+          },
+          {
+            "number": 18,
+            "text": "A wrathful man stirs up contention, but one who is slow to anger calms strife."
+          },
+          {
+            "number": 33,
+            "text": "The fear of Yahweh teaches wisdom. Before honor is humility."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "A Soft Answer Calms a Vengeful Sword: Godly Discernment Protects Your Destiny",
+      "reflection": "1 Samuel 25 is a brilliant study in contrasting characters: Nabal the arrogant fool, David the enraged warrior about to commit a disastrous mistake, and Abigail the wise, discerning peacemaker who steps between them. David was furious. He had protected Nabal's shepherds in the desert, and Nabal repaid him with insults and contempt. In his wrath, David strapped on his sword and marched with 400 men, determined to massacre every male in Nabal's household. David was about to stain his future kingship with innocent blood.\n\nThen came Abigail. Notice her qualities: Scripture describes her as a woman 'of good understanding and beautiful countenance.' When she heard of the crisis, she did not panic, complain, or lecture her drunken husband. She acted with lightning-fast generosity, packing food on donkeys and riding out to meet an armed army.\n\nAnd look at her speech in verse 28-31: it is one of the most masterful examples of prophetic diplomacy in human history. She disarmed David's rage with a gentle answer (Proverbs 15:1). She reminded David of who he was: 'You fight the battles of Yahweh! Your soul is bound in the bundle of the living with Yahweh your God!' She warned him that taking personal revenge would become a permanent stain of regret on his future conscience when God made him king. David was stopped dead in his tracks. He realized God had sent Abigail to rescue him from himself! When someone insults or wrongs you today, do not strap on a sword of vengeance. Listen to the gentle voice of wisdom: leave justice to God, who knows how to handle the Nabals of this world without you staining your hands."
+    },
+    "lessons": [
+      {
+        "lesson": "A gentle answer and humble diplomacy have the power to disarm destructive rage.",
+        "verse": "1 Samuel 25:23-24; Proverbs 15:1",
+        "detail": "Abigail fell on her face before David, speaking with deep respect and wisdom, turning away his deadly wrath.",
+        "question": "How do you respond when tempers flare in your home or workplace—with escalating anger or gentle wisdom?"
+      },
+      {
+        "lesson": "Never take personal revenge; leave retribution safely in the sovereign hands of God.",
+        "verse": "1 Samuel 25:33, 38; Romans 12:19",
+        "detail": "David held back his sword, and ten days later Yahweh struck Nabal without David shedding a single drop of blood.",
+        "question": "Are you holding onto a grudge or planning retaliation against someone who wronged you?"
+      },
+      {
+        "lesson": "Wise counselors protect leaders from committing tragic errors that stain their future legacy.",
+        "verse": "1 Samuel 25:31, 33",
+        "detail": "Abigail reminded David that shedding innocent blood would become a bitter grief on his conscience when he became king.",
+        "question": "Do you have discerning friends who love you enough to speak truth and hold you back when you are acting rashly?"
+      },
+      {
+        "lesson": "Your life is securely bound in the bundle of the living with Almighty God.",
+        "verse": "1 Samuel 25:29",
+        "detail": "Abigail articulated the magnificent truth that God preserves His servants while slinging away their enemies.",
+        "question": "Does the knowledge that your soul is bound up in God's eternal bundle give you peace against earthly threats?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "How does 1 Samuel 25:3 contrast the characters of Nabal and his wife Abigail?",
+        "options": [
+          "Nabal was a wise prophet, while Abigail was lazy",
+          "Abigail was a woman of good understanding and beautiful face, but Nabal was churlish and evil in his doings",
+          "Both were greedy worshippers of Baal",
+          "Nabal was a poor shepherd and Abigail was an Egyptian princess"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 25:3",
+        "explanation": "Scripture states: 'the woman was of good understanding, and of a beautiful face: but the man was churlish and evil in his doings.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "How did David initially react when Nabal insulted his messengers and refused hospitality?",
+        "options": [
+          "He wept and fasted for three days",
+          "He commanded 400 men to strap on their swords, vowing to kill every male in Nabal's house",
+          "He sued Nabal before the elders of Hebron",
+          "He sent Samuel to rebuke Nabal"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 25:13, 21-22",
+        "explanation": "David said: 'Every man strap on his sword!' and marched with 400 men, swearing to wipe out Nabal's household before morning."
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "What metaphor did Abigail use to describe David's eternal security in God's hands in 1 Samuel 25:29?",
+        "options": [
+          "A cedar of Lebanon planted by streams",
+          "Bound in the bundle of life with Yahweh your God, while enemies are slung out as from a sling",
+          "An eagle soaring above the tempest",
+          "A golden crown set with jewels"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 25:29",
+        "explanation": "Abigail said: 'the soul of my lord shall be bound in the bundle of life with Yahweh your God; and the souls of your enemies, them shall he sling out, as from the hollow of a sling.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "How did Nabal die ten days after Abigail told him about her meeting with David?",
+        "options": [
+          "He died in battle against Philistines",
+          "His heart died within him, he became as stone, and Yahweh struck him so that he died",
+          "He fell off his camel",
+          "David poisoned his wine"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 25:37-38",
+        "explanation": "His heart died within him and he became as stone; about ten days later, Yahweh struck Nabal and he died."
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: According to Proverbs 15:1, a harsh, aggressive word is the most effective way to calm down human anger.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Proverbs 15:1",
+        "explanation": "False. Proverbs 15:1 declares: 'A gentle answer turns away wrath, but a harsh word stirs up anger.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord God of wisdom and peace, You sent Abigail to rescue David from his own reckless anger, preserving him for his royal destiny. Give me that same gift of spiritual discernment. When insulted, criticized, or mistreated, deliver me from strapping on the sword of retaliation. Teach me to speak gentle words that turn away wrath. Remind me that vengeance belongs to You alone, and that my life is safely bound in the bundle of the living with Christ.",
+      "versePrayerLine": "Lord, let David's grateful praise be mine: 'blessed is your discernment, and blessed are you, who have kept me this day from blood guiltiness' (1 Samuel 25:33).",
+      "prompt": "Ask the Holy Spirit for the courage to act as a peacemaker in any tense relationship or conflict in your circle."
+    }
+  },
+  "119": {
+    "day": 119,
+    "character": "David",
+    "season": "Sparing Saul's Skirt at En-gedi: Refusing to Touch the Anointed",
+    "theme": "Refusing to avenge ourselves or grasp for power leaves justice safely in the hands of the Righteous Judge.",
+    "memoryVerse": {
+      "reference": "1 Samuel 24:12",
+      "text": "Yahweh judge between me and you, and Yahweh avenge me of you; but my hand shall not be on you.",
+      "whyItMatters": "True spiritual maturity refuses to take shortcuts to destiny or harm God's anointed even when provoked.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "Yahweh",
+          "judge",
+          "avenge",
+          "hand"
+        ],
+        "firstLetters": "Y j b m a y, a Y a m o y; b m h s n b o y."
+      }
+    },
+    "profile": {
+      "title": "David: The Wild Goats of En-gedi, the Cut Skirt, and the Spear at Ziph",
+      "who": "David, cornered in the rocky crags of the wild goats at En-gedi and the hill of Hachilah, who twice had King Saul completely at his mercy, yet refused to kill him, cutting off only the corner of Saul's robe and later taking his spear and water jug.",
+      "whenAndWhere": "The caves of En-gedi by the Dead Sea and the wilderness of Ziph, circa 1018 BC.",
+      "family": "Leader of 600 outlaws; supported by his nephew Abishai son of Zeruiah.",
+      "keyMoments": [
+        "Saul took 3,000 chosen men from all Israel to hunt David upon the Rocks of the Wild Goats at En-gedi.",
+        "Saul entered a deep cave to relieve himself; unbeknownst to him, David and his men were sitting in the innermost recesses of that very cave.",
+        "David's men whispered with excitement: 'Behold, the day of which Yahweh said to you, \"I will deliver your enemy into your hand, that you may do to him as it shall seem good to you!\"'",
+        "David crept up softly and cut off the corner of Saul's robe; immediately afterward, **David's heart struck him** because he had cut off Saul's skirt.",
+        "David rebuked his men: 'Yahweh forbid that I should do this thing to my lord, Yahweh's anointed, to stretch out my hand against him, seeing he is Yahweh's anointed.'",
+        "Saul rose up and left the cave; David went out after him and cried out: 'My lord the king!' falling on his face.",
+        "David showed the severed cloth: 'Look at the corner of your robe in my hand! I cut it off and didn't kill you. Know and see that there is neither evil nor rebellion in my hand... Yahweh judge between me and you, but my hand shall not be on you.'",
+        "Saul lifted up his voice and wept: 'You are more righteous than I; for you have done good to me, whereas I have done evil to you... I know well that you shall surely be king.'",
+        "Later in the wilderness of Ziph (1 Samuel 26), Saul hunted David again with 3,000 men; David and Abishai slipped into Saul's sleeping camp at midnight.",
+        "Abishai begged to pin Saul to the ground with his spear in one strike: 'God has delivered your enemy into your hand today!' But David forbade him: 'Don't destroy him; for who can stretch out his hand against Yahweh's anointed, and be guiltless?'",
+        "David took Saul's spear and water jug from beside his head, climbed an opposite mountain, and confronted Saul's general Abner for failing to guard the king, sparing Saul a second time."
+      ],
+      "strengths": [
+        "Extraordinary spiritual restraint and tender conscience: stricken even by cutting a robe.",
+        "Absolute refusal to take unholy shortcuts to his God-ordained throne.",
+        "Supreme reverence for the office of God's anointed leader, entrusting vengeance entirely to Yahweh."
+      ],
+      "failures": [
+        "None noted in these tests of mercy; displayed Christ-like forgiveness under relentless persecution."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "1 Samuel 24",
+        "title": "David Spares Saul's Life in the Cave of En-gedi",
+        "verses": [
+          {
+            "number": 2,
+            "text": "Then Saul took three thousand chosen men out of all Israel, and went to seek David and his men on the rocks of the wild goats."
+          },
+          {
+            "number": 3,
+            "text": "He came to the sheepfolds by the way, where there was a cave; and Saul went in to cover his feet. Now David and his men were abiding in the innermost parts of the cave."
+          },
+          {
+            "number": 4,
+            "text": "The men of David said to him, 'Behold, the day of which Yahweh said to you, \"Behold, I will deliver your enemy into your hand, and you shall do to him as it shall seem good to you.\"' Then David arose, and cut off the skirt of Saul's robe secretly."
+          },
+          {
+            "number": 5,
+            "text": "It happened afterward, that David's heart struck him, because he had cut off Saul's skirt."
+          },
+          {
+            "number": 6,
+            "text": "He said to his men, 'Yahweh forbid that I should do this thing to my lord, Yahweh's anointed, to stretch out my hand against him, seeing he is Yahweh's anointed.'"
+          },
+          {
+            "number": 10,
+            "text": "'Behold, this day your eyes have seen how that Yahweh had delivered you today into my hand in the cave: and some urged me to kill you; but my eye spared you; and I said, \"I will not put out my hand against my lord; for he is Yahweh's anointed.\"'"
+          },
+          {
+            "number": 12,
+            "text": "'Yahweh judge between me and you, and Yahweh avenge me of you; but my hand shall not be on you.'"
+          },
+          {
+            "number": 17,
+            "text": "He said to David, 'You are more righteous than I; for you have done good to me, whereas I have done evil to you.'"
+          }
+        ]
+      },
+      {
+        "reference": "1 Samuel 26",
+        "title": "David Spares Saul a Second Time in the Wilderness of Ziph",
+        "verses": [
+          {
+            "number": 7,
+            "text": "So David and Abishai came to the people by night: and, behold, Saul lay sleeping within the place of the wagons, with his spear stuck in the ground at his head; and Abner and the people lay around him."
+          },
+          {
+            "number": 8,
+            "text": "Then Abishai said to David, 'God has delivered up your enemy into your hand this day. Now therefore please let me strike him with the spear to the earth at one stroke, and I will not strike him the second time.'"
+          },
+          {
+            "number": 9,
+            "text": "David said to Abishai, 'Don't destroy him; for who can stretch out his hand against Yahweh's anointed, and be guiltless?'"
+          },
+          {
+            "number": 10,
+            "text": "David said, 'As Yahweh lives, Yahweh will strike him; or his day shall come to die; or he shall go down into battle and perish."
+          },
+          {
+            "number": 11,
+            "text": "'Yahweh forbid that I should stretch out my hand against Yahweh's anointed; but now please take the spear that is at his head, and the jar of water, and let us go.'"
+          },
+          {
+            "number": 12,
+            "text": "So David took the spear and the jar of water from Saul's head; and they went away: and no man saw it, nor knew it, neither did any awake; for they were all asleep, because a deep sleep from Yahweh had fallen on them."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Never Use the Devil's Knife to Carve God's Kingdom: Wait on the Righteous Judge",
+      "reflection": "The scene in the limestone cave of En-gedi is one of the highest moral peaks in the Old Testament. David had been hunted like a partridge on the mountains for years. He had slept in dirt, lost his home, and watched his men suffer. Now, in the dark cave, King Saul walks in alone, defenseless, with his back turned. David's men immediately whisper: 'Look! God has delivered your enemy into your hand! Kill him and take the throne!'\n\nNotice how easy it would have been for David to spiritualize murder. His men had a 'prophecy' ready; the circumstances looked like a providential setup; the throne was rightfully his by Samuel's anointing. But David understood something profound: **you can never use the devil's tools to build God's kingdom**. The ends never justify the means. Gaining the crown by assassinating Saul would have crowned a murderer.\n\nDavid slipped up and merely sliced off the corner of Saul's robe. And even then, verse 5 says: 'David's heart struck him.' His conscience was so tender toward God that even cutting cloth without permission convicted him. David stepped out of the cave, fell on his face, showed the cloth, and proclaimed: 'Yahweh judge between me and you, but my hand shall not be upon you.' And he repeated that exact same mercy in 1 Samuel 26 at Ziph when Abishai begged to spear Saul to the earth. When you are tempted to take shortcuts, manipulate promotions, or destroy those who persecute you, remember David at En-gedi: entrust your vindication completely into God's hands. He will strike the enemy when the time comes; keep your hands clean."
+    },
+    "lessons": [
+      {
+        "lesson": "Never take unholy shortcuts to fulfill a holy promise from God.",
+        "verse": "1 Samuel 24:4, 6",
+        "detail": "David was anointed to be king, but he refused to assassinate Saul to seize the throne ahead of God's appointed time.",
+        "question": "Are you tempted to use questionable or unethical shortcuts to achieve your career or personal goals?"
+      },
+      {
+        "lesson": "Cultivate a tender conscience that is convicted even by small compromises.",
+        "verse": "1 Samuel 24:5",
+        "detail": "David's heart struck him immediately after he merely cut off the hem of Saul's robe in the cave.",
+        "question": "Is your conscience sensitive to the Holy Spirit, or have you become callous to 'small' compromises?"
+      },
+      {
+        "lesson": "Reverence for God's authority means refusing to harm those whom God has placed in leadership.",
+        "verse": "1 Samuel 24:6; 26:9",
+        "detail": "David repeatedly refused to touch 'Yahweh's anointed,' entrusting Saul's destiny entirely to God's sovereign judgment.",
+        "question": "Do you honor authority structures and pray for leaders, even when they act unfairly toward you?"
+      },
+      {
+        "lesson": "True righteousness overcomes evil with good and heaps burning coals of conviction on enemies.",
+        "verse": "1 Samuel 24:17; Romans 12:20-21",
+        "detail": "When David spared Saul's life, Saul wept aloud and confessed that David was far more righteous than he.",
+        "question": "How can you respond with unexpected generosity and mercy to someone who has opposed or criticized you?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What did David do when King Saul entered the cave at En-gedi to relieve himself?",
+        "options": [
+          "He ran Saul through with Goliath's sword",
+          "He secretly cut off the corner of Saul's royal robe",
+          "He shouted and threw stones at Saul",
+          "He took Saul hostage and demanded the crown"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 24:4",
+        "explanation": "David arose and secretly cut off the skirt of Saul's robe, sparing his life."
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "How did David's conscience react immediately after cutting the corner of Saul's robe?",
+        "options": [
+          "He laughed with his men",
+          "David's heart struck him / smote him with conviction",
+          "He felt completely justified",
+          "He immediately went to sleep"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 24:5",
+        "explanation": "1 Samuel 24:5 records: 'It happened afterward, that David's heart struck him, because he had cut off Saul's skirt.'"
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "In 1 Samuel 26, what two items did David and Abishai take from beside Saul's head while he slept at Ziph?",
+        "options": [
+          "His crown and royal seal",
+          "His spear and his jar / cruse of water",
+          "His shield and sword",
+          "His boots and signet ring"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 26:11-12",
+        "explanation": "David took the spear that was at Saul's head and the jar of water, slipping away unnoticed."
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What was David's consistent theological reason for refusing to execute King Saul when he had the chance?",
+        "options": [
+          "He was afraid of Saul's army",
+          "He refused to stretch out his hand against Yahweh's anointed",
+          "The Philistines had forbidden civil war",
+          "Samuel told him to wait until Passover"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 24:6; 26:9",
+        "explanation": "David said: 'Yahweh forbid that I should stretch out my hand against Yahweh's anointed.'"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: Saul confessed in 1 Samuel 24:17 that David was far more righteous than he was.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 0,
+        "reference": "1 Samuel 24:17",
+        "explanation": "True. Saul wept and said to David: 'You are more righteous than I; for you have done good to me, whereas I have done evil to you.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Righteous Judge of heaven and earth, You are the God of justice, mercy, and perfect timing. Forgive me for the times I have wanted to take matters into my own hands, retaliating against those who mistreat me or forcing open doors ahead of Your schedule. Give me the holy restraint and tender conscience of David at En-gedi. Deliver me from cutting corners to reach destiny. I place all my vindication, my reputation, and my adversaries into Your hands, knowing that Your justice is perfect.",
+      "versePrayerLine": "Lord, make David's faithful declaration my own: 'Yahweh judge between me and you... but my hand shall not be on you' (1 Samuel 24:12).",
+      "prompt": "Surrender any desire for personal vengeance or self-promotion, trusting God to vindicate and promote you in His perfect time."
+    }
+  },
+  "120": {
+    "day": 120,
+    "character": "Saul",
+    "season": "Endor and the Hollow Darkness of Despair",
+    "theme": "Abandoning God's Word leads into the dark, desperate abyss of occult deception and tragic ruin.",
+    "memoryVerse": {
+      "reference": "1 Chronicles 10:13",
+      "text": "So Saul died for his trespass which he committed against Yahweh, because of the word of Yahweh, which he didn’t keep; and also because he asked counsel of one who had a familiar spirit, to inquire of them.",
+      "whyItMatters": "Turning to forbidden spiritual shortcuts when God is silent brings catastrophic confusion and final judgment.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "Saul",
+          "trespass",
+          "Yahweh",
+          "counsel",
+          "spirit"
+        ],
+        "firstLetters": "S S d f h t w h c a Y, b o t w o Y, w h d k; a a b h a c o o w h a f s, t i o t."
+      }
+    },
+    "profile": {
+      "title": "Saul: The Silence of God, the Medium of Endor, and the Shadow of Gilboa",
+      "who": "King Saul in his final tragic night, facing a massive Philistine invasion at Mount Gilboa, abandoned by God who answered him neither by dreams, nor by Urim, nor by prophets, disguising himself to consult a necromancer medium at Endor.",
+      "whenAndWhere": "Mount Gilboa and the village of Endor in the Jezreel Valley, circa 1010 BC.",
+      "family": "King over Israel; father of Jonathan, Abinadab, and Malchishua.",
+      "keyMoments": [
+        "Samuel died, and all Israel mourned and buried him in Ramah; Saul had previously expelled all mediums and spiritualists from the land in accordance with Mosaic law.",
+        "The Philistines pitched their camp at Shunem; Saul gathered all Israel at Mount Gilboa, and when he saw the massive enemy army, his heart trembled greatly.",
+        "Saul inquired of Yahweh, but **Yahweh didn't answer him, neither by dreams, nor by Urim, nor by prophets**.",
+        "In desperate panic, Saul ordered his servants: 'Seek me a woman who has a familiar spirit, that I may go to her, and inquire of her.' They told him of a medium at Endor.",
+        "Saul disguised himself in common clothes and went with two men by night to the medium, asking her to bring up Samuel from the dead.",
+        "When the woman saw an apparition, she screamed, realizing the visitor was King Saul; she saw 'a god coming up out of the earth... an old man covered with a robe.'",
+        "The spirit of Samuel spoke: 'Why have you disturbed me, to bring me up?' Saul cried: 'I am greatly distressed; for the Philistines make war against me, and God has departed from me, and answers me no more.'",
+        "Samuel delivered God's final, devastating sentence: 'Why do you ask me, seeing Yahweh has departed from you, and has become your adversary? Yahweh has torn the kingdom out of your hand, and given it to your neighbor David... Tomorrow you and your sons will be with me.'",
+        "Saul fell immediately full length on the ground in total terror and had no strength left, having eaten nothing all day and night.",
+        "The next day on Mount Gilboa, Israel was routed; Jonathan, Abinadab, and Malchishua were killed; wounded by Philistine archers, Saul fell on his own sword to end his life."
+      ],
+      "strengths": [
+        "Had early in his reign enforced God's law by removing occultists from Israel."
+      ],
+      "failures": [
+        "Total apostasy: sought counsel from a demonic medium rather than genuinely repenting before God.",
+        "Refused to obey God's Word throughout his life, culminating in spiritual desperation and suicide."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "1 Samuel 28",
+        "title": "Saul's Desperation and the Medium of Endor",
+        "verses": [
+          {
+            "number": 5,
+            "text": "When Saul saw the army of the Philistines, he was afraid, and his heart trembled greatly."
+          },
+          {
+            "number": 6,
+            "text": "When Saul inquired of Yahweh, Yahweh didn't answer him, neither by dreams, nor by Urim, nor by prophets."
+          },
+          {
+            "number": 7,
+            "text": "Then Saul said to his servants, 'Seek me a woman who has a familiar spirit, that I may go to her, and inquire of her.' His servants said to him, 'Behold, there is a woman who has a familiar spirit at Endor.'"
+          },
+          {
+            "number": 8,
+            "text": "Saul disguised himself, and put on other clothing, and went, he and two men with him, and they came to the woman by night: and he said, 'Please divine to me by the familiar spirit, and bring me up whomever I shall name to you.'"
+          },
+          {
+            "number": 15,
+            "text": "Samuel said to Saul, 'Why have you disturbed me, to bring me up?' Saul answered, 'I am greatly distressed; for the Philistines make war against me, and God has departed from me, and answers me no more... therefore I have called you, that you may make known to me what I shall do.'"
+          },
+          {
+            "number": 16,
+            "text": "Samuel said, 'Why then do you ask me, seeing Yahweh has departed from you, and has become your adversary?'"
+          },
+          {
+            "number": 19,
+            "text": "'Moreover Yahweh will deliver Israel also with you into the hand of the Philistines; and tomorrow you and your sons will be with me. Yahweh will deliver the army of Israel also into the hand of the Philistines.'"
+          },
+          {
+            "number": 20,
+            "text": "Then Saul fell immediately his full length on the earth, and was terrified, because of the words of Samuel: and there was no strength in him; for he had eaten no bread all the day, nor all the night."
+          }
+        ]
+      },
+      {
+        "reference": "1 Chronicles 10",
+        "title": "The Death of Saul on Mount Gilboa and the Reason for His Fall",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Now the Philistines fought against Israel: and the men of Israel fled from before the Philistines, and fell down slain on Mount Gilboa."
+          },
+          {
+            "number": 2,
+            "text": "The Philistines followed hard after Saul and after his sons; and the Philistines killed Jonathan, and Abinadab, and Malchishua, the sons of Saul."
+          },
+          {
+            "number": 4,
+            "text": "Then Saul said to his armor bearer, 'Draw your sword, and thrust me through with it, lest these uncircumcised come and abuse me.' But his armor bearer wouldn't; for he was terrified. Therefore Saul took his sword, and fell on it."
+          },
+          {
+            "number": 13,
+            "text": "So Saul died for his trespass which he committed against Yahweh, because of the word of Yahweh, which he didn't keep; and also because he asked counsel of one who had a familiar spirit, to inquire of them;"
+          },
+          {
+            "number": 14,
+            "text": "and didn't inquire of Yahweh: therefore he killed him, and turned the kingdom over to David the son of Jesse."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "When Heaven Goes Silent, Do Not Turn to the Shadows of Hell",
+      "reflection": "The tragedy of Saul's final night at Endor is one of the most haunting scenes in all of Scripture. Look at the tragic progression of a man who started with so much promise: he was anointed by the prophet, given a new heart, empowered by the Holy Spirit, and crowned king over Israel. But through decades of stubborn compromise, jealousy, and disobedience, Saul systematically hardened his heart against God.\n\nNow, on Mount Gilboa, 30,000 Philistines are arrayed against him. Saul falls on his knees, but heaven is silent. 'Yahweh answered him neither by dreams, nor by Urim, nor by prophets.' Why? Because Saul did not want God; he only wanted God's help to save his skin. He wanted answers without repentance.\n\nAnd in his spiritual panic, Saul committed the ultimate blasphemy: he disguised himself, crept through the darkness, and sought out an occult medium at Endor. The man who had once banned witchcraft now patronized it. And what did the shadows give him? No comfort. No hope. Only the chilling confirmation of his doom: 'Tomorrow you and your sons will be with me.' 1 Chronicles 10:13-14 sums up his life in a single epitaph: 'Saul died for his trespass against Yahweh... because he asked counsel of a medium.' When God feels silent in your life, never turn to worldly escapes, occultism, or sinful compromises. Fall on your face in genuine repentance, and wait on the Lord."
+    },
+    "lessons": [
+      {
+        "lesson": "Persistent, unrepentant disobedience leads to spiritual blindness and divine silence.",
+        "verse": "1 Samuel 28:6",
+        "detail": "God did not answer Saul because Saul had consistently rejected God's commands throughout his life.",
+        "question": "Is there unconfessed sin or compromise in your life that is hindering your communication with God?"
+      },
+      {
+        "lesson": "Never seek answers from forbidden spiritual shortcuts or the occult when God is silent.",
+        "verse": "1 Chronicles 10:13-14",
+        "detail": "Saul's final fatal trespass was seeking counsel from a necromancer medium rather than truly repenting before Yahweh.",
+        "question": "Do you ever turn to worldly horoscopes, superstitions, or ungodly advice in seasons of uncertainty?"
+      },
+      {
+        "lesson": "You cannot disguise your true spiritual identity before the eyes of Almighty God.",
+        "verse": "1 Samuel 28:8, 12",
+        "detail": "Saul changed his royal clothes to sneak into Endor, but God saw straight through the masquerade.",
+        "question": "Are you wearing an outward religious mask to hide an empty, compromised inner life?"
+      },
+      {
+        "lesson": "God's sovereignty transfers kingdoms from disobedient vessels to those who seek His heart.",
+        "verse": "1 Chronicles 10:14",
+        "detail": "God removed Saul's dynasty and turned the kingdom over to David, proving that God's redemptive purpose will prevail.",
+        "question": "How does God's sovereign justice encourage you to stay faithful to His Word in every season?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "Why did King Saul disguise himself and travel to Endor by night in 1 Samuel 28?",
+        "options": [
+          "To sign a secret treaty with the Philistines",
+          "To consult a woman who was a medium with a familiar spirit",
+          "To hide his royal treasure from his soldiers",
+          "To meet David in secret"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 28:7-8",
+        "explanation": "Saul disguised himself and went to Endor to consult a medium because Yahweh would not answer him."
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "Through what three legitimate channels did Saul attempt to inquire of God, receiving no answer?",
+        "options": [
+          "Dreams, Urim, and prophets",
+          "Casting lots, reading stars, and temple bells",
+          "Sacrificing bullocks, burning incense, and fasting",
+          "Consulting the elders, singers, and scribes"
+        ],
+        "correctIndex": 0,
+        "reference": "1 Samuel 28:6",
+        "explanation": "1 Samuel 28:6 records: 'Yahweh didn't answer him, neither by dreams, nor by Urim, nor by prophets.'"
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "What grim prophetic message did the apparition of Samuel announce to Saul at Endor?",
+        "options": [
+          "That Saul would reign for thirty more years",
+          "That Yahweh had torn the kingdom from him, and tomorrow he and his sons would be with Samuel in death",
+          "That David would die in the morning",
+          "That Israel would defeat the Philistines with fire"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 28:17-19",
+        "explanation": "Samuel announced that Yahweh had torn the kingdom from Saul and given it to David, and tomorrow Saul and his sons would die."
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "How did King Saul die on Mount Gilboa after being critically wounded by Philistine archers?",
+        "options": [
+          "He was captured and taken to Babylon",
+          "He took his own sword and fell on it",
+          "David struck him down in battle",
+          "He died of old age in his palace"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Chronicles 10:4",
+        "explanation": "When his armor-bearer refused to kill him, Saul took his sword and fell on it."
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: According to 1 Chronicles 10:13, Saul died because of his unwavering obedience to every commandment of God.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Chronicles 10:13",
+        "explanation": "False. 1 Chronicles 10:13 states: 'So Saul died for his trespass which he committed against Yahweh, because of the word of Yahweh, which he didn't keep.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "O Holy and Sovereign God, the tragedy of Saul breaks my heart and fills me with holy fear. Forgive me for any time I have sought worldly shortcuts, listened to ungodly advice, or ignored Your Holy Word when answers seemed delayed. Deliver me from the darkness of self-will. Teach me to seek You with a broken and contrite heart. Let me walk in the light of Your truth, anchored in Jesus Christ, the only Way, Truth, and Life.",
+      "versePrayerLine": "Lord, deliver my soul from the fatal error of Saul: 'he asked counsel of one who had a familiar spirit... and didn't inquire of Yahweh' (1 Chronicles 10:13-14). Keep me clinging to You alone.",
+      "prompt": "Ask the Holy Spirit to reveal any area where you have looked to worldly shortcuts rather than waiting on God's Word."
+    }
+  },
+  "121": {
+    "day": 121,
+    "character": "David",
+    "season": "Ziklag Burned: Strengthening Himself in the Lord",
+    "theme": "When all earthly support burns to ashes and people turn on you, true leaders find supernatural strength in God.",
+    "memoryVerse": {
+      "reference": "1 Samuel 30:6",
+      "text": "David was greatly distressed; for the people spoke of stoning him... but David strengthened himself in Yahweh his God.",
+      "whyItMatters": "In the ashes of total loss and rejection, finding your strength in God unlocks divine recovery and victory.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "David",
+          "distressed",
+          "stoning",
+          "strengthened",
+          "Yahweh",
+          "God"
+        ],
+        "firstLetters": "D w g d; f t p s o s h... b D s h i Y h G."
+      }
+    },
+    "profile": {
+      "title": "David: The Ashes of Ziklag, the Weeping Warriors, and the Ephod of Victory",
+      "who": "David, rejected by the Philistine lords and returning to his frontier town of Ziklag, only to find the city burned with fire by Amalekite raiders, all wives and children taken captive, and his own 600 loyal men weeping until they had no power to weep and plotting to stone him.",
+      "whenAndWhere": "Ziklag and the Brook Besor in the Negev desert, circa 1010 BC.",
+      "family": "Husband of Ahinoam and Abigail (both captured by Amalekites); leader of 600 warriors.",
+      "keyMoments": [
+        "The Philistine commanders distrusted David and forced King Achish to send David and his men away from the battle of Gilboa.",
+        "On the third day, David and his men arrived back at Ziklag and found it burned with fire; the Amalekites had raided the South and taken all women and children captive without killing anyone.",
+        "David and the men who were with him lifted up their voice and wept, until they had no more power to weep.",
+        "David's two wives, Ahinoam and Abigail, were taken captive.",
+        "David was greatly distressed, for the men spoke of stoning him, because the soul of all the people was bitter, each man for his sons and for his daughters.",
+        "In his darkest hour, **'David strengthened himself in Yahweh his God.'**",
+        "David called Abiathar the priest: 'Please bring the ephod here to me.' David inquired of Yahweh: 'Shall I pursue after this troop? Shall I overtake them?' Yahweh answered: 'Pursue; for you shall surely overtake them, and without fail recover all.'",
+        "David pursued with 600 men; 200 were so exhausted they could not cross the Brook Besor and stayed behind.",
+        "In the open field, they found a half-dead Egyptian slave abandoned by an Amalekite master three days ago without food or water; they revived him with bread, water, figs, and raisins; he guided David straight to the Amalekite camp.",
+        "David attacked the Amalekites while they were eating, drinking, and dancing over their massive plunder, striking them from twilight until the evening of the next day.",
+        "**David recovered all that the Amalekites had taken**, including both wives and every child: nothing was missing, small or great.",
+        "Returning to the 200 exhausted men at the Brook Besor, wicked men among David's troops wanted to give them only their wives and children, but no plunder; David established an enduring kingdom statute: **'As his share is who goes down to the battle, so shall his share be who tarries by the baggage: they shall share alike.'**"
+      ],
+      "strengths": [
+        "Unrivaled spiritual resilience: strengthened himself in God when everyone turned against him.",
+        "Inquired of God through the priest before taking military action.",
+        "Kindness to a dying Egyptian slave that unlocked divine guidance.",
+        "Generous kingdom equity: honored the weary baggage guards equally with the frontline fighters."
+      ],
+      "failures": [
+        "Had previously compromised by seeking refuge in Philistine territory out of fear of Saul (1 Samuel 27:1)."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "1 Samuel 29",
+        "title": "The Philistine Lords Reject David at Aphek",
+        "verses": [
+          {
+            "number": 3,
+            "text": "Then the princes of the Philistines said, 'What are these Hebrews doing here?' Achish said to the princes of the Philistines, 'Isn't this David, the servant of Saul the king of Israel, who has been with me these days, or these years, and I have found no fault in him since he fell away to me to this day?'"
+          },
+          {
+            "number": 4,
+            "text": "But the princes of the Philistines were angry with him; and the princes of the Philistines said to him, 'Make the man return, that he may go again to his place which you have appointed him, and not go down with us to battle, lest in the battle he become an adversary to us...'"
+          },
+          {
+            "number": 9,
+            "text": "Achish answered David, 'I know that you are good in my sight, as an angel of God. Notwithstanding the princes of the Philistines have said, \"He shall not go up with us to the battle.\"'"
+          }
+        ]
+      },
+      {
+        "reference": "1 Samuel 30",
+        "title": "The Burning of Ziklag, David Strengthens Himself, and Recovers All",
+        "verses": [
+          {
+            "number": 1,
+            "text": "It happened, when David and his men were come to Ziklag on the third day, that the Amalekites had made a raid on the South, and on Ziklag, and had struck Ziklag, and burned it with fire;"
+          },
+          {
+            "number": 3,
+            "text": "When David and his men came to the city, behold, it was burned with fire; and their wives, and their sons, and their daughters, were taken captive."
+          },
+          {
+            "number": 4,
+            "text": "Then David and the people who were with him lifted up their voice and wept, until they had no more power to weep."
+          },
+          {
+            "number": 6,
+            "text": "David was greatly distressed; for the people spoke of stoning him, because the soul of all the people was bitter, every man for his sons and for his daughters: but David strengthened himself in Yahweh his God."
+          },
+          {
+            "number": 8,
+            "text": "David inquired of Yahweh, saying, 'If I pursue after this troop, shall I overtake them?' He answered him, 'Pursue; for you shall surely overtake them, and will without fail recover all.'"
+          },
+          {
+            "number": 18,
+            "text": "David recovered all that the Amalekites had taken; and David rescued his two wives."
+          },
+          {
+            "number": 19,
+            "text": "There was nothing lacking to them, neither small nor great, neither sons nor daughters, neither plunder, nor anything that they had taken to them: David brought back all."
+          },
+          {
+            "number": 24,
+            "text": "'...For as his share is who goes down to the battle, so shall his share be who tarries by the baggage: they shall share alike.'"
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "When Everything Burns to Ashes, Strengthen Yourself in Yahweh and Recover All",
+      "reflection": "1 Samuel 30 is the ultimate leadership turnaround in the Bible. David was at rock bottom. For sixteen months, he had compromised by living in Philistine territory. Then the Philistine lords rejected him. And when he and his 600 battle-hardened warriors marched three days back to Ziklag, they saw black smoke rising against the horizon. Their homes were leveled. Their wives and children were gone. The devastation was so crushing that verse 4 says they 'wept until they had no more power to weep.'\n\nThen came the ultimate crisis: his own men—men who had fought by his side for years—picked up heavy stones to execute him! David was completely alone. He had no mentor, no army, no home, and no family left.\n\nWhat did David do? He did not hold a press conference. He did not yell at his men. He did not curl into a fetal position of self-pity. Scripture records six immortal words: **'But David strengthened himself in Yahweh his God.'** He went into the presence of God. He remembered God's past faithfulness, remembered Samuel's horn of oil, called for the priestly ephod, and asked: 'Shall I pursue?' God answered: 'Pursue, for you shall without fail recover all!'\n\nNotice also what happened on the pursuit: they stopped to feed a dying, abandoned Egyptian slave. That simple act of kindness unlocked the exact coordinates of the enemy camp! And when the battle was over, David brought back every single wife, every single child, and massive plunder. When your life feels burned to the ground and people turn on you, don't despair. Strengthen yourself in Yahweh. He is the God of total restoration."
+    },
+    "lessons": [
+      {
+        "lesson": "True leaders know how to encourage and strengthen their own souls in God during catastrophic crisis.",
+        "verse": "1 Samuel 30:6",
+        "detail": "When his own loyal men spoke of stoning him, David refused to panic; he withdrew into the presence of Yahweh to find divine strength.",
+        "question": "When crisis strikes and everyone around you panics, where do you turn to find internal spiritual strength?"
+      },
+      {
+        "lesson": "Never take reactive action in anger; inquire of God before launching into pursuit.",
+        "verse": "1 Samuel 30:7-8",
+        "detail": "David asked Abiathar for the ephod and waited for God's prophetic green light before mobilizing his men.",
+        "question": "Do you pray and seek God's counsel before reacting to sudden losses, or do you rush ahead in emotional panic?"
+      },
+      {
+        "lesson": "God often uses small acts of compassion to unlock major breakthroughs.",
+        "verse": "1 Samuel 30:11-15",
+        "detail": "Taking time to feed and revive an abandoned, dying Egyptian slave provided the exact intelligence needed to locate the Amalekite camp.",
+        "question": "Are you willing to pause during high-stress seasons to minister to an overlooked, hurting person?"
+      },
+      {
+        "lesson": "God's kingdom values those who faithfully support the rear just as much as frontline fighters.",
+        "verse": "1 Samuel 30:24-25",
+        "detail": "David established the principle that the 200 exhausted baggage guards shared equally in the plunder with frontline soldiers.",
+        "question": "How do you honor and celebrate the behind-the-scenes supporters in your church, workplace, or family?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What devastating tragedy confronted David and his men when they arrived back at Ziklag?",
+        "options": [
+          "A Philistine garrison had arrested their families",
+          "The Amalekites had burned the city with fire and taken all their wives and children captive",
+          "A severe famine had wiped out their livestock",
+          "The city had been flooded by the river"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 30:1-3",
+        "explanation": "The Amalekites had struck Ziklag, burned it with fire, and taken all the women and children captive."
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "What did David's distressed and bitter soldiers talk of doing to him in the ruins of Ziklag?",
+        "options": [
+          "Banishing him to Egypt",
+          "Stoning him to death",
+          "Leaving him alone in the desert",
+          "Surrendering him to King Saul"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 30:6",
+        "explanation": "1 Samuel 30:6 records: 'David was greatly distressed; for the people spoke of stoning him, because the soul of all the people was bitter.'"
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "What famous spiritual action did David take when confronted with total loss and mutiny?",
+        "options": [
+          "He fled to Moab",
+          "He strengthened himself in Yahweh his God and called for the priestly ephod",
+          "He drew his sword against his own men",
+          "He negotiated with the Amalekite king"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 30:6-7",
+        "explanation": "Scripture declares: 'but David strengthened himself in Yahweh his God,' calling Abiathar to bring the ephod."
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "Who guided David's strike force to the secret camp of the Amalekites?",
+        "options": [
+          "A Philistine defector",
+          "A starving Egyptian slave abandoned by his Amalekite master whom David's men fed and revived",
+          "An angel with a flaming sword",
+          "A shepherd from Carmel"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 30:11-15",
+        "explanation": "They found an Egyptian slave who had fallen sick and been abandoned; after feeding him, he led David to the Amalekite raiders."
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: According to 1 Samuel 30:19, David recovered only a small fraction of what was stolen, losing most of the children.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 30:19",
+        "explanation": "False. 1 Samuel 30:19 emphasizes: 'There was nothing lacking to them, neither small nor great, neither sons nor daughters... David brought back all.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord God of restoration, You are my Rock and my Strength when my world feels burned to the ground. Forgive me for the times I have wept in helpless despair or allowed bitterness to consume my soul. Teach me the spiritual secret of David at Ziklag. In my darkest moments of loneliness, rejection, and loss, teach me to strengthen myself in Yahweh my God. Give me holy resolve to pursue, knowing that through Your mighty power, You are able to recover all.",
+      "versePrayerLine": "Lord, anchor my soul in David's turning point: 'David was greatly distressed... but David strengthened himself in Yahweh his God' (1 Samuel 30:6).",
+      "prompt": "Bring any area of recent loss, heartbreak, or discouragement to God, declaring that He is your strength and restorer."
+    }
+  },
+  "122": {
+    "day": 122,
+    "character": "David",
+    "season": "Mourning Saul and Jonathan on Mount Gilboa",
+    "theme": "Godly nobility mourns the tragic fall of fallen leaders rather than gloating in vindication.",
+    "memoryVerse": {
+      "reference": "2 Samuel 1:19",
+      "text": "Your glory, Israel, is slain on your high places! How the mighty have fallen!",
+      "whyItMatters": "True kingdom honor mourns the tragedy of lost leadership rather than celebrating the destruction of our persecutors.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "glory",
+          "Israel",
+          "slain",
+          "places",
+          "mighty",
+          "fallen"
+        ],
+        "firstLetters": "Y g, I, i s o y h p! H t m h f!"
+      }
+    },
+    "profile": {
+      "title": "David: The Song of the Bow and the Lament over Saul and Jonathan",
+      "who": "David at Ziklag, receiving news of the catastrophic defeat of Israel on Mount Gilboa, executing the opportunist Amalekite who claimed to have killed Saul, and composing the magnificent elegy 'The Song of the Bow' honoring his fallen king and beloved friend Jonathan.",
+      "whenAndWhere": "Ziklag and Mount Gilboa, circa 1010 BC.",
+      "family": "Son of Jesse; covenant brother of Jonathan; future king of Judah.",
+      "keyMoments": [
+        "Two days after returning to Ziklag from defeating the Amalekites, a young Amalekite arrived with torn clothes and earth on his head.",
+        "He reported to David that Israel had fled, many were fallen and dead, and Saul and his son Jonathan were dead.",
+        "Seeking royal reward and favor, the Amalekite fabricated a story: claiming he found Saul leaning on his spear at Gilboa, and at Saul's request, killed him, presenting Saul's royal crown and golden armlet to David.",
+        "Instead of rejoicing in his enemy's demise, **David took hold on his clothes and tore them; and likewise all the men who were with him**.",
+        "They mourned, wept, and fasted until evening for Saul, for Jonathan his son, for the people of Yahweh, and for the house of Israel, because they were fallen by the sword.",
+        "David confronted the opportunist: 'How were you not afraid to stretch out your hand to destroy Yahweh's anointed?' and ordered his execution.",
+        "David composed the immortal elegy called **'The Song of the Bow'**, ordering that the children of Judah be taught it (recorded in the Book of Jashar):",
+        "'Your glory, Israel, is slain on your high places! How the mighty have fallen! Don't tell it in Gath, don't publish it in the streets of Ashkelon, lest the daughters of the Philistines rejoice...'",
+        "'Saul and Jonathan were lovely and pleasant in their lives. In their death they were not divided. They were swifter than eagles. They were stronger than lions...'",
+        "'I am distressed for you, my brother Jonathan. You have been very pleasant to me. Your love to me was wonderful, passing the love of women. How the mighty have fallen, and the weapons of war perished!'"
+      ],
+      "strengths": [
+        "Supreme kingdom nobility: refused to gloat over the death of his bitterest persecutor.",
+        "Exalted the memory of Saul's early glory and Jonathan's heroism in timeless poetry.",
+        "Righteous justice: executed the opportunist who boasted of killing God's anointed."
+      ],
+      "failures": [
+        "None noted; an extraordinary display of magnanimous, Christ-like grace."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "2 Samuel 1",
+        "title": "David Hears of Saul's Death and Composes the Song of the Bow",
+        "verses": [
+          {
+            "number": 1,
+            "text": "It happened after the death of Saul, when David was returned from the slaughter of the Amalekites, and David had stayed two days in Ziklag;"
+          },
+          {
+            "number": 11,
+            "text": "Then David took hold on his clothes, and tore them; and likewise all the men who were with him."
+          },
+          {
+            "number": 12,
+            "text": "They mourned, and wept, and fasted until evening, for Saul, and for Jonathan his son, and for the people of Yahweh, and for the house of Israel; because they were fallen by the sword."
+          },
+          {
+            "number": 14,
+            "text": "David said to him, 'How were you not afraid to stretch out your hand to destroy Yahweh's anointed?'"
+          },
+          {
+            "number": 17,
+            "text": "David lamented with this lamentation over Saul and over Jonathan his son"
+          },
+          {
+            "number": 18,
+            "text": "(and he commanded them to teach the children of Judah the song of the bow: behold, it is written in the book of Jashar):"
+          },
+          {
+            "number": 19,
+            "text": "'Your glory, Israel, is slain on your high places! How the mighty have fallen!"
+          },
+          {
+            "number": 23,
+            "text": "'Saul and Jonathan were lovely and pleasant in their lives. In their death they were not divided. They were swifter than eagles. They were stronger than lions."
+          },
+          {
+            "number": 26,
+            "text": "'I am distressed for you, my brother Jonathan. You have been very pleasant to me. Your love to me was wonderful, passing the love of women."
+          },
+          {
+            "number": 27,
+            "text": "'How the mighty have fallen, and the weapons of war perished!'"
+          }
+        ]
+      },
+      {
+        "reference": "1 Samuel 31",
+        "title": "The Philistine Victory on Gilboa and the Valiant Men of Jabesh-Gilead",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Now the Philistines fought against Israel: and the men of Israel fled from before the Philistines, and fell down slain on Mount Gilboa."
+          },
+          {
+            "number": 4,
+            "text": "Therefore Saul took his sword, and fell on it."
+          },
+          {
+            "number": 8,
+            "text": "It came to pass on the next day, when the Philistines came to strip the slain, that they found Saul and his three sons fallen on Mount Gilboa."
+          },
+          {
+            "number": 9,
+            "text": "They cut off his head, and stripped off his armor, and sent into the land of the Philistines all around, to carry the news to the house of their idols, and to the people."
+          },
+          {
+            "number": 10,
+            "text": "They put his armor in the house of the Ashtaroth; and they fastened his body to the wall of Beth Shan."
+          },
+          {
+            "number": 11,
+            "text": "When the inhabitants of Jabesh Gilead heard concerning him that which the Philistines had done to Saul,"
+          },
+          {
+            "number": 12,
+            "text": "all the valiant men arose, and went all night, and took the body of Saul and the bodies of his sons from the wall of Beth Shan; and they came to Jabesh, and burnt them there."
+          },
+          {
+            "number": 13,
+            "text": "They took their bones, and buried them under the tamarisk tree at Jabesh, and fasted seven days."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Kingdom Nobility Does Not Gloat Over the Ruin of Its Enemies",
+      "reflection": "How do you respond when someone who has slandered, hunted, and persecuted you finally falls from power? The natural human instinct is vindictive satisfaction: 'They got what they deserved! Justice has been served!' An opportunistic young Amalekite thought David would feel exactly that way. He ran to Ziklag with Saul's crown and golden bracelet, claiming he had dealt the final death blow to Saul, expecting a massive reward and royal favor from David.\n\nLook at David's response. David did not throw a party. He did not crack a smile. **David tore his royal clothes, wept, and fasted until sundown.** He executed the opportunist who boasted of touching God's anointed. And then, David picked up his pen and wrote one of the most sublime funeral elegies in human literature: **The Song of the Bow**.\n\nNotice what David wrote. He did not mention Saul's javelins, Saul's paranoia, or the caves of En-gedi. He chose to remember Saul's early glory and courage: 'Saul and Jonathan were lovely and pleasant in their lives... swifter than eagles, stronger than lions.' And he poured out his broken heart for Jonathan: 'I am distressed for you, my brother Jonathan... your love to me was wonderful.' David modeled the very heart of God, who declares: 'I take no pleasure in the death of the wicked.' True spiritual royalty does not dance on the graves of its persecutors; it grieves the tragedy of fallen potential."
+    },
+    "lessons": [
+      {
+        "lesson": "True godly character refuses to celebrate or gloat over the downfall of personal enemies.",
+        "verse": "2 Samuel 1:11-12; Proverbs 24:17-18",
+        "detail": "David wept and fasted for Saul, the man who had hunted him for years, honoring his office as Yahweh's anointed.",
+        "question": "Do you secretly rejoice when someone who opposed or mistreated you experiences misfortune or failure?"
+      },
+      {
+        "lesson": "Choose to remember the good and honor the legitimate contributions of flawed leaders.",
+        "verse": "2 Samuel 1:23-24",
+        "detail": "David's elegy praised Saul's military defense of Israel and generosity, deliberately overlooking his personal mistreatment.",
+        "question": "Can you speak with grace and honor regarding leaders who have disappointed or hurt you?"
+      },
+      {
+        "lesson": "Deep covenant friendship is a rare and sacred treasure worth grieving with unashamed tears.",
+        "verse": "2 Samuel 1:26",
+        "detail": "David wept openly for Jonathan, celebrating their soul-knit covenant love that transcended all earthly rivalry.",
+        "question": "Do you express genuine, heartfelt gratitude to the faithful friends God has placed in your life?"
+      },
+      {
+        "lesson": "Courageous loyalty honors fallen champions even at great personal risk.",
+        "verse": "1 Samuel 31:11-13",
+        "detail": "The valiant men of Jabesh-Gilead marched all night behind enemy lines to rescue Saul and Jonathan's bodies from the wall of Beth Shan.",
+        "question": "How do you demonstrate tangible loyalty and gratitude to those who have helped you in the past?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What fabricated story did the young Amalekite tell David at Ziklag, hoping for a reward?",
+        "options": [
+          "That he had rescued Jonathan's children",
+          "That he found Saul leaning on his spear and killed him at Saul's request, bringing his crown and armlet",
+          "That he had assassinated the Philistine king",
+          "That he had burned the temple of Dagon"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Samuel 1:6-10",
+        "explanation": "The Amalekite claimed he killed Saul on Mount Gilboa at Saul's request, bringing his crown and bracelet to David."
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "How did David and his men react upon hearing that Saul and Jonathan were dead on Gilboa?",
+        "options": [
+          "They celebrated with wine and dancing",
+          "They tore their clothes, mourned, wept, and fasted until evening",
+          "They immediately marched to claim the throne in Jerusalem",
+          "They sent a peace delegation to the Philistines"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Samuel 1:11-12",
+        "explanation": "David and all his men tore their clothes, mourned, wept, and fasted until evening for Saul, Jonathan, and the people of Yahweh."
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "What is the name of the famous elegy David composed and commanded to be taught to the children of Judah?",
+        "options": [
+          "The Song of the Sea",
+          "The Song of the Bow",
+          "The Song of the Vineyard",
+          "The Song of Degrees"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Samuel 1:18",
+        "explanation": "David commanded them to teach the children of Judah 'The Song of the Bow', recorded in the Book of Jashar."
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "Who marched all night into Philistine territory to rescue the desecrated bodies of Saul and his sons from the wall of Beth Shan?",
+        "options": [
+          "The warriors of Judah",
+          "The valiant men of Jabesh-Gilead",
+          "The priests of Nob",
+          "The tribe of Dan"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Samuel 31:11-12",
+        "explanation": "The valiant men of Jabesh-Gilead arose, walked all night, and rescued the bodies of Saul and his sons from the wall of Beth Shan."
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: In 2 Samuel 1:19, David exclaimed with joy: 'Hooray, my persecutor is dead!'",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Samuel 1:19",
+        "explanation": "False. David wept in grief: 'Your glory, Israel, is slain on your high places! How the mighty have fallen!'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord God of mercy and righteousness, You take no pleasure in the ruin of the wicked, and Your heart grieves over fallen leaders. Deliver me from the petty, vindictive spirit of gloating when those who have opposed me fall into trouble. Give me the royal nobility of David. Teach me to mourn the loss of potential, to honor what was good, and to speak words of grace. Anchor my heart in the love of Jesus, who wept over Jerusalem and prayed for His crucifiers from the cross.",
+      "versePrayerLine": "Lord, make David's noble lament my standard of grace: 'Your glory, Israel, is slain on your high places! How the mighty have fallen!' (2 Samuel 1:19).",
+      "prompt": "Pray a blessing over someone who has opposed or criticized you in the past, asking God to heal your heart from any lingering bitterness."
+    }
+  },
+  "123": {
+    "day": 123,
+    "character": "David",
+    "season": "Anointed King in Hebron Over Judah and Israel",
+    "theme": "Patient endurance through wilderness seasons brings God's promised coronation in His appointed time.",
+    "memoryVerse": {
+      "reference": "2 Samuel 5:2",
+      "text": "In times past... Yahweh said to you, 'You shall be shepherd of my people Israel, and you shall be prince over Israel.'",
+      "whyItMatters": "God fulfills His calling on His servants through patient, stepwise seasons of faithful shepherd leadership.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "Yahweh",
+          "shepherd",
+          "people",
+          "Israel",
+          "prince"
+        ],
+        "firstLetters": "I t p... Y s t y, 'Y s b s o m p I, a y s b p o I.'"
+      }
+    },
+    "profile": {
+      "title": "David: The Hebron Throne, Seven Years Over Judah, and the Conquest of Zion",
+      "who": "David, thirty years old, inquiring of Yahweh and moving to Hebron, anointed king over the tribe of Judah for seven and a half years, and finally crowned king over all twelve tribes at Hebron, conquering the Jebusite fortress of Zion to make Jerusalem the City of David.",
+      "whenAndWhere": "Hebron and Jerusalem (Zion) in Judah, circa 1010–1003 BC.",
+      "family": "King over all Israel; married to Ahinoam, Abigail, Maacah, Haggith, Abital, and Eglah; father of Amnon, Absalom, and Adonijah in Hebron.",
+      "keyMoments": [
+        "After mourning Saul, David inquired of Yahweh: 'Shall I go up into any of the cities of Judah?' Yahweh said, 'Go up.' David asked, 'Where shall I go?' and Yahweh answered: 'To Hebron.'",
+        "David brought his wives and his men with their households to dwell in the towns of Hebron; the men of Judah came and **anointed David king over the house of Judah**.",
+        "David's first act was to send messengers blessing the men of Jabesh-Gilead for burying Saul.",
+        "Meanwhile, Abner (Saul's commander) took Saul's surviving son **Ishbosheth** and made him puppet king over the northern tribes at Mahanaim, leading to years of civil war.",
+        "Scripture notes: 'There was long war between the house of Saul and the house of David: but David grew stronger and stronger, and the house of Saul grew weaker and weaker.'",
+        "After Abner and Ishbosheth were assassinated by their own conspirators (whom David promptly executed for their treachery), all the elders of the twelve tribes assembled to David at Hebron.",
+        "They said: 'Behold, we are your bone and your flesh... Yahweh said to you, \"You shall be shepherd of my people Israel, and you shall be prince over Israel.\"'",
+        "David made a covenant with them in Hebron before Yahweh, and **they anointed David king over all Israel**; David was thirty years old when he began to reign, and he reigned forty years.",
+        "David marched with his army to Jerusalem against the Jebusites, who taunted him from their impregnable fortress: 'You will not come in here; even the blind and lame will turn you away!'",
+        "David captured the stronghold of Zion (the City of David), rebuilt the city from the Millo inward; Hiram king of Tyre sent cedar logs, carpenters, and masons to build David a royal palace; **and David grew greater and greater, for Yahweh of Armies was with him.**"
+      ],
+      "strengths": [
+        "Inquired of Yahweh before taking every step toward the throne.",
+        "Patient endurance: waited seven and a half years in Hebron without forcing national unification.",
+        "Righteous shepherd leadership recognized by all twelve tribes.",
+        "Captured Jerusalem and established it as the unified political and spiritual capital of the nation."
+      ],
+      "failures": [
+        "Began accumulating multiple wives and concubines in Hebron contrary to Deuteronomy 17:17, planting seeds of future family grief."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "2 Samuel 2",
+        "title": "David Inquires of God and Is Anointed King Over Judah in Hebron",
+        "verses": [
+          {
+            "number": 1,
+            "text": "It came to pass after this, that David inquired of Yahweh, saying, 'Shall I go up into any of the cities of Judah?' Yahweh said to him, 'Go up.' David said, 'Where shall I go up?' He said, 'To Hebron.'"
+          },
+          {
+            "number": 4,
+            "text": "The men of Judah came, and there they anointed David king over the house of Judah. They told David, saying, 'The men of Jabesh Gilead were those who buried Saul.'"
+          },
+          {
+            "number": 5,
+            "text": "David sent messengers to the men of Jabesh Gilead, and said to them, 'Blessed are you of Yahweh, that you have shown this kindness to your lord, even to Saul, and have buried him.'"
+          }
+        ]
+      },
+      {
+        "reference": "2 Samuel 5",
+        "title": "All Israel Anoints David King at Hebron and the Capture of Zion",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Then came all the tribes of Israel to David to Hebron, and spoke, saying, 'Behold, we are your bone and your flesh."
+          },
+          {
+            "number": 2,
+            "text": "'In times past, when Saul was king over us, it was you who led out and brought in Israel: and Yahweh said to you, \"You shall be shepherd of my people Israel, and you shall be prince over Israel.\"'"
+          },
+          {
+            "number": 3,
+            "text": "So all the elders of Israel came to the king to Hebron; and king David made a covenant with them in Hebron before Yahweh: and they anointed David king over Israel."
+          },
+          {
+            "number": 4,
+            "text": "David was thirty years old when he began to reign, and he reigned forty years."
+          },
+          {
+            "number": 5,
+            "text": "In Hebron he reigned over Judah seven years and six months; and in Jerusalem he reigned thirty-three years over all Israel and Judah."
+          },
+          {
+            "number": 7,
+            "text": "Nevertheless David took the stronghold of Zion; the same is the city of David."
+          },
+          {
+            "number": 10,
+            "text": "David grew greater and greater; for Yahweh, the God of Armies, was with him."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "Fifteen Years from Anointing to Coronation: God Fulfills His Promises in His Time",
+      "reflection": "Think about the timeline of David's life. He was anointed by Samuel in Bethlehem when he was a teenager, around fifteen years old. Yet he did not become king of Judah until he was thirty (2 Samuel 5:4), and he did not become king over all twelve tribes until he was thirty-seven! That is over twenty years between the secret promise and the full fulfillment.\n\nNotice David's first instinct in 2 Samuel 2 after Saul died. Saul was dead, the throne was open, and David was the anointed heir. Did he rush to Gibeah and seize power? No. He paused and inquired of Yahweh: 'Shall I go up? Where shall I go?' Even after fifteen years of running in the desert, David refused to take a single step without divine permission. God told him to go to Hebron, where Judah anointed him king. And for seven and a half years, David was content to shepherd just one tribe while the other eleven followed Ishbosheth.\n\nDavid did not force national unification through bloody conquest. He waited on God. And when God's time arrived, all twelve tribes came to Hebron voluntarily, declaring: 'We are your bone and your flesh. Yahweh said to you, \"You shall be shepherd of my people.\"' And when David took the stronghold of Zion, verse 10 records the secret of his entire life: **'David grew greater and greater, for Yahweh, the God of Armies, was with him.'** True promotion comes neither from the east nor the west, but from God. When you wait patiently on His timing, He establishes you firmly."
+    },
+    "lessons": [
+      {
+        "lesson": "Always inquire of God before making major life transitions, even when opportunities seem obvious.",
+        "verse": "2 Samuel 2:1",
+        "detail": "Though Saul was dead, David asked God specifically where he should go, allowing God to direct him to Hebron.",
+        "question": "Do you pray and wait for God's clear direction before taking new career, relational, or geographic steps?"
+      },
+      {
+        "lesson": "God's promises are often fulfilled in stages that require patient, faithful endurance.",
+        "verse": "2 Samuel 5:4-5",
+        "detail": "David was anointed three times: first privately as a teen, second over Judah for seven years, and third over all Israel.",
+        "question": "Are you growing weary of waiting for God's full promise to manifest in your life?"
+      },
+      {
+        "lesson": "True biblical leadership is shepherd leadership that feeds, protects, and serves the flock.",
+        "verse": "2 Samuel 5:2",
+        "detail": "The tribes recognized David because God called him to be a 'shepherd' to Israel, not a self-serving despot.",
+        "question": "In your areas of leadership, do you view people as flock to be nurtured or as resources to be used?"
+      },
+      {
+        "lesson": "Lasting greatness comes not from human maneuvering, but from the abiding presence of God.",
+        "verse": "2 Samuel 5:10",
+        "detail": "David grew greater and greater because Yahweh of Armies was with him, providing divine favor and victory.",
+        "question": "Are you striving in your own human strength for success, or are you prioritizing God's presence in your life?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "To which ancient city did God direct David to move after Saul's death, where he was first anointed king over Judah?",
+        "options": [
+          "Jerusalem",
+          "Hebron",
+          "Bethlehem",
+          "Shiloh"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Samuel 2:1-4",
+        "explanation": "David inquired of Yahweh, and God told him to go up to Hebron, where the men of Judah anointed him king."
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "How long did David reign as king in Hebron over the tribe of Judah before ruling all twelve tribes?",
+        "options": [
+          "Forty days",
+          "Seven years and six months",
+          "Twelve years",
+          "Twenty years"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Samuel 5:5",
+        "explanation": "In Hebron he reigned over Judah seven years and six months, and in Jerusalem thirty-three years over all Israel and Judah."
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "How old was David when he first began to reign as king?",
+        "options": [
+          "Twenty years old",
+          "Thirty years old",
+          "Forty years old",
+          "Fifty years old"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Samuel 5:4",
+        "explanation": "2 Samuel 5:4 states: 'David was thirty years old when he began to reign, and he reigned forty years.'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What Canaanite fortress did David capture to make it the unified capital of Israel, known as the City of David?",
+        "options": [
+          "The fortress of Jericho",
+          "The Jebusite stronghold of Zion (Jerusalem)",
+          "The citadel of Hazor",
+          "The acropolis of Megiddo"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Samuel 5:7",
+        "explanation": "David took the stronghold of Zion from the Jebusites; the same is the City of David (Jerusalem)."
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: According to 2 Samuel 5:10, David became great because he formed an alliance with the pharaoh of Egypt.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Samuel 5:10",
+        "explanation": "False. 2 Samuel 5:10 declares: 'David grew greater and greater; for Yahweh, the God of Armies, was with him.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Sovereign Lord, You are the God of times and seasons. You hold my destiny in Your hands, and Your timing is always perfect. Forgive me for the times I have been impatient, trying to kick down doors or rush ahead of Your schedule. Give me the patient, humble heart of David at Hebron. Teach me to shepherd faithfully whatever small flock You have given me today. Above all, I ask for Your presence, knowing that true greatness is having Yahweh of Armies with me.",
+      "versePrayerLine": "Lord, fulfill Your shepherd calling in my life: 'You shall be shepherd of my people... and you shall be prince' (2 Samuel 5:2). Guide my steps today.",
+      "prompt": "Surrender your timeline to God, thanking Him that He is preparing you in Hebron for everything He has promised in Zion."
+    }
+  },
+  "124": {
+    "day": 124,
+    "character": "David & Uzzah",
+    "season": "Bringing the Ark to Zion: Joy and Trembling",
+    "theme": "Reverent awe and exuberant joy belong together when welcoming the holy presence of God.",
+    "memoryVerse": {
+      "reference": "2 Samuel 6:14",
+      "text": "David danced before Yahweh with all his might; and David was clothed with a linen ephod.",
+      "whyItMatters": "Uninhibited worship and joyful celebration flow from a heart that understands the holy presence of God.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "David",
+          "danced",
+          "Yahweh",
+          "might",
+          "clothed",
+          "ephod"
+        ],
+        "firstLetters": "D d b Y w a h m; a D w c w a l e."
+      }
+    },
+    "profile": {
+      "title": "David, Uzzah, and the Ark: The Threshing Floor of Nacon and the Dancing King",
+      "who": "King David, mobilizing 30,000 chosen men to bring the Ark of God from Kiriath Jearim up to Jerusalem, experiencing sudden tragedy at the threshing floor of Nacon when Uzzah was struck dead for touching the Ark, followed three months later by a joyful, holy procession into Zion.",
+      "whenAndWhere": "Kiriath Jearim, the threshing floor of Nacon, the house of Obed-Edom, and Mount Zion in Jerusalem, circa 1000 BC.",
+      "family": "King David; wife Michal (daughter of Saul); Uzzah and Ahio, sons of Abinadab.",
+      "keyMoments": [
+        "David gathered 30,000 chosen men of Israel to bring up the Ark of God from Baale Judah (Kiriath Jearim), which had been neglected in obscurity for decades.",
+        "They placed the Ark on a **new cart** (copying the Philistines in 1 Samuel 6 rather than having Kohathite Levites carry it on poles as commanded in Numbers 4 and 7).",
+        "Uzzah and Ahio, sons of Abinadab, drove the cart; David and all the house of Israel played before Yahweh with all manner of instruments of fir wood, harps, psalteries, timbrels, castanets, and cymbals.",
+        "When they came to the threshing floor of Nacon, the oxen stumbled; **Uzzah put forth his hand to the ark of God, and took hold of it**.",
+        "The anger of Yahweh was kindled against Uzzah, and God struck him there for his error, and he died by the ark of God; David named the place **Perez Uzzah** ('Breakout of Uzzah').",
+        "David was angry, then terrified of Yahweh: 'How shall the ark of Yahweh come to me?' He diverted the Ark to the house of **Obed-Edom the Gittite**, where it stayed three months.",
+        "Yahweh blessed Obed-Edom and all his household; when David was told that God had blessed Obed-Edom because of the Ark, David realized God's presence brings life when approached with holy reverence.",
+        "David investigated the Law, acknowledging in 1 Chronicles 15: 'Because you didn't carry it at the first, Yahweh our God made a breach on us, because we didn't seek him according to the ordinance.' The Levites were sanctified and carried the Ark on their shoulders with poles.",
+        "When those bearing the Ark had gone six paces, David sacrificed an ox and a fattened calf; **David danced before Yahweh with all his might, girded with a linen ephod**, shouting with trumpets.",
+        "As the Ark entered the City of David, Saul's daughter **Michal** looked through a window, saw King David leaping and dancing before Yahweh, and despised him in her heart.",
+        "David placed the Ark in the pitched tent, offered burnt offerings, blessed the people, and distributed bread, meat, and raisin cakes to every man and woman.",
+        "When David returned to bless his household, Michal sneered with sarcastic disgust: 'How glorious was the king of Israel today, uncovering himself in the eyes of the maidservants like a common fellow!'",
+        "David answered with blazing passion: 'It was before Yahweh, who chose me above your father... I will play before Yahweh, and **I will yet be more vile than this, and will be base in my own sight!**' Michal had no child to the day of her death."
+      ],
+      "strengths": [
+        "Passionate desire to center the national life around God's holy presence.",
+        "Humble teachability: corrected his mistake after Uzzah's death by returning to biblical ordinances (1 Chronicles 15).",
+        "Unashamed, wholehearted worship: stripped off royal robes to dance before Yahweh in a humble linen ephod.",
+        "Refused to allow human disapproval (Michal's contempt) to extinguish his passion for God."
+      ],
+      "failures": [
+        "Initially adopted Philistine pragmatic methods (the new cart) instead of obeying Mosaic law regarding the Ark."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "2 Samuel 6",
+        "title": "The Death of Uzzah, Obed-Edom Blessed, and David Dancing Before the Ark",
+        "verses": [
+          {
+            "number": 2,
+            "text": "David arose, and went with all the people who were with him, from Baale Judah, to bring up from there the ark of God, which is called by the Name, even the name of Yahweh of Armies who sits above the cherubim."
+          },
+          {
+            "number": 3,
+            "text": "They set the ark of God on a new cart, and brought it out of the house of Abinadab that was in the hill..."
+          },
+          {
+            "number": 6,
+            "text": "When they came to the threshing floor of Nacon, Uzzah put forth his hand to the ark of God, and took hold of it; for the oxen stumbled."
+          },
+          {
+            "number": 7,
+            "text": "The anger of Yahweh was kindled against Uzzah; and God struck him there for his error; and there he died by the ark of God."
+          },
+          {
+            "number": 11,
+            "text": "The ark of Yahweh remained in the house of Obed-Edom the Gittite three months: and Yahweh blessed Obed-Edom, and all his house."
+          },
+          {
+            "number": 13,
+            "text": "It was so, that when those who bore the ark of Yahweh had gone six paces, he sacrificed an ox and a fattened calf."
+          },
+          {
+            "number": 14,
+            "text": "David danced before Yahweh with all his might; and David was clothed with a linen ephod."
+          },
+          {
+            "number": 16,
+            "text": "It was so, as the ark of Yahweh came into the city of David, that Michal the daughter of Saul looked out at the window, and saw king David leaping and dancing before Yahweh; and she despised him in her heart."
+          },
+          {
+            "number": 21,
+            "text": "David said to Michal, 'It was before Yahweh, who chose me above your father, and above all his house, to appoint me prince over the people of Yahweh, over Israel: therefore will I celebrate before Yahweh."
+          },
+          {
+            "number": 22,
+            "text": "'I will yet be more vile than this, and will be base in my own sight...'"
+          }
+        ]
+      },
+      {
+        "reference": "1 Chronicles 15",
+        "title": "Carrying the Ark on Levites' Shoulders According to the Law",
+        "verses": [
+          {
+            "number": 2,
+            "text": "Then David said, 'No one ought to carry the ark of God but the Levites: for Yahweh has chosen them to carry the ark of God, and to minister to him forever.'"
+          },
+          {
+            "number": 13,
+            "text": "'For because you didn't carry it at the first, Yahweh our God made a breach on us, because we didn't seek him according to the ordinance.'"
+          },
+          {
+            "number": 15,
+            "text": "The children of the Levites bore the ark of God on their shoulders with the poles on them, as Moses commanded according to the word of Yahweh."
+          },
+          {
+            "number": 28,
+            "text": "Thus all Israel brought up the ark of the covenant of Yahweh with shouting, and with sound of the cornet, and with trumpets, and with cymbals, sounding aloud with stringed instruments and harps."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "God's Work Must Be Done in God's Way: Holy Awe and Exuberant Joy Belong Together",
+      "reflection": "2 Samuel 6 contains a double lesson that every worshiper of God must understand: the balance between **holy reverence** and **extravagant joy**. David had the purest of motives: he wanted to bring the Ark of God into his newly conquered capital of Jerusalem. But David made a tragic error: he used a 'new cart.' A new cart was the pragmatic, pagan method the Philistines used in 1 Samuel 6. God had explicitly commanded in Numbers 4 that the Ark must be carried on the shoulders of the Levites using golden poles, and that nobody must ever touch it.\n\nWhen the oxen stumbled at Nacon's threshing floor, Uzzah reached out his bare hand to steady the Ark. Uzzah assumed that his hands were cleaner than the dirt! But God struck Uzzah dead on the spot. Why? Because God is not a household pet. He is holy, holy, holy. Sincerity of motive never justifies disobedience to God's holy instructions.\n\nDavid learned the lesson. In 1 Chronicles 15, he searched the Scriptures, sanctified the Levites, and carried the Ark on poles. And notice the result: holy reverence did not stifle joy—it liberated it! Once they walked in obedience, David took off his royal crown and velvet kingly robes, dressed in a simple linen priestly ephod, and **danced before Yahweh with all his might**! When his proud wife Michal mocked his uninhibited worship, David gave the ultimate declaration of true worship: 'It was before Yahweh! I will become even more undignified than this!' True worship trembles before God's holiness and dances before His grace."
+    },
+    "lessons": [
+      {
+        "lesson": "Good intentions can never excuse disobedience to God's clear revealed Word.",
+        "verse": "2 Samuel 6:3, 7; 1 Chronicles 15:13",
+        "detail": "David meant well, but placing the Ark on a cart violated God's explicit command that Levites must carry it on poles.",
+        "question": "Are you using pragmatic, worldly methods in your Christian life or ministry rather than following Scripture?"
+      },
+      {
+        "lesson": "God's presence brings blessing and life to those who revere Him in holiness.",
+        "verse": "2 Samuel 6:11-12",
+        "detail": "The Ark remained three months in the home of Obed-Edom, and Yahweh blessed him and all his household abundantly.",
+        "question": "Does your home reflect the welcoming, reverent atmosphere of God's holy presence?"
+      },
+      {
+        "lesson": "True worship is passionately focused on God alone, indifferent to human criticism.",
+        "verse": "2 Samuel 6:14, 21-22",
+        "detail": "David laid aside his royal dignity to dance before Yahweh, declaring he would become even more undignified for God's glory.",
+        "question": "Are you holding back in worship, prayer, or service because you care too much about what people think?"
+      },
+      {
+        "lesson": "Spiritual pride and cynical contempt in the presence of genuine worship bring spiritual barrenness.",
+        "verse": "2 Samuel 6:16, 23",
+        "detail": "Michal despised David's passionate, humble worship from her window, and remained childless to the day of her death.",
+        "question": "Do you ever catch yourself criticizing or judging the emotional sincerity of other believers?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "Why was Uzzah struck dead by God at the threshing floor of Nacon in 2 Samuel 6:7?",
+        "options": [
+          "He tried to steal gold from the Ark",
+          "He reached out his hand to steady the Ark when the oxen stumbled, violating God's holy command",
+          "He was an undercover Philistine spy",
+          "He refused to play the trumpet"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Samuel 6:6-7",
+        "explanation": "Uzzah took hold of the Ark of God when the oxen stumbled, and God struck him for his error."
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "Whose household was tremendously blessed by God while the Ark stayed there for three months?",
+        "options": [
+          "The house of Samuel",
+          "The house of Obed-Edom the Gittite",
+          "The house of Jesse in Bethlehem",
+          "The house of Jonathan"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Samuel 6:11-12",
+        "explanation": "The Ark remained in the house of Obed-Edom the Gittite for three months, and Yahweh blessed Obed-Edom and all his house."
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "How did David correct the transportation method when he brought the Ark up the second time in 1 Chronicles 15?",
+        "options": [
+          "He built a silver cart pulled by twelve white horses",
+          "The Levites carried the Ark on their shoulders with poles, according to the Law of Moses",
+          "He carried it alone on his chariot",
+          "He transported it by boat up the Jordan River"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Chronicles 15:2, 13-15",
+        "explanation": "David said none ought to carry the Ark but the Levites, who bore it on their shoulders with poles as Moses commanded."
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "Why did Michal, Saul's daughter, despise King David in her heart as she watched him from the window?",
+        "options": [
+          "Because David lost a battle",
+          "Because she saw King David leaping and dancing before Yahweh in a humble linen ephod",
+          "Because David did not give her a raisin cake",
+          "Because David had invited foreign kings to Jerusalem"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Samuel 6:16, 20",
+        "explanation": "Michal despised him because she thought it was undignified for a monarch to leap and dance among commoners before Yahweh."
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: In 2 Samuel 6:21-22, David apologized to Michal and promised never to dance publicly again.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Samuel 6:21-22",
+        "explanation": "False. David boldly replied: 'It was before Yahweh... I will yet be more vile than this, and will be base in my own sight!'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Holy, Holy, Holy Lord God of Hosts, You sit enthroned above the cherubim, and Your presence is holy fire. Forgive me for the times I have treated You casually, adopting worldly methods or presuming upon Your grace. Teach me the balance of Perez Uzzah and the dancing king. Give me deep, trembling reverence for Your holiness, coupled with uninhibited, exuberant joy in Your presence. Deliver me from the fear of human disapproval. Like David, I will celebrate before You with all my might.",
+      "versePrayerLine": "Lord, fill my worship with David's passion: 'David danced before Yahweh with all his might' (2 Samuel 6:14). Let my praise be holy and unashamed.",
+      "prompt": "Offer an unreserved, joyful song or prayer of praise to God, casting aside all human self-consciousness before His throne."
+    }
+  },
+  "125": {
+    "day": 125,
+    "character": "David",
+    "season": "The Eternal Covenant: An Everlasting Throne",
+    "theme": "God promises an everlasting kingdom through David's lineage that culminates in Jesus the Messiah.",
+    "memoryVerse": {
+      "reference": "2 Samuel 7:16",
+      "text": "Your house and your kingdom shall be made sure forever before you. Your throne shall be established forever.",
+      "whyItMatters": "God's unconditional covenant with David establishes the eternal throne fulfilled forever in Jesus Christ.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "house",
+          "kingdom",
+          "sure",
+          "forever",
+          "throne",
+          "established"
+        ],
+        "firstLetters": "Y h a y k s b m s f b y. Y t s b e f."
+      }
+    },
+    "profile": {
+      "title": "David: The Cedar Palace, Nathan's Vision, and the Davidic Covenant",
+      "who": "King David, resting in his cedar palace in Jerusalem, desiring to build a permanent temple for the Ark of God, visited by the prophet Nathan with God's grand counter-covenant: God would build David an everlasting house and throne, pointing directly to the Messiah.",
+      "whenAndWhere": "The royal palace in Jerusalem (Zion), circa 995 BC.",
+      "family": "Son of Jesse; father of Solomon; ancestor of Jesus Christ, the Son of David.",
+      "keyMoments": [
+        "When King David sat in his house and Yahweh had given him rest from all his enemies around him, he said to Nathan the prophet: 'See now, I dwell in a house of cedar, but the ark of God dwells within curtains.'",
+        "Nathan initially said: 'Go, do all that is in your heart; for Yahweh is with you.'",
+        "That same night, the word of Yahweh came to Nathan with a divine correction: 'Go and tell my servant David: \"Thus says Yahweh: 'Will you build me a house for me to dwell in? I have not lived in a house since the day I brought up the children of Israel out of Egypt...'\"'",
+        "God reminded David of his journey: 'I took you from the sheepfold, from following the sheep, that you should be prince over my people, over Israel.'",
+        "God announced the **Davidic Covenant** (2 Samuel 7:11-16):",
+        "Instead of David building God a house (temple), **Yahweh would build David a house (an enduring dynasty)**.",
+        "When David's days were fulfilled, God would raise up his seed after him (Solomon), who would build a house for God's name, and God would establish his throne.",
+        "'I will be his father, and he shall be my son. If he commits iniquity, I will chasten him with the rod of men... but my loving kindness shall not depart from him.'",
+        "**'Your house and your kingdom shall be made sure forever before you. Your throne shall be established forever.'**",
+        "David was overwhelmed with wonder; he went in and sat before Yahweh, praying one of the most humble prayers in the Bible: 'Who am I, Lord Yahweh, and what is my house, that you have brought me this far? And this was yet a small thing in your eyes, Lord Yahweh; but you have spoken also of your servant's house for a great while to come!'"
+      ],
+      "strengths": [
+        "A heart that prioritized God's honor over his own luxury.",
+        "Humble, worshipful response to God's 'No': accepted God's larger covenant vision with tears of adoration.",
+        "Prayed God's promises back to Him with bold faith."
+      ],
+      "failures": [
+        "None noted; a foundational covenant milestone in biblical redemptive history."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "2 Samuel 7",
+        "title": "The Davidic Covenant and David's Prayer of Humility",
+        "verses": [
+          {
+            "number": 1,
+            "text": "It came to pass, when the king lived in his house, and Yahweh had given him rest from all his enemies all around,"
+          },
+          {
+            "number": 2,
+            "text": "that the king said to Nathan the prophet, 'See now, I dwell in a house of cedar, but the ark of God dwells within curtains.'"
+          },
+          {
+            "number": 11,
+            "text": "'...Moreover Yahweh tells you that Yahweh will make you a house."
+          },
+          {
+            "number": 12,
+            "text": "'When your days are fulfilled, and you sleep with your fathers, I will set up your seed after you, who shall proceed out of your body, and I will establish his kingdom."
+          },
+          {
+            "number": 13,
+            "text": "'He shall build a house for my name, and I will establish the throne of his kingdom forever."
+          },
+          {
+            "number": 14,
+            "text": "'I will be his father, and he shall be my son..."
+          },
+          {
+            "number": 16,
+            "text": "'Your house and your kingdom shall be made sure forever before you. Your throne shall be established forever.'"
+          },
+          {
+            "number": 18,
+            "text": "Then David the king went in, and sat before Yahweh; and he said, 'Who am I, Lord Yahweh, and what is my house, that you have brought me this far?'"
+          },
+          {
+            "number": 28,
+            "text": "'Now, O Lord Yahweh, you are God, and your words are truth, and you have promised this good thing to your servant."
+          },
+          {
+            "number": 29,
+            "text": "'Now therefore let it please you to bless the house of your servant, that it may continue forever before you...'"
+          }
+        ]
+      },
+      {
+        "reference": "1 Chronicles 17",
+        "title": "The Everlasting Kingdom Confirmed to David",
+        "verses": [
+          {
+            "number": 11,
+            "text": "'It shall come to pass, when your days are fulfilled that you must go to be with your fathers, that I will set up your seed after you, who shall be of your sons; and I will establish his kingdom."
+          },
+          {
+            "number": 12,
+            "text": "'He shall build me a house, and I will establish his throne forever."
+          },
+          {
+            "number": 13,
+            "text": "'I will be his father, and he shall be my son: and I will not take my loving kindness away from him, as I took it from him who was before you;"
+          },
+          {
+            "number": 14,
+            "text": "'but I will settle him in my house and in my kingdom forever; and his throne shall be established forever.'"
+          },
+          {
+            "number": 16,
+            "text": "Then David the king went in, and sat before Yahweh; and he said, 'Who am I, Yahweh God, and what is my house, that you have brought me this far?'"
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "When You Seek to Build Something for God, He Builds an Eternal House for You",
+      "reflection": "2 Samuel 7 is one of the grand mountain peaks of the entire Bible. David was sitting in his magnificent royal palace built of fragrant Phoenician cedar logs. He looked out the window and saw the Ark of God resting inside a humble tent of animal skins. David was burdened: 'It is not right that I live in a cedar palace while the Ark of God dwells in curtains!' David wanted to build a lavish stone temple for God.\n\nGod sent the prophet Nathan with an unexpected answer. God said, 'No, David. You will not build Me a house. **I am going to build YOU a house!**'\n\nNotice the divine wordplay: David wanted to build God a physical temple (a 'house' of stone), but God announced He would build David a royal dynasty (a 'house' of descendants) that would culminate in an eternal throne! God promised that though earthly sons like Solomon would build the physical temple and face discipline for sin, God's steadfast covenant love (*hesed*) would never depart. And in verse 16, God dropped the eternal anchor: **'Your house and your kingdom shall be established forever.'**\n\nHow can a human kingdom last forever? Only through a King who lives forever! The Davidic Covenant pointed straight across a thousand years to a stable in Bethlehem, where an angel told Mary: 'He will be great, and will be called the Son of the Most High; and the Lord God will give him the throne of his father David, and of his kingdom there will be no end' (Luke 1:32-33). When David heard this promise, he went in, sat on the floor before Yahweh, and wept in awe: 'Who am I, Lord Yahweh, that You have brought me this far?' When you offer your best to God, His generosity will always leave you speechless."
+    },
+    "lessons": [
+      {
+        "lesson": "God's 'No' to our good plans is always an invitation to His far greater eternal purpose.",
+        "verse": "2 Samuel 7:5, 11-12",
+        "detail": "David wanted to build a stone temple, but God said no in order to give David an eternal messianic dynasty.",
+        "question": "Has God closed a door on a good desire in your life so He can do something infinitely greater?"
+      },
+      {
+        "lesson": "True humility responds to God's overwhelming grace by asking, 'Who am I, Lord?'",
+        "verse": "2 Samuel 7:18",
+        "detail": "David did not boast about his royal achievements; he sat on the floor in reverence, amazed that God would bless him so richly.",
+        "question": "When God blesses you, is your heart filled with self-congratulation or brokenhearted gratitude?"
+      },
+      {
+        "lesson": "Bold prayer takes God's revealed promises and prays them back to Him in faith.",
+        "verse": "2 Samuel 7:28-29",
+        "detail": "David prayed: 'You are God, and Your words are truth, and You have promised this good thing... now therefore let it please You to bless.'",
+        "question": "Are your daily prayers grounded in the specific, unchanging covenant promises of God's Word?"
+      },
+      {
+        "lesson": "Jesus Christ is the ultimate Son of David whose throne and kingdom will never end.",
+        "verse": "2 Samuel 7:16; Luke 1:32-33",
+        "detail": "The eternal promise made in 2 Samuel 7 finds its complete fulfillment in Christ, our resurrected King.",
+        "question": "How does knowing that Jesus sits upon an unshakable, everlasting throne give you security today?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What contrast bothered David as he sat in his royal palace in Jerusalem?",
+        "options": [
+          "That the Philistines had more horses",
+          "That he lived in a house of cedar while the Ark of God dwelled in curtains (a tent)",
+          "That his walls were not high enough",
+          "That Samuel had not visited him"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Samuel 7:2",
+        "explanation": "David said: 'See now, I dwell in a house of cedar, but the ark of God dwells within curtains.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "Instead of allowing David to build Him a house of stone, what did God promise to build for David?",
+        "options": [
+          "A fleet of merchant ships",
+          "An enduring house / dynasty with an everlasting kingdom and throne",
+          "A golden fortress on Mount Hermon",
+          "A massive army of 1,000,000 soldiers"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Samuel 7:11, 16",
+        "explanation": "Yahweh told David that He would build David a house: 'Your house and your kingdom shall be made sure forever before you. Your throne shall be established forever.'"
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "What humble question did King David ask when he sat before Yahweh in 2 Samuel 7:18?",
+        "options": [
+          "'When will my enemies be destroyed?'",
+          "'Who am I, Lord Yahweh, and what is my house, that you have brought me this far?'",
+          "'How much will the temple cost?'",
+          "'Why was Saul chosen before me?'"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Samuel 7:18",
+        "explanation": "David sat before Yahweh and prayed: 'Who am I, Lord Yahweh, and what is my house, that you have brought me this far?'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "How does Luke 1:32-33 connect the angel's announcement to Mary with God's covenant with David?",
+        "options": [
+          "It states that Jesus would rebuild Solomon's temple",
+          "It declares that God will give Jesus the throne of his father David, and of his kingdom there will be no end",
+          "It commands Mary to move to Hebron",
+          "It names John the Baptist as David's successor"
+        ],
+        "correctIndex": 1,
+        "reference": "Luke 1:32-33; 2 Samuel 7:16",
+        "explanation": "The angel said Jesus would be given the throne of his father David, reigning forever in fulfillment of 2 Samuel 7."
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: In 1 Chronicles 17:13, God warned that if David's descendant sinned, God would completely revoke His loving kindness forever just as He did with Saul.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "1 Chronicles 17:13; 2 Samuel 7:15",
+        "explanation": "False. God expressly promised: 'I will not take my loving kindness away from him, as I took it from him who was before you.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Lord God of the eternal covenant, who am I, and what is my family, that You have brought me this far? Your goodness leaves me speechless. Thank You that when I try to offer my small plans to You, You respond with boundless, eternal grace. Thank You for the Everlasting King, Jesus Christ, the Son of David, whose throne will never end. Settle my heart in the security of Your unshakable kingdom. Teach me to pray Your promises back to You with bold, expectant faith.",
+      "versePrayerLine": "Lord, anchor my soul in Your eternal promise: 'Your house and your kingdom shall be made sure forever... Your throne shall be established forever' (2 Samuel 7:16).",
+      "prompt": "Sit in quiet wonder before God, meditating on the staggering truth that in Christ, you are an heir to an everlasting kingdom."
+    }
+  },
+  "126": {
+    "day": 126,
+    "character": "Mephibosheth",
+    "season": "Grace for Lame Feet at the King's Table",
+    "theme": "Covenant grace seeks out the crippled and undeserving, seating them as sons at the King's banquet table.",
+    "memoryVerse": {
+      "reference": "2 Samuel 9:7",
+      "text": "David said to him, 'Don’t be afraid; for I will surely show you loving kindness for Jonathan your father’s sake... and you shall eat bread at my table continually.'",
+      "whyItMatters": "God's covenant grace seeks us out in our brokenness and welcomes us to feast as royal sons and daughters.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "afraid",
+          "loving",
+          "kindness",
+          "Jonathan",
+          "table",
+          "continually"
+        ],
+        "firstLetters": "D s t h, 'D b a; f I w s s y l k f J y f s... a y s e b a m t c.'"
+      }
+    },
+    "profile": {
+      "title": "Mephibosheth: Lo-debar, Lame Feet, and Royal Chesed at the Banquet Table",
+      "who": "Mephibosheth (Merib-baal), grandson of King Saul and son of Jonathan, dropped by his nurse as a five-year-old child when news of Gilboa arrived, leaving him crippled in both feet; living in obscurity in Lo-debar ('Place of No Pasture'), sought out by King David for Jonathan's sake.",
+      "whenAndWhere": "Lo-debar in Gilead and the royal palace in Jerusalem, circa 990 BC.",
+      "family": "Grandson of Saul; son of Jonathan; father of young son Mica.",
+      "keyMoments": [
+        "When Mephibosheth was five years old, news of the deaths of Saul and Jonathan came from Jezreel; his nurse picked him up to flee in panic, and as she hurried, he fell and became permanently crippled in both feet.",
+        "Years later, established on the throne of Jerusalem, David asked: **'Is there yet any who is left of the house of Saul, that I may show him kindness [hesed] for Jonathan's sake?'**",
+        "A servant of Saul's house named Ziba told the king: 'There is yet a son of Jonathan, who is lame in his feet... behold, he is in the house of Machir the son of Ammiel, in Lo-debar.'",
+        "David sent royal chariots and brought Mephibosheth from the barren border-town of Lo-debar.",
+        "Mephibosheth arrived at the palace, fell on his face in terror, expecting execution according to ancient Near Eastern dynastic purges.",
+        "David spoke his name with gentleness: 'Mephibosheth!' He answered: 'Behold your servant!'",
+        "David said: **'Don't be afraid; for I will surely show you loving kindness for Jonathan your father's sake, and will restore you all the land of Saul your father; and you shall eat bread at my table continually.'**",
+        "Overwhelmed, Mephibosheth bowed himself and said: 'What is your servant, that you should look on such a dead dog as I am?'",
+        "David summoned Ziba, assigning Ziba, his fifteen sons, and twenty servants to farm Saul's restored estate for Mephibosheth's family.",
+        "Scripture concludes with a poignant, beautiful detail: **'So Mephibosheth lived in Jerusalem; for he ate continually at the king's table. He was lame in both his feet.'**"
+      ],
+      "strengths": [
+        "Humble, contrite spirit: recognized his total unworthiness before the king.",
+        "Loyal and grateful: lived in continuous devotion to David throughout his life."
+      ],
+      "failures": [
+        "Initially paralyzed by fear and self-loathing ('a dead dog')."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "2 Samuel 9",
+        "title": "David Shows Covenant Loving Kindness (Hesed) to Mephibosheth",
+        "verses": [
+          {
+            "number": 1,
+            "text": "David said, 'Is there yet any who is left of the house of Saul, that I may show him kindness for Jonathan's sake?'"
+          },
+          {
+            "number": 3,
+            "text": "The king said, 'Is there not yet any of the house of Saul, that I may show the kindness of God to him?' Ziba said to the king, 'Jonathan has yet a son, who is lame of his feet.'"
+          },
+          {
+            "number": 5,
+            "text": "Then king David sent, and brought him out of the house of Machir the son of Ammiel, from Lo-debar."
+          },
+          {
+            "number": 6,
+            "text": "Mephibosheth, the son of Jonathan, the son of Saul, came to David, and fell on his face, and showed respect. David said, 'Mephibosheth.' He answered, 'Behold, your servant!'"
+          },
+          {
+            "number": 7,
+            "text": "David said to him, 'Don't be afraid; for I will surely show you loving kindness for Jonathan your father's sake, and will restore to you all the land of Saul your father; and you shall eat bread at my table continually.'"
+          },
+          {
+            "number": 8,
+            "text": "He bowed down, and said, 'What is your servant, that you should look on such a dead dog as I am?'"
+          },
+          {
+            "number": 11,
+            "text": "'...As for Mephibosheth,' said the king, 'he shall eat at my table, as one of the king's sons.'"
+          },
+          {
+            "number": 13,
+            "text": "So Mephibosheth lived in Jerusalem; for he ate continually at the king's table. He was lame in both his feet."
+          }
+        ]
+      },
+      {
+        "reference": "Romans 5",
+        "title": "Christ Died for the Helpless and We Are Reconciled by Grace",
+        "verses": [
+          {
+            "number": 6,
+            "text": "For while we were yet weak, at the right time, Christ died for the ungodly."
+          },
+          {
+            "number": 7,
+            "text": "For one will hardly die for a righteous man. Yet perhaps for a righteous person someone would even dare to die."
+          },
+          {
+            "number": 8,
+            "text": "But God commends his own love toward us, in that while we were yet sinners, Christ died for us."
+          },
+          {
+            "number": 10,
+            "text": "For if, while we were enemies, we were reconciled to God through the death of his Son, much more, being reconciled, we will be saved by his life."
+          },
+          {
+            "number": 11,
+            "text": "Not only so, but we also rejoice in God through our Lord Jesus Christ, through whom we have now received the reconciliation."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "The King's Table Has Room for Lame Feet: The Gospel According to Mephibosheth",
+      "reflection": "2 Samuel 9 is one of the most radiant pictures of the Gospel in the Old Testament. Think about who Mephibosheth was: he was the grandson of Saul, David's mortal enemy. In the ancient Near East, whenever a new king took the throne, the first thing he did was systematically hunt down and execute every descendant of the previous dynasty to eliminate potential rivals. Mephibosheth knew this. He was hiding in **Lo-debar**—a name that literally means 'place of no pasture'—impoverished, forgotten, and crippled in both feet from a childhood fall.\n\nThen one day, royal chariots roar into Lo-debar. Mephibosheth is carried into the royal throne room in Jerusalem. He falls on his face, trembling in terror, expecting the executioner's sword. But David speaks his name: 'Mephibosheth! Don't be afraid. I will surely show you the loving kindness of God for Jonathan your father's sake.'\n\nNotice the basis of the grace: Mephibosheth was not invited because of his military strength, his wealth, or his good looks. He had nothing to offer. He was welcomed **for the sake of another**—because of the covenant David had made with Jonathan! And David did not just give him land; he said: 'You shall eat bread at my table continually as one of the king's sons.'\n\nAnd look at the final verse of the chapter: 'So Mephibosheth lived in Jerusalem; for he ate continually at the king's table. He was lame in both his feet.' Picture the scene at dinner: around the banquet table sit the princes—Amnon, Absalom, Solomon. And sitting right beside them is Mephibosheth. The tablecloth of the King's grace covers his crippled feet! We are all Mephibosheth: spiritually crippled by the fall, hiding in the dry wasteland of sin. Yet because of the covenant between the Father and the Son, the King of kings has called us by name, forgiven our debts, and seated us at His banquet table forever."
+    },
+    "lessons": [
+      {
+        "lesson": "Covenant grace seeks out the helpless, the broken, and the fearful.",
+        "verse": "2 Samuel 9:3-5; Romans 5:6-8",
+        "detail": "David initiated the search for Mephibosheth, demonstrating that grace always takes the initiative to rescue the helpless.",
+        "question": "Do you realize that God pursued you with His love long before you ever thought to seek Him?"
+      },
+      {
+        "lesson": "We are accepted and elevated by God entirely for the sake of Jesus Christ.",
+        "verse": "2 Samuel 9:7; Ephesians 1:6",
+        "detail": "Mephibosheth received royal restoration not because of personal merit, but for Jonathan's sake—just as we are accepted for Christ's sake.",
+        "question": "Are you resting in Christ's finished righteousness, or are you still trying to earn God's favor by your own performance?"
+      },
+      {
+        "lesson": "God's grace covers our weaknesses and invites us to intimate daily fellowship.",
+        "verse": "2 Samuel 9:11, 13",
+        "detail": "Though crippled in both feet, Mephibosheth dined daily at the royal table as a beloved son of the king.",
+        "question": "Do your perceived weaknesses and past wounds keep you from enjoying close fellowship with God?"
+      },
+      {
+        "lesson": "Extend unmerited grace and generosity to those who have nothing to offer in return.",
+        "verse": "2 Samuel 9:1; Luke 14:12-14",
+        "detail": "David sought out someone from his former enemy's household to shower with God's kindness.",
+        "question": "Is there someone in your community or family to whom you can extend unconditional, Christ-like kindness this week?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What caused Mephibosheth to become permanently crippled in both feet when he was five years old?",
+        "options": [
+          "He contracted a fever during the famine",
+          "His nurse dropped him in panic while fleeing after news of Saul and Jonathan's deaths on Gilboa",
+          "He was wounded in a chariot collision",
+          "He was injured during the siege of Jerusalem"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Samuel 4:4",
+        "explanation": "When news came from Jezreel, his nurse picked him up and fled; as she hurried, he fell and became lame in both feet."
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "Where was Mephibosheth living in obscurity before David summoned him to the palace?",
+        "options": [
+          "In the palace of Pharaoh in Egypt",
+          "In the house of Machir at Lo-debar in Gilead",
+          "In the caves of En-gedi",
+          "In the city of Gaza"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Samuel 9:4-5",
+        "explanation": "Mephibosheth was living in Lo-debar ('place of no pasture') in the house of Machir son of Ammiel."
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "What did Mephibosheth call himself in humble astonishment when David promised to show him kindness?",
+        "options": [
+          "A mighty warrior of Benjamin",
+          "Such a dead dog as I am",
+          "A prince of the royal house",
+          "An unworthy tax collector"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Samuel 9:8",
+        "explanation": "Mephibosheth bowed down and said: 'What is your servant, that you should look on such a dead dog as I am?'"
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What perpetual royal privilege did King David bestow upon Mephibosheth?",
+        "options": [
+          "He appointed him commander of the chariots",
+          "He ate bread continually at the king's table as one of the king's sons",
+          "He made him governor of Damascus",
+          "He built him a golden palace in Hebron"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Samuel 9:11, 13",
+        "explanation": "David decreed that Mephibosheth would eat at the royal table continually as one of the king's sons."
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: According to Romans 5:8, God waited until we made ourselves righteous and worthy before Christ died for us.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Romans 5:8",
+        "explanation": "False. Romans 5:8 declares: 'while we were yet sinners, Christ died for us.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "Father of mercies and King of grace, my soul bows in wonder before You. Like Mephibosheth, I was crippled by the fall, living in the dry wasteland of sin, having nothing to offer You. Yet You sought me out. For the sake of Jesus Christ, You called me by name, took away my terror, and brought me into Your royal palace. Thank You that the tablecloth of Your grace covers all my brokenness, and that I can sit as a son at Your banquet table forever.",
+      "versePrayerLine": "Lord, let David's tender words comfort my soul today: 'Don't be afraid; for I will surely show you loving kindness... and you shall eat bread at my table continually' (2 Samuel 9:7).",
+      "prompt": "Rest in the unconditional love of God, thanking Jesus that your seat at the Father's table is secured forever by grace."
+    }
+  },
+  "127": {
+    "day": 127,
+    "character": "David",
+    "season": "The Rooftop, Bathsheba, and Uriah's Blood",
+    "theme": "Spiritual complacency and unchecked lust bring catastrophic fall, yet broken repentance finds restoring mercy.",
+    "memoryVerse": {
+      "reference": "Psalm 51:10",
+      "text": "Create in me a clean heart, O God. Renew a right spirit within me.",
+      "whyItMatters": "Even after devastating moral failure, sincere broken repentance before God opens the door to spiritual cleansing.",
+      "cramData": {
+        "readTarget": 3,
+        "blankWords": [
+          "Create",
+          "clean",
+          "heart",
+          "God",
+          "Renew",
+          "spirit"
+        ],
+        "firstLetters": "C i m a c h, O G. R a r s w m."
+      }
+    },
+    "profile": {
+      "title": "David: The Springtime Rooftop, the Letter to Joab, and the Cry of the Broken Bones",
+      "who": "King David at the pinnacle of military power and prosperity, lingering idle in Jerusalem while his army besieged Rabbah of Ammon, succumbing to visual lust for Bathsheba, orchestrating the battlefield murder of her righteous husband Uriah the Hittite, and later crushed in deep repentance under Nathan's prophetic confrontation.",
+      "whenAndWhere": "The royal palace rooftop in Jerusalem and the siege of Rabbah, circa 985 BC.",
+      "family": "Husband of Bathsheba; father of their infant son who died, and later of Solomon.",
+      "keyMoments": [
+        "In the spring of the year, at the time when kings go out to battle, David sent Joab and the army to besiege Rabbah, **but David stayed at Jerusalem**.",
+        "In the cool of the late afternoon, David arose from his couch and walked on the roof of the king's house; from the roof he saw a woman bathing, and the woman was very beautiful to look on.",
+        "David inquired about the woman; someone reported: 'Isn't this Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?' (Uriah was one of David's loyal thirty Mighty Men).",
+        "David sent messengers and took her; she came to him, and he lay with her; she returned to her house, conceived, and sent word to David: 'I am with child.'",
+        "To cover his sin, David summoned Uriah from the front line, urging him to go home and wash his feet; but Uriah slept at the palace door, declaring: 'The ark, Israel, Judah, and my lord Joab abide in tents... shall I go to my house to eat, drink, and lie with my wife? As your soul lives, I will not do this thing!'",
+        "Even when David got Uriah drunk, Uriah's integrity refused to compromise.",
+        "Desperate, David wrote a letter to Joab and sent it by Uriah's own hand: 'Set Uriah in the forefront of the hottest battle, and retire from him, that he may be struck, and die.'",
+        "Joab obeyed; Uriah the Hittite was killed by Ammonite archers; when Bathsheba's mourning ended, David brought her into his palace and she became his wife.",
+        "The sacred narrative records the terrifying divine verdict: **'But the thing that David had done displeased Yahweh.'**",
+        "God sent Nathan the prophet with the parable of the poor man's ewe lamb; when David's anger burned against the rich thief, Nathan pointed his finger: **'You are the man!'**",
+        "David fell broken before God: 'I have sinned against Yahweh.' Nathan declared: 'Yahweh also has put away your sin; you will not die. However... the sword will never depart from your house.'",
+        "Out of the shattered rubble of his heart, David penned **Psalm 51**: 'Have mercy on me, O God... wash me thoroughly from my iniquity... Create in me a clean heart, O God, and renew a right spirit within me.'"
+      ],
+      "strengths": [
+        "Unreserved, genuine repentance: made no excuses, shifted no blame, and confessed his sin completely.",
+        "Penitent psalmist whose brokenness produced the church's greatest prayer of restoration (Psalm 51)."
+      ],
+      "failures": [
+        "Spiritual complacency and laziness: stayed home when kings go to battle.",
+        "Sensual lust, adultery, abuse of royal power, and premeditated murder.",
+        "Brought lifelong generational consequences (the sword) upon his family."
+      ]
+    },
+    "scripture": [
+      {
+        "reference": "2 Samuel 11",
+        "title": "David's Adultery with Bathsheba and the Murder of Uriah",
+        "verses": [
+          {
+            "number": 1,
+            "text": "It happened, at the return of the year, at the time when kings go out to battle, that David sent Joab, and his servants with him, and all Israel... But David stayed at Jerusalem."
+          },
+          {
+            "number": 2,
+            "text": "It happened at evening, that David arose from his bed, and walked on the roof of the king's house: and from the roof he saw a woman bathing; and the woman was very beautiful to look on."
+          },
+          {
+            "number": 3,
+            "text": "David sent and inquired after the woman. One said, 'Isn't this Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?'"
+          },
+          {
+            "number": 4,
+            "text": "David sent messengers, and took her; and she came in to him, and he lay with her... and she returned to her house."
+          },
+          {
+            "number": 5,
+            "text": "The woman conceived; and she sent and told David, and said, 'I am with child.'"
+          },
+          {
+            "number": 11,
+            "text": "Uriah said to David, 'The ark, and Israel, and Judah, abide in booths; and my lord Joab, and the servants of my lord, are encamped in the open field; shall I then go into my house, to eat and to drink, and to lie with my wife? As you live, and as your soul lives, I will not do this thing.'"
+          },
+          {
+            "number": 14,
+            "text": "It happened in the morning, that David wrote a letter to Joab, and sent it by the hand of Uriah."
+          },
+          {
+            "number": 15,
+            "text": "He wrote in the letter, saying, 'Set Uriah in the forefront of the hottest battle, and retire from him, that he may be struck, and die.'"
+          },
+          {
+            "number": 17,
+            "text": "The men of the city went out, and fought with Joab: and there fell some of the people, even of the servants of David; and Uriah the Hittite died also."
+          },
+          {
+            "number": 27,
+            "text": "When the mourning was past, David sent and took her home to his house, and she became his wife, and bore him a son. But the thing that David had done displeased Yahweh."
+          }
+        ]
+      },
+      {
+        "reference": "Psalm 51",
+        "title": "A Psalm of David After Nathan the Prophet Came to Him",
+        "verses": [
+          {
+            "number": 1,
+            "text": "Have mercy on me, God, according to your loving kindness. According to the multitude of your tender mercies, blot out my transgressions."
+          },
+          {
+            "number": 2,
+            "text": "Wash me thoroughly from my iniquity. Cleanse me from my sin."
+          },
+          {
+            "number": 3,
+            "text": "For I know my transgressions. My sin is constantly before me."
+          },
+          {
+            "number": 4,
+            "text": "Against you, and you only, have I sinned, and done that which is evil in your sight; that you may be proved right when you speak, and blameless when you judge."
+          },
+          {
+            "number": 7,
+            "text": "Purify me with hyssop, and I will be clean. Wash me, and I will be whiter than snow."
+          },
+          {
+            "number": 10,
+            "text": "Create in me a clean heart, O God. Renew a right spirit within me."
+          },
+          {
+            "number": 11,
+            "text": "Don't throw me from your presence, and don't take your Holy Spirit from me."
+          },
+          {
+            "number": 12,
+            "text": "Restore to me the joy of your salvation. Uphold me with a willing spirit."
+          },
+          {
+            "number": 17,
+            "text": "The sacrifices of God are a broken spirit. A broken and contrite heart, O God, you will not despise."
+          }
+        ]
+      }
+    ],
+    "whatGodIsSaying": {
+      "headline": "No One Is Beyond the Reach of Temptation—Nor Beyond the Cleansing of Grace",
+      "reflection": "2 Samuel 11 is the most heartbreaking chapter in the life of David. Up to this point, David's story has been an inspiring ascent of faith, loyalty, worship, and victory. He had slain Goliath, spared Saul twice, danced before the Ark, and received the eternal covenant. But notice the subtle opening line of chapter 11: 'In the spring, at the time when kings go out to battle... David stayed at Jerusalem.'\n\nDavid was not where he was supposed to be. Idleness and complacency opened the door to temptation. When he walked on the palace roof, he saw Bathsheba bathing. First he looked; then he inquired; then he took; then he covered up; and finally, he murdered Uriah—one of his own thirty Mighty Men—by sending Uriah back to the battlefield carrying his own death warrant in his hand! The depth of David's moral descent is breathtaking.\n\nYet the story does not end in chapter 11. When Nathan confronted him with the parable of the ewe lamb, David did not make excuses like Saul. He did not shift blame to Bathsheba or Joab. David fell on his face and said: 'I have sinned against Yahweh.' And in Psalm 51, David poured out the most agonizing, sincere confession in the history of the world: 'Create in me a clean heart, O God! Restore to me the joy of Your salvation! A broken and contrite heart You will not despise.' God forgave David. God cleansed David. But the earthly consequences—the sword within his family—remained for generations. Guard your eyes, flee complacency, and know that whenever you fall, a broken and contrite heart will always find the restoring mercy of God."
+    },
+    "lessons": [
+      {
+        "lesson": "Spiritual complacency and lingering in idleness create the exact runway for catastrophic temptation.",
+        "verse": "2 Samuel 11:1",
+        "detail": "David fell into adultery because he remained behind in Jerusalem at the very season when kings were supposed to be leading on the battlefield.",
+        "question": "Are you lingering in places or habits of spiritual laziness that leave you vulnerable to compromise?"
+      },
+      {
+        "lesson": "Unchecked lust follows a rapid, destructive sequence: looking, inquiring, taking, and covering up.",
+        "verse": "2 Samuel 11:2-4, 14-15",
+        "detail": "David's wandering eyes escalated from a rooftop glance to an affair, and finally to premeditated murder on the battlefront.",
+        "question": "What visual inputs or wandering thoughts do you need to cut off before they grow into full-blown sin?"
+      },
+      {
+        "lesson": "True repentance takes full personal responsibility without blaming others or minimizing the offense.",
+        "verse": "Psalm 51:3-4",
+        "detail": "David confessed, 'I know my transgressions... against You and You only have I sinned,' making zero excuses for his horrific actions.",
+        "question": "When you sin, do you confess your guilt plainly to God, or do you rationalize and blame circumstances?"
+      },
+      {
+        "lesson": "God never rejects a truly broken and contrite heart that cries out for cleansing.",
+        "verse": "Psalm 51:10, 17",
+        "detail": "Though the earthly consequences were severe, God completely washed David's soul whiter than snow when he repented.",
+        "question": "Do you believe that God's grace through the blood of Jesus is powerful enough to cleanse even your darkest failures?"
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "type": "multiple_choice",
+        "question": "What significant mistake did David make at the opening of 2 Samuel 11 that left him vulnerable to temptation?",
+        "options": [
+          "He signed an alliance with Ammon",
+          "He stayed behind in Jerusalem during the springtime when kings go out to battle",
+          "He refused to offer sacrifices at the tabernacle",
+          "He disbanded his bodyguard"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Samuel 11:1",
+        "explanation": "2 Samuel 11:1 notes: 'at the time when kings go out to battle... David stayed at Jerusalem.'"
+      },
+      {
+        "id": 2,
+        "type": "multiple_choice",
+        "question": "Whose wife was Bathsheba, the woman David saw bathing from the palace rooftop?",
+        "options": [
+          "Joab the commander",
+          "Uriah the Hittite, one of David's loyal Mighty Men",
+          "Abner son of Ner",
+          "Benaiah son of Jehoiada"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Samuel 11:3",
+        "explanation": "Someone reported: 'Isn't this Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?'"
+      },
+      {
+        "id": 3,
+        "type": "multiple_choice",
+        "question": "Why did Uriah refuse to sleep in his house when David summoned him home from the battlefield?",
+        "options": [
+          "He was angry with Bathsheba",
+          "Because the Ark, Israel, Judah, and Joab were living in tents in the open field, so his honor refused to enjoy domestic comfort",
+          "He was under a strict Nazirite vow",
+          "He was carrying secret military dispatches"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Samuel 11:11",
+        "explanation": "Uriah's deep integrity refused comfort while the Ark and his fellow soldiers were encamped in the open field."
+      },
+      {
+        "id": 4,
+        "type": "multiple_choice",
+        "question": "What dramatic two-word phrase did Nathan the prophet utter to David after telling the parable of the stolen ewe lamb?",
+        "options": [
+          "'God reigns!'",
+          "'You are the man!'",
+          "'Flee Jerusalem!'",
+          "'Repent now!'"
+        ],
+        "correctIndex": 1,
+        "reference": "2 Samuel 12:7",
+        "explanation": "Nathan pointed directly at the king and declared: 'You are the man!'"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "question": "True or False: According to Psalm 51:17, God takes immense delight in expensive animal sacrifices, but despises a broken and contrite heart.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctIndex": 1,
+        "reference": "Psalm 51:16-17",
+        "explanation": "False. David declared: 'The sacrifices of God are a broken spirit. A broken and contrite heart, O God, you will not despise.'"
+      }
+    ],
+    "closingPrayer": {
+      "guidedPrayer": "O God of mercy and forgiveness, I come before You with a broken and contrite heart. You see every secret thought, every wandering glance, and every hidden compromise of my soul. Deliver me from the arrogance of thinking I am beyond temptation. Forgive me for the times I have lingered in spiritual laziness or justified my sins. Wash me thoroughly with the precious blood of Jesus. Cleanse me from all unrighteousness, and create in me a clean heart, O God.",
+      "versePrayerLine": "Lord, make David's desperate prayer my daily plea: 'Create in me a clean heart, O God. Renew a right spirit within me' (Psalm 51:10).",
+      "prompt": "Confess any hidden sin, wandering desire, or area of compromise to God, receiving His cleansing forgiveness and restoring peace."
     }
   }
 };

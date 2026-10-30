@@ -110,3 +110,4 @@ http://localhost:8080
 ## 📖 License
 
 This project is open-source. Scripture quotations are taken from the World English Bible (WEB), which is in the Public Domain.
+
